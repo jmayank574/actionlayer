@@ -1,0 +1,80 @@
+[
+  {
+    "id": "payment-processing-failures",
+    "title": "Payment Processing Failures & Duplicate Charges",
+    "severity": "high",
+    "frequency": 7,
+    "summary": "Customers are experiencing payment failures at checkout with no clear error message, and several report being charged multiple times for the same order. This is causing direct revenue loss and significant trust damage.",
+    "verbatims": [
+      "I tried to pay three times and got an error each time, then saw three charges on my card",
+      "My payment failed but the money still left my account — support hasn't responded in 2 days",
+      "The checkout just spins forever and then says 'something went wrong' — no idea if I was charged"
+    ],
+    "source": "zendesk"
+  },
+  {
+    "id": "mobile-app-crashes",
+    "title": "Mobile App Crashes & Freezes Post-Update",
+    "severity": "high",
+    "frequency": 5,
+    "summary": "Following the latest app update, users on iOS and Android are reporting frequent crashes on launch and freezes during core workflows. The issue disproportionately affects users on older device models.",
+    "verbatims": [
+      "App crashes every time I open it since the update — I had to uninstall",
+      "It freezes on the dashboard and I have to force-close every 10 minutes",
+      "Works fine on my new phone but completely broken on my iPhone 11"
+    ],
+    "source": "zendesk"
+  },
+  {
+    "id": "login-auth-issues",
+    "title": "Login & Authentication Failures",
+    "severity": "high",
+    "frequency": 4,
+    "summary": "Users are being logged out unexpectedly and cannot log back in, with password reset emails either not arriving or expiring too quickly. SSO users in particular report being locked out of their accounts.",
+    "verbatims": [
+      "Got logged out in the middle of a meeting and couldn't get back in for 30 minutes",
+      "Reset password email never arrived — tried 5 times",
+      "Our whole team uses SSO and suddenly none of us can log in"
+    ],
+    "source": "zendesk"
+  },
+  {
+    "id": "search-not-working",
+    "title": "Search Returns Wrong or Missing Results",
+    "severity": "medium",
+    "frequency": 4,
+    "summary": "The search feature is returning irrelevant results or missing records that users know exist, making the product unusable for anyone who relies on search to navigate. Filters appear to be ignored entirely.",
+    "verbatims": [
+      "I searched for a customer by name and got completely unrelated results",
+      "The date filter doesn't do anything — still shows old records I've excluded",
+      "Search used to be instant, now it takes 10+ seconds and still finds the wrong thing"
+    ],
+    "source": "zendesk"
+  },
+  {
+    "id": "slow-performance",
+    "title": "Slow Load Times & Timeout Errors",
+    "severity": "medium",
+    "frequency": 3,
+    "summary": "Pages are taking 10-20 seconds to load or timing out entirely, particularly on data-heavy views like the dashboard and reports. The problem is worse during business hours suggesting a scaling issue.",
+    "verbatims": [
+      "The dashboard takes forever to load — I've started just avoiding it",
+      "Got a timeout error trying to pull a report, had to refresh 4 times",
+      "Everything was fast a month ago, now it feels like dial-up"
+    ],
+    "source": "zendesk"
+  },
+  {
+    "id": "notification-emails",
+    "title": "Missing & Delayed Notification Emails",
+    "severity": "low",
+    "frequency": 2,
+    "summary": "Users are not receiving email notifications for important events like new assignments, mentions, and status changes, causing missed follow-ups and communication breakdowns in team workflows.",
+    "verbatims": [
+      "I only found out I had a task because a colleague messaged me — never got an email",
+      "My notification settings are all turned on but I haven't gotten an email in a week",
+      "The delay is sometimes hours — by the time I see the notification it's too late"
+    ],
+    "source": "zendesk"
+  }
+]

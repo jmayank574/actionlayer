@@ -1,0 +1,35 @@
+[
+  {
+    "jira_id": "10000",
+    "jira_key": "SCRUM-1",
+    "jira_url": "https://actionlayer.atlassian.net/browse/SCRUM-1",
+    "cluster_id": "payment-processing-failures",
+    "cluster_title": "Payment Processing Failures",
+    "title": "Fix critical payment processing failures & duplicate charges",
+    "priority": "P1",
+    "status": "In Progress",
+    "created_at": "2026-05-26T23:37:14.086728+00:00"
+  },
+  {
+    "jira_id": "10033",
+    "jira_key": "SCRUM-2",
+    "jira_url": "https://actionlayer.atlassian.net/browse/SCRUM-2",
+    "cluster_id": "mobile-app-crashes",
+    "cluster_title": "Mobile App Crashes & Freezes",
+    "title": "Fix post-update crashes and freezes on mobile app",
+    "priority": "P1",
+    "status": "Done",
+    "created_at": "2026-05-27T00:25:29.784452+00:00"
+  },
+  {
+    "jira_id": "10066",
+    "jira_key": "SCRUM-3",
+    "jira_url": "https://actionlayer.atlassian.net/browse/SCRUM-3",
+    "cluster_id": "onboarding-confusion",
+    "cluster_title": "Confusing Onboarding & Setup Experience",
+    "title": "Fix broken onboarding flow and update setup docs",
+    "priority": "P1",
+    "status": "In Progress",
+    "created_at": "2026-05-27T18:03:18.892998+00:00"
+  }
+]
