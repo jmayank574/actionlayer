@@ -101,6 +101,15 @@ function InsightCard({
       <p className="text-xs text-[#6B7280] font-medium">{cluster.frequency} tickets · {cluster.source}</p>
       <p className="text-sm text-[#1A1A1A]/75 leading-relaxed">{cluster.summary}</p>
 
+      {cluster.ticket && (
+        <a
+          href="/tracker"
+          className="inline-flex items-center gap-1.5 text-[11px] font-semibold bg-amber-50 text-amber-600 border border-amber-200 px-3 py-1 rounded-full w-fit hover:bg-amber-100 transition-colors"
+        >
+          🔧 In progress — {cluster.ticket.jira_key}
+        </a>
+      )}
+
       <button
         onClick={() => setExpanded(!expanded)}
         className="text-xs text-[#E8503A] font-semibold hover:underline"
@@ -118,21 +127,13 @@ function InsightCard({
         </ul>
       )}
 
-      {cluster.ticket && (
-        <a
-          href="/tracker"
-          className="inline-flex items-center gap-1.5 text-[11px] font-semibold bg-amber-50 text-amber-600 border border-amber-200 px-3 py-1 rounded-full w-fit hover:bg-amber-100 transition-colors"
-        >
-          🔧 In progress — {cluster.ticket.jira_key}
-        </a>
-      )}
-
       <div className="flex gap-2 pt-1">
         {cluster.ticket ? (
           <button
             disabled
-            className="text-sm bg-[#E8E4DE] text-[#6B7280] px-4 py-2 rounded-full font-semibold cursor-not-allowed"
+            className="text-sm flex items-center gap-1.5 bg-[#FAF8F5] text-[#6B7280] border border-[#E8E4DE] px-4 py-2 rounded-full font-semibold cursor-not-allowed"
           >
+            <svg className="h-3.5 w-3.5 text-emerald-500" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5"><path d="M5 13l4 4L19 7" strokeLinecap="round" strokeLinejoin="round"/></svg>
             Ticket pushed
           </button>
         ) : (
