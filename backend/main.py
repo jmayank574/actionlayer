@@ -36,12 +36,38 @@ def health():
 
 
 CLUSTERS_CACHE = Path("data/clusters_cache.json")
+RESOLVED = {"done", "closed", "resolved"}
 
 @app.get("/api/insights")
 def get_insights():
-    if CLUSTERS_CACHE.exists():
-        return json.loads(CLUSTERS_CACHE.read_text())
-    raise HTTPException(status_code=503, detail="No cached insights available. Use Import from Unwrap to load feedback.")
+    if not CLUSTERS_CACHE.exists():
+        raise HTTPException(status_code=503, detail="No cached insights available. Use Import from Unwrap to load feedback.")
+
+    clusters = json.loads(CLUSTERS_CACHE.read_text())
+
+    # Build cluster_id → most recent ticket map
+    ticket_map: dict[str, dict] = {}
+    for t in storage.get_all_tickets():
+        cid = t.get("cluster_id")
+        if not cid:
+            continue
+        if cid not in ticket_map or t.get("created_at", "") > ticket_map[cid].get("created_at", ""):
+            ticket_map[cid] = t
+
+    result = []
+    for cluster in clusters:
+        cid = cluster.get("id")
+        ticket = ticket_map.get(cid)
+        if ticket and ticket.get("status", "").lower() in RESOLVED:
+            continue  # hide resolved clusters from action queue
+        cluster["ticket"] = {
+            "jira_key": ticket["jira_key"],
+            "jira_url": ticket["jira_url"],
+            "status": ticket["status"],
+        } if ticket else None
+        result.append(cluster)
+
+    return result
 
 
 @app.post("/api/generate-ticket")

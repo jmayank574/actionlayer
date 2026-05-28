@@ -1,14 +1,22 @@
+from typing import Optional
 from pydantic import BaseModel
+
+
+class TicketRef(BaseModel):
+    jira_key: str
+    jira_url: str
+    status: str
 
 
 class InsightCluster(BaseModel):
     id: str
     title: str
-    severity: str  # 'high' | 'medium' | 'low'
+    severity: str
     frequency: int
     summary: str
     verbatims: list[str]
-    source: str = "zendesk"  # 'zendesk' | 'csv'
+    source: str = "zendesk"
+    ticket: Optional[TicketRef] = None
 
 
 class GeneratedTicket(BaseModel):

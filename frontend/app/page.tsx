@@ -5,6 +5,12 @@ import Link from "next/link";
 
 const API = process.env.NEXT_PUBLIC_API_URL;
 
+type TicketRef = {
+  jira_key: string;
+  jira_url: string;
+  status: string;
+};
+
 type InsightCluster = {
   id: string;
   title: string;
@@ -13,6 +19,7 @@ type InsightCluster = {
   summary: string;
   verbatims: string[];
   source: string;
+  ticket: TicketRef | null;
 };
 
 type GeneratedTicket = {
@@ -111,13 +118,31 @@ function InsightCard({
         </ul>
       )}
 
-      <div className="flex gap-2 pt-1">
-        <button
-          onClick={() => onGenerateTicket(cluster)}
-          className="text-sm bg-[#E8503A] hover:bg-[#d44432] text-white px-4 py-2 rounded-full font-semibold transition-colors"
+      {cluster.ticket && (
+        <a
+          href="/tracker"
+          className="inline-flex items-center gap-1.5 text-[11px] font-semibold bg-amber-50 text-amber-600 border border-amber-200 px-3 py-1 rounded-full w-fit hover:bg-amber-100 transition-colors"
         >
-          Generate ticket
-        </button>
+          🔧 In progress — {cluster.ticket.jira_key}
+        </a>
+      )}
+
+      <div className="flex gap-2 pt-1">
+        {cluster.ticket ? (
+          <button
+            disabled
+            className="text-sm bg-[#E8E4DE] text-[#6B7280] px-4 py-2 rounded-full font-semibold cursor-not-allowed"
+          >
+            Ticket pushed
+          </button>
+        ) : (
+          <button
+            onClick={() => onGenerateTicket(cluster)}
+            className="text-sm bg-[#E8503A] hover:bg-[#d44432] text-white px-4 py-2 rounded-full font-semibold transition-colors"
+          >
+            Generate ticket
+          </button>
+        )}
         <button
           onClick={() => onGeneratePRD(cluster)}
           className="text-sm bg-white text-[#1A1A1A] border border-[#E8E4DE] hover:border-[#1A1A1A] px-4 py-2 rounded-full font-semibold transition-colors"
