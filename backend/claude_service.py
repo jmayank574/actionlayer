@@ -26,6 +26,48 @@ def _strip_fences(text: str) -> str:
     return text.strip()
 
 
+def generate_clusters_from_public(company_name: str, product_name: str) -> list[InsightCluster]:
+    """Single-call approach: Claude acts as a product analyst who has synthesized public reviews."""
+    client = _get_client()
+
+    message = client.messages.create(
+        model="claude-sonnet-4-6",
+        max_tokens=3000,
+        system=(
+            "You are a senior product analyst who has deeply researched customer feedback "
+            "across G2, Reddit, App Store, Twitter, and Capterra. You surface the most important, "
+            "actionable insight clusters that engineering teams should address. "
+            "Return a JSON array only — no markdown, no explanation. Each object must have:\n"
+            "- id: short unique slug (e.g. 'audio-drops')\n"
+            "- title: concise cluster name, 3-7 words\n"
+            "- severity: 'high', 'medium', or 'low' based on user impact and frequency\n"
+            "- frequency: estimated number of affected users reporting this (integer)\n"
+            "- summary: exactly 2 sentences — what breaks and why it matters to users\n"
+            "- verbatims: array of exactly 3 realistic user quotes — specific, first-person, "
+            "mentioning actual features or workflows, sounding like real reviews\n\n"
+            "Focus on themes that are: actionable by engineering, grounded in the product's actual "
+            "feature set, and varied (mix of bugs, missing features, UX friction, performance)."
+        ),
+        messages=[{
+            "role": "user",
+            "content": (
+                f"Based on your comprehensive knowledge of public user feedback for "
+                f"{product_name} by {company_name}, identify the 5 most important recurring "
+                f"pain points users report across review platforms. Surface what real customers "
+                f"actually say — be specific to {product_name}'s actual features and workflows."
+            ),
+        }],
+    )
+
+    raw = _strip_fences(message.content[0].text)
+    try:
+        clusters_data = json.loads(raw)
+        return [InsightCluster(**c) for c in clusters_data]
+    except (json.JSONDecodeError, Exception) as e:
+        print(f"[generate_clusters_from_public] Raw response: {raw}")
+        raise HTTPException(status_code=500, detail=f"Failed to parse Claude response: {str(e)}")
+
+
 def cluster_feedback(tickets: list[dict]) -> list[InsightCluster]:
     client = _get_client()
     tickets_text = json.dumps(tickets, indent=2)

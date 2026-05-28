@@ -7,8 +7,17 @@
     "cluster_title": "Payment Processing Failures",
     "title": "Fix critical payment processing failures & duplicate charges",
     "priority": "P1",
-    "status": "In Progress",
-    "created_at": "2026-05-26T23:37:14.086728+00:00"
+    "status": "Done",
+    "created_at": "2026-05-26T23:37:14.086728+00:00",
+    "status_history": [
+      {
+        "status": "Done",
+        "timestamp": "2026-05-28T19:08:04.359638+00:00"
+      }
+    ],
+    "resolved_at": "2026-05-28T19:08:04.359638+00:00",
+    "shipped_at": "2026-05-28T19:08:04.359638+00:00",
+    "days_to_resolve": 1.8
   },
   {
     "jira_id": "10033",
@@ -40,7 +49,66 @@
     "cluster_title": "Search Returns Wrong or Missing Results",
     "title": "Fix search relevance, filters, and query performance",
     "priority": "P1",
+    "status": "Done",
+    "created_at": "2026-05-27T18:30:00.000000+00:00",
+    "status_history": [
+      {
+        "status": "Done",
+        "timestamp": "2026-05-28T03:33:02.187484+00:00"
+      }
+    ],
+    "resolved_at": "2026-05-28T03:33:02.187484+00:00",
+    "shipped_at": "2026-05-28T03:33:02.187484+00:00",
+    "days_to_resolve": 0.4
+  },
+  {
+    "jira_id": "10132",
+    "jira_key": "SCRUM-5",
+    "jira_url": "https://actionlayer.atlassian.net/browse/SCRUM-5",
+    "cluster_id": "login-auth-issues",
+    "cluster_title": "Login & Authentication Failures",
+    "title": "Fix login failures, SSO lockouts, and password reset",
+    "priority": "P1",
+    "status": "To Do",
+    "created_at": "2026-05-28T03:35:56.539081+00:00",
+    "pushed_at": "2026-05-28T03:35:56.539417+00:00",
+    "resolved_at": null,
+    "shipped_at": null,
+    "days_to_resolve": null,
+    "status_history": [
+      {
+        "status": "open",
+        "timestamp": "2026-05-28T03:35:56.539417+00:00"
+      },
+      {
+        "status": "To Do",
+        "timestamp": "2026-05-28T03:36:22.590777+00:00"
+      }
+    ]
+  },
+  {
+    "jira_id": "10165",
+    "jira_key": "SCRUM-6",
+    "jira_url": "https://actionlayer.atlassian.net/browse/SCRUM-6",
+    "cluster_id": "csv-source-sync-lag",
+    "cluster_title": "CSV and API Source Ingestion Delays Lose Recency",
+    "title": "Reduce CSV/API ingestion lag to under 5 minutes",
+    "priority": "P2",
     "status": "In Progress",
-    "created_at": "2026-05-27T18:30:00.000000+00:00"
+    "created_at": "2026-05-28T18:44:40.384143+00:00",
+    "pushed_at": "2026-05-28T18:44:40.384434+00:00",
+    "resolved_at": null,
+    "shipped_at": null,
+    "days_to_resolve": null,
+    "status_history": [
+      {
+        "status": "open",
+        "timestamp": "2026-05-28T18:44:40.384434+00:00"
+      },
+      {
+        "status": "In Progress",
+        "timestamp": "2026-05-28T18:45:05.793255+00:00"
+      }
+    ]
   }
 ]

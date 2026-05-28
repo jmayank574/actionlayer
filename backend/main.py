@@ -1,16 +1,15 @@
+import asyncio
 import os
-import json
+import time
 from datetime import datetime, timezone
-from pathlib import Path
 
 import requests
-from fastapi import FastAPI, HTTPException
+from fastapi import FastAPI, HTTPException, Query
 from fastapi.middleware.cors import CORSMiddleware
 from dotenv import load_dotenv
 import base64
 
 import storage
-import zendesk
 import claude_service
 import jira_service
 from models import GenerateRequest, PushToJiraRequest
@@ -35,17 +34,32 @@ def health():
     return {"status": "ok"}
 
 
-CLUSTERS_CACHE = Path("data/clusters_cache.json")
 RESOLVED = {"done", "closed", "resolved"}
+_insights_cache: dict[str, tuple[float, list]] = {}
+CACHE_TTL = 600  # 10 minutes
 
-@app.get("/api/insights")
-def get_insights():
-    if not CLUSTERS_CACHE.exists():
-        raise HTTPException(status_code=503, detail="No cached insights available. Use Import from Unwrap to load feedback.")
+QUICK_PICKS = [
+    ("Unwrap", "Customer Intelligence"),
+    ("Slack", "Huddle"),
+    ("GitHub", "Copilot"),
+    ("Notion", "AI"),
+    ("Jira", "Cloud"),
+]
 
-    clusters = json.loads(CLUSTERS_CACHE.read_text())
 
-    # Build cluster_id → most recent ticket map
+def _compute_insights(company: str, product: str) -> list:
+    cache_key = f"{company.strip().lower()}:{product.strip().lower()}"
+    now = time.time()
+
+    if cache_key in _insights_cache:
+        cached_at, cached_data = _insights_cache[cache_key]
+        if now - cached_at < CACHE_TTL:
+            return cached_data
+
+    clusters = claude_service.generate_clusters_from_public(company, product)
+    for c in clusters:
+        c.source = "public"
+
     ticket_map: dict[str, dict] = {}
     for t in storage.get_all_tickets():
         cid = t.get("cluster_id")
@@ -56,18 +70,46 @@ def get_insights():
 
     result = []
     for cluster in clusters:
-        cid = cluster.get("id")
+        cid = cluster.id
         ticket = ticket_map.get(cid)
         if ticket and ticket.get("status", "").lower() in RESOLVED:
-            continue  # hide resolved clusters from action queue
-        cluster["ticket"] = {
+            continue
+        cluster_dict = cluster.model_dump()
+        cluster_dict["ticket"] = {
             "jira_key": ticket["jira_key"],
             "jira_url": ticket["jira_url"],
             "status": ticket["status"],
         } if ticket else None
-        result.append(cluster)
+        result.append(cluster_dict)
 
+    _insights_cache[cache_key] = (now, result)
     return result
+
+
+@app.on_event("startup")
+async def prewarm_cache():
+    async def load_one(company: str, product: str):
+        try:
+            print(f"[prewarm] Starting {company} / {product}")
+            await asyncio.to_thread(_compute_insights, company, product)
+            print(f"[prewarm] Done {company} / {product}")
+        except Exception as e:
+            print(f"[prewarm] Failed {company} / {product}: {e}")
+
+    for company, product in QUICK_PICKS:
+        asyncio.create_task(load_one(company, product))
+
+
+@app.get("/api/insights")
+def get_insights(
+    company: str = Query(default="Slack"),
+    product: str = Query(default="Huddle"),
+    refresh: bool = Query(default=False),
+):
+    cache_key = f"{company.strip().lower()}:{product.strip().lower()}"
+    if refresh and cache_key in _insights_cache:
+        del _insights_cache[cache_key]
+    return _compute_insights(company, product)
 
 
 @app.post("/api/generate-ticket")
@@ -164,43 +206,3 @@ def api_tracker():
     return tickets
 
 
-@app.post("/api/ingest-csv")
-def ingest_csv(body: dict):
-    text = body.get("text", "")
-    lines = [line.strip() for line in text.split("\n") if line.strip()]
-    if not lines:
-        raise HTTPException(status_code=400, detail="No feedback lines provided")
-
-    tickets = []
-
-    # Reconstruct Zendesk tickets from cached clusters so both sources cluster together
-    if CLUSTERS_CACHE.exists():
-        cached_clusters = json.loads(CLUSTERS_CACHE.read_text())
-        for cluster in cached_clusters:
-            for verbatim in cluster.get("verbatims", []):
-                tickets.append({
-                    "id": f"zendesk-{len(tickets)}",
-                    "subject": verbatim,
-                    "description": verbatim,
-                    "status": "open",
-                    "created_at": datetime.now(timezone.utc).isoformat(),
-                    "priority": "normal",
-                    "source": "zendesk",
-                })
-
-    # Add Unwrap feedback lines
-    for i, line in enumerate(lines):
-        tickets.append({
-            "id": f"unwrap-{i}",
-            "subject": line,
-            "description": line,
-            "status": "open",
-            "created_at": datetime.now(timezone.utc).isoformat(),
-            "priority": "normal",
-            "source": "unwrap",
-        })
-
-    clusters = claude_service.cluster_feedback(tickets)
-    for c in clusters:
-        c.source = "zendesk+unwrap"
-    return clusters

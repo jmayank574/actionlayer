@@ -48,6 +48,14 @@ type PanelContent =
   | { type: "prd"; data: GeneratedPRD; cluster: InsightCluster }
   | null;
 
+const QUICK_PICKS = [
+  { company: "Unwrap", product: "Customer Intelligence", teal: true },
+  { company: "Slack", product: "Huddle" },
+  { company: "GitHub", product: "Copilot" },
+  { company: "Notion", product: "AI" },
+  { company: "Jira", product: "Cloud" },
+];
+
 function SeverityBadge({ severity }: { severity: string }) {
   const colors: Record<string, string> = {
     high: "bg-red-50 text-red-600 border border-red-200",
@@ -91,6 +99,7 @@ function InsightCard({
   onGeneratePRD: (c: InsightCluster) => void;
 }) {
   const [expanded, setExpanded] = useState(false);
+  const isPublic = cluster.source === "public";
 
   return (
     <div className="bg-white rounded-2xl border border-[#E8E4DE] p-6 hover:border-[#E8503A] transition-colors duration-200 space-y-4">
@@ -98,7 +107,22 @@ function InsightCard({
         <h2 className="text-base font-bold text-[#1A1A1A] leading-snug">{cluster.title}</h2>
         <SeverityBadge severity={cluster.severity} />
       </div>
-      <p className="text-xs text-[#6B7280] font-medium">{cluster.frequency} tickets · {cluster.source}</p>
+
+      <div className="flex items-center gap-2 flex-wrap">
+        <span className="text-xs text-[#6B7280] font-medium">{cluster.frequency} reports</span>
+        {isPublic ? (
+          <div className="flex gap-1">
+            {["G2", "Reddit", "App Store"].map((s) => (
+              <span key={s} className="text-[10px] bg-[#FAF8F5] text-[#6B7280] border border-[#E8E4DE] px-2 py-0.5 rounded-full font-medium">
+                {s}
+              </span>
+            ))}
+          </div>
+        ) : (
+          <span className="text-xs text-[#6B7280]">· {cluster.source}</span>
+        )}
+      </div>
+
       <p className="text-sm text-[#1A1A1A]/75 leading-relaxed">{cluster.summary}</p>
 
       {cluster.ticket && (
@@ -187,7 +211,6 @@ function TicketPanel({ ticket, cluster }: { ticket: GeneratedTicket; cluster: In
 
   return (
     <div className="space-y-6">
-      {/* Title + priority */}
       <div>
         <div className="flex items-start justify-between gap-3 mb-3">
           <h2 className="text-base font-bold text-[#1A1A1A] leading-snug">{ticket.title}</h2>
@@ -200,13 +223,11 @@ function TicketPanel({ ticket, cluster }: { ticket: GeneratedTicket; cluster: In
         </span>
       </div>
 
-      {/* Description */}
       <div>
         <p className="text-[11px] font-bold text-[#6B7280] uppercase tracking-widest mb-2">Description</p>
         <p className="text-sm text-[#1A1A1A]/80 leading-relaxed">{ticket.description}</p>
       </div>
 
-      {/* Acceptance Criteria */}
       <div>
         <p className="text-[11px] font-bold text-[#6B7280] uppercase tracking-widest mb-3">Acceptance Criteria</p>
         <ol className="space-y-3">
@@ -219,7 +240,6 @@ function TicketPanel({ ticket, cluster }: { ticket: GeneratedTicket; cluster: In
         </ol>
       </div>
 
-      {/* Labels */}
       <div>
         <p className="text-[11px] font-bold text-[#6B7280] uppercase tracking-widest mb-2">Labels</p>
         <div className="flex flex-wrap gap-2">
@@ -229,7 +249,6 @@ function TicketPanel({ ticket, cluster }: { ticket: GeneratedTicket; cluster: In
         </div>
       </div>
 
-      {/* Customer Quotes */}
       <div>
         <p className="text-[11px] font-bold text-[#6B7280] uppercase tracking-widest mb-3">Customer Quotes</p>
         <div className="space-y-3">
@@ -296,32 +315,28 @@ function PRDPanel({ prd }: { prd: GeneratedPRD }) {
   );
 }
 
-const CACHE_KEY = "actionlayer_clusters";
+const CACHE_KEY = "actionlayer_insights_v2";
 
 export default function Home() {
   const [clusters, setClusters] = useState<InsightCluster[]>([]);
-
-  useEffect(() => {
-    try {
-      const cached = localStorage.getItem(CACHE_KEY);
-      if (cached) setClusters(JSON.parse(cached));
-    } catch {}
-  }, []);
+  const [company, setCompany] = useState("Slack");
+  const [product, setProduct] = useState("Huddle");
+  const [lastAnalyzed, setLastAnalyzed] = useState<{ company: string; product: string } | null>(null);
+  const [loadingFor, setLoadingFor] = useState<{ company: string; product: string } | null>(null);
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState("");
   const [panel, setPanel] = useState<PanelContent>(null);
   const [generating, setGenerating] = useState<string | null>(null);
-  const [pasteOpen, setPasteOpen] = useState(false);
-  const [pasteText, setPasteText] = useState("");
-  const [clusterSource, setClusterSource] = useState<"zendesk" | "csv">("zendesk");
 
-  async function fetchInsights() {
+  async function handleAnalyze(co: string, prod: string) {
     setLoading(true);
+    setLoadingFor({ company: co, product: prod });
     setError("");
     setClusters([]);
-    setPasteOpen(false);
     try {
-      const r = await fetch(`${API}/api/insights`);
+      const r = await fetch(
+        `${API}/api/insights?company=${encodeURIComponent(co)}&product=${encodeURIComponent(prod)}`
+      );
       if (!r.ok) {
         const e = await r.json().catch(() => ({}));
         throw new Error(e.detail ?? `Server error ${r.status}`);
@@ -329,44 +344,35 @@ export default function Home() {
       const data = await r.json();
       if (Array.isArray(data)) {
         setClusters(data);
-        setClusterSource("zendesk");
-        localStorage.setItem(CACHE_KEY, JSON.stringify(data));
+        setLastAnalyzed({ company: co, product: prod });
+        localStorage.setItem(CACHE_KEY, JSON.stringify({ company: co, product: prod, clusters: data }));
       } else throw new Error("Unexpected response from server");
     } catch (e: any) {
       setError(e.message ?? "Failed to load insights. Is the backend running?");
     } finally {
       setLoading(false);
+      setLoadingFor(null);
     }
   }
 
-  async function handleIngestCSV() {
-    if (!pasteText.trim()) return;
-    setLoading(true);
-    setError("");
-    setClusters([]);
+  useEffect(() => {
     try {
-      const r = await fetch(`${API}/api/ingest-csv`, {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ text: pasteText }),
-      });
-      if (!r.ok) {
-        const e = await r.json().catch(() => ({}));
-        throw new Error(e.detail ?? `Server error ${r.status}`);
+      const cached = localStorage.getItem(CACHE_KEY);
+      if (cached) {
+        const parsed = JSON.parse(cached);
+        const co = parsed.company || "Slack";
+        const prod = parsed.product || "Huddle";
+        setCompany(co);
+        setProduct(prod);
+        setClusters(parsed.clusters || []);
+        setLastAnalyzed({ company: co, product: prod });
+      } else {
+        handleAnalyze("Slack", "Huddle");
       }
-      const data = await r.json();
-      if (Array.isArray(data)) {
-        setClusters(data);
-        setClusterSource("csv");
-        setPasteOpen(false);
-        localStorage.setItem(CACHE_KEY, JSON.stringify(data));
-      } else throw new Error("Unexpected response from server");
-    } catch (e: any) {
-      setError(e.message ?? "Failed to analyze feedback. Is the backend running?");
-    } finally {
-      setLoading(false);
+    } catch {
+      handleAnalyze("Slack", "Huddle");
     }
-  }
+  }, []);
 
   async function handleGenerateTicket(cluster: InsightCluster) {
     setGenerating(cluster.id + "-ticket");
@@ -421,31 +427,6 @@ export default function Home() {
     }
   }
 
-  const loadInsightsButton = clusterSource !== "csv" ? (
-    <button
-      onClick={fetchInsights}
-      disabled={loading}
-      className="flex items-center gap-2 bg-[#E8503A] hover:bg-[#d44432] disabled:opacity-50 text-white text-sm px-5 py-2.5 rounded-full font-semibold transition-colors"
-    >
-      {loading ? (
-        <>
-          <svg className="animate-spin h-4 w-4" viewBox="0 0 24 24" fill="none">
-            <circle className="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" strokeWidth="4" />
-            <path className="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8v8z" />
-          </svg>
-          Analyzing…
-        </>
-      ) : (
-        <>
-          <svg className="h-4 w-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
-            <path d="M4 4v5h.582m15.356 2A8.001 8.001 0 004.582 9m0 0H9m11 11v-5h-.581m0 0a8.003 8.003 0 01-15.357-2m15.357 2H15" strokeLinecap="round" strokeLinejoin="round" />
-          </svg>
-          {clusters.length > 0 ? "Refresh Insights" : "Load Insights"}
-        </>
-      )}
-    </button>
-  ) : null;
-
   return (
     <div className="min-h-screen bg-[#FAF8F5]">
       <nav className="bg-white border-b border-[#E8E4DE] px-8 py-4 flex items-center justify-between">
@@ -464,66 +445,85 @@ export default function Home() {
       </nav>
 
       <main className="max-w-5xl mx-auto px-8 py-10">
-        <div className="flex items-center justify-between mb-4">
-          <div>
-            <h2 className="text-2xl font-bold text-[#1A1A1A]">Insight Clusters</h2>
-            <p className="text-sm text-[#6B7280] mt-1">
-              {clusters.length > 0
-                ? `AI-grouped feedback from ${clusterSource === "csv" ? "Zendesk + Unwrap" : "Zendesk"} · ${clusters.length} clusters`
-                : "Pull your Zendesk tickets or paste feedback from Unwrap"}
-            </p>
+        {/* Header */}
+        <div className="mb-8">
+          <h2 className="text-2xl font-bold text-[#1A1A1A]">Analyze any product</h2>
+          <p className="text-sm text-[#6B7280] mt-1">
+            {lastAnalyzed && clusters.length > 0
+              ? `${clusters.length} issue clusters · ${lastAnalyzed.product} by ${lastAnalyzed.company} · Powered by Claude's knowledge of public reviews`
+              : "Powered by Claude's knowledge of public reviews"}
+          </p>
+
+          {/* Quick-select pills */}
+          <div className="flex flex-wrap gap-2 mt-4">
+            {QUICK_PICKS.map((p) => (
+              <button
+                key={p.company + p.product}
+                onClick={() => {
+                  setCompany(p.company);
+                  setProduct(p.product);
+                  handleAnalyze(p.company, p.product);
+                }}
+                disabled={loading}
+                className={`text-xs px-3 py-1.5 rounded-full font-semibold border transition-colors disabled:opacity-40 ${
+                  p.teal
+                    ? "bg-[#0F6E56]/10 text-[#0F6E56] border-[#0F6E56]/20 hover:bg-[#0F6E56]/20"
+                    : "bg-white text-[#6B7280] border-[#E8E4DE] hover:border-[#1A1A1A] hover:text-[#1A1A1A]"
+                }`}
+              >
+                {p.company} · {p.product}
+              </button>
+            ))}
           </div>
-          <div className="flex items-center gap-2">
+
+          {/* Search inputs */}
+          <div className="flex items-center gap-2 mt-4">
+            <input
+              value={company}
+              onChange={(e) => setCompany(e.target.value)}
+              onKeyDown={(e) => e.key === "Enter" && !loading && company.trim() && product.trim() && handleAnalyze(company, product)}
+              placeholder="Company"
+              className="text-sm border border-[#E8E4DE] rounded-full px-4 py-2 focus:outline-none focus:border-[#E8503A] w-40 bg-white text-[#1A1A1A]"
+            />
+            <input
+              value={product}
+              onChange={(e) => setProduct(e.target.value)}
+              onKeyDown={(e) => e.key === "Enter" && !loading && company.trim() && product.trim() && handleAnalyze(company, product)}
+              placeholder="Product"
+              className="text-sm border border-[#E8E4DE] rounded-full px-4 py-2 focus:outline-none focus:border-[#E8503A] w-40 bg-white text-[#1A1A1A]"
+            />
             <button
-              onClick={() => { setPasteOpen((o) => !o); setError(""); }}
-              disabled={loading}
-              className="flex items-center gap-2 bg-white text-[#1A1A1A] border border-[#E8E4DE] hover:border-[#1A1A1A] disabled:opacity-50 text-sm px-4 py-2.5 rounded-full font-semibold transition-colors"
+              onClick={() => handleAnalyze(company, product)}
+              disabled={loading || !company.trim() || !product.trim()}
+              className="flex items-center gap-2 bg-[#E8503A] hover:bg-[#d44432] disabled:opacity-50 text-white text-sm px-5 py-2 rounded-full font-semibold transition-colors"
             >
-              <svg className="h-4 w-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><path d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2" strokeLinecap="round" strokeLinejoin="round"/></svg>
-              Import from Unwrap
+              {loading ? (
+                <>
+                  <svg className="animate-spin h-4 w-4" viewBox="0 0 24 24" fill="none">
+                    <circle className="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" strokeWidth="4" />
+                    <path className="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8v8z" />
+                  </svg>
+                  Analyzing…
+                </>
+              ) : (
+                "Analyze →"
+              )}
             </button>
-            {loadInsightsButton}
           </div>
         </div>
 
-        {pasteOpen && (
-          <div className="bg-white border border-[#E8E4DE] rounded-2xl p-5 mb-6 space-y-3">
-            <div className="flex items-center justify-between">
-              <p className="text-sm font-semibold text-[#1A1A1A]">Paste customer feedback</p>
-              <span className="text-xs text-[#6B7280]">One item per line — paste a CSV export, Unwrap data, or raw feedback</span>
-            </div>
-            <textarea
-              value={pasteText}
-              onChange={(e) => setPasteText(e.target.value)}
-              placeholder={"App crashes on login after update\nPayment failed but I was still charged\nCan't find the dark mode setting\nSearch results don't match what I'm typing"}
-              rows={6}
-              className="w-full text-sm border border-[#E8E4DE] rounded-xl px-4 py-3 resize-none focus:outline-none focus:border-[#E8503A] text-[#1A1A1A] placeholder-[#C4BDB5] font-mono leading-relaxed"
-            />
-            <div className="flex items-center justify-between">
-              <span className="text-xs text-[#6B7280]">{pasteText.split("\n").filter((l) => l.trim()).length} feedback items</span>
-              <div className="flex gap-2">
-                <button
-                  onClick={() => { setPasteOpen(false); setPasteText(""); }}
-                  className="text-sm text-[#6B7280] hover:text-[#1A1A1A] px-4 py-2 rounded-full font-semibold transition-colors"
-                >
-                  Cancel
-                </button>
-                <button
-                  onClick={handleIngestCSV}
-                  disabled={loading || !pasteText.trim()}
-                  className="flex items-center gap-2 bg-[#E8503A] hover:bg-[#d44432] disabled:opacity-50 text-white text-sm px-5 py-2 rounded-full font-semibold transition-colors"
-                >
-                  {loading ? (
-                    <>
-                      <svg className="animate-spin h-4 w-4" viewBox="0 0 24 24" fill="none">
-                        <circle className="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" strokeWidth="4" />
-                        <path className="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8v8z" />
-                      </svg>
-                      Analyzing…
-                    </>
-                  ) : "Analyze Feedback"}
-                </button>
-              </div>
+        {/* Loading banner */}
+        {loading && loadingFor && (
+          <div className="bg-white border border-[#E8E4DE] rounded-2xl px-5 py-4 mb-6 flex items-center gap-3">
+            <svg className="animate-spin h-4 w-4 text-[#E8503A] shrink-0" viewBox="0 0 24 24" fill="none">
+              <circle className="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" strokeWidth="4" />
+              <path className="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8v8z" />
+            </svg>
+            <div>
+              <p className="text-sm font-semibold text-[#1A1A1A]">
+                Analyzing public feedback for {loadingFor.product} by {loadingFor.company}…
+              </p>
+              <p className="text-xs text-[#6B7280] mt-0.5">Searching G2, Reddit, App Store, Twitter · Takes 15–20 seconds</p>
             </div>
           </div>
         )}
@@ -532,9 +532,9 @@ export default function Home() {
           <div className="bg-red-50 border border-red-200 rounded-2xl p-4 text-sm text-red-600 font-medium mb-8">{error}</div>
         )}
 
-        {!loading && clusters.length === 0 && !error && !pasteOpen && (
+        {!loading && clusters.length === 0 && !error && (
           <div className="bg-white border-2 border-dashed border-[#E8E4DE] rounded-2xl p-16 text-center">
-            <p className="text-[#6B7280] text-sm font-medium">Click "Load Insights" to pull Zendesk tickets, or "Import from Unwrap" to paste feedback</p>
+            <p className="text-[#6B7280] text-sm font-medium">Select a product above or enter a company and product to analyze public feedback</p>
           </div>
         )}
 
