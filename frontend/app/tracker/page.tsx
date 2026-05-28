@@ -43,6 +43,9 @@ export default function Tracker() {
   const [tickets, setTickets] = useState<TrackerTicket[]>([]);
   const [loading, setLoading] = useState(true);
   const [copied, setCopied] = useState<string | null>(null);
+  const [slackSending, setSlackSending] = useState<string | null>(null);
+  const [slackSent, setSlackSent] = useState<string | null>(null);
+  const [slackError, setSlackError] = useState<string | null>(null);
 
   useEffect(() => {
     fetch(`${API}/api/tracker`)
@@ -51,6 +54,34 @@ export default function Tracker() {
       .catch(() => {})
       .finally(() => setLoading(false));
   }, []);
+
+  async function sendToSlack(ticket: TrackerTicket) {
+    setSlackSending(ticket.jira_id);
+    setSlackError(null);
+    try {
+      const res = await fetch(`${API}/api/notify-slack`, {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({
+          ticket_title: ticket.title,
+          cluster_title: ticket.cluster_title,
+          jira_key: ticket.jira_key,
+          jira_url: ticket.jira_url,
+        }),
+      });
+      const data = await res.json();
+      if (data.not_configured) {
+        setSlackError(ticket.jira_id);
+      } else if (data.success) {
+        setSlackSent(ticket.jira_id);
+        setTimeout(() => setSlackSent(null), 3000);
+      }
+    } catch {
+      setSlackError(ticket.jira_id);
+    } finally {
+      setSlackSending(null);
+    }
+  }
 
   function copyNotification(ticket: TrackerTicket) {
     const msg = `Hi team — the issue "${ticket.cluster_title}" has been resolved! Jira ticket ${ticket.jira_key} is now closed. Customers affected by this issue should see the fix live shortly.`;
@@ -129,14 +160,30 @@ export default function Tracker() {
                     <td className="px-6 py-4 text-[#6B7280] font-medium">{daysOpen(t.created_at)}d</td>
                     <td className="px-6 py-4">
                       {isLoopClosed(t.status) ? (
-                        <div className="flex items-center gap-2">
-                          <span className="text-[11px] bg-[#0F6E56]/10 text-[#0F6E56] border border-[#0F6E56]/20 font-bold px-3 py-0.5 rounded-full">Loop closed</span>
-                          <button
-                            onClick={() => copyNotification(t)}
-                            className="text-xs text-[#E8503A] hover:underline font-semibold"
-                          >
-                            {copied === t.jira_id ? "Copied!" : "Copy CS notification"}
-                          </button>
+                        <div className="flex flex-col gap-2">
+                          <span className="text-[11px] bg-[#0F6E56]/10 text-[#0F6E56] border border-[#0F6E56]/20 font-bold px-3 py-0.5 rounded-full w-fit">Loop closed</span>
+                          {slackSent === t.jira_id ? (
+                            <span className="text-xs text-emerald-600 font-semibold">Sent to #customer-success ✓</span>
+                          ) : (
+                            <div className="flex items-center gap-2">
+                              <button
+                                onClick={() => sendToSlack(t)}
+                                disabled={slackSending === t.jira_id}
+                                className="text-xs bg-[#E8503A] hover:bg-[#d44432] disabled:opacity-50 text-white px-3 py-1 rounded-full font-semibold transition-colors"
+                              >
+                                {slackSending === t.jira_id ? "Sending…" : "Send to Slack"}
+                              </button>
+                              <button
+                                onClick={() => copyNotification(t)}
+                                className="text-xs text-[#6B7280] hover:text-[#1A1A1A] font-semibold transition-colors"
+                              >
+                                {copied === t.jira_id ? "Copied!" : "Copy message"}
+                              </button>
+                            </div>
+                          )}
+                          {slackError === t.jira_id && (
+                            <span className="text-xs text-amber-600">Add Slack webhook in settings to enable</span>
+                          )}
                         </div>
                       ) : (
                         <span className="text-xs text-[#6B7280]">Awaiting resolution</span>

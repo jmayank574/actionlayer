@@ -75,6 +75,36 @@ def api_push_to_jira(request: PushToJiraRequest):
     return {"success": True, "jira_key": result["jira_key"], "jira_url": result["jira_url"]}
 
 
+@app.post("/api/notify-slack")
+def notify_slack(body: dict):
+    webhook_url = os.getenv("SLACK_WEBHOOK_URL", "").strip()
+    if not webhook_url:
+        return {"success": False, "not_configured": True}
+
+    ticket_title = body.get("ticket_title", "")
+    cluster_title = body.get("cluster_title", "")
+    jira_key = body.get("jira_key", "")
+    jira_url = body.get("jira_url", "")
+
+    payload = {
+        "text": "✅ Fix shipped",
+        "blocks": [
+            {
+                "type": "section",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": f"✅ *Fix shipped:* {ticket_title}\n*Customer issue resolved:* {cluster_title}\n*Jira:* <{jira_url}|{jira_key}>\nCS team: customers reporting this issue should see it resolved.",
+                },
+            }
+        ],
+    }
+
+    resp = requests.post(webhook_url, json=payload, timeout=10)
+    if resp.ok:
+        return {"success": True}
+    raise HTTPException(status_code=500, detail=f"Slack webhook failed: {resp.text}")
+
+
 @app.get("/api/tracker")
 def api_tracker():
     tickets = storage.get_all_tickets()
