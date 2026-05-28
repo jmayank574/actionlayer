@@ -31,5 +31,16 @@
     "priority": "P1",
     "status": "In Progress",
     "created_at": "2026-05-27T18:03:18.892998+00:00"
+  },
+  {
+    "jira_id": "10099",
+    "jira_key": "SCRUM-4",
+    "jira_url": "https://actionlayer.atlassian.net/browse/SCRUM-4",
+    "cluster_id": "search-not-working",
+    "cluster_title": "Search Returns Wrong or Missing Results",
+    "title": "Fix search relevance, filters, and query performance",
+    "priority": "P1",
+    "status": "In Progress",
+    "created_at": "2026-05-27T18:30:00.000000+00:00"
   }
 ]
