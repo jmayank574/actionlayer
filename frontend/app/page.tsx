@@ -49,7 +49,7 @@ type PanelContent =
   | null;
 
 const QUICK_PICKS = [
-  { company: "Unwrap", product: "Customer Intelligence", teal: true },
+  { company: "Unwrap", product: "Customer Intelligence" },
   { company: "Slack", product: "Huddle" },
   { company: "GitHub", product: "Copilot" },
   { company: "Notion", product: "AI" },
@@ -466,8 +466,8 @@ export default function Home() {
                 }}
                 disabled={loading}
                 className={`text-xs px-3 py-1.5 rounded-full font-semibold border transition-colors disabled:opacity-40 ${
-                  p.teal
-                    ? "bg-[#0F6E56]/10 text-[#0F6E56] border-[#0F6E56]/20 hover:bg-[#0F6E56]/20"
+                  lastAnalyzed?.company === p.company && lastAnalyzed?.product === p.product
+                    ? "bg-[#1A1A1A] text-white border-[#1A1A1A]"
                     : "bg-white text-[#6B7280] border-[#E8E4DE] hover:border-[#1A1A1A] hover:text-[#1A1A1A]"
                 }`}
               >
