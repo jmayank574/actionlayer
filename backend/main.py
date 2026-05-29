@@ -1,7 +1,9 @@
 import asyncio
+import json
 import os
 import time
 from datetime import datetime, timezone
+from pathlib import Path
 
 import requests
 from fastapi import FastAPI, HTTPException, Query
@@ -36,7 +38,9 @@ def health():
 
 RESOLVED = {"done", "closed", "resolved"}
 _insights_cache: dict[str, tuple[float, list]] = {}
-CACHE_TTL = 600  # 10 minutes
+CACHE_TTL = 600  # 10 minutes in memory
+DISK_CACHE_DIR = Path("data/public_cache")
+DISK_CACHE_TTL = 86400 * 7  # 7 days on disk
 
 QUICK_PICKS = [
     ("Unwrap", "Customer Intelligence"),
@@ -47,15 +51,45 @@ QUICK_PICKS = [
 ]
 
 
+def _disk_path(cache_key: str) -> Path:
+    return DISK_CACHE_DIR / f"{cache_key.replace(':', '__')}.json"
+
+
+def _load_disk(cache_key: str) -> list | None:
+    path = _disk_path(cache_key)
+    if not path.exists():
+        return None
+    try:
+        data = json.loads(path.read_text())
+        if time.time() - data.get("saved_at", 0) > DISK_CACHE_TTL:
+            return None
+        return data["clusters"]
+    except Exception:
+        return None
+
+
+def _save_disk(cache_key: str, clusters: list):
+    DISK_CACHE_DIR.mkdir(parents=True, exist_ok=True)
+    _disk_path(cache_key).write_text(json.dumps({"saved_at": time.time(), "clusters": clusters}))
+
+
 def _compute_insights(company: str, product: str) -> list:
     cache_key = f"{company.strip().lower()}:{product.strip().lower()}"
     now = time.time()
 
+    # 1. Memory cache
     if cache_key in _insights_cache:
         cached_at, cached_data = _insights_cache[cache_key]
         if now - cached_at < CACHE_TTL:
             return cached_data
 
+    # 2. Disk cache (survives process restarts)
+    disk_data = _load_disk(cache_key)
+    if disk_data is not None:
+        _insights_cache[cache_key] = (now, disk_data)
+        return disk_data
+
+    # 3. Generate fresh via Claude
     clusters = claude_service.generate_clusters_from_public(company, product)
     for c in clusters:
         c.source = "public"
@@ -83,21 +117,38 @@ def _compute_insights(company: str, product: str) -> list:
         result.append(cluster_dict)
 
     _insights_cache[cache_key] = (now, result)
+    _save_disk(cache_key, result)
     return result
 
 
 @app.on_event("startup")
 async def prewarm_cache():
-    async def load_one(company: str, product: str):
-        try:
-            print(f"[prewarm] Starting {company} / {product}")
-            await asyncio.to_thread(_compute_insights, company, product)
-            print(f"[prewarm] Done {company} / {product}")
-        except Exception as e:
-            print(f"[prewarm] Failed {company} / {product}: {e}")
+    # Load existing disk cache into memory first — instant, no Claude calls
+    if DISK_CACHE_DIR.exists():
+        for f in DISK_CACHE_DIR.glob("*.json"):
+            try:
+                data = json.loads(f.read_text())
+                if time.time() - data.get("saved_at", 0) < DISK_CACHE_TTL:
+                    cache_key = f.stem.replace("__", ":")
+                    _insights_cache[cache_key] = (data["saved_at"], data["clusters"])
+                    print(f"[startup] Loaded from disk: {cache_key}")
+            except Exception:
+                pass
 
-    for company, product in QUICK_PICKS:
-        asyncio.create_task(load_one(company, product))
+    # Pre-warm any quick-picks not yet on disk — sequentially to avoid overloading
+    async def prewarm_missing():
+        for company, product in QUICK_PICKS:
+            cache_key = f"{company.lower()}:{product.lower()}"
+            if cache_key in _insights_cache:
+                continue
+            try:
+                print(f"[prewarm] Generating {company} / {product}")
+                await asyncio.to_thread(_compute_insights, company, product)
+                print(f"[prewarm] Done {company} / {product}")
+            except Exception as e:
+                print(f"[prewarm] Failed {company} / {product}: {e}")
+
+    asyncio.create_task(prewarm_missing())
 
 
 @app.get("/api/insights")
