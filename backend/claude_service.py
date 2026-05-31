@@ -41,7 +41,7 @@ def generate_clusters_from_public(company_name: str, product_name: str) -> list[
             "- id: short unique slug (e.g. 'audio-drops')\n"
             "- title: concise cluster name, 3-7 words\n"
             "- severity: 'high', 'medium', or 'low' based on user impact and frequency\n"
-            "- frequency: estimated number of affected users reporting this (integer)\n"
+            "- frequency: realistic number of reviews/posts mentioning this theme (integer between 8 and 120 — these are review counts, not total users)\n"
             "- summary: exactly 2 sentences — what breaks and why it matters to users\n"
             "- verbatims: array of exactly 3 realistic user quotes — specific, first-person, "
             "mentioning actual features or workflows, sounding like real reviews\n\n"

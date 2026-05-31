@@ -141,7 +141,7 @@ export default function Tracker() {
   const [slackSending, setSlackSending] = useState<string | null>(null);
   const [slackSent, setSlackSent] = useState<string | null>(null);
   const [slackError, setSlackError] = useState<string | null>(null);
-  const [showResolved, setShowResolved] = useState(false);
+  const [showResolved, setShowResolved] = useState(true);
 
   useEffect(() => {
     fetch(`${API}/api/tracker`)
@@ -205,7 +205,7 @@ export default function Tracker() {
   ];
 
   function ActionCell({ t }: { t: TrackerTicket }) {
-    if (!isResolved(t.status)) return <span className="text-xs text-[#6B7280]">Awaiting resolution</span>;
+    if (!isResolved(t.status)) return <span className="text-[11px] text-[#6B7280] bg-[#FAF8F5] border border-[#E8E4DE] px-3 py-1 rounded-full font-medium">Awaiting resolution</span>;
     return (
       <div className="flex flex-col gap-1.5">
         <span className="text-[11px] bg-[#0F6E56]/10 text-[#0F6E56] border border-[#0F6E56]/20 font-bold px-3 py-0.5 rounded-full w-fit">Loop closed</span>
@@ -280,11 +280,16 @@ export default function Tracker() {
   return (
     <div className="min-h-screen bg-[#FAF8F5]">
       <nav className="bg-white border-b border-[#E8E4DE] px-8 py-4 flex items-center justify-between">
-        <div>
-          <h1 className="text-xl font-bold text-[#1A1A1A] tracking-tight">ActionLayer</h1>
-          <p className="text-xs text-[#6B7280]">Feedback → Engineering, automated.</p>
+        <div className="flex items-center gap-4">
+          <div>
+            <h1 className="text-xl font-bold text-[#1A1A1A] tracking-tight">ActionLayer</h1>
+            <p className="text-xs text-[#6B7280]">Feedback → Engineering, automated.</p>
+          </div>
+          <span className="text-[11px] font-bold px-3 py-1 rounded-full bg-[#0F6E56]/10 text-[#0F6E56] border border-[#0F6E56]/20 tracking-wide">
+            Built on Claude API
+          </span>
         </div>
-        <Link href="/" className="text-sm text-[#E8503A] hover:underline font-semibold">← Back to Insights</Link>
+        <Link href="/" className="text-sm text-[#E8503A] hover:underline font-semibold">← Insights</Link>
       </nav>
 
       <main className="max-w-7xl mx-auto px-8 py-10">

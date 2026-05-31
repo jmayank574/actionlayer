@@ -101,15 +101,21 @@ function InsightCard({
   const [expanded, setExpanded] = useState(false);
   const isPublic = cluster.source === "public";
 
+  const severityBorder: Record<string, string> = {
+    high: "border-l-red-400",
+    medium: "border-l-amber-400",
+    low: "border-l-emerald-400",
+  };
+
   return (
-    <div className="bg-white rounded-2xl border border-[#E8E4DE] p-6 hover:border-[#E8503A] transition-colors duration-200 space-y-4">
+    <div className={`bg-white rounded-2xl border border-[#E8E4DE] border-l-4 ${severityBorder[cluster.severity] ?? "border-l-gray-300"} p-6 hover:shadow-md hover:-translate-y-0.5 transition-all duration-200 space-y-4`}>
       <div className="flex items-start justify-between gap-3">
         <h2 className="text-base font-bold text-[#1A1A1A] leading-snug">{cluster.title}</h2>
         <SeverityBadge severity={cluster.severity} />
       </div>
 
       <div className="flex items-center gap-2 flex-wrap">
-        <span className="text-xs text-[#6B7280] font-medium">{cluster.frequency} reports</span>
+        <span className="text-xs text-[#6B7280] font-medium">{cluster.frequency} reviews</span>
         {isPublic ? (
           <div className="flex gap-1">
             {["G2", "Reddit", "App Store"].map((s) => (
@@ -126,12 +132,12 @@ function InsightCard({
       <p className="text-sm text-[#1A1A1A]/75 leading-relaxed">{cluster.summary}</p>
 
       {cluster.ticket && (
-        <a
+        <Link
           href="/tracker"
           className="inline-flex items-center gap-1.5 text-[11px] font-semibold bg-amber-50 text-amber-600 border border-amber-200 px-3 py-1 rounded-full w-fit hover:bg-amber-100 transition-colors"
         >
           🔧 In progress — {cluster.ticket.jira_key}
-        </a>
+        </Link>
       )}
 
       <button
@@ -157,7 +163,9 @@ function InsightCard({
             disabled
             className="text-sm flex items-center gap-1.5 bg-[#FAF8F5] text-[#6B7280] border border-[#E8E4DE] px-4 py-2 rounded-full font-semibold cursor-not-allowed"
           >
-            <svg className="h-3.5 w-3.5 text-emerald-500" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5"><path d="M5 13l4 4L19 7" strokeLinecap="round" strokeLinejoin="round"/></svg>
+            <svg className="h-3.5 w-3.5 text-emerald-500" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5">
+              <path d="M5 13l4 4L19 7" strokeLinecap="round" strokeLinejoin="round" />
+            </svg>
             Ticket pushed
           </button>
         ) : (
@@ -263,7 +271,9 @@ function TicketPanel({ ticket, cluster }: { ticket: GeneratedTicket; cluster: In
       {pushed ? (
         <div className="bg-emerald-50 border border-emerald-200 rounded-2xl p-4">
           <p className="font-bold text-emerald-700 text-sm mb-1">Pushed to Jira!</p>
-          <a href={pushed.jira_url} target="_blank" rel="noopener noreferrer" className="text-[#E8503A] underline text-xs font-semibold">{pushed.jira_key} → View in Jira</a>
+          <a href={pushed.jira_url} target="_blank" rel="noopener noreferrer" className="text-[#E8503A] underline text-xs font-semibold">
+            {pushed.jira_key} → View in Jira
+          </a>
         </div>
       ) : (
         <>
@@ -307,7 +317,7 @@ function PRDPanel({ prd }: { prd: GeneratedPRD }) {
           ))}
         </ul>
       </div>
-      <div className="flex items-center gap-2 bg-[#0F6E56]/8 border border-[#0F6E56]/20 rounded-full px-4 py-2 w-fit">
+      <div className="flex items-center gap-2 bg-[#0F6E56]/10 border border-[#0F6E56]/20 rounded-full px-4 py-2 w-fit">
         <span className="text-xs font-bold text-[#0F6E56]">Timeline:</span>
         <span className="text-xs text-[#0F6E56]">{prd.timeline}</span>
       </div>
@@ -383,7 +393,6 @@ export default function Home() {
         body: JSON.stringify({ cluster_id: cluster.id, cluster }),
       });
       const raw = await res.json();
-      console.log("[generate-ticket] status:", res.status, "raw:", JSON.stringify(raw, null, 2));
       if (!res.ok) {
         setPanel({ type: "error", message: raw.detail ?? `Server error ${res.status}`, cluster } as any);
         return;
@@ -414,7 +423,6 @@ export default function Home() {
         body: JSON.stringify({ cluster_id: cluster.id, cluster }),
       });
       const raw = await res.json();
-      console.log("[generate-prd] status:", res.status, "raw:", JSON.stringify(raw, null, 2));
       if (!res.ok) {
         setPanel({ type: "error", message: raw.detail ?? `Server error ${res.status}`, cluster } as any);
         return;
@@ -445,7 +453,6 @@ export default function Home() {
       </nav>
 
       <main className="max-w-5xl mx-auto px-8 py-10">
-        {/* Header */}
         <div className="mb-8">
           <h2 className="text-2xl font-bold text-[#1A1A1A]">Analyze any product</h2>
           <p className="text-sm text-[#6B7280] mt-1">
@@ -454,7 +461,6 @@ export default function Home() {
               : "Powered by Claude's knowledge of public reviews"}
           </p>
 
-          {/* Quick-select pills */}
           <div className="flex flex-wrap gap-2 mt-4">
             {QUICK_PICKS.map((p) => (
               <button
@@ -476,7 +482,6 @@ export default function Home() {
             ))}
           </div>
 
-          {/* Search inputs */}
           <div className="flex items-center gap-2 mt-4">
             <input
               value={company}
@@ -512,7 +517,6 @@ export default function Home() {
           </div>
         </div>
 
-        {/* Loading banner */}
         {loading && loadingFor && (
           <div className="bg-white border border-[#E8E4DE] rounded-2xl px-5 py-4 mb-6 flex items-center gap-3">
             <svg className="animate-spin h-4 w-4 text-[#E8503A] shrink-0" viewBox="0 0 24 24" fill="none">
@@ -523,18 +527,24 @@ export default function Home() {
               <p className="text-sm font-semibold text-[#1A1A1A]">
                 Analyzing public feedback for {loadingFor.product} by {loadingFor.company}…
               </p>
-              <p className="text-xs text-[#6B7280] mt-0.5">Searching G2, Reddit, App Store, Twitter · Takes 15–20 seconds</p>
+              <p className="text-xs text-[#6B7280] mt-0.5">
+                Searching G2, Reddit, App Store, Twitter · May take up to 20 seconds
+              </p>
             </div>
           </div>
         )}
 
         {error && (
-          <div className="bg-red-50 border border-red-200 rounded-2xl p-4 text-sm text-red-600 font-medium mb-8">{error}</div>
+          <div className="bg-red-50 border border-red-200 rounded-2xl p-4 text-sm text-red-600 font-medium mb-8">
+            {error}
+          </div>
         )}
 
         {!loading && clusters.length === 0 && !error && (
           <div className="bg-white border-2 border-dashed border-[#E8E4DE] rounded-2xl p-16 text-center">
-            <p className="text-[#6B7280] text-sm font-medium">Select a product above or enter a company and product to analyze public feedback</p>
+            <p className="text-[#6B7280] text-sm font-medium">
+              Select a product above or type a company and product to analyze
+            </p>
           </div>
         )}
 
@@ -555,12 +565,19 @@ export default function Home() {
       {(panel || generating) && (
         <>
           <div className="fixed inset-0 bg-[#1A1A1A]/30 z-40" onClick={() => setPanel(null)} />
-          <aside className="fixed right-0 top-0 h-full w-[440px] bg-white border-l border-[#E8E4DE] z-50 flex flex-col">
-            <div className="flex items-center justify-between px-6 py-5 border-b border-[#E8E4DE]">
+          <aside className="fixed right-0 top-0 h-full w-[440px] bg-white border-l border-[#E8E4DE] z-50 flex flex-col shadow-xl">
+            <div className="flex items-center justify-between px-6 py-4 border-b border-[#E8E4DE] bg-[#FAF8F5]">
               <span className="text-sm font-bold text-[#1A1A1A]">
                 {panel?.type === "ticket" ? "Jira Ticket Draft" : panel?.type === "prd" ? "Product Requirements Doc" : "Generating with Claude…"}
               </span>
-              <button onClick={() => setPanel(null)} className="text-[#6B7280] hover:text-[#1A1A1A] text-lg leading-none font-light">✕</button>
+              <button
+                onClick={() => setPanel(null)}
+                className="w-7 h-7 flex items-center justify-center rounded-full hover:bg-[#E8E4DE] transition-colors text-[#6B7280] hover:text-[#1A1A1A]"
+              >
+                <svg className="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+                  <path d="M18 6L6 18M6 6l12 12" />
+                </svg>
+              </button>
             </div>
             <div className="flex-1 overflow-y-auto px-6 py-6">
               {generating ? (
@@ -569,7 +586,9 @@ export default function Home() {
                     <circle className="opacity-20" cx="12" cy="12" r="10" stroke="currentColor" strokeWidth="3" />
                     <path className="opacity-90" fill="currentColor" d="M4 12a8 8 0 018-8v8z" />
                   </svg>
-                  <p className="text-sm text-[#6B7280] font-medium">Claude is writing your {generating?.includes("prd") ? "PRD" : "ticket"}…</p>
+                  <p className="text-sm text-[#6B7280] font-medium">
+                    Claude is writing your {generating?.includes("prd") ? "PRD" : "ticket"}…
+                  </p>
                 </div>
               ) : (panel as any)?.type === "error" ? (
                 <div className="space-y-3">
