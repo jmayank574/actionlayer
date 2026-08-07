@@ -1,53 +1,66 @@
 # ActionLayer
 
-ActionLayer turns public customer feedback into shipped engineering fixes — automatically. Enter any company and product, and Claude analyzes public review knowledge to surface the top 5 critical issues, generate Jira-ready tickets, track them through resolution, and notify your CS team via Slack when the loop closes.
-
-**Live demo:** https://frontend-one-rose-77.vercel.app
+A real-data customer-feedback intelligence pipeline. Right now it covers one product — **WHOOP** (Wearables & Fitness) — end to end: real reviews in, a prioritized insight dashboard out. No fabricated data, no LLM-invented statistics — every number on the dashboard traces back to an actual Google Play or App Store review.
 
 ## How it works
 
-1. Enter a product (e.g. Slack · Huddle) — Claude synthesizes public G2, Reddit, and App Store feedback into 5 prioritized insight clusters
-2. Click **Generate Ticket** — Claude writes a complete Jira ticket with acceptance criteria, story points, and priority
-3. Click **Push to Jira** — ticket is created live in your Jira project
-4. **Loop Tracker** syncs Jira status in real time and shows time-to-resolution for every issue
-5. Click **Send to Slack** — CS team gets notified when a fix ships
+```
+Google Play + App Store  →  ingest.py  →  data/whoop_reviews_raw.csv
+                                              (upsert — reviews never disappear
+                                               when Apple's ~500-review RSS
+                                               window rolls forward)
+                                                  ↓
+                          tag_reviews.py (Claude, incremental —
+                          only new/failed reviews call the API)
+                                                  ↓
+                          data/tagged_reviews.csv (bottom-up taxonomy,
+                          multi-label, taxonomy.yaml)
+                                                  ↓
+                          analyze_trends.py → category_trends.csv,
+                          category_trend_verdicts.csv (rate + velocity
+                          per category, per source scope)
+                                                  ↓
+                          export_dashboard_data.py → frontend/public/data/whoop/*.json
+                                                  ↓
+                          Vite + React dashboard (Insights feed +
+                          Explore-all-categories view)
+```
+
+A GitHub Actions workflow (`.github/workflows/daily-pipeline.yml`) runs this whole chain daily — new reviews get ingested, tagged, and reflected in the dashboard automatically.
 
 ## Setup
 
 **`backend/.env`**
 ```
 ANTHROPIC_API_KEY=
-JIRA_BASE_URL=           # e.g. https://yourorg.atlassian.net
-JIRA_EMAIL=
-JIRA_API_TOKEN=
-JIRA_PROJECT_KEY=        # e.g. SCRUM
-SLACK_WEBHOOK_URL=       # optional — for CS notifications
 ```
 
-**`frontend/.env.local`**
-```
-NEXT_PUBLIC_API_URL=http://localhost:8000
-```
+That's the only credential the current pipeline needs — tagging is the only step that calls an external paid API.
 
 ## Run locally
 
 ```bash
-# Backend
+# Ingest, tag, and analyze (run once, or after adding new data)
 cd backend
 pip install -r requirements.txt
-uvicorn main:app --reload --port 8000
+python ingest.py                # pull new reviews (upsert, safe to re-run)
+python tag_reviews.py           # tag only new/failed reviews via Claude
+python analyze_trends.py        # recompute trend/velocity stats
+python export_dashboard_data.py # export dashboard JSON
 
-# Frontend (separate terminal)
+# Dashboard
 cd frontend
 npm install
-npm run dev
+npm run dev        # localhost:5173
 ```
-
-Open http://localhost:3000
 
 ## Stack
 
-- **AI:** Anthropic Claude (`claude-sonnet-4-6`)
-- **Backend:** Python, FastAPI — hosted on Railway
-- **Frontend:** Next.js 16, TypeScript, Tailwind CSS — hosted on Vercel
-- **Integrations:** Jira REST API v3, Slack Incoming Webhooks
+- **AI:** Anthropic Claude (`claude-sonnet-4-6`), used only for multi-label review tagging
+- **Pipeline:** Python, pandas
+- **Dashboard:** Vite, React, TypeScript, Tailwind CSS v4, recharts — a static site reading pre-computed JSON, no live backend server
+- **Automation:** GitHub Actions (daily ingest → tag → trend → export → commit)
+
+## Archive
+
+`actionlayer-v1-workflow-demo/` holds an earlier prototype (Claude-knowledge-based insight generation, Jira ticket creation, Slack notifications). It's set aside, not deleted, and isn't part of the current product.
