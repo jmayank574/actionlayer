@@ -1,0 +1,10 @@
+{
+  "products": [
+    {
+      "id": "whoop",
+      "category": "Wearables & Fitness",
+      "product": "WHOOP",
+      "data_source": "whoop"
+    }
+  ]
+}

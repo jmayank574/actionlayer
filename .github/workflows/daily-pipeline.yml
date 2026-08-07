@@ -1,0 +1,76 @@
+name: Daily review pipeline
+
+# Runs the full WHOOP data pipeline once a day: ingest new reviews, tag only
+# what's new (incremental -- see tag_reviews.py), recompute trends, and
+# re-export the dashboard JSON. Commits happen in two stages so a tagging
+# failure (bad/missing ANTHROPIC_API_KEY, transient API error) never blocks
+# that day's raw review capture -- tagging is incremental, so anything missed
+# just gets picked up on the next successful run.
+
+on:
+  schedule:
+    # 13:00 UTC daily. Adjust as needed -- no downstream step depends on the exact time.
+    - cron: "0 13 * * *"
+  workflow_dispatch: {}
+
+jobs:
+  pipeline:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r backend/requirements.txt
+
+      - name: Configure git identity
+        run: |
+          git config user.name "actionlayer-bot"
+          git config user.email "actionlayer-bot@users.noreply.github.com"
+
+      - name: Ingest reviews (upserts data/whoop_reviews_raw.csv, never overwrites)
+        working-directory: backend
+        run: python ingest.py
+
+      - name: Commit new/updated raw reviews
+        working-directory: backend
+        run: |
+          git add data/whoop_reviews_raw.csv data/README.md
+          if git diff --cached --quiet; then
+            echo "No new or changed reviews today -- nothing to commit."
+          else
+            git commit -m "Daily ingestion: $(date -u +%Y-%m-%d)"
+            git push
+          fi
+
+      - name: Tag new reviews (incremental -- only new/failed review_ids call Claude)
+        working-directory: backend
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python tag_reviews.py
+
+      - name: Recompute trends
+        working-directory: backend
+        run: python analyze_trends.py
+
+      - name: Re-export dashboard JSON
+        working-directory: backend
+        run: python export_dashboard_data.py
+
+      - name: Commit tagging/trends/export outputs
+        run: |
+          git add backend/data/tagged_reviews.csv backend/data/tag_run_stats.json \
+                   backend/data/category_trends.csv backend/data/category_trend_verdicts.csv \
+                   backend/data/trend_report.md frontend/public/data/whoop
+          if git diff --cached --quiet; then
+            echo "No new tags or trend changes today -- nothing to commit."
+          else
+            git commit -m "Daily tagging + trends + dashboard export: $(date -u +%Y-%m-%d)"
+            git push
+          fi

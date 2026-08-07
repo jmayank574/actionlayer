@@ -1,0 +1,42 @@
+@import "tailwindcss";
+
+@theme {
+  --font-serif: "Fraunces", ui-serif, Georgia, serif;
+  --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
+
+  --color-cream: #faf7f2;
+  --color-cream-raised: #fffefb;
+
+  /* Needs Attention / primary accent -- deep wine/berry, deliberately NOT
+     orange-coral (too close to Unwrap's brand color for a distinct product).
+     100 is the chart-bar tint (needs to read clearly as a filled bar, not a
+     pale hint of one). */
+  --color-rust-50: #f8eef1;
+  --color-rust-100: #ecc9d2;
+  --color-rust-300: #c17f92;
+  --color-rust-500: #8f3350;
+  --color-rust-600: #762841;
+  --color-rust-700: #5e2035;
+
+  /* Improving -- muted sage, not a stock green */
+  --color-sage-50: #eef2e9;
+  --color-sage-100: #d6e2ca;
+  --color-sage-300: #a3b795;
+  --color-sage-500: #6b8a5a;
+  --color-sage-600: #56714a;
+  --color-sage-700: #3f5337;
+
+  /* Sidebar -- plain white, separated from the cream content area by a
+     hairline border rather than a color difference */
+  --color-sidebar: #ffffff;
+  --color-sidebar-raised: #f5f1ec;
+}
+
+body {
+  font-family: var(--font-sans);
+  background-color: var(--color-cream);
+}
+
+.font-serif {
+  font-family: var(--font-serif);
+}

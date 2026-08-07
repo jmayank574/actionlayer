@@ -1,0 +1,587 @@
+version: 2
+product: WHOOP
+built_from: >
+  Bottom-up open coding of a 180-review stratified sample (data/taxonomy_sample.csv),
+  stratified across source (google_play/app_store), rating (1-5), and time period.
+  Every category and subcategory below is backed by reviews actually read in that
+  sample — see data/open_coding.csv for the per-review tag assignments and
+  data/taxonomy_notes.md for coverage stats, borderline calls, and watch categories.
+  v2 is a correction + interpretability pass over v1 — see data/taxonomy_changelog.md
+  for every change and why. No new open coding and no full-dataset tagging happened
+  in that pass.
+multi_label: true
+notes: >
+  This is a first-pass taxonomy sized for ~3,300 reviews (13 parent categories,
+  2-4 subcategories each). It is intentionally not exhaustive — 10.6% of the
+  sample landed in Other/Ungrouped rather than being force-fit into a category.
+  Tagging the full dataset against this file is step 3, not done yet.
+
+categories:
+
+  - id: pricing_billing
+    name: Pricing & Billing
+    definition: >
+      Complaints and sentiment about what WHOOP costs, whether it's worth it, and
+      whether the billing/cancellation mechanics behave honestly.
+    watch_category: false
+    subcategories:
+      - id: price_value_perception
+        name: Price / Value Perception
+        definition: Judgment that the subscription costs too much for what it delivers, often made relative to a competitor or a one-time-purchase alternative.
+        includes:
+          - "the monthly/annual fee feels too high for what the device actually does"
+          - "a competitor device costs less and doesn't require a subscription at all"
+          - "still on the fence about whether the subscription is worth renewing"
+        excludes: >
+          Does not include the mechanics of being charged, cancelling, or refunds —
+          that's billing_disputes. A review that says "too expensive AND I can't
+          cancel" gets both tags.
+      - id: billing_disputes
+        name: Billing Disputes, Cancellation & Refund Friction
+        definition: The charge, cancellation, or refund process itself didn't work as promised — wrong amount charged, no way to cancel in-app, a promised refund reversed.
+        includes:
+          - "could not find any in-app option to cancel the subscription"
+          - "was promised a refund in writing and then the company reversed course"
+          - "kept getting billed after attempting to return or cancel the device"
+        excludes: >
+          Pure sticker-shock complaints with no billing-process failure belong in
+          price_value_perception. Complaints about family-plan/trial structure
+          belong in plan_trial_structure, not here.
+      - id: plan_trial_structure
+        name: Plan & Trial Structure
+        definition: The shape of a specific plan (family plan, free trial) creates a structural problem, independent of price or billing execution.
+        includes:
+          - "upgrading one device on a family plan forces cancelling and rebuying the whole plan"
+          - "the free trial excludes exactly the features you'd want to evaluate"
+        excludes: >
+          If the complaint is just "it's expensive," that's price_value_perception,
+          not a structural plan complaint.
+      - id: upsell_pressure
+        name: In-App Upsell & Promotional Pressure
+        definition: The app itself pushes the user toward a higher-priced tier or add-on purchase in a way that feels intrusive.
+        includes:
+          - "constant prompts nudging toward the more expensive membership tier"
+          - "being upsold on lab tests/bloodwork that are already covered elsewhere"
+        excludes: >
+          A one-off mention that a screen has an upgrade button isn't enough —
+          this is for reviews where the upsell itself is the complaint, not
+          incidental UI.
+
+  - id: sleep_tracking
+    name: Sleep Tracking
+    definition: >
+      Everything specific to the sleep feature surface — a dedicated category
+      because "sleep" keyword volume in the raw dataset is large (~15% by keyword,
+      ~8% by actual tagged-issue volume in this sample) and blurs three genuinely
+      different things: is it accurate, do people like it, and can they find it.
+    watch_category: false
+    subcategories:
+      - id: sleep_accuracy
+        name: Sleep Accuracy & Consistency
+        definition: The sleep score, sleep stages, or nap detection are perceived as wrong, random, or inconsistent night to night.
+        includes:
+          - "sleep stage classification seems random from one night to the next"
+          - "naps aren't detected most of the time"
+          - "sleep score swings in ways that don't match how rested the person actually felt"
+        excludes: >
+          General "the data feels off" without naming sleep specifically belongs
+          in data_accuracy, not here.
+      - id: sleep_satisfaction
+        name: Sleep Tracking Satisfaction
+        definition: Explicit praise naming sleep tracking or the recovery/sleep insight as the specific reason for value.
+        includes:
+          - "the sleep tracking is the single most useful part of the product"
+          - "recovery and sleep insights are described as accurate and life-changing"
+        excludes: >
+          Generic five-star praise with no feature named goes to Other/Ungrouped,
+          not here — this subcategory requires sleep to be explicitly named as
+          the value driver.
+      - id: sleep_alarm_ui
+        name: Sleep / Alarm UI Confusion
+        definition: Users can't find the alarm or sleep-related data/settings inside the app's navigation.
+        includes:
+          - "couldn't figure out where the alarm setting moved to after a redesign"
+          - "asked someone else to find last night's sleep data in the app and they couldn't do it quickly"
+        excludes: >
+          Sleep data being wrong is sleep_accuracy; sleep data being hard to
+          *find* is here — the root cause is navigation, not the sensor/algorithm.
+          If a redesign is named as the cause, still tag here first since sleep/
+          alarm is the specific topic — also tag ui_ux > redesign_regression only
+          if the review names broader navigation changes beyond sleep/alarm.
+
+  - id: hardware_wearability
+    name: Hardware & Wearability
+    definition: >
+      The physical device itself — strap, clasp, comfort, battery, and perceived
+      build quality — independent of the software/app layer.
+    watch_category: false
+    subcategories:
+      - id: strap_clasp_durability
+        name: Strap / Clasp Durability
+        definition: The physical retention mechanism (clasp, strap material) fails or feels unreliable, sometimes causing the sensor to detach.
+        includes:
+          - "the clasp failed during normal wear and the sensor was lost"
+          - "a band that's only a couple weeks old won't stay clasped securely"
+        excludes: >
+          General "feels cheap" perception without a specific failure belongs
+          in build_quality_perception.
+      - id: comfort_fit
+        name: Comfort & Fit
+        definition: The device is physically uncomfortable, bulky, causes skin irritation, or doesn't stay in place during normal life.
+        includes:
+          - "too thick and irritating to wear while sleeping"
+          - "developed a rash from the band material"
+          - "keeps coming loose when changing clothes"
+        excludes: >
+          A strap literally breaking is strap_clasp_durability, not comfort.
+      - id: battery_life
+        name: Battery Life
+        definition: Battery duration is shorter than expected or has regressed after an update/new hardware generation.
+        includes:
+          - "used to last about a week, now barely makes it a day and a half"
+          - "charging reliability has gotten worse on the newer strap"
+        excludes: >
+          This is about the wearable's own battery. A complaint that the WHOOP
+          *app* drains the *phone's* battery running in the background is an
+          app_stability issue, not hardware.
+      - id: build_quality_perception
+        name: Build Quality Perception
+        definition: A general sense that the hardware feels cheap or lower-quality, especially compared to a prior generation, without naming one specific failure.
+        includes:
+          - "the newest hardware generation feels cheaper/more brittle than the last one"
+          - "hardware feels like it's chasing margins rather than quality"
+        excludes: >
+          If a specific failure is named (clasp, battery), tag that specific
+          subcategory instead or in addition.
+
+  - id: sync_connectivity
+    name: Device Connectivity & Data Sync
+    definition: >
+      The link between the wearable and the phone app, and whether the data
+      that depends on that link actually shows up — from first-time pairing
+      through ongoing disconnects to data simply not appearing. Renamed from
+      "Bluetooth Pairing & Sync" in v2: data_sync_delays is really about stale/
+      missing data, not the Bluetooth link itself, and the old name implied
+      otherwise. (Fix 3, v2.)
+    watch_category: false
+    subcategories:
+      - id: onboarding_pairing
+        name: Onboarding & Initial Pairing
+        definition: The device fails to pair on first setup, or the early-use period is confusing/non-functional in a way distinct from ongoing disconnects.
+        includes:
+          - "wouldn't connect to a new phone right out of the box"
+          - "app is effectively unusable for the first several days while it collects baseline data, with no warning that's expected"
+        excludes: >
+          A device that paired fine initially and later drops connection is
+          ongoing_disconnects, not this. A firmware/app update that fails
+          specifically during first-time setup should be tagged here and also
+          app_stability > update_failures.
+      - id: ongoing_disconnects
+        name: Ongoing Disconnects / Re-pairing
+        definition: A previously-working pairing repeatedly drops during normal use and requires re-pairing.
+        includes:
+          - "unpairs if you walk more than a few feet from your phone"
+          - "have to re-pair regularly even though nothing changed"
+        excludes: >
+          A failure during first-time setup, before the device ever paired
+          successfully once, belongs in onboarding_pairing, not here.
+      - id: data_sync_delays
+        name: Data Sync Delays & Failures
+        definition: The device is connected but the app's data is stale, slow to update, missing entirely, or the device is wrongly reported as "not worn."
+        includes:
+          - "app says it's not being worn even though it is, so a whole night of sleep goes untracked"
+          - "takes a very long time after a workout before results show up"
+          - "hasn't synced any data since the account was set up"
+        excludes: >
+          If the app itself is frozen/crashed (not just showing stale data),
+          that's app_stability, not sync.
+
+  - id: data_accuracy
+    name: Data Accuracy & Trust
+    definition: >
+      Whether the numbers WHOOP reports (heart rate, strain, steps, distance,
+      activity type) are believed to be correct — the generic accuracy bucket,
+      distinct from the medically-adjacent signals called out separately below.
+    watch_category: false
+    subcategories:
+      - id: metric_accuracy
+        name: Sensor / Metric Accuracy (HR, Strain, Steps, Distance)
+        definition: A specific metric is reported as wrong, often benchmarked against another device or against how the person actually felt.
+        includes:
+          - "heart rate during strength training doesn't track the person's actual effort the way a comparison device does"
+          - "step count is wildly different from a comparison device or from reality"
+          - "recovery guidance contradicts how the person actually feels that day"
+        excludes: >
+          If the complaint is about automatic detection of *which* activity is
+          happening (not the numbers within a known activity), use
+          activity_detection. If the metric in question is cardiac-irregularity
+          detection, ECG, or blood pressure, use health_signal_reliability
+          instead — those are kept separate deliberately because of their
+          stakes, not because the underlying complaint shape differs. (Fix 2,
+          v2 — this exclude was missing in v1, creating a one-directional gap:
+          health_signal_reliability pointed here, but this didn't point back.)
+      - id: activity_detection
+        name: Automatic Activity Detection & Recognition
+        definition: The device fails to automatically recognize that an activity/workout is happening, or misclassifies it.
+        includes:
+          - "auto-detection of workouts used to trigger reliably and now often doesn't"
+          - "an activity gets logged as a much shorter duration than it actually was"
+        excludes: >
+          Once an activity is correctly detected, complaints about the numbers
+          it reports go to metric_accuracy.
+
+  - id: health_signal_reliability
+    name: Health-Signal Reliability & Medical-Adjacent Trust
+    definition: >
+      Accuracy/reliability complaints specifically about features that carry
+      medical or health-monitoring weight (cardiac irregularity detection, ECG,
+      blood pressure) rather than fitness metrics.
+    watch_category: true
+    watch_reason: >
+      Only ~1.1% of the sample by volume (2 of 180), but this is where an
+      inaccurate or delayed signal has the highest real-world stakes of anything
+      in this taxonomy — a missed cardiac irregularity detection is a different
+      category of consequence than a wrong step count. Frequency rank should not
+      determine how visible this category is downstream.
+    subcategories:
+      - id: cardiac_detection_trust
+        name: Cardiac / Irregularity Detection Trust
+        definition: A user with a known, clinically-relevant condition reports the device failing to detect episodes they know occurred.
+        includes:
+          - "a user with a diagnosed heart-rhythm condition reports zero detected incidents despite known episodes confirmed by a doctor"
+        excludes: >
+          General HRV/heart-rate accuracy skepticism with no clinical condition
+          named belongs in data_accuracy, not here — this subcategory is
+          specifically about detection claims tied to a real diagnosis.
+      - id: ecg_bp_feature_reliability
+        name: ECG / Blood Pressure Feature Reliability
+        definition: The ECG or blood-pressure-adjacent features are slow, unreliable, or burdensome (e.g., requiring manual entry).
+        includes:
+          - "ECG report processing takes over a day"
+          - "blood pressure has to be entered manually, which undercuts the point of an automated health monitor"
+        excludes: >
+          General HR/strain accuracy skepticism with no ECG/BP/cardiac angle
+          belongs in data_accuracy > metric_accuracy — this subcategory is
+          reserved specifically for the ECG and blood-pressure-adjacent
+          features, kept separate for their stakes, not their volume.
+
+  - id: ai_coach
+    name: AI Coach & Automated Guidance
+    definition: >
+      The in-app AI coaching/chat feature — its reliability, and specifically
+      whether users feel they have control over it.
+    watch_category: true
+    watch_reason: >
+      ~5.6% of sample volume for the parent overall, but ai_autonomy specifically
+      — the sharpest complaint shape ("I can't turn this off") — is extremely
+      thin: a full-dataset keyword check (see taxonomy_changelog.md, v2 Fix 1)
+      found exactly one review in all 3,295 describing a user disabling the AI
+      Coach and having it silently re-enable itself. It's kept as its own
+      subcategory anyway, per the brief's instruction not to bury low-volume/
+      high-stakes signal, but "watch" here means "watch for more examples,"
+      not "confirmed at scale."
+    subcategories:
+      - id: ai_reliability_bugs
+        name: AI Coach Reliability & Bugs
+        definition: The AI coach/chat feature is slow, locks up, or otherwise malfunctions.
+        includes:
+          - "the AI chat locks up after typing a longer question and the app has to be restarted"
+          - "responses are slow enough that people give up and use a different tool instead"
+        excludes: >
+          If the app crashes/restarts for reasons unrelated to the AI Coach
+          feature specifically, that's app_stability > crashes_freezes. If the
+          AI Coach malfunction requires restarting the app, tag here — the AI
+          feature is still the root cause.
+      - id: ai_autonomy
+        name: Forced / Non-Consensual AI Interaction
+        definition: >
+          Users report being unable to disable or opt out of the AI Coach
+          feature itself (its recommendations, prompts, or settings) — not the
+          support channel. Scope narrowed in v2; see taxonomy_changelog.md.
+        includes:
+          - "followed the documented steps to turn off the AI coach and it turned back on anyway"
+          - "AI and community features are pushed on the user with no visible way to opt out or send feedback about it"
+        excludes: >
+          "Customer support is now AI-only, with no human to reach" is a
+          support-channel complaint, not an AI Coach control complaint — tag
+          customer_support > ai_only_support_channel instead, even if the same
+          review also names the AI coach separately (that half still belongs
+          here). A generic "the AI isn't very smart" complaint with no
+          control/consent angle is ai_reliability_bugs.
+      - id: ai_positive_reception
+        name: AI Coach Positive Reception
+        definition: Explicit praise for the AI coach's usefulness or personality.
+        includes:
+          - "the recent AI coach upgrade is called out by name as a positive change"
+          - "the coach's personality/tone is specifically enjoyed"
+        excludes: >
+          Praise for a human support interaction, even one framed as helpful
+          "guidance," belongs in customer_support > support_satisfaction — this
+          subcategory is specifically about the AI coaching feature.
+
+  - id: customer_support
+    name: Customer Support Quality & Access
+    definition: >
+      The quality of support interactions and whether a human is reachable at
+      all — as distinct from the billing outcome the interaction was about, and
+      distinct from the AI Coach feature itself.
+    watch_category: false
+    subcategories:
+      - id: support_responsiveness
+        name: Support Responsiveness
+        definition: A human (or unspecified) support channel was slow to respond, never responded, or required repeated contact attempts.
+        includes:
+          - "no response weeks after opening a ticket"
+          - "had to contact support multiple times before getting any answer"
+        excludes: >
+          If the complaint is that there is no human to respond at all — the
+          channel is AI-only — tag ai_only_support_channel instead, even if it
+          also took multiple attempts to discover that.
+      - id: support_resolution_quality
+        name: Support Resolution Quality
+        definition: Support responded, but the response didn't actually fix the problem, felt scripted, or shifted blame to the user.
+        includes:
+          - "got a copy-paste response that didn't address the actual issue"
+          - "support implied the problem was how the device was being worn, not a device defect"
+        excludes: >
+          If the complaint is purely about the outcome of a refund/charge, tag
+          billing_disputes as well/instead — this subcategory is about how the
+          interaction itself went, not the money. If the "scripted" response
+          came from an AI with explicitly no human alternative, tag
+          ai_only_support_channel as well/instead.
+      - id: ai_only_support_channel
+        name: AI-Only Support Channel (No Human Path)
+        definition: >
+          The support channel itself has become AI-only, with no way to reach a
+          human, independent of how fast or well the AI responds. Added in v2 —
+          see taxonomy_changelog.md, Fix 1. Confirmed against the full 3,295-review
+          dataset: 20 real matches of this exact shape (2 additional keyword hits
+          were false positives — praise for the AI Coach feature, unrelated to
+          support).
+        includes:
+          - "support has been replaced entirely by AI, with no way to reach a human even after repeated attempts"
+          - "an AI chatbot cycles through scripted responses without resolving the issue or offering to escalate to a person"
+          - "after months of only AI responses, the review explicitly asks 'if a human is reading this, please reach out'"
+        excludes: >
+          A human agent who is slow (support_responsiveness) or unhelpful
+          (support_resolution_quality) is a different complaint than there
+          being no human at all. A complaint that the AI *Coach feature* can't
+          be turned off is ai_coach > ai_autonomy, not this — this subcategory
+          is about the support channel, not the coaching feature.
+      - id: support_satisfaction
+        name: Customer Support Satisfaction
+        definition: Explicit praise for a specific support interaction or for support quality generally.
+        includes:
+          - "support replied within minutes and fully resolved the issue"
+          - "years of consistently good support cited as a reason for loyalty"
+        excludes: >
+          Praise for the AI Coach feature specifically (not a support
+          interaction) belongs in ai_coach > ai_positive_reception.
+
+  - id: app_stability
+    name: App Stability & Performance
+    definition: >
+      The app itself malfunctioning — crashing, freezing, failing to open, or
+      failing to complete an update — regardless of whether the underlying data
+      is correct. "Performance" in this category's name means the app's own
+      responsiveness (e.g. sluggish to navigate even when not fully frozen); a
+      review that's slow specifically because it's *waiting on data* belongs in
+      sync_connectivity > data_sync_delays instead. (Clarified in v2, Fix 2 —
+      the parent name promised "Performance" but neither subcategory addressed
+      plain lag, and lag reviews could plausibly be misread as data-sync
+      complaints.)
+    watch_category: false
+    subcategories:
+      - id: crashes_freezes
+        name: Crashes, Freezes & Unresponsive App
+        definition: The app crashes, freezes, requires reinstalling, or a specific in-app action (like saving a journal entry) silently fails.
+        includes:
+          - "app has to be uninstalled and reinstalled roughly every couple of weeks"
+          - "app stopped opening at all after the phone restarted unexpectedly"
+        excludes: >
+          If data is simply stale/missing but the app itself runs fine, that's
+          data_sync_delays under sync_connectivity, not here.
+      - id: update_failures
+        name: Update Failures & Friction
+        definition: An app or firmware update fails to complete, or updates are perceived as too frequent/forced.
+        includes:
+          - "update gets stuck partway through repeatedly"
+          - "forced to update every few weeks whether wanted or not"
+        excludes: >
+          An update failure that happens specifically during first-time device
+          setup should also be tagged sync_connectivity > onboarding_pairing.
+
+  - id: ui_ux
+    name: UI/UX & Navigation
+    definition: >
+      How the interface is laid out and whether users can find and use what they
+      need — redesign regressions, device-specific rendering bugs, and
+      feature-level friction.
+    watch_category: false
+    subcategories:
+      - id: redesign_regression
+        name: Redesign Regression & Navigation Complexity
+        definition: A UI change removed or buried something users relied on, or generally increased the effort needed to find information.
+        includes:
+          - "the previous layout let you swipe through days at a glance; the redesign removed that"
+          - "more taps are now needed to see the same information as before"
+        excludes: >
+          A redesign complaint specifically about the alarm or sleep data
+          belongs primarily in sleep_tracking > sleep_alarm_ui — tag here too
+          only if the review names broader navigation changes beyond sleep.
+      - id: device_rendering_bugs
+        name: Device-Specific Rendering & Accessibility Bugs
+        definition: The UI breaks, is cut off, or is unreadable on specific devices/screen sizes or accessibility settings (foldables, large-text mode).
+        includes:
+          - "key charts get cut off and unreadable on a foldable phone"
+          - "using iOS's larger-text accessibility setting causes the layout to run off the screen"
+        excludes: >
+          Tag by what the review is actually complaining about, not by which OS
+          the device happens to run: a form-factor/accessibility bug (foldable
+          screen, large-text mode) stays here even on an Android device. If the
+          review explicitly frames it as Android getting a worse experience than
+          iOS (platform-investment complaint, not a screen-size/accessibility
+          one), tag platform_parity > android_specific_bugs instead or in
+          addition. (Fix 3, v2 — flagged as a second real overlap: every
+          device_rendering_bugs example found in the sample happened to be on an
+          Android device, and neither subcategory had text distinguishing the
+          two root causes.)
+      - id: feature_ui_friction
+        name: Feature-Specific UI Friction
+        definition: A specific feature (e.g., Strength Trainer, activity selection) is hard to use due to its interaction design, not a full crash.
+        includes:
+          - "scrolling inside the strength trainer doesn't work properly"
+          - "can only select an activity type from one specific tab, not the others where you'd expect it"
+        excludes: >
+          This is for a feature that exists but is awkward to interact with. If
+          the complaint is that an option/activity type doesn't exist at all,
+          that's feature_requests > missing_activity_types, not an interaction-
+          design problem.
+      - id: notification_community_issues
+        name: Notification & Community Feature Issues
+        definition: Notifications or community/chat features misbehave — messages that don't appear where expected, or the feature is broken outright.
+        includes:
+          - "push notifications for community messages arrive, but the messages aren't visible inside the app itself"
+          - "community chat feature is reported as broken/non-functional"
+        excludes: >
+          This is for the community/notification feature malfunctioning. If the
+          complaint is instead that community or AI features are being pushed
+          on the user with no way to opt out (a consent/control complaint, not
+          a bug report), tag ai_coach > ai_autonomy instead or in addition.
+
+  - id: platform_parity
+    name: Platform Parity (Android vs iOS)
+    definition: >
+      The Android app is missing features present on iOS, or behaves worse on
+      Android — a distinct root cause (uneven platform investment) from general
+      UI/UX complaints. Not present in the original keyword-based prior; it only
+      surfaced from actually reading the sample.
+    watch_category: false
+    subcategories:
+      - id: android_feature_gaps
+        name: Feature Gaps on Android
+        definition: A feature that exists on iOS is missing, reduced, or delayed on Android.
+        includes:
+          - "the overview heart-rate chart available on iOS isn't available on Android"
+          - "sharing and home-screen widgets exist on iOS but not on Android"
+        excludes: >
+          If a feature/metric is missing on both platforms (not an Android-vs-
+          iOS gap), tag feature_requests instead — this subcategory is
+          specifically for things that already exist on iOS but not Android.
+      - id: android_specific_bugs
+        name: Android-Specific Bugs / UX
+        definition: >
+          Bugs whose root cause is Android specifically being under-invested
+          relative to iOS — not general form-factor/accessibility bugs that
+          happen to occur on an Android device.
+        includes:
+          - "the app doesn't run full-screen on a specific Android phone, leaving a black bar"
+          - "had to borrow an iPhone to complete a firmware update before Android pairing would work"
+        excludes: >
+          A rendering bug tied to a specific screen size or accessibility
+          setting (foldables, large-text mode) belongs in ui_ux >
+          device_rendering_bugs unless the review explicitly frames it as
+          Android lagging behind iOS. See device_rendering_bugs' exclude note
+          for the full rule (Fix 3, v2).
+
+  - id: localization
+    name: Localization / Language Support
+    definition: >
+      Non-English speakers are underserved — either a language isn't supported
+      at all, or the English used inside the app is hard to follow. Also not
+      present in the original keyword-based prior.
+    watch_category: false
+    subcategories:
+      - id: missing_language_support
+        name: Missing Language / Translation Support
+        definition: A specific language (Chinese, Russian, Arabic, and others observed) is requested or its absence is called out as a blocker.
+        includes:
+          - "asks when/whether a Chinese-language version will be available"
+          - "lack of Arabic support is described as making the app effectively unusable"
+        excludes: >
+          A missing language is, technically, a missing feature — but tag it
+          here, not feature_requests, since localization has its own parent
+          precisely because it's a distinct, recurring root cause (see
+          taxonomy_notes.md) rather than a one-off product gap.
+      - id: english_jargon_complexity
+        name: English-Jargon / Terminology Complexity
+        definition: The app is technically usable but the English terminology is hard for a non-native speaker to follow, even without requesting full translation.
+        includes:
+          - "has to sit with a dictionary to understand the app's English terms"
+        excludes: >
+          If the ask is for full language support, tag missing_language_support
+          instead or in addition.
+
+  - id: feature_requests
+    name: Feature Requests & Product Gaps
+    definition: >
+      Things the product doesn't do yet, spanning missing activity/logging
+      options, missing data points, personalization/use-case mismatches, and
+      third-party integration gaps.
+    watch_category: false
+    subcategories:
+      - id: missing_activity_types
+        name: Missing Activity Types / Logging Granularity
+        definition: A specific activity type or a finer-grained logging option isn't available.
+        includes:
+          - "no option to log calisthenics as an activity type"
+          - "foam rolling exists as an option but the specific rolling tool/technique used isn't"
+        excludes: >
+          If the activity type or option already exists but is awkward to
+          select/use, that's ui_ux > feature_ui_friction, not a missing option.
+      - id: missing_metrics
+        name: Missing Metrics / Data Points
+        definition: A data point users want to see or log isn't tracked or isn't shown historically.
+        includes:
+          - "no way to track body weight or body-fat percentage alongside other metrics"
+          - "no historical chart for a metric that's only shown as a current snapshot"
+        excludes: >
+          If the metric is actually tracked and available but the user simply
+          can't find it in the navigation, that's a ui_ux findability issue, not
+          a missing metric.
+      - id: personalization_use_case_fit
+        name: Personalization, Coaching Relevance & Use-Case Fit
+        definition: >
+          The product assumes a specific type of user (elite athlete) and doesn't
+          flex for others — chronic conditions, non-athletic goals, or simply
+          showing irrelevant prompts (e.g., menstrual-cycle prompts shown to a
+          male user).
+        includes:
+          - "coaching doesn't account for a chronic illness or medication that affects the underlying metrics"
+          - "the product clearly assumes an elite-athlete user and offers no different workflow for general wellness use"
+          - "a male user is repeatedly asked a menstruation-tracking question that doesn't apply to him"
+        excludes: >
+          A request for a net-new feature with no personalization angle (e.g.,
+          "add a clock display") belongs in missing_activity_types or
+          missing_metrics instead.
+      - id: third_party_integration
+        name: Third-Party Integration Gaps & Errors
+        definition: Syncing with an external platform (Apple Health, Google Fit, Strava) is missing, limited, or produces wrong data when it does happen.
+        includes:
+          - "only a narrow set of fields sync to Apple Health, limiting what can be shared with a provider"
+          - "an activity exported to Strava shows a drastically different duration/distance than what WHOOP recorded"
+        excludes: >
+          If WHOOP's own recorded number is wrong even before any export, tag
+          data_accuracy > metric_accuracy instead — this subcategory is for
+          when WHOOP's own data is fine but a connected external platform
+          doesn't receive or display it correctly.

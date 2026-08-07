@@ -1,0 +1,366 @@
+{
+  "pricing_billing": {
+    "name": "Pricing & Billing",
+    "level": "parent",
+    "parent_id": null,
+    "watch_category": false,
+    "watch_reason": null
+  },
+  "price_value_perception": {
+    "name": "Price / Value Perception",
+    "level": "subcategory",
+    "parent_id": "pricing_billing",
+    "watch_category": false,
+    "watch_reason": null
+  },
+  "billing_disputes": {
+    "name": "Billing Disputes, Cancellation & Refund Friction",
+    "level": "subcategory",
+    "parent_id": "pricing_billing",
+    "watch_category": false,
+    "watch_reason": null
+  },
+  "plan_trial_structure": {
+    "name": "Plan & Trial Structure",
+    "level": "subcategory",
+    "parent_id": "pricing_billing",
+    "watch_category": false,
+    "watch_reason": null
+  },
+  "upsell_pressure": {
+    "name": "In-App Upsell & Promotional Pressure",
+    "level": "subcategory",
+    "parent_id": "pricing_billing",
+    "watch_category": false,
+    "watch_reason": null
+  },
+  "sleep_tracking": {
+    "name": "Sleep Tracking",
+    "level": "parent",
+    "parent_id": null,
+    "watch_category": false,
+    "watch_reason": null
+  },
+  "sleep_accuracy": {
+    "name": "Sleep Accuracy & Consistency",
+    "level": "subcategory",
+    "parent_id": "sleep_tracking",
+    "watch_category": false,
+    "watch_reason": null
+  },
+  "sleep_satisfaction": {
+    "name": "Sleep Tracking Satisfaction",
+    "level": "subcategory",
+    "parent_id": "sleep_tracking",
+    "watch_category": false,
+    "watch_reason": null
+  },
+  "sleep_alarm_ui": {
+    "name": "Sleep / Alarm UI Confusion",
+    "level": "subcategory",
+    "parent_id": "sleep_tracking",
+    "watch_category": false,
+    "watch_reason": null
+  },
+  "hardware_wearability": {
+    "name": "Hardware & Wearability",
+    "level": "parent",
+    "parent_id": null,
+    "watch_category": false,
+    "watch_reason": null
+  },
+  "strap_clasp_durability": {
+    "name": "Strap / Clasp Durability",
+    "level": "subcategory",
+    "parent_id": "hardware_wearability",
+    "watch_category": false,
+    "watch_reason": null
+  },
+  "comfort_fit": {
+    "name": "Comfort & Fit",
+    "level": "subcategory",
+    "parent_id": "hardware_wearability",
+    "watch_category": false,
+    "watch_reason": null
+  },
+  "battery_life": {
+    "name": "Battery Life",
+    "level": "subcategory",
+    "parent_id": "hardware_wearability",
+    "watch_category": false,
+    "watch_reason": null
+  },
+  "build_quality_perception": {
+    "name": "Build Quality Perception",
+    "level": "subcategory",
+    "parent_id": "hardware_wearability",
+    "watch_category": false,
+    "watch_reason": null
+  },
+  "sync_connectivity": {
+    "name": "Device Connectivity & Data Sync",
+    "level": "parent",
+    "parent_id": null,
+    "watch_category": false,
+    "watch_reason": null
+  },
+  "onboarding_pairing": {
+    "name": "Onboarding & Initial Pairing",
+    "level": "subcategory",
+    "parent_id": "sync_connectivity",
+    "watch_category": false,
+    "watch_reason": null
+  },
+  "ongoing_disconnects": {
+    "name": "Ongoing Disconnects / Re-pairing",
+    "level": "subcategory",
+    "parent_id": "sync_connectivity",
+    "watch_category": false,
+    "watch_reason": null
+  },
+  "data_sync_delays": {
+    "name": "Data Sync Delays & Failures",
+    "level": "subcategory",
+    "parent_id": "sync_connectivity",
+    "watch_category": false,
+    "watch_reason": null
+  },
+  "data_accuracy": {
+    "name": "Data Accuracy & Trust",
+    "level": "parent",
+    "parent_id": null,
+    "watch_category": false,
+    "watch_reason": null
+  },
+  "metric_accuracy": {
+    "name": "Sensor / Metric Accuracy (HR, Strain, Steps, Distance)",
+    "level": "subcategory",
+    "parent_id": "data_accuracy",
+    "watch_category": false,
+    "watch_reason": null
+  },
+  "activity_detection": {
+    "name": "Automatic Activity Detection & Recognition",
+    "level": "subcategory",
+    "parent_id": "data_accuracy",
+    "watch_category": false,
+    "watch_reason": null
+  },
+  "health_signal_reliability": {
+    "name": "Health-Signal Reliability & Medical-Adjacent Trust",
+    "level": "parent",
+    "parent_id": null,
+    "watch_category": true,
+    "watch_reason": "Only ~1.1% of the sample by volume (2 of 180), but this is where an inaccurate or delayed signal has the highest real-world stakes of anything in this taxonomy \u2014 a missed cardiac irregularity detection is a different category of consequence than a wrong step count. Frequency rank should not determine how visible this category is downstream."
+  },
+  "cardiac_detection_trust": {
+    "name": "Cardiac / Irregularity Detection Trust",
+    "level": "subcategory",
+    "parent_id": "health_signal_reliability",
+    "watch_category": true,
+    "watch_reason": "Only ~1.1% of the sample by volume (2 of 180), but this is where an inaccurate or delayed signal has the highest real-world stakes of anything in this taxonomy \u2014 a missed cardiac irregularity detection is a different category of consequence than a wrong step count. Frequency rank should not determine how visible this category is downstream."
+  },
+  "ecg_bp_feature_reliability": {
+    "name": "ECG / Blood Pressure Feature Reliability",
+    "level": "subcategory",
+    "parent_id": "health_signal_reliability",
+    "watch_category": true,
+    "watch_reason": "Only ~1.1% of the sample by volume (2 of 180), but this is where an inaccurate or delayed signal has the highest real-world stakes of anything in this taxonomy \u2014 a missed cardiac irregularity detection is a different category of consequence than a wrong step count. Frequency rank should not determine how visible this category is downstream."
+  },
+  "ai_coach": {
+    "name": "AI Coach & Automated Guidance",
+    "level": "parent",
+    "parent_id": null,
+    "watch_category": true,
+    "watch_reason": "~5.6% of sample volume for the parent overall, but ai_autonomy specifically \u2014 the sharpest complaint shape (\"I can't turn this off\") \u2014 is extremely thin: a full-dataset keyword check (see taxonomy_changelog.md, v2 Fix 1) found exactly one review in all 3,295 describing a user disabling the AI Coach and having it silently re-enable itself. It's kept as its own subcategory anyway, per the brief's instruction not to bury low-volume/ high-stakes signal, but \"watch\" here means \"watch for more examples,\" not \"confirmed at scale.\""
+  },
+  "ai_reliability_bugs": {
+    "name": "AI Coach Reliability & Bugs",
+    "level": "subcategory",
+    "parent_id": "ai_coach",
+    "watch_category": true,
+    "watch_reason": "~5.6% of sample volume for the parent overall, but ai_autonomy specifically \u2014 the sharpest complaint shape (\"I can't turn this off\") \u2014 is extremely thin: a full-dataset keyword check (see taxonomy_changelog.md, v2 Fix 1) found exactly one review in all 3,295 describing a user disabling the AI Coach and having it silently re-enable itself. It's kept as its own subcategory anyway, per the brief's instruction not to bury low-volume/ high-stakes signal, but \"watch\" here means \"watch for more examples,\" not \"confirmed at scale.\""
+  },
+  "ai_autonomy": {
+    "name": "Forced / Non-Consensual AI Interaction",
+    "level": "subcategory",
+    "parent_id": "ai_coach",
+    "watch_category": true,
+    "watch_reason": "~5.6% of sample volume for the parent overall, but ai_autonomy specifically \u2014 the sharpest complaint shape (\"I can't turn this off\") \u2014 is extremely thin: a full-dataset keyword check (see taxonomy_changelog.md, v2 Fix 1) found exactly one review in all 3,295 describing a user disabling the AI Coach and having it silently re-enable itself. It's kept as its own subcategory anyway, per the brief's instruction not to bury low-volume/ high-stakes signal, but \"watch\" here means \"watch for more examples,\" not \"confirmed at scale.\""
+  },
+  "ai_positive_reception": {
+    "name": "AI Coach Positive Reception",
+    "level": "subcategory",
+    "parent_id": "ai_coach",
+    "watch_category": true,
+    "watch_reason": "~5.6% of sample volume for the parent overall, but ai_autonomy specifically \u2014 the sharpest complaint shape (\"I can't turn this off\") \u2014 is extremely thin: a full-dataset keyword check (see taxonomy_changelog.md, v2 Fix 1) found exactly one review in all 3,295 describing a user disabling the AI Coach and having it silently re-enable itself. It's kept as its own subcategory anyway, per the brief's instruction not to bury low-volume/ high-stakes signal, but \"watch\" here means \"watch for more examples,\" not \"confirmed at scale.\""
+  },
+  "customer_support": {
+    "name": "Customer Support Quality & Access",
+    "level": "parent",
+    "parent_id": null,
+    "watch_category": false,
+    "watch_reason": null
+  },
+  "support_responsiveness": {
+    "name": "Support Responsiveness",
+    "level": "subcategory",
+    "parent_id": "customer_support",
+    "watch_category": false,
+    "watch_reason": null
+  },
+  "support_resolution_quality": {
+    "name": "Support Resolution Quality",
+    "level": "subcategory",
+    "parent_id": "customer_support",
+    "watch_category": false,
+    "watch_reason": null
+  },
+  "ai_only_support_channel": {
+    "name": "AI-Only Support Channel (No Human Path)",
+    "level": "subcategory",
+    "parent_id": "customer_support",
+    "watch_category": false,
+    "watch_reason": null
+  },
+  "support_satisfaction": {
+    "name": "Customer Support Satisfaction",
+    "level": "subcategory",
+    "parent_id": "customer_support",
+    "watch_category": false,
+    "watch_reason": null
+  },
+  "app_stability": {
+    "name": "App Stability & Performance",
+    "level": "parent",
+    "parent_id": null,
+    "watch_category": false,
+    "watch_reason": null
+  },
+  "crashes_freezes": {
+    "name": "Crashes, Freezes & Unresponsive App",
+    "level": "subcategory",
+    "parent_id": "app_stability",
+    "watch_category": false,
+    "watch_reason": null
+  },
+  "update_failures": {
+    "name": "Update Failures & Friction",
+    "level": "subcategory",
+    "parent_id": "app_stability",
+    "watch_category": false,
+    "watch_reason": null
+  },
+  "ui_ux": {
+    "name": "UI/UX & Navigation",
+    "level": "parent",
+    "parent_id": null,
+    "watch_category": false,
+    "watch_reason": null
+  },
+  "redesign_regression": {
+    "name": "Redesign Regression & Navigation Complexity",
+    "level": "subcategory",
+    "parent_id": "ui_ux",
+    "watch_category": false,
+    "watch_reason": null
+  },
+  "device_rendering_bugs": {
+    "name": "Device-Specific Rendering & Accessibility Bugs",
+    "level": "subcategory",
+    "parent_id": "ui_ux",
+    "watch_category": false,
+    "watch_reason": null
+  },
+  "feature_ui_friction": {
+    "name": "Feature-Specific UI Friction",
+    "level": "subcategory",
+    "parent_id": "ui_ux",
+    "watch_category": false,
+    "watch_reason": null
+  },
+  "notification_community_issues": {
+    "name": "Notification & Community Feature Issues",
+    "level": "subcategory",
+    "parent_id": "ui_ux",
+    "watch_category": false,
+    "watch_reason": null
+  },
+  "platform_parity": {
+    "name": "Platform Parity (Android vs iOS)",
+    "level": "parent",
+    "parent_id": null,
+    "watch_category": false,
+    "watch_reason": null
+  },
+  "android_feature_gaps": {
+    "name": "Feature Gaps on Android",
+    "level": "subcategory",
+    "parent_id": "platform_parity",
+    "watch_category": false,
+    "watch_reason": null
+  },
+  "android_specific_bugs": {
+    "name": "Android-Specific Bugs / UX",
+    "level": "subcategory",
+    "parent_id": "platform_parity",
+    "watch_category": false,
+    "watch_reason": null
+  },
+  "localization": {
+    "name": "Localization / Language Support",
+    "level": "parent",
+    "parent_id": null,
+    "watch_category": false,
+    "watch_reason": null
+  },
+  "missing_language_support": {
+    "name": "Missing Language / Translation Support",
+    "level": "subcategory",
+    "parent_id": "localization",
+    "watch_category": false,
+    "watch_reason": null
+  },
+  "english_jargon_complexity": {
+    "name": "English-Jargon / Terminology Complexity",
+    "level": "subcategory",
+    "parent_id": "localization",
+    "watch_category": false,
+    "watch_reason": null
+  },
+  "feature_requests": {
+    "name": "Feature Requests & Product Gaps",
+    "level": "parent",
+    "parent_id": null,
+    "watch_category": false,
+    "watch_reason": null
+  },
+  "missing_activity_types": {
+    "name": "Missing Activity Types / Logging Granularity",
+    "level": "subcategory",
+    "parent_id": "feature_requests",
+    "watch_category": false,
+    "watch_reason": null
+  },
+  "missing_metrics": {
+    "name": "Missing Metrics / Data Points",
+    "level": "subcategory",
+    "parent_id": "feature_requests",
+    "watch_category": false,
+    "watch_reason": null
+  },
+  "personalization_use_case_fit": {
+    "name": "Personalization, Coaching Relevance & Use-Case Fit",
+    "level": "subcategory",
+    "parent_id": "feature_requests",
+    "watch_category": false,
+    "watch_reason": null
+  },
+  "third_party_integration": {
+    "name": "Third-Party Integration Gaps & Errors",
+    "level": "subcategory",
+    "parent_id": "feature_requests",
+    "watch_category": false,
+    "watch_reason": null
+  }
+}

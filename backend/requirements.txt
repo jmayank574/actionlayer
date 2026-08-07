@@ -4,3 +4,5 @@ anthropic
 python-dotenv
 requests
 email-validator
+google-play-scraper
+pandas
