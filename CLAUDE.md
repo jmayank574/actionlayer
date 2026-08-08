@@ -39,14 +39,20 @@ actionlayer/
 │       ├── category_trends.csv, category_trend_verdicts.csv
 │       ├── open_coding.csv, taxonomy_sample.csv, eval_sample.csv  # Taxonomy-building/eval samples
 │       └── _archive/                  # Old prompt-tuning investigation, kept for reference
-└── frontend/          # Vite + React + TypeScript dashboard (no live backend -- reads static JSON)
+└── frontend/          # Vite + React + TypeScript dashboard
     ├── public/data/products.json         # Category → Product registry
-    ├── public/data/whoop/*.json          # Exported pipeline output (only data source)
+    ├── public/data/whoop/*.json          # Exported pipeline output (static data source)
     └── src/
-        ├── pages/CategoryLanding.tsx, CategoryPage.tsx, ProductDashboard.tsx
+        ├── pages/CategoryLanding.tsx, CategoryPage.tsx, ProductDashboard.tsx, Assistant.tsx
         ├── components/InsightFeed.tsx, InsightCard.tsx, WatchZone.tsx, TrendChart.tsx, ...
-        └── lib/data.ts        # fetch + in-memory cache over the static JSON
+        ├── lib/data.ts        # fetch + in-memory cache over the static JSON
+        └── lib/assistant.ts   # calls the one live backend endpoint (see below)
 ```
+
+**The Assistant is the one live-backend exception.** Everything above is static
+JSON, computed offline. `backend/assistant_server.py` (FastAPI, local dev only
+via `uvicorn assistant_server:app --reload --port 8001`) is a real live
+endpoint the Vite dev server calls at runtime. See "The Assistant" section below.
 
 ## Dev Commands
 
@@ -65,6 +71,12 @@ cd frontend
 npm run dev        # localhost:5173
 npm run build      # tsc -b && vite build
 npx tsc -b         # type-check only
+```
+
+**Assistant backend (only needed for the /assistant page):**
+```bash
+cd backend
+uvicorn assistant_server:app --reload --port 8001
 ```
 
 **Automation:** `.github/workflows/daily-pipeline.yml` runs the full pipeline daily (13:00 UTC) and commits changed outputs. Requires an `ANTHROPIC_API_KEY` repository secret — without it, the tagging step fails on any day with genuinely new reviews (harmless no-op on days with none).
@@ -97,6 +109,17 @@ Google Play has ~9 years of history; App Store only has what Apple's RSS window 
 ### Insight feed prioritization (backend/export_dashboard_data.py, `build_insight_feed`)
 Two zones: **Zone A** ("Priority Insights") ranks categories by `priority_score = recent_count * abs(pp_delta)`, minimum 15 recent mentions, top 4–6 cards. **Watch Categories** always surfaces `ai_coach` and `health_signal_reliability` regardless of volume — stakes over frequency, defined via `watch_category`/`watch_reason` in `data/taxonomy.yaml`. Card titles and narratives are deterministic templates, never LLM-generated, to stay consistent with the no-fabrication discipline everywhere else in this pipeline.
 
+### The Assistant (backend/assistant/, backend/assistant_server.py)
+A tool-calling Claude chat over the real pipeline data, modeled on Unwrap's Assistant. Claude does not answer from memory or invent numbers -- it calls real tools (`backend/assistant/tools.py`) and every fact in its answer must trace back to a tool result, enforced by the system prompt in `backend/assistant/agent.py`:
+- `list_categories` -- valid category/subcategory ids, so Claude doesn't guess one
+- `search_reviews` -- keyword + category/source/rating filtered search over `tagged_reviews.csv`, returns real review_id/text/date/source
+- `get_category_stats` -- recent/baseline rate, pp_delta, verdict for one or all categories, at a given scope
+- `get_trend_timeseries` -- a category's monthly rate series, for charting (feeds the same `TrendChart` component used elsewhere)
+
+`agent.py`'s `run_conversation()` loops tool calls (capped at `MAX_TOOL_ITERATIONS`) until Claude returns a text-only response, then returns `{text, quotes, chart, category_stats}` -- `quotes` is every review surfaced via `search_reviews` this turn (deduped), so the frontend can show real citations alongside the answer, not just embedded in the prose. `AssistantData` loads the CSVs once at server startup, not per-request.
+
+Local-dev-only: `frontend/src/lib/assistant.ts` calls `http://localhost:8001` directly, CORS-restricted to `localhost:5173`. No hosting/deployment exists for this yet.
+
 ## Environment Variables
 
 **Backend** (`backend/.env`):
@@ -110,4 +133,5 @@ Two zones: **Zone A** ("Priority Insights") ranks categories by `priority_score 
 - **Never mix source scopes**: Google Play's full history and App Store's RSS-window-only data must never be blended outside the explicit `combined_overlap` window (Nov 2025+). Every dashboard number must disclose which scope it's from.
 - **Ingestion is append-only in spirit**: `ingest.py` upserts, never overwrites. A review must never disappear from `whoop_reviews_raw.csv` just because a later pull didn't happen to return it.
 - **Tagging is incremental by default**: don't re-tag the whole corpus casually — it costs real money. Use `--full` only when the taxonomy itself has changed.
-- **`backend/data/*.csv` and `frontend/public/data/whoop/*.json` are committed to git** — this is the persistence layer; there's no database and no long-running server.
+- **`backend/data/*.csv` and `frontend/public/data/whoop/*.json` are committed to git** — this is the persistence layer for the pipeline; there's no database. The Assistant is the one exception: a real long-running server (`backend/assistant_server.py`), local-dev-only for now.
+- **The Assistant must never answer from Claude's own memory or invent a statistic/quote** — every fact in its response must come from a tool call this conversation. If extending its tools, keep them read-only over the already-computed data; don't let it write to `backend/data/`.

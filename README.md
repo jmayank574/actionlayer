@@ -54,11 +54,23 @@ npm install
 npm run dev        # localhost:5173
 ```
 
+## Assistant
+
+A chat interface for asking free-form questions about the review data — modeled on Unwrap's Assistant. Claude gets real tools (search reviews, pull category stats, get a trend time series) and reasons across multiple calls before answering; every quote and number in its response has to come from a tool call, never from memory. This is the one live-backend piece of the app:
+
+```bash
+# alongside the dashboard's npm run dev
+cd backend
+uvicorn assistant_server:app --reload --port 8001
+```
+
+Then open the Assistant page from the dashboard sidebar. Local dev only for now — nothing deployed yet.
+
 ## Stack
 
-- **AI:** Anthropic Claude (`claude-sonnet-4-6`), used only for multi-label review tagging
+- **AI:** Anthropic Claude (`claude-sonnet-4-6`) — review tagging, and the Assistant's tool-calling chat
 - **Pipeline:** Python, pandas
-- **Dashboard:** Vite, React, TypeScript, Tailwind CSS v4, recharts — a static site reading pre-computed JSON, no live backend server
+- **Dashboard:** Vite, React, TypeScript, Tailwind CSS v4, recharts — mostly a static site reading pre-computed JSON, plus the live Assistant backend (FastAPI) described above
 - **Automation:** GitHub Actions (daily ingest → tag → trend → export → commit)
 
 ## Archive
