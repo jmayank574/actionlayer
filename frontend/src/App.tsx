@@ -1,5 +1,6 @@
 import { Routes, Route } from 'react-router-dom'
 import Sidebar from './components/Sidebar'
+import Assistant from './pages/Assistant'
 import CategoryLanding from './pages/CategoryLanding'
 import CategoryPage from './pages/CategoryPage'
 import ProductDashboard from './pages/ProductDashboard'
@@ -12,6 +13,7 @@ export default function App() {
         <div className="mx-auto max-w-6xl">
           <Routes>
             <Route path="/" element={<CategoryLanding />} />
+            <Route path="/assistant" element={<Assistant />} />
             <Route path="/category/:categorySlug" element={<CategoryPage />} />
             <Route
               path="/category/:categorySlug/product/:productId"

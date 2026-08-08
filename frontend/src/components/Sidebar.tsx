@@ -13,7 +13,7 @@ interface NavItem {
 // until there's something real behind them.
 const NAV_ITEMS: NavItem[] = [
   { label: 'Home', icon: Home, to: '/' },
-  { label: 'Assistant', icon: Sparkles },
+  { label: 'Assistant', icon: Sparkles, to: '/assistant' },
   { label: 'Explore', icon: Compass },
 ]
 
@@ -48,7 +48,7 @@ export default function Sidebar() {
 
       <nav className="flex-1 px-3 space-y-0.5">
         {NAV_ITEMS.map((item) => {
-          const active = item.to !== undefined && isHome
+          const active = item.to === '/' ? isHome : item.to !== undefined && location.pathname.startsWith(item.to)
           const Icon = item.icon
           const content = (
             <>
