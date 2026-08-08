@@ -1,6 +1,18 @@
 {
   "pricing_billing": [
     {
+      "review_id": "5647e6fd-3a25-4beb-9224-700e304b644b",
+      "source": "google_play",
+      "rating": 2,
+      "date": "2026-08-06T05:43:19",
+      "text": "This app is not great. First off, the UI is cluttered and messy. This could/should be so much cleaner and easier. Secondly, I've never seen an app/product trying to get you to upgrade, spend more, commit to more of a subscription in my life (also why the user interface is so cluttered, it's just riddled with \"click here, upgrade there, spend more monthly\". I get the same info from my Garmin watch, with NO subscription. This thing will be going back. Thumbs down.",
+      "subcategory_tags": [
+        "redesign_regression",
+        "upsell_pressure",
+        "price_value_perception"
+      ]
+    },
+    {
       "review_id": "f0296ac4-e148-4206-a26b-db948edf4a24",
       "source": "google_play",
       "rating": 1,
@@ -326,19 +338,21 @@
         "english_jargon_complexity",
         "price_value_perception"
       ]
-    },
-    {
-      "review_id": "3df83135-f539-42e0-be64-b841a5e00401",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2026-07-15T16:52:14",
-      "text": "Whoop is a waste of money!",
-      "subcategory_tags": [
-        "price_value_perception"
-      ]
     }
   ],
   "price_value_perception": [
+    {
+      "review_id": "5647e6fd-3a25-4beb-9224-700e304b644b",
+      "source": "google_play",
+      "rating": 2,
+      "date": "2026-08-06T05:43:19",
+      "text": "This app is not great. First off, the UI is cluttered and messy. This could/should be so much cleaner and easier. Secondly, I've never seen an app/product trying to get you to upgrade, spend more, commit to more of a subscription in my life (also why the user interface is so cluttered, it's just riddled with \"click here, upgrade there, spend more monthly\". I get the same info from my Garmin watch, with NO subscription. This thing will be going back. Thumbs down.",
+      "subcategory_tags": [
+        "redesign_regression",
+        "upsell_pressure",
+        "price_value_perception"
+      ]
+    },
     {
       "review_id": "f0296ac4-e148-4206-a26b-db948edf4a24",
       "source": "google_play",
@@ -670,18 +684,6 @@
         "price_value_perception",
         "comfort_fit",
         "support_responsiveness"
-      ]
-    },
-    {
-      "review_id": "14284225480",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-07-09T18:25:11-07:00",
-      "text": "Nothing meaningful has been added to the app in so long. The device constantly logs workouts incorrectly - I just vacuumed and it thought I was weightlifting. This used to be a cutting edge company and now it’s average. This is not worth the exorbitant price tag, and I will not be renewing my subscription.",
-      "subcategory_tags": [
-        "activity_detection",
-        "price_value_perception",
-        "missing_metrics"
       ]
     }
   ],
@@ -1378,6 +1380,18 @@
   ],
   "upsell_pressure": [
     {
+      "review_id": "5647e6fd-3a25-4beb-9224-700e304b644b",
+      "source": "google_play",
+      "rating": 2,
+      "date": "2026-08-06T05:43:19",
+      "text": "This app is not great. First off, the UI is cluttered and messy. This could/should be so much cleaner and easier. Secondly, I've never seen an app/product trying to get you to upgrade, spend more, commit to more of a subscription in my life (also why the user interface is so cluttered, it's just riddled with \"click here, upgrade there, spend more monthly\". I get the same info from my Garmin watch, with NO subscription. This thing will be going back. Thumbs down.",
+      "subcategory_tags": [
+        "redesign_regression",
+        "upsell_pressure",
+        "price_value_perception"
+      ]
+    },
+    {
       "review_id": "90501301-b637-463d-8418-61ad73541081",
       "source": "google_play",
       "rating": 2,
@@ -1713,20 +1727,19 @@
         "missing_metrics",
         "personalization_use_case_fit"
       ]
-    },
-    {
-      "review_id": "d2349d43-485d-46ac-9455-f0f859cccc0f",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2025-12-09T11:13:53",
-      "text": "I will change my rate once I stop seeing aggressive promos from whoop. I paid $500 a year not to see adds.",
-      "subcategory_tags": [
-        "price_value_perception",
-        "upsell_pressure"
-      ]
     }
   ],
   "sleep_tracking": [
+    {
+      "review_id": "47ea5e4b-f15c-4a98-adbd-17f3bd12a261",
+      "source": "google_play",
+      "rating": 5,
+      "date": "2026-08-06T02:51:46",
+      "text": "this has really helped me with good insights into how my choices affect sleep and recovery patterns. I am really pleased thus far",
+      "subcategory_tags": [
+        "sleep_satisfaction"
+      ]
+    },
     {
       "review_id": "abc20aac-c89c-4824-9d67-43c978fcbc3e",
       "source": "google_play",
@@ -2047,17 +2060,6 @@
       "text": "Good sleep band. whoop gives you very critical sensitive informations regarding your sleep process very analytically. you can change your sleep pattern definitely. simple steps but wonderful results. sleep is vey sensitive phenomenon. We are not aware of it. Whoop sensitise your perspective and practises towards the simple natural god gift sleep process. that's incredible. today I had a long sleep. thank you Whoop.",
       "subcategory_tags": [
         "sleep_satisfaction"
-      ]
-    },
-    {
-      "review_id": "14258955730",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-07-03T11:09:24-07:00",
-      "text": "The awake time is give me to much time. I went to sleep at 12 and woke up at 10 and it said I had an 1 and 28 mins of awake time. Awful. Returning now because all the workers can’t ever fix anything",
-      "subcategory_tags": [
-        "sleep_accuracy",
-        "support_resolution_quality"
       ]
     }
   ],
@@ -2420,6 +2422,16 @@
   ],
   "sleep_satisfaction": [
     {
+      "review_id": "47ea5e4b-f15c-4a98-adbd-17f3bd12a261",
+      "source": "google_play",
+      "rating": 5,
+      "date": "2026-08-06T02:51:46",
+      "text": "this has really helped me with good insights into how my choices affect sleep and recovery patterns. I am really pleased thus far",
+      "subcategory_tags": [
+        "sleep_satisfaction"
+      ]
+    },
+    {
       "review_id": "abc20aac-c89c-4824-9d67-43c978fcbc3e",
       "source": "google_play",
       "rating": 4,
@@ -2728,18 +2740,6 @@
       "text": "I love my whoop. Have worn it almost 800 consecutive days and it just gets better the longer I wear it. It’s helped me train better, sleep better, and do my daily job better.",
       "subcategory_tags": [
         "sleep_satisfaction"
-      ]
-    },
-    {
-      "review_id": "c9a79d1e-916a-4d7c-98ee-6563effaee2c",
-      "source": "google_play",
-      "rating": 5,
-      "date": "2026-06-20T03:50:41",
-      "text": "WHOOP has been one of the best investments I've ever made in my health. It's not cheap, but the value it provides far exceeds the cost. The insights on sleep, recovery, stress, and overall wellness help you make better decisions every day. You don't need to be an athlete to benefit from it. If you care about your physical and mental well-being, WHOOP is a powerful tool that helps you understand your body and live a healthier, more balanced life.",
-      "subcategory_tags": [
-        "price_value_perception",
-        "sleep_satisfaction",
-        "personalization_use_case_fit"
       ]
     }
   ],
@@ -12073,6 +12073,18 @@
   ],
   "ui_ux": [
     {
+      "review_id": "5647e6fd-3a25-4beb-9224-700e304b644b",
+      "source": "google_play",
+      "rating": 2,
+      "date": "2026-08-06T05:43:19",
+      "text": "This app is not great. First off, the UI is cluttered and messy. This could/should be so much cleaner and easier. Secondly, I've never seen an app/product trying to get you to upgrade, spend more, commit to more of a subscription in my life (also why the user interface is so cluttered, it's just riddled with \"click here, upgrade there, spend more monthly\". I get the same info from my Garmin watch, with NO subscription. This thing will be going back. Thumbs down.",
+      "subcategory_tags": [
+        "redesign_regression",
+        "upsell_pressure",
+        "price_value_perception"
+      ]
+    },
+    {
       "review_id": "d6d90ade-0d34-4338-be72-31fc5b024692",
       "source": "google_play",
       "rating": 2,
@@ -12404,20 +12416,21 @@
         "feature_ui_friction",
         "missing_activity_types"
       ]
-    },
-    {
-      "review_id": "14233693461",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-06-27T10:49:58-07:00",
-      "text": "Constant crashes and UI design that puts form far above function keeps you from getting bogged down with the annoying bits of your workout, things like moving the weight, moving yourself. Stay distracted by poor QA and you’ll barely break a sweat your next workout!",
-      "subcategory_tags": [
-        "crashes_freezes",
-        "feature_ui_friction"
-      ]
     }
   ],
   "redesign_regression": [
+    {
+      "review_id": "5647e6fd-3a25-4beb-9224-700e304b644b",
+      "source": "google_play",
+      "rating": 2,
+      "date": "2026-08-06T05:43:19",
+      "text": "This app is not great. First off, the UI is cluttered and messy. This could/should be so much cleaner and easier. Secondly, I've never seen an app/product trying to get you to upgrade, spend more, commit to more of a subscription in my life (also why the user interface is so cluttered, it's just riddled with \"click here, upgrade there, spend more monthly\". I get the same info from my Garmin watch, with NO subscription. This thing will be going back. Thumbs down.",
+      "subcategory_tags": [
+        "redesign_regression",
+        "upsell_pressure",
+        "price_value_perception"
+      ]
+    },
     {
       "review_id": "d6d90ade-0d34-4338-be72-31fc5b024692",
       "source": "google_play",
@@ -12758,18 +12771,6 @@
         "redesign_regression",
         "price_value_perception",
         "metric_accuracy"
-      ]
-    },
-    {
-      "review_id": "f0d031a1-d0dd-4ab5-a84a-3ae4b0f1a244",
-      "source": "google_play",
-      "rating": 2,
-      "date": "2026-04-03T13:02:37",
-      "text": "nagivating through the app is confusing, and it tries to upsell you constantly to the higher-priced whoop subscription. the community chat feature doesn't work reliably, oftentimes incoming messages will appear in the phone notifications but the messages aren't visible at all when inside the app.",
-      "subcategory_tags": [
-        "redesign_regression",
-        "upsell_pressure",
-        "notification_community_issues"
       ]
     }
   ],

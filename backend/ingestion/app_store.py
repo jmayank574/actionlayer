@@ -52,6 +52,17 @@ def fetch_app_store_reviews(app_id: str, country: str = "us") -> tuple[list[dict
 
         entries = data.get("feed", {}).get("entry", [])
         if not entries:
+            if page == 1:
+                # A live, actively-reviewed app returning zero entries on page 1
+                # (HTTP 200, valid JSON) is not "no reviews" -- it's almost
+                # always a transient storefront-level throttle from Apple.
+                # Flag it explicitly rather than silently reporting an empty
+                # pull as if the feed were naturally exhausted.
+                issues.append(
+                    f"App Store: page 1 returned 0 entries (HTTP 200) -- likely a transient "
+                    f"per-storefront throttle from Apple, not a real empty feed. No reviews "
+                    f"collected this pull; prior data was left untouched by the upsert."
+                )
             break
 
         all_entries.extend(entries)
