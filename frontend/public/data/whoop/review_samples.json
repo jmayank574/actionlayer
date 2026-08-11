@@ -1,6 +1,98 @@
 {
   "pricing_billing": [
     {
+      "review_id": "14405356198",
+      "source": "app_store",
+      "rating": 3,
+      "date": "2026-08-08T21:56:04-07:00",
+      "text": "The piling on of AI “features” that I can’t turn off or opt out of is already irritating, but the tracking has also only been getting worse (it used to be on the nose about my main activity, now it is all over the place and regular automatically stops logging when I’ve barely even started, only to log showers as activities instead). It might just be coincidence but the decline coinciding with the increased AI integration, and my observations of every other AI tool I’ve been unable to avoid, do make me suspicious that these things are related, to Whoop’s detriment. A new low, it logged 4x as many steps as Apple Health today - I was on a road trip for 5.5 hours, Whoop is definitely the one that’s wrong about this. If they insist on burying themselves with AI, I just wish I could at least turn off the way it interacts with me. I don’t want an app talking to me in a creepy imitation of a person. Unfortunately, I bought a longer subscription at my last renewal. If the accuracy doesn’t come back by the time that expires, I just don’t think the high price will be worth it.",
+      "subcategory_tags": [
+        "ai_autonomy",
+        "activity_detection",
+        "metric_accuracy",
+        "price_value_perception"
+      ]
+    },
+    {
+      "review_id": "f3c8c299-0735-474b-8868-b9eb483215ae",
+      "source": "google_play",
+      "rating": 1,
+      "date": "2026-08-09T04:45:42+00:00",
+      "text": "No value for money 👎",
+      "subcategory_tags": [
+        "price_value_perception"
+      ]
+    },
+    {
+      "review_id": "682c6f55-0c48-48a1-b8ce-4d9f630ce9a5",
+      "source": "google_play",
+      "rating": 1,
+      "date": "2026-08-08T18:13:35+00:00",
+      "text": "The Whoop wristband is clingly. You can't take it off without it sending annoying messages about your wristband being off, so notifications have to be turned off entirely. Then Whoop processes your data through AI when opening pages and forces its AI slop without a way to opt out. After reaching out to customer service for the first time, I received a clueless AI-generated response. After that, I cancelled my subscription and threw my Whoop wristband in the trash.",
+      "subcategory_tags": [
+        "notification_community_issues",
+        "ai_autonomy",
+        "ai_only_support_channel",
+        "billing_disputes"
+      ]
+    },
+    {
+      "review_id": "14402367478",
+      "source": "app_store",
+      "rating": 3,
+      "date": "2026-08-08T03:50:37-07:00",
+      "text": "Poderia oferecer e ser mais fácil de entender pelo que cobra, ex: dificuldade de colocar os exames no aplicativo, etc..",
+      "subcategory_tags": [
+        "price_value_perception",
+        "english_jargon_complexity"
+      ]
+    },
+    {
+      "review_id": "3e395941-9621-4f32-872e-3b64fcc721c7",
+      "source": "google_play",
+      "rating": 1,
+      "date": "2026-08-07T17:03:04+00:00",
+      "text": "The worst app support and customer support you can expect for such a premium that you pay for their services. I did not exact this from Whoop. Do no recommend anyone using this product. It's a scam. Stay away",
+      "subcategory_tags": [
+        "support_responsiveness",
+        "price_value_perception"
+      ]
+    },
+    {
+      "review_id": "14398643236",
+      "source": "app_store",
+      "rating": 3,
+      "date": "2026-08-07T04:53:22-07:00",
+      "text": "I hate it when apps make it extremely hard to find the cancel button. This one was particularly bad which is why I gave 3 stars. The app itself was fine while I was using it.",
+      "subcategory_tags": [
+        "billing_disputes"
+      ]
+    },
+    {
+      "review_id": "14398184389",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-08-07T02:01:26-07:00",
+      "text": "This device continues to miss my sleep even though it is placed correctly, and charged how it should be. I have had it replaced and changed the strap. I made the mistake of paying for a year… and they will not refund me. I will not do that again. Also the AI feature is generic and unhelpful. It doesn’t even notice that the data isn’t accurate.",
+      "subcategory_tags": [
+        "sleep_accuracy",
+        "billing_disputes",
+        "ai_reliability_bugs"
+      ]
+    },
+    {
+      "review_id": "14396240070",
+      "source": "app_store",
+      "rating": 3,
+      "date": "2026-08-06T12:57:59-07:00",
+      "text": "Here’s the thing I’m looking for this to provide me with information regarding blood pressure, heartbeat, sleep, etc. nothing overly complicated. They have four categories in the app 1000 advertisements. Every other thing on the app is trying to sell you a service or an add-on. to be clear I’m only giving my thoughts here on the app itself. This is overly convoluted. I’ll round back up to this after the first 30 days once I’ve opened Healthspan and compare the numbers to my Apple Watch. To be fair, I actually had a conversation with my cardiologist. Not familiar whoop nor do they have a feeling one way or the other about it. So they’re curious.. I’m not sure MG for medical grade necessarily means anything beyond Marketing. I’m cautiously optimistic.",
+      "subcategory_tags": [
+        "upsell_pressure",
+        "ecg_bp_feature_reliability",
+        "metric_accuracy"
+      ]
+    },
+    {
       "review_id": "5647e6fd-3a25-4beb-9224-700e304b644b",
       "source": "google_play",
       "rating": 2,
@@ -249,96 +341,54 @@
       "subcategory_tags": [
         "billing_disputes"
       ]
-    },
+    }
+  ],
+  "price_value_perception": [
     {
-      "review_id": "14331942366",
+      "review_id": "14405356198",
       "source": "app_store",
-      "rating": 1,
-      "date": "2026-07-21T14:50:37-07:00",
-      "text": "Just too expensive for what it is",
+      "rating": 3,
+      "date": "2026-08-08T21:56:04-07:00",
+      "text": "The piling on of AI “features” that I can’t turn off or opt out of is already irritating, but the tracking has also only been getting worse (it used to be on the nose about my main activity, now it is all over the place and regular automatically stops logging when I’ve barely even started, only to log showers as activities instead). It might just be coincidence but the decline coinciding with the increased AI integration, and my observations of every other AI tool I’ve been unable to avoid, do make me suspicious that these things are related, to Whoop’s detriment. A new low, it logged 4x as many steps as Apple Health today - I was on a road trip for 5.5 hours, Whoop is definitely the one that’s wrong about this. If they insist on burying themselves with AI, I just wish I could at least turn off the way it interacts with me. I don’t want an app talking to me in a creepy imitation of a person. Unfortunately, I bought a longer subscription at my last renewal. If the accuracy doesn’t come back by the time that expires, I just don’t think the high price will be worth it.",
       "subcategory_tags": [
-        "price_value_perception"
-      ]
-    },
-    {
-      "review_id": "63223b2e-b3f7-492c-be5f-c08db7257915",
-      "source": "google_play",
-      "rating": 5,
-      "date": "2026-07-21T18:13:59",
-      "text": "the AI is amazing and fun. in my opinion money well spent.",
-      "subcategory_tags": [
-        "ai_positive_reception",
-        "price_value_perception"
-      ]
-    },
-    {
-      "review_id": "e359e077-ff73-49b4-9965-f6daf3f082ae",
-      "source": "google_play",
-      "rating": 2,
-      "date": "2026-07-20T05:15:21",
-      "text": "Way too expensive. The UI is a dumpster fire; it looks like someone threw random design elements into a box and shook it. The AI is mostly useless. I can't take it off to shower without it freaking out. The band physically looks nice though, and the data it gathers can be interesting, if not useful.",
-      "subcategory_tags": [
-        "price_value_perception",
-        "redesign_regression",
-        "ai_reliability_bugs"
-      ]
-    },
-    {
-      "review_id": "14318857599",
-      "source": "app_store",
-      "rating": 4,
-      "date": "2026-07-18T08:59:10-07:00",
-      "text": "I feel the data is ok and not always consistent. Will be moving to the Google fit air when the subscription ends. Once they lose me I won’t be back.",
-      "subcategory_tags": [
+        "ai_autonomy",
+        "activity_detection",
         "metric_accuracy",
         "price_value_perception"
       ]
     },
     {
-      "review_id": "a8474c80-36b2-4aa1-8a49-daaec85dc7b9",
+      "review_id": "f3c8c299-0735-474b-8868-b9eb483215ae",
       "source": "google_play",
       "rating": 1,
-      "date": "2026-07-18T00:41:28",
-      "text": "I have a gift card voucher, and it is impossible to reedem against my subscription. after so much time and different emails with Whoop didn't get anywhere. I asked whoop to add gift card to my account but apparently you got to do it yourself, altough there is no option of doing it, support not helpful at all, seems like you talking with AI. voucher can be used only for a new purchase which i dont want. i would adise do not buy whoop gift cards.",
+      "date": "2026-08-09T04:45:42+00:00",
+      "text": "No value for money 👎",
       "subcategory_tags": [
-        "billing_disputes",
-        "ai_only_support_channel",
-        "support_resolution_quality"
+        "price_value_perception"
       ]
     },
     {
-      "review_id": "14311977739",
+      "review_id": "14402367478",
       "source": "app_store",
-      "rating": 1,
-      "date": "2026-07-16T16:01:28-07:00",
-      "text": "Better make sure your credit card doesn’t change or you don’t want to update payments because whoop will throw you and your data out fast",
+      "rating": 3,
+      "date": "2026-08-08T03:50:37-07:00",
+      "text": "Poderia oferecer e ser mais fácil de entender pelo que cobra, ex: dificuldade de colocar os exames no aplicativo, etc..",
       "subcategory_tags": [
-        "billing_disputes"
+        "price_value_perception",
+        "english_jargon_complexity"
       ]
     },
     {
-      "review_id": "9f6ff940-35c6-4d96-8722-5dadc3a5800a",
+      "review_id": "3e395941-9621-4f32-872e-3b64fcc721c7",
       "source": "google_play",
       "rating": 1,
-      "date": "2026-07-16T22:13:09",
-      "text": "The device is significantly overhyped. Despite its premium price, it fails to accurately detect sleep and wake times. I have to manually end my sleep session in the app almost every day, which defeats the purpose of an automated sleep tracker. Considering the high price, I expected much better sensor accuracy and reliability. The overall experience does not justify the cost, and in my opinion, the device should be priced closer to ₹10,000 based on its current Totally disappointed.",
+      "date": "2026-08-07T17:03:04+00:00",
+      "text": "The worst app support and customer support you can expect for such a premium that you pay for their services. I did not exact this from Whoop. Do no recommend anyone using this product. It's a scam. Stay away",
       "subcategory_tags": [
-        "sleep_accuracy",
+        "support_responsiveness",
         "price_value_perception"
       ]
     },
-    {
-      "review_id": "6fbc8468-85f0-4c50-9925-a6a476c17d5b",
-      "source": "google_play",
-      "rating": 4,
-      "date": "2026-07-16T05:44:40",
-      "text": "Great, but overpriced. The subscription model needs to go.",
-      "subcategory_tags": [
-        "price_value_perception"
-      ]
-    }
-  ],
-  "price_value_perception": [
     {
       "review_id": "5647e6fd-3a25-4beb-9224-700e304b644b",
       "source": "google_play",
@@ -632,58 +682,44 @@
       "subcategory_tags": [
         "price_value_perception"
       ]
-    },
-    {
-      "review_id": "49dc4487-86bb-4c96-b789-84d94fb4d4f5",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2026-07-13T18:27:22",
-      "text": "the blood pressure estimater is not accurate at all. whoop estimate was 121/81 but it was 171/96 even after recalibrate the app several days in a row it was still off. I am not expecting it to read like a cuff but it was not anywhere near the current readings. Don't buy it it that your main concern. the rest is interesting but not sure its worth the yearly amount of $350.",
-      "subcategory_tags": [
-        "ecg_bp_feature_reliability",
-        "price_value_perception"
-      ]
-    },
-    {
-      "review_id": "14294587934",
-      "source": "app_store",
-      "rating": 4,
-      "date": "2026-07-12T08:43:44-07:00",
-      "text": "I find the whoop band and app really useful for helping work on my fitness. In the first couple months I have already made progress on some fitness goals because of this device. The app/membership have helped me think about my stress levels and work on some plans. \n\nI am not rating it five stars, as I’m not sure about long term use. The customer service was frustrating when I was having issues with a band. They did eventually replace it, but it was a multi step process. I’m not sure the full membership/subscription is worth its price point long term, unless they were providing updated devices on a regular schedule.",
-      "subcategory_tags": [
-        "support_responsiveness",
-        "support_resolution_quality",
-        "price_value_perception"
-      ]
-    },
-    {
-      "review_id": "14292329722",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-07-11T18:48:48-07:00",
-      "text": "Really do I take naps but I’ve taken two in the last month and the WHOOP doesn’t even detect the nap, but my Apple Watch does.  Then I manually added it in the apps and somehow it makes up data of deep sleep, light sleep… Etc.\nIt has my HRV in the 20s. Yet, when I have worn other. Devices, including the Apple Watch Ultra, I’m in the 40s 50s and sometimes 70s because the Apple Watch measures it throughout the day at different times. \nI exercise six days a week. Sometimes I go for runs, and it doesn’t detect the run. I have to manually input it and then it makes up which zone I was in all of a sudden.  The same with lifting weights, I always have to insert the data manually.  \nI took my blood pressure three times and input the data. When I take my blood pressure manually with the arm wrap the whoop isn’t close most of the time.   I get that it takes your blood pressure in the middle of the night but I don’t see this being a blood pressure device.  \nI have visited with three different doctors and all of them say the Apple Watch is the best and they have gone to medical conferences and the discussion has come up and  the Apple Watch is always discussed as being the most accurate.  \nWhat you’re buying with the WHOOP is a glorified nighttime sleep tracker.  \nI’m sure people love their WHOOP and I know they have a cult following   \nIf you’re thinking about getting it, save your money and just wear your Apple Watch or your Google watch  \nHonestly, if you get a good nights sleep, you eat right and you exercise you don’t even need one of these device to track stuff   \nJust pay attention to what your body tells you with how you feel",
-      "subcategory_tags": [
-        "sleep_accuracy",
-        "metric_accuracy",
-        "activity_detection",
-        "ecg_bp_feature_reliability",
-        "price_value_perception"
-      ]
-    },
-    {
-      "review_id": "14287048492",
-      "source": "app_store",
-      "rating": 3,
-      "date": "2026-07-10T11:00:17-07:00",
-      "text": "Cool data but I struggle to make it actionable. It does a great job tracking sleep but over counts steps and seems to be off on things like BMR. I’ll likely go back to Apple Watch. It has its challenges too but is paid for…",
-      "subcategory_tags": [
-        "metric_accuracy",
-        "sleep_satisfaction",
-        "price_value_perception"
-      ]
     }
   ],
   "billing_disputes": [
+    {
+      "review_id": "682c6f55-0c48-48a1-b8ce-4d9f630ce9a5",
+      "source": "google_play",
+      "rating": 1,
+      "date": "2026-08-08T18:13:35+00:00",
+      "text": "The Whoop wristband is clingly. You can't take it off without it sending annoying messages about your wristband being off, so notifications have to be turned off entirely. Then Whoop processes your data through AI when opening pages and forces its AI slop without a way to opt out. After reaching out to customer service for the first time, I received a clueless AI-generated response. After that, I cancelled my subscription and threw my Whoop wristband in the trash.",
+      "subcategory_tags": [
+        "notification_community_issues",
+        "ai_autonomy",
+        "ai_only_support_channel",
+        "billing_disputes"
+      ]
+    },
+    {
+      "review_id": "14398643236",
+      "source": "app_store",
+      "rating": 3,
+      "date": "2026-08-07T04:53:22-07:00",
+      "text": "I hate it when apps make it extremely hard to find the cancel button. This one was particularly bad which is why I gave 3 stars. The app itself was fine while I was using it.",
+      "subcategory_tags": [
+        "billing_disputes"
+      ]
+    },
+    {
+      "review_id": "14398184389",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-08-07T02:01:26-07:00",
+      "text": "This device continues to miss my sleep even though it is placed correctly, and charged how it should be. I have had it replaced and changed the strap. I made the mistake of paying for a year… and they will not refund me. I will not do that again. Also the AI feature is generic and unhelpful. It doesn’t even notice that the data isn’t accurate.",
+      "subcategory_tags": [
+        "sleep_accuracy",
+        "billing_disputes",
+        "ai_reliability_bugs"
+      ]
+    },
     {
       "review_id": "14376933635",
       "source": "app_store",
@@ -991,40 +1027,6 @@
         "billing_disputes",
         "ecg_bp_feature_reliability",
         "price_value_perception"
-      ]
-    },
-    {
-      "review_id": "14110035671",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-05-26T17:34:48-07:00",
-      "text": "BEWARE it will not allow you to cancel",
-      "subcategory_tags": [
-        "billing_disputes"
-      ]
-    },
-    {
-      "review_id": "cd0da864-f634-4a29-935b-99c99e8e2b89",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2026-05-25T15:27:38",
-      "text": "The Google Health app is a catastrophe. So I was EASILY a buyer. But your deceptive advertising led me to believe monthly payments would be a certain price only to discover they are much higher because you charge interest that you don't disclose until the checkout process. And it's not even the money. It just tells me what to expect dealing with you over the long run. I'm out before I was ever in.",
-      "subcategory_tags": [
-        "billing_disputes",
-        "price_value_perception"
-      ]
-    },
-    {
-      "review_id": "6897fb8a-76ef-4665-8cc4-299704eca3ce",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2026-05-23T05:05:31",
-      "text": "customer support really really bad, my device is showing inaccurate reading, all numbers are wrong! whoop support doesn't care, ignoring me totally giving unacceptable solutions! they refused to change the device! and refused to refund my subscription! unfortunately whoop now is only money driving, they show you how supportive they are one you do the purchase everything is changed after! they are not like how they use to be!",
-      "subcategory_tags": [
-        "metric_accuracy",
-        "support_responsiveness",
-        "support_resolution_quality",
-        "billing_disputes"
       ]
     }
   ],
@@ -1376,6 +1378,18 @@
   ],
   "upsell_pressure": [
     {
+      "review_id": "14396240070",
+      "source": "app_store",
+      "rating": 3,
+      "date": "2026-08-06T12:57:59-07:00",
+      "text": "Here’s the thing I’m looking for this to provide me with information regarding blood pressure, heartbeat, sleep, etc. nothing overly complicated. They have four categories in the app 1000 advertisements. Every other thing on the app is trying to sell you a service or an add-on. to be clear I’m only giving my thoughts here on the app itself. This is overly convoluted. I’ll round back up to this after the first 30 days once I’ve opened Healthspan and compare the numbers to my Apple Watch. To be fair, I actually had a conversation with my cardiologist. Not familiar whoop nor do they have a feeling one way or the other about it. So they’re curious.. I’m not sure MG for medical grade necessarily means anything beyond Marketing. I’m cautiously optimistic.",
+      "subcategory_tags": [
+        "upsell_pressure",
+        "ecg_bp_feature_reliability",
+        "metric_accuracy"
+      ]
+    },
+    {
       "review_id": "5647e6fd-3a25-4beb-9224-700e304b644b",
       "source": "google_play",
       "rating": 2,
@@ -1710,22 +1724,53 @@
         "ai_reliability_bugs",
         "redesign_regression"
       ]
-    },
-    {
-      "review_id": "0cab7348-fcd2-4544-a2e4-be16d718d93d",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2025-12-22T21:01:30",
-      "text": "I'm baffled by the direction this app has taken. it constantly pops up alerts, which just take you to an empty AI chat window. I already have ChatGPT installed, I don't need a crappier version. it always shows me an animated fire icon when I open the app, which obviously is worthless. you can't easily see how many calories you have burned for the day, but they track your \"steps\", which is a worthless metric. Whoop went from an athlete focused app to who knows what now..",
-      "subcategory_tags": [
-        "ai_reliability_bugs",
-        "upsell_pressure",
-        "missing_metrics",
-        "personalization_use_case_fit"
-      ]
     }
   ],
   "sleep_tracking": [
+    {
+      "review_id": "14405269913",
+      "source": "app_store",
+      "rating": 3,
+      "date": "2026-08-08T21:16:51-07:00",
+      "text": "Somtimes the app dosent recognize the nap ,timing your workout and counting steps",
+      "subcategory_tags": [
+        "sleep_accuracy",
+        "activity_detection",
+        "metric_accuracy"
+      ]
+    },
+    {
+      "review_id": "14402521676",
+      "source": "app_store",
+      "rating": 5,
+      "date": "2026-08-08T04:48:38-07:00",
+      "text": "I’ve had WHOOP for over 5 years and still wear it every day. I’m very active, and I love being able to track my recovery, sleep, and strain and see how my body is actually handling everything. WHOOP has continued to get better over the years, and it’s definitely been worth it for me.",
+      "subcategory_tags": [
+        "sleep_satisfaction"
+      ]
+    },
+    {
+      "review_id": "14402465349",
+      "source": "app_store",
+      "rating": 5,
+      "date": "2026-08-08T04:28:11-07:00",
+      "text": "The best self investment, great for tracking post recovery and sleep quality. Lot many deep features embedded to band.",
+      "subcategory_tags": [
+        "sleep_satisfaction"
+      ]
+    },
+    {
+      "review_id": "14398184389",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-08-07T02:01:26-07:00",
+      "text": "This device continues to miss my sleep even though it is placed correctly, and charged how it should be. I have had it replaced and changed the strap. I made the mistake of paying for a year… and they will not refund me. I will not do that again. Also the AI feature is generic and unhelpful. It doesn’t even notice that the data isn’t accurate.",
+      "subcategory_tags": [
+        "sleep_accuracy",
+        "billing_disputes",
+        "ai_reliability_bugs"
+      ]
+    },
     {
       "review_id": "47ea5e4b-f15c-4a98-adbd-17f3bd12a261",
       "source": "google_play",
@@ -2008,57 +2053,33 @@
       "subcategory_tags": [
         "sleep_satisfaction"
       ]
-    },
-    {
-      "review_id": "992e472e-3f9f-494f-858e-adb0495c9864",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2026-07-15T17:03:30",
-      "text": "inaccurate & should do better research on women, I replaced the 1st whoop as big difference in counting steps, sleeping time & quality, and detecting me was taking a nap while I was having dinner with my family. the replacement doesn't seem to work well with me also. The app has no function for the women to switch between taking birth control pills and not. when you off the birth control pills, the past data all changed to off birth control pills. and birth control pills have 21 pills & 24 pills",
-      "subcategory_tags": [
-        "metric_accuracy",
-        "sleep_accuracy",
-        "personalization_use_case_fit",
-        "missing_metrics"
-      ]
-    },
-    {
-      "review_id": "14297837516",
-      "source": "app_store",
-      "rating": 5,
-      "date": "2026-07-13T05:12:21-07:00",
-      "text": "Workouts, sleep, and longevity metrics are all tracked so they can be improved. Thank you Whoop!",
-      "subcategory_tags": [
-        "sleep_satisfaction"
-      ]
-    },
-    {
-      "review_id": "14292329722",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-07-11T18:48:48-07:00",
-      "text": "Really do I take naps but I’ve taken two in the last month and the WHOOP doesn’t even detect the nap, but my Apple Watch does.  Then I manually added it in the apps and somehow it makes up data of deep sleep, light sleep… Etc.\nIt has my HRV in the 20s. Yet, when I have worn other. Devices, including the Apple Watch Ultra, I’m in the 40s 50s and sometimes 70s because the Apple Watch measures it throughout the day at different times. \nI exercise six days a week. Sometimes I go for runs, and it doesn’t detect the run. I have to manually input it and then it makes up which zone I was in all of a sudden.  The same with lifting weights, I always have to insert the data manually.  \nI took my blood pressure three times and input the data. When I take my blood pressure manually with the arm wrap the whoop isn’t close most of the time.   I get that it takes your blood pressure in the middle of the night but I don’t see this being a blood pressure device.  \nI have visited with three different doctors and all of them say the Apple Watch is the best and they have gone to medical conferences and the discussion has come up and  the Apple Watch is always discussed as being the most accurate.  \nWhat you’re buying with the WHOOP is a glorified nighttime sleep tracker.  \nI’m sure people love their WHOOP and I know they have a cult following   \nIf you’re thinking about getting it, save your money and just wear your Apple Watch or your Google watch  \nHonestly, if you get a good nights sleep, you eat right and you exercise you don’t even need one of these device to track stuff   \nJust pay attention to what your body tells you with how you feel",
-      "subcategory_tags": [
-        "sleep_accuracy",
-        "metric_accuracy",
-        "activity_detection",
-        "ecg_bp_feature_reliability",
-        "price_value_perception"
-      ]
-    },
-    {
-      "review_id": "14290060753",
-      "source": "app_store",
-      "rating": 5,
-      "date": "2026-07-11T06:03:09-07:00",
-      "text": "I think this has really helped me in my fitness and health journey. It is easy to wear. I am so used to it I don’t really notice it on my wrist. I’m more aware of my health and sleep numbers and realize now that I’m very competitive with myself in trying to beat the previous numbers.",
-      "subcategory_tags": [
-        "comfort_fit",
-        "sleep_satisfaction"
-      ]
     }
   ],
   "sleep_accuracy": [
+    {
+      "review_id": "14405269913",
+      "source": "app_store",
+      "rating": 3,
+      "date": "2026-08-08T21:16:51-07:00",
+      "text": "Somtimes the app dosent recognize the nap ,timing your workout and counting steps",
+      "subcategory_tags": [
+        "sleep_accuracy",
+        "activity_detection",
+        "metric_accuracy"
+      ]
+    },
+    {
+      "review_id": "14398184389",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-08-07T02:01:26-07:00",
+      "text": "This device continues to miss my sleep even though it is placed correctly, and charged how it should be. I have had it replaced and changed the strap. I made the mistake of paying for a year… and they will not refund me. I will not do that again. Also the AI feature is generic and unhelpful. It doesn’t even notice that the data isn’t accurate.",
+      "subcategory_tags": [
+        "sleep_accuracy",
+        "billing_disputes",
+        "ai_reliability_bugs"
+      ]
+    },
     {
       "review_id": "14385199016",
       "source": "app_store",
@@ -2389,33 +2410,29 @@
         "sleep_accuracy",
         "price_value_perception"
       ]
-    },
-    {
-      "review_id": "5c7a2090-3127-42cd-a4e0-707072f601b5",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2026-04-16T14:49:22",
-      "text": "(sleep) Accuracy is bad. The pricing is also way too high. If the subscription would be cheaper maybe I would become a member again.",
-      "subcategory_tags": [
-        "sleep_accuracy",
-        "price_value_perception"
-      ]
-    },
-    {
-      "review_id": "1922dbdd-8cfc-445f-bb6c-38bddac4d5bd",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2026-04-13T07:08:52",
-      "text": "It's logging out automatically since the new update. seriously what's going on. edit: last update after Dec 23 2025. does not logging my hicking activity. the battery is ok. spent all my day with the whoop on my wrist, and nothing. update Apr 2026: sync data runs forever. can't see my sleep because still syncing, and I always have my BT ON. guys, fix this.",
-      "subcategory_tags": [
-        "update_failures",
-        "activity_detection",
-        "data_sync_delays",
-        "sleep_accuracy"
-      ]
     }
   ],
   "sleep_satisfaction": [
+    {
+      "review_id": "14402521676",
+      "source": "app_store",
+      "rating": 5,
+      "date": "2026-08-08T04:48:38-07:00",
+      "text": "I’ve had WHOOP for over 5 years and still wear it every day. I’m very active, and I love being able to track my recovery, sleep, and strain and see how my body is actually handling everything. WHOOP has continued to get better over the years, and it’s definitely been worth it for me.",
+      "subcategory_tags": [
+        "sleep_satisfaction"
+      ]
+    },
+    {
+      "review_id": "14402465349",
+      "source": "app_store",
+      "rating": 5,
+      "date": "2026-08-08T04:28:11-07:00",
+      "text": "The best self investment, great for tracking post recovery and sleep quality. Lot many deep features embedded to band.",
+      "subcategory_tags": [
+        "sleep_satisfaction"
+      ]
+    },
     {
       "review_id": "47ea5e4b-f15c-4a98-adbd-17f3bd12a261",
       "source": "google_play",
@@ -2711,27 +2728,6 @@
       "rating": 5,
       "date": "2026-07-01T07:54:15-07:00",
       "text": "Whoop has been a huge addition to my life! I understand my body, my needs, and see what helps and hurts me physically! The stress levels are awesome to understand what you’re feeling, the sleep recovery score is accurate as heck! Recommend for all",
-      "subcategory_tags": [
-        "sleep_satisfaction"
-      ]
-    },
-    {
-      "review_id": "14249761681",
-      "source": "app_store",
-      "rating": 5,
-      "date": "2026-07-01T07:41:03-07:00",
-      "text": "Excelente me ha permitido conocerme desde punto de vista importante como es mi sueño y como debo mejorarlo, mi entrenamiento diario y recuperación. Mi coach espectacular dándome consejos para ir cada día mejor, muy atinado",
-      "subcategory_tags": [
-        "sleep_satisfaction",
-        "ai_positive_reception"
-      ]
-    },
-    {
-      "review_id": "14243070240",
-      "source": "app_store",
-      "rating": 5,
-      "date": "2026-06-29T18:01:38-07:00",
-      "text": "การใช้ whoop ทำให้ พฤติกรรมการนอนของฉัน เปลี่ยนแปลงไปใตทางที่ดี มากขึ้น หลับโดย  ไม่เล่นมือถือการนอน  ทำสมาธิ 5-10 นาที  การนอนหลับอย่างต่อเนื่อง ไม่ตื่นกลางดึก เหมือนในอดีต   เยี่ยมมาก",
       "subcategory_tags": [
         "sleep_satisfaction"
       ]
@@ -4820,6 +4816,17 @@
   ],
   "sync_connectivity": [
     {
+      "review_id": "14394671016",
+      "source": "app_store",
+      "rating": 2,
+      "date": "2026-08-06T04:55:42-07:00",
+      "text": "It’s overall performance is good instead of small snap shops. I bought it to track O2, heart rate, possible heart symptoms as they happen in real time. It doesn’t do that. While it will take a EKG test but first you need your phone, open the app, get to the section that will do the EKG then try to get the reading as it takes 30 seconds to snyc and that’s only if it reads it the first attempt.",
+      "subcategory_tags": [
+        "ecg_bp_feature_reliability",
+        "data_sync_delays"
+      ]
+    },
+    {
       "review_id": "1d2b158b-65fe-4654-aded-1fdbc925e51a",
       "source": "google_play",
       "rating": 1,
@@ -5148,18 +5155,6 @@
       "subcategory_tags": [
         "ongoing_disconnects",
         "crashes_freezes"
-      ]
-    },
-    {
-      "review_id": "4728e391-0cec-4e46-871c-550c237eaebe",
-      "source": "google_play",
-      "rating": 2,
-      "date": "2026-05-18T06:07:21",
-      "text": "still getting to know it. I believe you need to enter pretty much everything it will know about you. steps take 10 minutes or longer to calculate consistency. so its super slow that way. not all that impressed at the moment. wish I would have opted for the trial. I may not own it.",
-      "subcategory_tags": [
-        "data_sync_delays",
-        "price_value_perception",
-        "plan_trial_structure"
       ]
     }
   ],
@@ -5836,6 +5831,17 @@
   ],
   "data_sync_delays": [
     {
+      "review_id": "14394671016",
+      "source": "app_store",
+      "rating": 2,
+      "date": "2026-08-06T04:55:42-07:00",
+      "text": "It’s overall performance is good instead of small snap shops. I bought it to track O2, heart rate, possible heart symptoms as they happen in real time. It doesn’t do that. While it will take a EKG test but first you need your phone, open the app, get to the section that will do the EKG then try to get the reading as it takes 30 seconds to snyc and that’s only if it reads it the first attempt.",
+      "subcategory_tags": [
+        "ecg_bp_feature_reliability",
+        "data_sync_delays"
+      ]
+    },
+    {
       "review_id": "24aea93b-a881-4feb-9856-9372b4658e73",
       "source": "google_play",
       "rating": 2,
@@ -6184,22 +6190,58 @@
         "billing_disputes",
         "price_value_perception"
       ]
-    },
-    {
-      "review_id": "f44d0173-1813-4d45-bea4-ce2e2e368e3b",
-      "source": "google_play",
-      "rating": 2,
-      "date": "2026-04-03T18:23:59",
-      "text": "The apps connectivity and syncing messes up especially if it is after business hours. It will not show readings for days that I wore my device or not sync until the next day, even though it states it is all caught up. Does not stay synced up with outside apps to update metrics consistently. Step counting is still in beta, and is getting better, but is not accurate yet. The accuracy is great with everything else. I gave two stars because I am frustrated I spent so much $ for inconsistent sync",
-      "subcategory_tags": [
-        "data_sync_delays",
-        "third_party_integration",
-        "metric_accuracy",
-        "price_value_perception"
-      ]
     }
   ],
   "data_accuracy": [
+    {
+      "review_id": "14405356198",
+      "source": "app_store",
+      "rating": 3,
+      "date": "2026-08-08T21:56:04-07:00",
+      "text": "The piling on of AI “features” that I can’t turn off or opt out of is already irritating, but the tracking has also only been getting worse (it used to be on the nose about my main activity, now it is all over the place and regular automatically stops logging when I’ve barely even started, only to log showers as activities instead). It might just be coincidence but the decline coinciding with the increased AI integration, and my observations of every other AI tool I’ve been unable to avoid, do make me suspicious that these things are related, to Whoop’s detriment. A new low, it logged 4x as many steps as Apple Health today - I was on a road trip for 5.5 hours, Whoop is definitely the one that’s wrong about this. If they insist on burying themselves with AI, I just wish I could at least turn off the way it interacts with me. I don’t want an app talking to me in a creepy imitation of a person. Unfortunately, I bought a longer subscription at my last renewal. If the accuracy doesn’t come back by the time that expires, I just don’t think the high price will be worth it.",
+      "subcategory_tags": [
+        "ai_autonomy",
+        "activity_detection",
+        "metric_accuracy",
+        "price_value_perception"
+      ]
+    },
+    {
+      "review_id": "14405269913",
+      "source": "app_store",
+      "rating": 3,
+      "date": "2026-08-08T21:16:51-07:00",
+      "text": "Somtimes the app dosent recognize the nap ,timing your workout and counting steps",
+      "subcategory_tags": [
+        "sleep_accuracy",
+        "activity_detection",
+        "metric_accuracy"
+      ]
+    },
+    {
+      "review_id": "14403057110",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-08-08T07:38:04-07:00",
+      "text": "Doesn’t count steps correctly from the 4.0-5.0 version.  Strain doesn’t register the same way on the 5.0\nAll the extra features on the top tier are hard to figure out.  No customer service",
+      "subcategory_tags": [
+        "metric_accuracy",
+        "feature_ui_friction",
+        "support_responsiveness"
+      ]
+    },
+    {
+      "review_id": "14396240070",
+      "source": "app_store",
+      "rating": 3,
+      "date": "2026-08-06T12:57:59-07:00",
+      "text": "Here’s the thing I’m looking for this to provide me with information regarding blood pressure, heartbeat, sleep, etc. nothing overly complicated. They have four categories in the app 1000 advertisements. Every other thing on the app is trying to sell you a service or an add-on. to be clear I’m only giving my thoughts here on the app itself. This is overly convoluted. I’ll round back up to this after the first 30 days once I’ve opened Healthspan and compare the numbers to my Apple Watch. To be fair, I actually had a conversation with my cardiologist. Not familiar whoop nor do they have a feeling one way or the other about it. So they’re curious.. I’m not sure MG for medical grade necessarily means anything beyond Marketing. I’m cautiously optimistic.",
+      "subcategory_tags": [
+        "upsell_pressure",
+        "ecg_bp_feature_reliability",
+        "metric_accuracy"
+      ]
+    },
     {
       "review_id": "4f9523d0-4d48-4251-bc81-9025f9ca8482",
       "source": "google_play",
@@ -6504,55 +6546,58 @@
         "metric_accuracy",
         "battery_life"
       ]
-    },
+    }
+  ],
+  "metric_accuracy": [
     {
-      "review_id": "14222777126",
+      "review_id": "14405356198",
       "source": "app_store",
-      "rating": 1,
-      "date": "2026-06-24T18:30:27-07:00",
-      "text": "The VO2 max and daily step count data do not appear to be accurate, and the WHOOP AI predictions are not providing reliable results.",
+      "rating": 3,
+      "date": "2026-08-08T21:56:04-07:00",
+      "text": "The piling on of AI “features” that I can’t turn off or opt out of is already irritating, but the tracking has also only been getting worse (it used to be on the nose about my main activity, now it is all over the place and regular automatically stops logging when I’ve barely even started, only to log showers as activities instead). It might just be coincidence but the decline coinciding with the increased AI integration, and my observations of every other AI tool I’ve been unable to avoid, do make me suspicious that these things are related, to Whoop’s detriment. A new low, it logged 4x as many steps as Apple Health today - I was on a road trip for 5.5 hours, Whoop is definitely the one that’s wrong about this. If they insist on burying themselves with AI, I just wish I could at least turn off the way it interacts with me. I don’t want an app talking to me in a creepy imitation of a person. Unfortunately, I bought a longer subscription at my last renewal. If the accuracy doesn’t come back by the time that expires, I just don’t think the high price will be worth it.",
       "subcategory_tags": [
+        "ai_autonomy",
+        "activity_detection",
         "metric_accuracy",
-        "ai_reliability_bugs"
-      ]
-    },
-    {
-      "review_id": "14217262337",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-06-23T09:13:15-07:00",
-      "text": "In addition to inaccurate measurements (eg steps), the ui is horrendous and the most important settings are not visible.  I am locked in for 2 years - otherwise I would have returned... If in doubt, get aura instead.",
-      "subcategory_tags": [
-        "metric_accuracy",
-        "redesign_regression",
         "price_value_perception"
       ]
     },
     {
-      "review_id": "36c05d1d-fc89-4809-b20b-48330638d8d5",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2026-06-21T07:07:33",
-      "text": "the steps are so inaccurate",
+      "review_id": "14405269913",
+      "source": "app_store",
+      "rating": 3,
+      "date": "2026-08-08T21:16:51-07:00",
+      "text": "Somtimes the app dosent recognize the nap ,timing your workout and counting steps",
       "subcategory_tags": [
+        "sleep_accuracy",
+        "activity_detection",
         "metric_accuracy"
       ]
     },
     {
-      "review_id": "412e13a1-b8d6-4702-8962-41d20d9a4d7a",
-      "source": "google_play",
+      "review_id": "14403057110",
+      "source": "app_store",
       "rating": 1,
-      "date": "2026-06-21T05:53:01",
-      "text": "Two years a loyal WHOOP user, loved it. But honestly, after all this time: it's useless if you don't sleep in one block. Nap or wake to drink water, and it chops your night into \"naps,\" crashing your sleep score and your recovery score with it. Body says fully recharged; app says red. Support has no fix for multiphase sleepers. Unless you sleep like a machine, the data will mislead you",
+      "date": "2026-08-08T07:38:04-07:00",
+      "text": "Doesn’t count steps correctly from the 4.0-5.0 version.  Strain doesn’t register the same way on the 5.0\nAll the extra features on the top tier are hard to figure out.  No customer service",
       "subcategory_tags": [
-        "sleep_accuracy",
         "metric_accuracy",
-        "support_resolution_quality",
-        "personalization_use_case_fit"
+        "feature_ui_friction",
+        "support_responsiveness"
       ]
-    }
-  ],
-  "metric_accuracy": [
+    },
+    {
+      "review_id": "14396240070",
+      "source": "app_store",
+      "rating": 3,
+      "date": "2026-08-06T12:57:59-07:00",
+      "text": "Here’s the thing I’m looking for this to provide me with information regarding blood pressure, heartbeat, sleep, etc. nothing overly complicated. They have four categories in the app 1000 advertisements. Every other thing on the app is trying to sell you a service or an add-on. to be clear I’m only giving my thoughts here on the app itself. This is overly convoluted. I’ll round back up to this after the first 30 days once I’ve opened Healthspan and compare the numbers to my Apple Watch. To be fair, I actually had a conversation with my cardiologist. Not familiar whoop nor do they have a feeling one way or the other about it. So they’re curious.. I’m not sure MG for medical grade necessarily means anything beyond Marketing. I’m cautiously optimistic.",
+      "subcategory_tags": [
+        "upsell_pressure",
+        "ecg_bp_feature_reliability",
+        "metric_accuracy"
+      ]
+    },
     {
       "review_id": "4f9523d0-4d48-4251-bc81-9025f9ca8482",
       "source": "google_play",
@@ -6851,58 +6896,34 @@
         "billing_disputes",
         "metric_accuracy"
       ]
-    },
+    }
+  ],
+  "activity_detection": [
     {
-      "review_id": "d8dbcc6c-3acf-4386-af6c-c5da2f4fd30b",
-      "source": "google_play",
-      "rating": 5,
-      "date": "2026-06-17T04:31:42",
-      "text": "Great numbers, doesn't track my steps accurately all the time. I have to put in my exercise or it mistakes movement. One 6 said I was Kiyaking, and I was sitting at work.",
-      "subcategory_tags": [
-        "metric_accuracy",
-        "activity_detection"
-      ]
-    },
-    {
-      "review_id": "14177837071",
+      "review_id": "14405356198",
       "source": "app_store",
       "rating": 3,
-      "date": "2026-06-13T06:24:28-07:00",
-      "text": "En mi caso es una falta de exactitud lo que le falta al whoop, muchas veces hago ejercicio y no se da cuenta, o  estoy enferma y tampoco se da cuenta, interrupciones del sueño que no nota  , en otras plataformas hasta te ayudan con la alimentación siendo súper más exactas . Creo que deben ajustar estos detalles para ser competitivos con todo lo que está saliendo",
+      "date": "2026-08-08T21:56:04-07:00",
+      "text": "The piling on of AI “features” that I can’t turn off or opt out of is already irritating, but the tracking has also only been getting worse (it used to be on the nose about my main activity, now it is all over the place and regular automatically stops logging when I’ve barely even started, only to log showers as activities instead). It might just be coincidence but the decline coinciding with the increased AI integration, and my observations of every other AI tool I’ve been unable to avoid, do make me suspicious that these things are related, to Whoop’s detriment. A new low, it logged 4x as many steps as Apple Health today - I was on a road trip for 5.5 hours, Whoop is definitely the one that’s wrong about this. If they insist on burying themselves with AI, I just wish I could at least turn off the way it interacts with me. I don’t want an app talking to me in a creepy imitation of a person. Unfortunately, I bought a longer subscription at my last renewal. If the accuracy doesn’t come back by the time that expires, I just don’t think the high price will be worth it.",
       "subcategory_tags": [
+        "ai_autonomy",
         "activity_detection",
-        "sleep_accuracy",
-        "metric_accuracy"
-      ]
-    },
-    {
-      "review_id": "31911b4f-520f-4f29-ba5d-13ef131d7dc6",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2026-06-11T19:05:26",
-      "text": "I've been using this device for over a year, and the same issues have existed since day one. Data is frequently missing, sleep and recovery metrics often fail to register, and syncing is unreliable. For a product that requires an expensive membership, I expected far better performance. The constant technical problems make the data difficult to trust, and after a year of frustration, I don't believe this device offers good value for the price.",
-      "subcategory_tags": [
-        "data_sync_delays",
-        "sleep_accuracy",
         "metric_accuracy",
         "price_value_perception"
       ]
     },
     {
-      "review_id": "14161739979",
+      "review_id": "14405269913",
       "source": "app_store",
-      "rating": 4,
-      "date": "2026-06-09T03:54:18-07:00",
-      "text": "Adequate, but it’s hard to tell how accurate the heart rate data truly is. It’d be nice if you could mark when you’re taking a rest day, because it feels like it encourages you to over train to “reach your strain” on a lot of days, despite the fact that I’m a high level athlete, with an intentional training split. Another way it encourages you to over train is that it does not do a great job of accurately measuring intensity during track/speed workouts where the intensity is high, but the rest periods are longer. It’d be nice if you could put RPE in with each workout. It would also be nice if in the lifting/strength sections that it kept track of the weight you used to last time you did that movement when you’re doing a new strength workout. I do like tracking overall trends with my\nHRV/resting heart rate though.",
+      "rating": 3,
+      "date": "2026-08-08T21:16:51-07:00",
+      "text": "Somtimes the app dosent recognize the nap ,timing your workout and counting steps",
       "subcategory_tags": [
-        "metric_accuracy",
-        "personalization_use_case_fit",
-        "missing_metrics",
-        "feature_ui_friction"
+        "sleep_accuracy",
+        "activity_detection",
+        "metric_accuracy"
       ]
-    }
-  ],
-  "activity_detection": [
+    },
     {
       "review_id": "4f9523d0-4d48-4251-bc81-9025f9ca8482",
       "source": "google_play",
@@ -7243,35 +7264,32 @@
         "support_resolution_quality",
         "price_value_perception"
       ]
-    },
-    {
-      "review_id": "13868768994",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-03-20T10:56:34-07:00",
-      "text": "I give this product zero stars because it is a low-quality device—cheap, inaccurate, unreliable, and simply not fit for purpose.\n\nFrom the first day, I reported serious issues with core features such as ECG and blood pressure, which do not work at all. These are not minor features—they are exactly why someone would pay for a WHOOP membership. Despite raising these issues early, nothing was fixed.\n\nBasic functionality is also unacceptable. I walk around 10,000 steps daily, yet the device records nothing while I am walking unless I manually log the activity. That completely defeats the purpose of using a wearable tracker.\n\nThe overall experience feels like using a product that is far behind the market standard, both in hardware quality and software performance. It is nowhere near the level of competitors like Apple Watch or Oura.\n\nCustomer support makes things worse. Responses is an AI automated and repetitive, with no real effort to resolve the actual problem. Instead of fixing issues, they redirect to generic troubleshooting steps that do not work.\n\nWHOOP even granted me an additional one-month credit, which clearly acknowledges there were unresolved issues. Yet when I requested a refund, they refused, relying strictly on policy rather than addressing the fact that the product never worked properly from the start.\n\nIn summary:\n\t•Core features do not function properly\n\t•Tracking is highly inaccurate\n\t•Product quality is poor\n\t•Support is inhuman and ineffective and unhelpful\n\t•Refund handling is unfair\n\nThis is not a premium product. It is an underperforming device sold with a subscription model that does not deliver on its promises.\n\nI do not recommend it.",
-      "subcategory_tags": [
-        "ecg_bp_feature_reliability",
-        "activity_detection",
-        "build_quality_perception",
-        "ai_only_support_channel",
-        "support_resolution_quality",
-        "billing_disputes",
-        "price_value_perception"
-      ]
-    },
-    {
-      "review_id": "195be642-b781-406a-b8ee-a96239b6aec9",
-      "source": "google_play",
-      "rating": 2,
-      "date": "2026-03-18T05:38:37",
-      "text": "Activity detection not working. Since there is no way to interact with the device then through the phone, this is problematic...",
-      "subcategory_tags": [
-        "activity_detection"
-      ]
     }
   ],
   "health_signal_reliability": [
+    {
+      "review_id": "14396240070",
+      "source": "app_store",
+      "rating": 3,
+      "date": "2026-08-06T12:57:59-07:00",
+      "text": "Here’s the thing I’m looking for this to provide me with information regarding blood pressure, heartbeat, sleep, etc. nothing overly complicated. They have four categories in the app 1000 advertisements. Every other thing on the app is trying to sell you a service or an add-on. to be clear I’m only giving my thoughts here on the app itself. This is overly convoluted. I’ll round back up to this after the first 30 days once I’ve opened Healthspan and compare the numbers to my Apple Watch. To be fair, I actually had a conversation with my cardiologist. Not familiar whoop nor do they have a feeling one way or the other about it. So they’re curious.. I’m not sure MG for medical grade necessarily means anything beyond Marketing. I’m cautiously optimistic.",
+      "subcategory_tags": [
+        "upsell_pressure",
+        "ecg_bp_feature_reliability",
+        "metric_accuracy"
+      ]
+    },
+    {
+      "review_id": "14394671016",
+      "source": "app_store",
+      "rating": 2,
+      "date": "2026-08-06T04:55:42-07:00",
+      "text": "It’s overall performance is good instead of small snap shops. I bought it to track O2, heart rate, possible heart symptoms as they happen in real time. It doesn’t do that. While it will take a EKG test but first you need your phone, open the app, get to the section that will do the EKG then try to get the reading as it takes 30 seconds to snyc and that’s only if it reads it the first attempt.",
+      "subcategory_tags": [
+        "ecg_bp_feature_reliability",
+        "data_sync_delays"
+      ]
+    },
     {
       "review_id": "14382402484",
       "source": "app_store",
@@ -7598,30 +7616,6 @@
         "ecg_bp_feature_reliability",
         "ai_only_support_channel",
         "price_value_perception"
-      ]
-    },
-    {
-      "review_id": "756289e6-5d1e-4d61-bd49-caf9b08f737e",
-      "source": "google_play",
-      "rating": 3,
-      "date": "2025-05-19T22:25:18",
-      "text": "This review is about the app, not about the company itself. Leave this reviews for Trustpilot or similar. I've been a Whoop user for 6 months and love this app. It's become my Bible for each day. Metrics are reported clearly but there are sometimes questions around accuracy, hence 3*. Heart rate shared to Strava from a Whoop activity, for example, has different numbers. Steps, even with the new MG, are good but not great, and I'm not (yet) sold on how good blood pressure monitoring really is.",
-      "subcategory_tags": [
-        "metric_accuracy",
-        "third_party_integration",
-        "ecg_bp_feature_reliability"
-      ]
-    },
-    {
-      "review_id": "f5eae683-9d5e-47d9-aef8-8bc585ce4d8c",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2025-05-14T06:22:53",
-      "text": "Paying $350/year for the new whoop MG, can't even use one of the title features of the MG (EKG) because im not 22 yet. Wasn't notified beforehand or warned. Also wasn't notified beforehand that I'd need an actual blood pressure reading before getting access to the feature. The features are in \"beta\" so you can pay them to build off your data with no guarantee of being remotely accurate even though they were marketed as finished features. Just misleading and not worth it at all.",
-      "subcategory_tags": [
-        "price_value_perception",
-        "ecg_bp_feature_reliability",
-        "plan_trial_structure"
       ]
     }
   ],
@@ -7663,6 +7657,29 @@
   ],
   "ecg_bp_feature_reliability": [
     {
+      "review_id": "14396240070",
+      "source": "app_store",
+      "rating": 3,
+      "date": "2026-08-06T12:57:59-07:00",
+      "text": "Here’s the thing I’m looking for this to provide me with information regarding blood pressure, heartbeat, sleep, etc. nothing overly complicated. They have four categories in the app 1000 advertisements. Every other thing on the app is trying to sell you a service or an add-on. to be clear I’m only giving my thoughts here on the app itself. This is overly convoluted. I’ll round back up to this after the first 30 days once I’ve opened Healthspan and compare the numbers to my Apple Watch. To be fair, I actually had a conversation with my cardiologist. Not familiar whoop nor do they have a feeling one way or the other about it. So they’re curious.. I’m not sure MG for medical grade necessarily means anything beyond Marketing. I’m cautiously optimistic.",
+      "subcategory_tags": [
+        "upsell_pressure",
+        "ecg_bp_feature_reliability",
+        "metric_accuracy"
+      ]
+    },
+    {
+      "review_id": "14394671016",
+      "source": "app_store",
+      "rating": 2,
+      "date": "2026-08-06T04:55:42-07:00",
+      "text": "It’s overall performance is good instead of small snap shops. I bought it to track O2, heart rate, possible heart symptoms as they happen in real time. It doesn’t do that. While it will take a EKG test but first you need your phone, open the app, get to the section that will do the EKG then try to get the reading as it takes 30 seconds to snyc and that’s only if it reads it the first attempt.",
+      "subcategory_tags": [
+        "ecg_bp_feature_reliability",
+        "data_sync_delays"
+      ]
+    },
+    {
       "review_id": "14367456315",
       "source": "app_store",
       "rating": 1,
@@ -7991,21 +8008,47 @@
         "third_party_integration",
         "ecg_bp_feature_reliability"
       ]
-    },
-    {
-      "review_id": "f5eae683-9d5e-47d9-aef8-8bc585ce4d8c",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2025-05-14T06:22:53",
-      "text": "Paying $350/year for the new whoop MG, can't even use one of the title features of the MG (EKG) because im not 22 yet. Wasn't notified beforehand or warned. Also wasn't notified beforehand that I'd need an actual blood pressure reading before getting access to the feature. The features are in \"beta\" so you can pay them to build off your data with no guarantee of being remotely accurate even though they were marketed as finished features. Just misleading and not worth it at all.",
-      "subcategory_tags": [
-        "price_value_perception",
-        "ecg_bp_feature_reliability",
-        "plan_trial_structure"
-      ]
     }
   ],
   "ai_coach": [
+    {
+      "review_id": "14405356198",
+      "source": "app_store",
+      "rating": 3,
+      "date": "2026-08-08T21:56:04-07:00",
+      "text": "The piling on of AI “features” that I can’t turn off or opt out of is already irritating, but the tracking has also only been getting worse (it used to be on the nose about my main activity, now it is all over the place and regular automatically stops logging when I’ve barely even started, only to log showers as activities instead). It might just be coincidence but the decline coinciding with the increased AI integration, and my observations of every other AI tool I’ve been unable to avoid, do make me suspicious that these things are related, to Whoop’s detriment. A new low, it logged 4x as many steps as Apple Health today - I was on a road trip for 5.5 hours, Whoop is definitely the one that’s wrong about this. If they insist on burying themselves with AI, I just wish I could at least turn off the way it interacts with me. I don’t want an app talking to me in a creepy imitation of a person. Unfortunately, I bought a longer subscription at my last renewal. If the accuracy doesn’t come back by the time that expires, I just don’t think the high price will be worth it.",
+      "subcategory_tags": [
+        "ai_autonomy",
+        "activity_detection",
+        "metric_accuracy",
+        "price_value_perception"
+      ]
+    },
+    {
+      "review_id": "682c6f55-0c48-48a1-b8ce-4d9f630ce9a5",
+      "source": "google_play",
+      "rating": 1,
+      "date": "2026-08-08T18:13:35+00:00",
+      "text": "The Whoop wristband is clingly. You can't take it off without it sending annoying messages about your wristband being off, so notifications have to be turned off entirely. Then Whoop processes your data through AI when opening pages and forces its AI slop without a way to opt out. After reaching out to customer service for the first time, I received a clueless AI-generated response. After that, I cancelled my subscription and threw my Whoop wristband in the trash.",
+      "subcategory_tags": [
+        "notification_community_issues",
+        "ai_autonomy",
+        "ai_only_support_channel",
+        "billing_disputes"
+      ]
+    },
+    {
+      "review_id": "14398184389",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-08-07T02:01:26-07:00",
+      "text": "This device continues to miss my sleep even though it is placed correctly, and charged how it should be. I have had it replaced and changed the strap. I made the mistake of paying for a year… and they will not refund me. I will not do that again. Also the AI feature is generic and unhelpful. It doesn’t even notice that the data isn’t accurate.",
+      "subcategory_tags": [
+        "sleep_accuracy",
+        "billing_disputes",
+        "ai_reliability_bugs"
+      ]
+    },
     {
       "review_id": "81d55955-d3d9-4fd2-8ac3-8e3334e8bd6f",
       "source": "google_play",
@@ -8313,42 +8356,21 @@
         "ai_autonomy",
         "notification_community_issues"
       ]
-    },
-    {
-      "review_id": "a782279f-5635-43bd-826b-7c70f92d876f",
-      "source": "google_play",
-      "rating": 4,
-      "date": "2026-07-13T07:59:32",
-      "text": "the AI feature for logging workout is not working anymore.",
-      "subcategory_tags": [
-        "ai_reliability_bugs"
-      ]
-    },
-    {
-      "review_id": "14285494669",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-07-10T03:06:20-07:00",
-      "text": "Been using Whoop for 4 months religiously and have had nothing but frustration with the faulty data and bad AI coaching.  Zero improvement in sleep and horrible workout plans with the strength trainer.  You’ll go for a run and 10 minutes later get a notification asking if you’re going to go for a run…it’s so frustrating.  I want my money back but I’m stuck with it.",
-      "subcategory_tags": [
-        "ai_reliability_bugs",
-        "activity_detection",
-        "billing_disputes",
-        "feature_ui_friction"
-      ]
-    },
-    {
-      "review_id": "ff4d0992-561f-44e3-a3f8-25acf2d3eaac",
-      "source": "google_play",
-      "rating": 5,
-      "date": "2026-07-08T06:41:20",
-      "text": "Beautiful UI with incredible AI to make lifestyle tracking a breeze. Love my WHOOP!",
-      "subcategory_tags": [
-        "ai_positive_reception"
-      ]
     }
   ],
   "ai_reliability_bugs": [
+    {
+      "review_id": "14398184389",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-08-07T02:01:26-07:00",
+      "text": "This device continues to miss my sleep even though it is placed correctly, and charged how it should be. I have had it replaced and changed the strap. I made the mistake of paying for a year… and they will not refund me. I will not do that again. Also the AI feature is generic and unhelpful. It doesn’t even notice that the data isn’t accurate.",
+      "subcategory_tags": [
+        "sleep_accuracy",
+        "billing_disputes",
+        "ai_reliability_bugs"
+      ]
+    },
     {
       "review_id": "81d55955-d3d9-4fd2-8ac3-8e3334e8bd6f",
       "source": "google_play",
@@ -8689,21 +8711,35 @@
         "ai_reliability_bugs",
         "price_value_perception"
       ]
-    },
-    {
-      "review_id": "6d4e24c3-81e7-4bd6-a15d-d6ad1c1b2145",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2026-05-05T13:03:10",
-      "text": "The Whoop Coach is useless. It provides inaccurate info. After I raised a number of issues and incidents, it deleted the incident log to hide the evidence. It provided incorrect calculations for weight, calories and water intake which would have been harmful if someone followed them. When I raised issues to the Membership Services, they ignored me.",
-      "subcategory_tags": [
-        "ai_reliability_bugs",
-        "metric_accuracy",
-        "support_responsiveness"
-      ]
     }
   ],
   "ai_autonomy": [
+    {
+      "review_id": "14405356198",
+      "source": "app_store",
+      "rating": 3,
+      "date": "2026-08-08T21:56:04-07:00",
+      "text": "The piling on of AI “features” that I can’t turn off or opt out of is already irritating, but the tracking has also only been getting worse (it used to be on the nose about my main activity, now it is all over the place and regular automatically stops logging when I’ve barely even started, only to log showers as activities instead). It might just be coincidence but the decline coinciding with the increased AI integration, and my observations of every other AI tool I’ve been unable to avoid, do make me suspicious that these things are related, to Whoop’s detriment. A new low, it logged 4x as many steps as Apple Health today - I was on a road trip for 5.5 hours, Whoop is definitely the one that’s wrong about this. If they insist on burying themselves with AI, I just wish I could at least turn off the way it interacts with me. I don’t want an app talking to me in a creepy imitation of a person. Unfortunately, I bought a longer subscription at my last renewal. If the accuracy doesn’t come back by the time that expires, I just don’t think the high price will be worth it.",
+      "subcategory_tags": [
+        "ai_autonomy",
+        "activity_detection",
+        "metric_accuracy",
+        "price_value_perception"
+      ]
+    },
+    {
+      "review_id": "682c6f55-0c48-48a1-b8ce-4d9f630ce9a5",
+      "source": "google_play",
+      "rating": 1,
+      "date": "2026-08-08T18:13:35+00:00",
+      "text": "The Whoop wristband is clingly. You can't take it off without it sending annoying messages about your wristband being off, so notifications have to be turned off entirely. Then Whoop processes your data through AI when opening pages and forces its AI slop without a way to opt out. After reaching out to customer service for the first time, I received a clueless AI-generated response. After that, I cancelled my subscription and threw my Whoop wristband in the trash.",
+      "subcategory_tags": [
+        "notification_community_issues",
+        "ai_autonomy",
+        "ai_only_support_channel",
+        "billing_disputes"
+      ]
+    },
     {
       "review_id": "14297631430",
       "source": "app_store",
@@ -9233,6 +9269,75 @@
   ],
   "customer_support": [
     {
+      "review_id": "94843019-079e-41dc-b922-15debd7e257c",
+      "source": "google_play",
+      "rating": 1,
+      "date": "2026-08-09T08:35:42+00:00",
+      "text": "the device is perfect and really useful. but since it stopped working with no reason, I'm following up with customer support for a replacement as per the warranty and they agreed to replace it but every time they reply that it takes 3-5 working days for processing and nothing happens for more than 1 month",
+      "subcategory_tags": [
+        "support_responsiveness"
+      ]
+    },
+    {
+      "review_id": "14404964828",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-08-08T19:09:01-07:00",
+      "text": "Trying to set up MFA so I can upload lab data. Fails with “something went wrong. Please try again. Won’t us email or my phone number. Then the prompt to upload lab data disappears after throwing a bunch of confetti to celebrate the fact that nothing works. No support articles, not much support of any kind really. Just FAILURE.",
+      "subcategory_tags": [
+        "crashes_freezes",
+        "support_responsiveness"
+      ]
+    },
+    {
+      "review_id": "682c6f55-0c48-48a1-b8ce-4d9f630ce9a5",
+      "source": "google_play",
+      "rating": 1,
+      "date": "2026-08-08T18:13:35+00:00",
+      "text": "The Whoop wristband is clingly. You can't take it off without it sending annoying messages about your wristband being off, so notifications have to be turned off entirely. Then Whoop processes your data through AI when opening pages and forces its AI slop without a way to opt out. After reaching out to customer service for the first time, I received a clueless AI-generated response. After that, I cancelled my subscription and threw my Whoop wristband in the trash.",
+      "subcategory_tags": [
+        "notification_community_issues",
+        "ai_autonomy",
+        "ai_only_support_channel",
+        "billing_disputes"
+      ]
+    },
+    {
+      "review_id": "14403057110",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-08-08T07:38:04-07:00",
+      "text": "Doesn’t count steps correctly from the 4.0-5.0 version.  Strain doesn’t register the same way on the 5.0\nAll the extra features on the top tier are hard to figure out.  No customer service",
+      "subcategory_tags": [
+        "metric_accuracy",
+        "feature_ui_friction",
+        "support_responsiveness"
+      ]
+    },
+    {
+      "review_id": "14400555831",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-08-07T15:13:15-07:00",
+      "text": "They take a long time to reply to messages. They say they’ve resolved the issue, but they actually haven’t! It’s impossible to log into the account.",
+      "subcategory_tags": [
+        "support_responsiveness",
+        "support_resolution_quality",
+        "crashes_freezes"
+      ]
+    },
+    {
+      "review_id": "3e395941-9621-4f32-872e-3b64fcc721c7",
+      "source": "google_play",
+      "rating": 1,
+      "date": "2026-08-07T17:03:04+00:00",
+      "text": "The worst app support and customer support you can expect for such a premium that you pay for their services. I did not exact this from Whoop. Do no recommend anyone using this product. It's a scam. Stay away",
+      "subcategory_tags": [
+        "support_responsiveness",
+        "price_value_perception"
+      ]
+    },
+    {
       "review_id": "abc20aac-c89c-4824-9d67-43c978fcbc3e",
       "source": "google_play",
       "rating": 4,
@@ -9516,82 +9621,65 @@
       "subcategory_tags": [
         "support_satisfaction"
       ]
-    },
-    {
-      "review_id": "1d02dc43-48dc-47c6-be79-1c28ff313fa2",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2026-06-11T22:26:58",
-      "text": "Stay away. App always have problems, crashes all the time get stuck ,don't detect sleep and now I can't even use the app at all its fully stuck and waiting for customer support but nothing. Don't waste you money here go and buy Fitbit air or any Garmin. Once my yearly subscription is over I will not be renewing. I really regretted using whoop.",
-      "subcategory_tags": [
-        "crashes_freezes",
-        "sleep_accuracy",
-        "support_responsiveness",
-        "price_value_perception"
-      ]
-    },
-    {
-      "review_id": "7be74300-1dab-4e49-ad08-28a81de0c98f",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2026-06-10T23:03:30",
-      "text": "Deceptive business practices and atrocious customer service - I had paused my membership as I wasn't sure if I wanted to continue using it. I decided I did not want to reactivate the membership, and was told you must reactivate the membership (AND PAY FOR ANOTHER MONTH) in order to cancel. Whoop customer service has refused to issue a refund.",
-      "subcategory_tags": [
-        "billing_disputes",
-        "support_resolution_quality"
-      ]
-    },
-    {
-      "review_id": "c89733ea-8499-4f11-bffe-1709581de49b",
-      "source": "google_play",
-      "rating": 2,
-      "date": "2026-06-10T18:00:57",
-      "text": "app is pretty basic and super expensive. customer service is horrible. the AI in the app is pretty bad.",
-      "subcategory_tags": [
-        "price_value_perception",
-        "support_resolution_quality",
-        "ai_reliability_bugs"
-      ]
-    },
-    {
-      "review_id": "3f51e567-ffb6-4ffe-b3b4-1ff0e4c0d3f8",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2026-06-04T08:54:52",
-      "text": "useless customer service, and bad service for extending memberships. For the new users you can get a free band, charger and the sensor. But if you gave the trial bracelet back, and got a membership - you need to buy everything new including the sensor! which you cannot buy in thw shop and AI service is useless. what is the point? I already starting to regret my decision to go ahead in the first place",
-      "subcategory_tags": [
-        "ai_only_support_channel",
-        "billing_disputes",
-        "plan_trial_structure"
-      ]
-    },
-    {
-      "review_id": "039a86e5-41cf-4c94-bd2b-1d4bad82b5a6",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2026-06-02T03:36:25",
-      "text": "Had the device for 50+ days .. the latest update is full of bugs. says it has synced then shows me no stats and keeps merging days on my activity log can't seem to reset it and there's no place to notify the company of these issues so I have to resort to giving a bad review. $400 buyers remorse",
-      "subcategory_tags": [
-        "update_failures",
-        "data_sync_delays",
-        "support_responsiveness",
-        "price_value_perception"
-      ]
-    },
-    {
-      "review_id": "7e5c2969-a41e-4b87-ad2c-9ff701e00c2a",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2026-05-30T22:06:54",
-      "text": "what a joke. whoop stopped working. took weeks before support agreed to replace. then they ghosted and aren't responding and never replaced .",
-      "subcategory_tags": [
-        "build_quality_perception",
-        "support_responsiveness",
-        "support_resolution_quality"
-      ]
     }
   ],
   "support_responsiveness": [
+    {
+      "review_id": "94843019-079e-41dc-b922-15debd7e257c",
+      "source": "google_play",
+      "rating": 1,
+      "date": "2026-08-09T08:35:42+00:00",
+      "text": "the device is perfect and really useful. but since it stopped working with no reason, I'm following up with customer support for a replacement as per the warranty and they agreed to replace it but every time they reply that it takes 3-5 working days for processing and nothing happens for more than 1 month",
+      "subcategory_tags": [
+        "support_responsiveness"
+      ]
+    },
+    {
+      "review_id": "14404964828",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-08-08T19:09:01-07:00",
+      "text": "Trying to set up MFA so I can upload lab data. Fails with “something went wrong. Please try again. Won’t us email or my phone number. Then the prompt to upload lab data disappears after throwing a bunch of confetti to celebrate the fact that nothing works. No support articles, not much support of any kind really. Just FAILURE.",
+      "subcategory_tags": [
+        "crashes_freezes",
+        "support_responsiveness"
+      ]
+    },
+    {
+      "review_id": "14403057110",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-08-08T07:38:04-07:00",
+      "text": "Doesn’t count steps correctly from the 4.0-5.0 version.  Strain doesn’t register the same way on the 5.0\nAll the extra features on the top tier are hard to figure out.  No customer service",
+      "subcategory_tags": [
+        "metric_accuracy",
+        "feature_ui_friction",
+        "support_responsiveness"
+      ]
+    },
+    {
+      "review_id": "14400555831",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-08-07T15:13:15-07:00",
+      "text": "They take a long time to reply to messages. They say they’ve resolved the issue, but they actually haven’t! It’s impossible to log into the account.",
+      "subcategory_tags": [
+        "support_responsiveness",
+        "support_resolution_quality",
+        "crashes_freezes"
+      ]
+    },
+    {
+      "review_id": "3e395941-9621-4f32-872e-3b64fcc721c7",
+      "source": "google_play",
+      "rating": 1,
+      "date": "2026-08-07T17:03:04+00:00",
+      "text": "The worst app support and customer support you can expect for such a premium that you pay for their services. I did not exact this from Whoop. Do no recommend anyone using this product. It's a scam. Stay away",
+      "subcategory_tags": [
+        "support_responsiveness",
+        "price_value_perception"
+      ]
+    },
     {
       "review_id": "abc20aac-c89c-4824-9d67-43c978fcbc3e",
       "source": "google_play",
@@ -9895,67 +9983,21 @@
         "ecg_bp_feature_reliability",
         "upsell_pressure"
       ]
-    },
-    {
-      "review_id": "6dbcfcc6-68a8-41ea-897f-19ecf77a9da4",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2026-03-09T14:34:17",
-      "text": "the support team is really bad at responding and could fix my problems first problem I had was with my account there's a error that caused a an extra account to appear that I couldn't get rid of after calling they said to email after 3 days of trying to talk and them responding every 6 hours or more I called again just for them to say that it was a glitch and that I wouldn't get billed for it then I was billed for it I then emailed they then gave me a refund for less so I emailed them had tocall",
-      "subcategory_tags": [
-        "support_responsiveness",
-        "support_resolution_quality",
-        "billing_disputes"
-      ]
-    },
-    {
-      "review_id": "13809701111",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-03-03T07:22:46-07:00",
-      "text": "Band not connecting to app and whoop support is not responding. I purchased a year and been having issues on and off for about a month until it stopped working completely. Would suggest doing month to month so if you run into this issue you can cancel without paying for a service and getting no support. Hopefully someone can contact me",
-      "subcategory_tags": [
-        "ongoing_disconnects",
-        "support_responsiveness",
-        "billing_disputes"
-      ]
-    },
-    {
-      "review_id": "ef2efdd7-5cec-43ad-b003-8f1635629f2a",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2026-03-03T14:01:17",
-      "text": "Whoop does not work. Horrible customer service! I would not purchase even if I was paid.",
-      "subcategory_tags": [
-        "support_responsiveness"
-      ]
-    },
-    {
-      "review_id": "9a9f8373-be2b-41db-a2f0-12f94923f95b",
-      "source": "google_play",
-      "rating": 5,
-      "date": "2026-03-01T23:00:58",
-      "text": "Worst experience ever with any fitness app/device. Heart rate monitor is useless completely inaccurate 90% of the time. Tried cancelling my subscription and they have charged me twice. 2nd time they charged me after i deleted my card details and now they refuse to answer my support emails and refuse to give me a refund. make sure you cancel your credit/debit card if you unsubscribe they will steal your money and ignore all requests to get a refund back. Absolute disgrace of a support team.",
-      "subcategory_tags": [
-        "metric_accuracy",
-        "billing_disputes",
-        "support_responsiveness"
-      ]
-    },
-    {
-      "review_id": "13790061280",
-      "source": "app_store",
-      "rating": 2,
-      "date": "2026-02-25T20:58:21-07:00",
-      "text": "Sadly the product seems great, until you notice it doesn’t import or correctly import activities from external devices. So basically, ALL you Whoop data is inaccurate. \nContacted support but no reply yet.",
-      "subcategory_tags": [
-        "third_party_integration",
-        "metric_accuracy",
-        "support_responsiveness"
-      ]
     }
   ],
   "support_resolution_quality": [
+    {
+      "review_id": "14400555831",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-08-07T15:13:15-07:00",
+      "text": "They take a long time to reply to messages. They say they’ve resolved the issue, but they actually haven’t! It’s impossible to log into the account.",
+      "subcategory_tags": [
+        "support_responsiveness",
+        "support_resolution_quality",
+        "crashes_freezes"
+      ]
+    },
     {
       "review_id": "14371430897",
       "source": "app_store",
@@ -10300,21 +10342,22 @@
         "data_sync_delays",
         "support_resolution_quality"
       ]
-    },
-    {
-      "review_id": "309773a0-df07-4db5-8c95-a162cb62ec7d",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2026-05-06T16:34:43",
-      "text": "after purchase and use of 2 weeks it stopped sync. support is only AI no human can be reached. they keep sending reset instructions and still after every try it will go back to stop sync.",
-      "subcategory_tags": [
-        "data_sync_delays",
-        "ai_only_support_channel",
-        "support_resolution_quality"
-      ]
     }
   ],
   "ai_only_support_channel": [
+    {
+      "review_id": "682c6f55-0c48-48a1-b8ce-4d9f630ce9a5",
+      "source": "google_play",
+      "rating": 1,
+      "date": "2026-08-08T18:13:35+00:00",
+      "text": "The Whoop wristband is clingly. You can't take it off without it sending annoying messages about your wristband being off, so notifications have to be turned off entirely. Then Whoop processes your data through AI when opening pages and forces its AI slop without a way to opt out. After reaching out to customer service for the first time, I received a clueless AI-generated response. After that, I cancelled my subscription and threw my Whoop wristband in the trash.",
+      "subcategory_tags": [
+        "notification_community_issues",
+        "ai_autonomy",
+        "ai_only_support_channel",
+        "billing_disputes"
+      ]
+    },
     {
       "review_id": "14376933635",
       "source": "app_store",
@@ -10673,18 +10716,6 @@
         "ai_only_support_channel",
         "sleep_accuracy"
       ]
-    },
-    {
-      "review_id": "486fcbb7-6fed-45ee-a7dd-904f1c05891b",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2025-10-31T14:14:15",
-      "text": "Trying to start activity tracking causes the app to crash and stop recording heart rate when you reopen it, and has for months. Support is just ai, and not even the helpful kind. Pretty abysmal for what it costs.",
-      "subcategory_tags": [
-        "crashes_freezes",
-        "ai_only_support_channel",
-        "price_value_perception"
-      ]
     }
   ],
   "support_satisfaction": [
@@ -11011,6 +11042,50 @@
   ],
   "app_stability": [
     {
+      "review_id": "14404964828",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-08-08T19:09:01-07:00",
+      "text": "Trying to set up MFA so I can upload lab data. Fails with “something went wrong. Please try again. Won’t us email or my phone number. Then the prompt to upload lab data disappears after throwing a bunch of confetti to celebrate the fact that nothing works. No support articles, not much support of any kind really. Just FAILURE.",
+      "subcategory_tags": [
+        "crashes_freezes",
+        "support_responsiveness"
+      ]
+    },
+    {
+      "review_id": "a94f1719-0ad2-4ab4-8375-dec32dd0be08",
+      "source": "google_play",
+      "rating": 3,
+      "date": "2026-08-08T12:02:04+00:00",
+      "text": "app seems to freeze, almost every time I open it. I have to close it and reopen. quite annoying",
+      "subcategory_tags": [
+        "crashes_freezes"
+      ]
+    },
+    {
+      "review_id": "14400555831",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-08-07T15:13:15-07:00",
+      "text": "They take a long time to reply to messages. They say they’ve resolved the issue, but they actually haven’t! It’s impossible to log into the account.",
+      "subcategory_tags": [
+        "support_responsiveness",
+        "support_resolution_quality",
+        "crashes_freezes"
+      ]
+    },
+    {
+      "review_id": "14398517221",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-08-07T04:10:32-07:00",
+      "text": "Since uploading and installing the most recent update, my “sleep” activities have been screwing up in the app. I start the sleep activity like I have for years, but in the morning when I wake and go to end the activity, the blue screen is gone and I am back to the main app and I have to hit “end sleep” 3-4 more times and then shut the app down  in order for it to properly turn off sleep mode.",
+      "subcategory_tags": [
+        "update_failures",
+        "crashes_freezes"
+      ]
+    },
+    {
       "review_id": "abc20aac-c89c-4824-9d67-43c978fcbc3e",
       "source": "google_play",
       "rating": 4,
@@ -11317,56 +11392,53 @@
         "ai_reliability_bugs",
         "update_failures"
       ]
-    },
+    }
+  ],
+  "crashes_freezes": [
     {
-      "review_id": "ba405f04-9cb7-4984-8f1f-4281d405ab59",
-      "source": "google_play",
+      "review_id": "14404964828",
+      "source": "app_store",
       "rating": 1,
-      "date": "2026-05-21T18:14:35",
-      "text": "Glitches a lot and doesn't work correctly and accurately. Whoop need to investigate the app.",
+      "date": "2026-08-08T19:09:01-07:00",
+      "text": "Trying to set up MFA so I can upload lab data. Fails with “something went wrong. Please try again. Won’t us email or my phone number. Then the prompt to upload lab data disappears after throwing a bunch of confetti to celebrate the fact that nothing works. No support articles, not much support of any kind really. Just FAILURE.",
       "subcategory_tags": [
         "crashes_freezes",
-        "metric_accuracy"
+        "support_responsiveness"
       ]
     },
     {
-      "review_id": "0eba7c68-8f8f-40e7-97fa-caaa9fabef0c",
+      "review_id": "a94f1719-0ad2-4ab4-8375-dec32dd0be08",
       "source": "google_play",
-      "rating": 4,
-      "date": "2026-05-20T12:10:45",
-      "text": "The app will say my strap is disconnected after a work out, when it wasn't. and sometimes the app will close and open again before I can pause and stop to log a work out. Over all it is solid with all other biometrics.",
+      "rating": 3,
+      "date": "2026-08-08T12:02:04+00:00",
+      "text": "app seems to freeze, almost every time I open it. I have to close it and reopen. quite annoying",
       "subcategory_tags": [
-        "ongoing_disconnects",
         "crashes_freezes"
       ]
     },
     {
-      "review_id": "4fdc3572-a028-4f8f-b369-5a5781ccc7eb",
-      "source": "google_play",
-      "rating": 2,
-      "date": "2026-05-16T21:27:11",
-      "text": "Lots of great marketing, but the product just doesn’t deliver. There are plenty of analytics, but I don’t trust the data, and the software is buggy as hell. Even simple features like automatic time zone changes or ending a workout automatically — or at least notifying you when your heart rate drops — don’t work properly. Save your money and buy something that actually works.",
+      "review_id": "14400555831",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-08-07T15:13:15-07:00",
+      "text": "They take a long time to reply to messages. They say they’ve resolved the issue, but they actually haven’t! It’s impossible to log into the account.",
       "subcategory_tags": [
-        "metric_accuracy",
-        "crashes_freezes",
-        "activity_detection",
-        "price_value_perception"
+        "support_responsiveness",
+        "support_resolution_quality",
+        "crashes_freezes"
       ]
     },
     {
-      "review_id": "6b7d5a7b-a32c-4919-a260-0acba9966143",
-      "source": "google_play",
+      "review_id": "14398517221",
+      "source": "app_store",
       "rating": 1,
-      "date": "2026-05-16T09:33:48",
-      "text": "I am consistently experiencing freezing issues, and my Whoop device has not provided any readings for two weeks. The customer service experience has been disappointing, as I have followed the same troubleshooting steps with multiple representatives without a resolution. Android user",
+      "date": "2026-08-07T04:10:32-07:00",
+      "text": "Since uploading and installing the most recent update, my “sleep” activities have been screwing up in the app. I start the sleep activity like I have for years, but in the morning when I wake and go to end the activity, the blue screen is gone and I am back to the main app and I have to hit “end sleep” 3-4 more times and then shut the app down  in order for it to properly turn off sleep mode.",
       "subcategory_tags": [
-        "crashes_freezes",
-        "data_sync_delays",
-        "support_resolution_quality"
+        "update_failures",
+        "crashes_freezes"
       ]
-    }
-  ],
-  "crashes_freezes": [
+    },
     {
       "review_id": "abc20aac-c89c-4824-9d67-43c978fcbc3e",
       "source": "google_play",
@@ -11674,52 +11746,20 @@
         "crashes_freezes",
         "ai_autonomy"
       ]
-    },
-    {
-      "review_id": "baf3b7d2-24cd-49c7-a420-f639d4cf9846",
-      "source": "google_play",
-      "rating": 3,
-      "date": "2026-05-11T09:16:03",
-      "text": "very glitchy last 10 days. Their Ai. sucks",
-      "subcategory_tags": [
-        "crashes_freezes",
-        "ai_reliability_bugs"
-      ]
-    },
-    {
-      "review_id": "7c00b057-b01c-4df5-9d08-28a6fa80e99a",
-      "source": "google_play",
-      "rating": 2,
-      "date": "2026-05-09T10:08:53",
-      "text": "love the device... but constantly have to force close the app and restart my phone. no other app on my phone has this issue.",
-      "subcategory_tags": [
-        "crashes_freezes"
-      ]
-    },
-    {
-      "review_id": "05707a70-128b-4784-b8e7-05ace00a50cd",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2026-04-27T10:56:35",
-      "text": "lots of issues. keeps closing and data provided is not precise.. unable to detect exercises precisely...",
-      "subcategory_tags": [
-        "crashes_freezes",
-        "metric_accuracy",
-        "activity_detection"
-      ]
-    },
-    {
-      "review_id": "14000643837",
-      "source": "app_store",
-      "rating": 3,
-      "date": "2026-04-26T16:43:16-07:00",
-      "text": "Most recent update keeps locking up when I go to the health tab.",
-      "subcategory_tags": [
-        "crashes_freezes"
-      ]
     }
   ],
   "update_failures": [
+    {
+      "review_id": "14398517221",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-08-07T04:10:32-07:00",
+      "text": "Since uploading and installing the most recent update, my “sleep” activities have been screwing up in the app. I start the sleep activity like I have for years, but in the morning when I wake and go to end the activity, the blue screen is gone and I am back to the main app and I have to hit “end sleep” 3-4 more times and then shut the app down  in order for it to properly turn off sleep mode.",
+      "subcategory_tags": [
+        "update_failures",
+        "crashes_freezes"
+      ]
+    },
     {
       "review_id": "4cfb7865-df34-4e61-813e-966459e8ac71",
       "source": "google_play",
@@ -12049,20 +12089,34 @@
         "update_failures",
         "crashes_freezes"
       ]
-    },
-    {
-      "review_id": "389fdda6-be4d-457f-b388-112721f9ddad",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2025-11-25T23:23:56",
-      "text": "Since the new update 3 days ago my app on android doesn't work. it's keep sending me the crash message.",
-      "subcategory_tags": [
-        "update_failures",
-        "crashes_freezes"
-      ]
     }
   ],
   "ui_ux": [
+    {
+      "review_id": "682c6f55-0c48-48a1-b8ce-4d9f630ce9a5",
+      "source": "google_play",
+      "rating": 1,
+      "date": "2026-08-08T18:13:35+00:00",
+      "text": "The Whoop wristband is clingly. You can't take it off without it sending annoying messages about your wristband being off, so notifications have to be turned off entirely. Then Whoop processes your data through AI when opening pages and forces its AI slop without a way to opt out. After reaching out to customer service for the first time, I received a clueless AI-generated response. After that, I cancelled my subscription and threw my Whoop wristband in the trash.",
+      "subcategory_tags": [
+        "notification_community_issues",
+        "ai_autonomy",
+        "ai_only_support_channel",
+        "billing_disputes"
+      ]
+    },
+    {
+      "review_id": "14403057110",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-08-08T07:38:04-07:00",
+      "text": "Doesn’t count steps correctly from the 4.0-5.0 version.  Strain doesn’t register the same way on the 5.0\nAll the extra features on the top tier are hard to figure out.  No customer service",
+      "subcategory_tags": [
+        "metric_accuracy",
+        "feature_ui_friction",
+        "support_responsiveness"
+      ]
+    },
     {
       "review_id": "5647e6fd-3a25-4beb-9224-700e304b644b",
       "source": "google_play",
@@ -12385,26 +12439,6 @@
         "feature_ui_friction",
         "sleep_accuracy",
         "notification_community_issues"
-      ]
-    },
-    {
-      "review_id": "202b49dc-4965-4c32-9b8d-6a2eb8c286b9",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2026-06-29T12:36:25",
-      "text": "The workout tracker is not very intuitive. Also why do I have to start, stop, start, stop im between each set 🙄",
-      "subcategory_tags": [
-        "feature_ui_friction"
-      ]
-    },
-    {
-      "review_id": "f4ace7b9-8404-474d-be30-19a8fcaf54c2",
-      "source": "google_play",
-      "rating": 4,
-      "date": "2026-06-29T05:57:00",
-      "text": "still trying to understand all the capabilities and maneuver around the app",
-      "subcategory_tags": [
-        "redesign_regression"
       ]
     }
   ],
@@ -13095,6 +13129,18 @@
   ],
   "feature_ui_friction": [
     {
+      "review_id": "14403057110",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-08-08T07:38:04-07:00",
+      "text": "Doesn’t count steps correctly from the 4.0-5.0 version.  Strain doesn’t register the same way on the 5.0\nAll the extra features on the top tier are hard to figure out.  No customer service",
+      "subcategory_tags": [
+        "metric_accuracy",
+        "feature_ui_friction",
+        "support_responsiveness"
+      ]
+    },
+    {
       "review_id": "45d54263-92f7-4249-aa6e-85d24be3cc50",
       "source": "google_play",
       "rating": 5,
@@ -13427,20 +13473,22 @@
       "subcategory_tags": [
         "feature_ui_friction"
       ]
-    },
-    {
-      "review_id": "ed5b39e1-fc12-4bf5-b1d2-08992d89ac24",
-      "source": "google_play",
-      "rating": 4,
-      "date": "2026-05-14T04:06:52",
-      "text": "it's a good app, but not amazing. not totally intuitive, some activities require several steps. sometimes difficult to navigate.",
-      "subcategory_tags": [
-        "redesign_regression",
-        "feature_ui_friction"
-      ]
     }
   ],
   "notification_community_issues": [
+    {
+      "review_id": "682c6f55-0c48-48a1-b8ce-4d9f630ce9a5",
+      "source": "google_play",
+      "rating": 1,
+      "date": "2026-08-08T18:13:35+00:00",
+      "text": "The Whoop wristband is clingly. You can't take it off without it sending annoying messages about your wristband being off, so notifications have to be turned off entirely. Then Whoop processes your data through AI when opening pages and forces its AI slop without a way to opt out. After reaching out to customer service for the first time, I received a clueless AI-generated response. After that, I cancelled my subscription and threw my Whoop wristband in the trash.",
+      "subcategory_tags": [
+        "notification_community_issues",
+        "ai_autonomy",
+        "ai_only_support_channel",
+        "billing_disputes"
+      ]
+    },
     {
       "review_id": "14391905316",
       "source": "app_store",
@@ -13760,18 +13808,6 @@
       "text": "team chat is completely broken, I get notifications but I can only see my messages no one else's. Ridiculous and this bug has existed for well over a year.",
       "subcategory_tags": [
         "notification_community_issues"
-      ]
-    },
-    {
-      "review_id": "3dfbe346-0392-44c9-994b-14c9b6c8aa55",
-      "source": "google_play",
-      "rating": 4,
-      "date": "2026-02-14T19:53:05",
-      "text": "i'll give 4/5 for android version... the chat in community didn't appear completely even forced stop. the search for activities are not user friendly compares to iOS.",
-      "subcategory_tags": [
-        "notification_community_issues",
-        "android_feature_gaps",
-        "feature_ui_friction"
       ]
     }
   ],
@@ -14794,6 +14830,17 @@
   ],
   "localization": [
     {
+      "review_id": "14402367478",
+      "source": "app_store",
+      "rating": 3,
+      "date": "2026-08-08T03:50:37-07:00",
+      "text": "Poderia oferecer e ser mais fácil de entender pelo que cobra, ex: dificuldade de colocar os exames no aplicativo, etc..",
+      "subcategory_tags": [
+        "price_value_perception",
+        "english_jargon_complexity"
+      ]
+    },
+    {
       "review_id": "14341117152",
       "source": "app_store",
       "rating": 3,
@@ -15087,16 +15134,6 @@
       "rating": 2,
       "date": "2025-05-10T05:22:25",
       "text": "Whoop has a large Arabic-speaking community, yet it still doesn’t support the Arabic language. This lack of inclusivity is disappointing",
-      "subcategory_tags": [
-        "missing_language_support"
-      ]
-    },
-    {
-      "review_id": "d168d7f9-7967-4f09-9bca-251965b6de0f",
-      "source": "google_play",
-      "rating": 4,
-      "date": "2025-04-05T02:02:24",
-      "text": "Было бы не плохо, если бы добавили русский язык",
       "subcategory_tags": [
         "missing_language_support"
       ]
@@ -15414,6 +15451,17 @@
   ],
   "english_jargon_complexity": [
     {
+      "review_id": "14402367478",
+      "source": "app_store",
+      "rating": 3,
+      "date": "2026-08-08T03:50:37-07:00",
+      "text": "Poderia oferecer e ser mais fácil de entender pelo que cobra, ex: dificuldade de colocar os exames no aplicativo, etc..",
+      "subcategory_tags": [
+        "price_value_perception",
+        "english_jargon_complexity"
+      ]
+    },
+    {
       "review_id": "14308663556",
       "source": "app_store",
       "rating": 3,
@@ -15484,6 +15532,17 @@
     }
   ],
   "feature_requests": [
+    {
+      "review_id": "14401858760",
+      "source": "app_store",
+      "rating": 5,
+      "date": "2026-08-08T00:15:39-07:00",
+      "text": "Love the whoop gives the steps but not mileage\nAlso some inputs as what to do to loose weight with what is already being done.\nExcellent",
+      "subcategory_tags": [
+        "missing_metrics",
+        "personalization_use_case_fit"
+      ]
+    },
     {
       "review_id": "db1c381f-7c2a-495c-b015-a22688a21913",
       "source": "google_play",
@@ -15806,16 +15865,6 @@
       "subcategory_tags": [
         "activity_detection",
         "price_value_perception",
-        "missing_metrics"
-      ]
-    },
-    {
-      "review_id": "14282131240",
-      "source": "app_store",
-      "rating": 5,
-      "date": "2026-07-09T06:52:29-07:00",
-      "text": "It will be nice if I can change my birthday on this app because I’m only 13 and I’ve had this thing going on two years now",
-      "subcategory_tags": [
         "missing_metrics"
       ]
     }
@@ -16157,6 +16206,17 @@
   ],
   "missing_metrics": [
     {
+      "review_id": "14401858760",
+      "source": "app_store",
+      "rating": 5,
+      "date": "2026-08-08T00:15:39-07:00",
+      "text": "Love the whoop gives the steps but not mileage\nAlso some inputs as what to do to loose weight with what is already being done.\nExcellent",
+      "subcategory_tags": [
+        "missing_metrics",
+        "personalization_use_case_fit"
+      ]
+    },
+    {
       "review_id": "db1c381f-7c2a-495c-b015-a22688a21913",
       "source": "google_play",
       "rating": 5,
@@ -16482,20 +16542,20 @@
         "missing_metrics",
         "price_value_perception"
       ]
-    },
-    {
-      "review_id": "266d57fd-551a-4d70-b9ec-19cfbd94494d",
-      "source": "google_play",
-      "rating": 2,
-      "date": "2026-04-22T09:45:54",
-      "text": "Missing some basic features that would be nice. Please add a timer/multiple alarm system so that rests between working out can be tracked",
-      "subcategory_tags": [
-        "missing_activity_types",
-        "missing_metrics"
-      ]
     }
   ],
   "personalization_use_case_fit": [
+    {
+      "review_id": "14401858760",
+      "source": "app_store",
+      "rating": 5,
+      "date": "2026-08-08T00:15:39-07:00",
+      "text": "Love the whoop gives the steps but not mileage\nAlso some inputs as what to do to loose weight with what is already being done.\nExcellent",
+      "subcategory_tags": [
+        "missing_metrics",
+        "personalization_use_case_fit"
+      ]
+    },
     {
       "review_id": "d063a147-6a35-4c75-a10e-a5500eeee655",
       "source": "google_play",
@@ -16824,17 +16884,6 @@
         "personalization_use_case_fit",
         "missing_metrics",
         "feature_ui_friction"
-      ]
-    },
-    {
-      "review_id": "fd0e540a-6182-44b8-9402-e985ddbb4f9f",
-      "source": "google_play",
-      "rating": 3,
-      "date": "2026-06-06T05:01:02",
-      "text": "steps are wildly inaccurate with no way to disable them and it's negatively affecting my healthspan",
-      "subcategory_tags": [
-        "metric_accuracy",
-        "personalization_use_case_fit"
       ]
     }
   ],

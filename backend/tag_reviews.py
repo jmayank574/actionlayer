@@ -21,6 +21,7 @@ Run with: python tag_reviews.py            (incremental: only new/failed reviews
 import argparse
 import csv
 import json
+import os
 import sys
 from pathlib import Path
 
@@ -100,6 +101,21 @@ def main():
         + (f"Forcing full re-tag." if args.full
            else f"{carried_over} already tagged (carried forward, no API call), {len(to_tag)} need tagging.")
     )
+
+    if to_tag and not os.getenv("ANTHROPIC_API_KEY"):
+        # Fail loudly and immediately instead of burning through every
+        # review's full retry-with-backoff cycle (MAX_RETRIES x
+        # RETRY_BACKOFF_SECONDS each, in tagging/tagger.py) only to end up
+        # with 100% FAILED rows anyway -- that's minutes of wasted CI time
+        # for a failure that was knowable before the first API call.
+        print(
+            "\nERROR: ANTHROPIC_API_KEY is not set, but "
+            f"{len(to_tag)} review(s) need tagging. Refusing to burn through "
+            "retries on every one of them -- set the key (e.g. the "
+            "ANTHROPIC_API_KEY repo secret in GitHub Actions) and re-run.",
+            file=sys.stderr,
+        )
+        sys.exit(1)
 
     review_by_id = {r["review_id"]: r for r in to_tag}
 
