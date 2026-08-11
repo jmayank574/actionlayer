@@ -1,14 +1,14 @@
 # WHOOP review dataset
 
-Generated 2026-08-11T01:40:25.655030
+Generated 2026-08-11T01:52:55.923459
 
 Every row below came from a live Google Play or Apple App Store response — nothing in this dataset is model-generated, inferred, or backfilled. Counts reflect exactly what each source returned.
 
 ## Since last pull
 
-- New reviews: **7**
+- New reviews: **0**
 - Edited since last seen: 0
-- Returned again, unchanged: 3298
+- Returned again, unchanged: 3305
 - Carried over from a prior pull (not returned this time, e.g. aged out of Apple's ~500-review RSS window): 43
 
 ## By source
