@@ -1,6 +1,16 @@
 {
   "pricing_billing": [
     {
+      "review_id": "14406824726",
+      "source": "app_store",
+      "rating": 5,
+      "date": "2026-08-09T07:29:00-07:00",
+      "text": "Love the watch and what it does for my daily life,work,sports.  Only complaint is the price upfront for the subscription",
+      "subcategory_tags": [
+        "price_value_perception"
+      ]
+    },
+    {
       "review_id": "14405356198",
       "source": "app_store",
       "rating": 3,
@@ -331,19 +341,19 @@
         "price_value_perception",
         "comfort_fit"
       ]
-    },
-    {
-      "review_id": "14332847242",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-07-21T20:39:53-07:00",
-      "text": "They renew your subscription before it ends so you're forced to reach out to them or contact your credit card company.",
-      "subcategory_tags": [
-        "billing_disputes"
-      ]
     }
   ],
   "price_value_perception": [
+    {
+      "review_id": "14406824726",
+      "source": "app_store",
+      "rating": 5,
+      "date": "2026-08-09T07:29:00-07:00",
+      "text": "Love the watch and what it does for my daily life,work,sports.  Only complaint is the price upfront for the subscription",
+      "subcategory_tags": [
+        "price_value_perception"
+      ]
+    },
     {
       "review_id": "14405356198",
       "source": "app_store",
@@ -670,16 +680,6 @@
       "subcategory_tags": [
         "missing_language_support",
         "english_jargon_complexity",
-        "price_value_perception"
-      ]
-    },
-    {
-      "review_id": "3df83135-f539-42e0-be64-b841a5e00401",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2026-07-15T16:52:14",
-      "text": "Whoop is a waste of money!",
-      "subcategory_tags": [
         "price_value_perception"
       ]
     }
@@ -1728,6 +1728,37 @@
   ],
   "sleep_tracking": [
     {
+      "review_id": "36a353de-e2a5-4658-a1f3-516cf932cc68",
+      "source": "google_play",
+      "rating": 5,
+      "date": "2026-08-09T16:08:56+00:00",
+      "text": "Whoop has been very eye opening for my sleep and exercise habits. it has helped me get direction on improving my health! I would do it again in a heartbeat!",
+      "subcategory_tags": [
+        "sleep_satisfaction"
+      ]
+    },
+    {
+      "review_id": "5ad3391b-fdb7-407a-8268-d93f30797f13",
+      "source": "google_play",
+      "rating": 5,
+      "date": "2026-08-09T14:50:48+00:00",
+      "text": "I’ve been using WHOOP and I’m really impressed with how much insight it gives me into my health and daily performance. The recovery, sleep, strain, and stress tracking are especially useful for understanding how my body is responding to workouts and everyday activities. The app is easy to use, the data is presented clearly, and the personalized recommendations make it easier to build better habits. I also really like the comfortable, lightweight design.",
+      "subcategory_tags": [
+        "sleep_satisfaction",
+        "comfort_fit"
+      ]
+    },
+    {
+      "review_id": "14406315555",
+      "source": "app_store",
+      "rating": 5,
+      "date": "2026-08-09T04:44:43-07:00",
+      "text": "I’ve gone back and forth between different apps and devices to track sleep, recovery, and training strain, and WHOOP has been by far the best experience for me.\n\nThe app is intuitive, user-friendly, and packed with useful data without feeling overwhelming. Like any wearable, not every metric is going to be 100% accurate, and some data occasionally needs context or adjustment. But that’s not really where I see the value.\n\nFor me, WHOOP is most useful for establishing consistent benchmarks, spotting trends over time, and building healthier habits around sleep, recovery, and training. Instead of obsessing over individual numbers, I use the data to make better decisions and understand how my habits affect my performance and recovery.",
+      "subcategory_tags": [
+        "sleep_satisfaction"
+      ]
+    },
+    {
       "review_id": "14405269913",
       "source": "app_store",
       "rating": 3,
@@ -2019,39 +2050,6 @@
       "subcategory_tags": [
         "activity_detection",
         "sleep_accuracy"
-      ]
-    },
-    {
-      "review_id": "9f6ff940-35c6-4d96-8722-5dadc3a5800a",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2026-07-16T22:13:09",
-      "text": "The device is significantly overhyped. Despite its premium price, it fails to accurately detect sleep and wake times. I have to manually end my sleep session in the app almost every day, which defeats the purpose of an automated sleep tracker. Considering the high price, I expected much better sensor accuracy and reliability. The overall experience does not justify the cost, and in my opinion, the device should be priced closer to ₹10,000 based on its current Totally disappointed.",
-      "subcategory_tags": [
-        "sleep_accuracy",
-        "price_value_perception"
-      ]
-    },
-    {
-      "review_id": "14310462269",
-      "source": "app_store",
-      "rating": 5,
-      "date": "2026-07-16T07:42:27-07:00",
-      "text": "I discovered WHOOP from Chris Williamson’s Modern Wisdom podcast. I had been wanting to get more serious and precise with my fitness. I played a general amount of basketball and ate a general amount of food and had a general idea of my sleep quality. However, ever since I purchased WHOOP, my Fitness and my Health at large has probably doubled. It allows me to be extremely precise in the amount of calories I’m burning which means that I can diet correctly. Its guidance in the realm of sleep is unparalleled, and I love the strength-trainer that it offers - where you can create or have it create you a custom workout according to your goals (and I work at lifetime fitness and I’ve had Personal trainers look over my program and they had no critiques). The AI on WHOOP is also super beneficial and it’s always there if you have questions about bedtime or eating certain things or what you should be doing throughout your day. GET THE WHOOP. The best part is I still have the 4.0! So trust me, I’ll be upgrading to the 5.0 soon.",
-      "subcategory_tags": [
-        "sleep_satisfaction",
-        "ai_positive_reception",
-        "feature_ui_friction"
-      ]
-    },
-    {
-      "review_id": "14310257996",
-      "source": "app_store",
-      "rating": 5,
-      "date": "2026-07-16T06:44:52-07:00",
-      "text": "As a family of four, we love our Whoop. The 13 and 14 year-old show their friends their strain, sleep, and steps. I also created a community group of friends and family in our area to create a little competition. I love the amount of data I receive and especially have enjoyed the lab work I have done through WHOOP.",
-      "subcategory_tags": [
-        "sleep_satisfaction"
       ]
     }
   ],
@@ -2414,6 +2412,37 @@
   ],
   "sleep_satisfaction": [
     {
+      "review_id": "36a353de-e2a5-4658-a1f3-516cf932cc68",
+      "source": "google_play",
+      "rating": 5,
+      "date": "2026-08-09T16:08:56+00:00",
+      "text": "Whoop has been very eye opening for my sleep and exercise habits. it has helped me get direction on improving my health! I would do it again in a heartbeat!",
+      "subcategory_tags": [
+        "sleep_satisfaction"
+      ]
+    },
+    {
+      "review_id": "5ad3391b-fdb7-407a-8268-d93f30797f13",
+      "source": "google_play",
+      "rating": 5,
+      "date": "2026-08-09T14:50:48+00:00",
+      "text": "I’ve been using WHOOP and I’m really impressed with how much insight it gives me into my health and daily performance. The recovery, sleep, strain, and stress tracking are especially useful for understanding how my body is responding to workouts and everyday activities. The app is easy to use, the data is presented clearly, and the personalized recommendations make it easier to build better habits. I also really like the comfortable, lightweight design.",
+      "subcategory_tags": [
+        "sleep_satisfaction",
+        "comfort_fit"
+      ]
+    },
+    {
+      "review_id": "14406315555",
+      "source": "app_store",
+      "rating": 5,
+      "date": "2026-08-09T04:44:43-07:00",
+      "text": "I’ve gone back and forth between different apps and devices to track sleep, recovery, and training strain, and WHOOP has been by far the best experience for me.\n\nThe app is intuitive, user-friendly, and packed with useful data without feeling overwhelming. Like any wearable, not every metric is going to be 100% accurate, and some data occasionally needs context or adjustment. But that’s not really where I see the value.\n\nFor me, WHOOP is most useful for establishing consistent benchmarks, spotting trends over time, and building healthier habits around sleep, recovery, and training. Instead of obsessing over individual numbers, I use the data to make better decisions and understand how my habits affect my performance and recovery.",
+      "subcategory_tags": [
+        "sleep_satisfaction"
+      ]
+    },
+    {
       "review_id": "14402521676",
       "source": "app_store",
       "rating": 5,
@@ -2698,36 +2727,6 @@
       "rating": 5,
       "date": "2026-07-05T17:11:27",
       "text": "Good sleep band. whoop gives you very critical sensitive informations regarding your sleep process very analytically. you can change your sleep pattern definitely. simple steps but wonderful results. sleep is vey sensitive phenomenon. We are not aware of it. Whoop sensitise your perspective and practises towards the simple natural god gift sleep process. that's incredible. today I had a long sleep. thank you Whoop.",
-      "subcategory_tags": [
-        "sleep_satisfaction"
-      ]
-    },
-    {
-      "review_id": "14258173504",
-      "source": "app_store",
-      "rating": 5,
-      "date": "2026-07-03T07:27:53-07:00",
-      "text": "I love my whoop i wish they could endorse me all joking aside i love their sleep tracking and the promotions they give. Im thinking about giving my brother one too.",
-      "subcategory_tags": [
-        "sleep_satisfaction"
-      ]
-    },
-    {
-      "review_id": "14251153947",
-      "source": "app_store",
-      "rating": 5,
-      "date": "2026-07-01T14:44:52-07:00",
-      "text": "First time tracker and it has changed my life! I believe in the power of sleep and tracking now. I am so happy that I bought this for myself for my birthday last year!",
-      "subcategory_tags": [
-        "sleep_satisfaction"
-      ]
-    },
-    {
-      "review_id": "14249811486",
-      "source": "app_store",
-      "rating": 5,
-      "date": "2026-07-01T07:54:15-07:00",
-      "text": "Whoop has been a huge addition to my life! I understand my body, my needs, and see what helps and hurts me physically! The stress levels are awesome to understand what you’re feeling, the sleep recovery score is accurate as heck! Recommend for all",
       "subcategory_tags": [
         "sleep_satisfaction"
       ]
@@ -3086,6 +3085,17 @@
   ],
   "hardware_wearability": [
     {
+      "review_id": "5ad3391b-fdb7-407a-8268-d93f30797f13",
+      "source": "google_play",
+      "rating": 5,
+      "date": "2026-08-09T14:50:48+00:00",
+      "text": "I’ve been using WHOOP and I’m really impressed with how much insight it gives me into my health and daily performance. The recovery, sleep, strain, and stress tracking are especially useful for understanding how my body is responding to workouts and everyday activities. The app is easy to use, the data is presented clearly, and the personalized recommendations make it easier to build better habits. I also really like the comfortable, lightweight design.",
+      "subcategory_tags": [
+        "sleep_satisfaction",
+        "comfort_fit"
+      ]
+    },
+    {
       "review_id": "8fd13b4b-f9bb-4d94-813e-8725f36c1871",
       "source": "google_play",
       "rating": 5,
@@ -3409,17 +3419,6 @@
         "sleep_accuracy",
         "strap_clasp_durability",
         "support_resolution_quality"
-      ]
-    },
-    {
-      "review_id": "14073520903",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-05-16T22:02:46-07:00",
-      "text": "I am trying to cancel membership but it won’t let me. Only option it says is to downgrade from the $240 per year to the $200 per year plan. The watch sucks too",
-      "subcategory_tags": [
-        "billing_disputes",
-        "build_quality_perception"
       ]
     }
   ],
@@ -3777,6 +3776,17 @@
   ],
   "comfort_fit": [
     {
+      "review_id": "5ad3391b-fdb7-407a-8268-d93f30797f13",
+      "source": "google_play",
+      "rating": 5,
+      "date": "2026-08-09T14:50:48+00:00",
+      "text": "I’ve been using WHOOP and I’m really impressed with how much insight it gives me into my health and daily performance. The recovery, sleep, strain, and stress tracking are especially useful for understanding how my body is responding to workouts and everyday activities. The app is easy to use, the data is presented clearly, and the personalized recommendations make it easier to build better habits. I also really like the comfortable, lightweight design.",
+      "subcategory_tags": [
+        "sleep_satisfaction",
+        "comfort_fit"
+      ]
+    },
+    {
       "review_id": "14365927486",
       "source": "app_store",
       "rating": 3,
@@ -4104,19 +4114,6 @@
         "support_resolution_quality",
         "comfort_fit",
         "metric_accuracy"
-      ]
-    },
-    {
-      "review_id": "94c3ef20-ec56-447e-baeb-d92cc7b4e189",
-      "source": "google_play",
-      "rating": 3,
-      "date": "2024-04-16T13:26:51",
-      "text": "Really wanted to rate this higher, but there's just too many significant issues. Regular bluetooth issues being one. UI/ UX is unnecessarily convoluted and not at all intuitive. Needs a complete redesign. On the plus side, the band is comfortable. Unlikely to be renewing next year unless big improvements are made.",
-      "subcategory_tags": [
-        "ongoing_disconnects",
-        "redesign_regression",
-        "comfort_fit",
-        "price_value_perception"
       ]
     }
   ],
@@ -6194,6 +6191,17 @@
   ],
   "data_accuracy": [
     {
+      "review_id": "14406833950",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-08-09T07:31:46-07:00",
+      "text": "The concept sounds amazing. Monitor your vitals and help you improve performance and health. Other than the strain monitor, the other metrics are questionable at best. And the AI Chatbot, which is supposed to give you advice is utterly useless.. You are way better off to just talk with Claude or ChatGPT then waste your time with Whoop.",
+      "subcategory_tags": [
+        "metric_accuracy",
+        "ai_reliability_bugs"
+      ]
+    },
+    {
       "review_id": "14405356198",
       "source": "app_store",
       "rating": 3,
@@ -6535,20 +6543,20 @@
         "price_value_perception",
         "metric_accuracy"
       ]
-    },
-    {
-      "review_id": "14227193547",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-06-25T21:23:04-07:00",
-      "text": "WHOOP is unable to keep track of consistent and accurate data.  Battery life is unreliable",
-      "subcategory_tags": [
-        "metric_accuracy",
-        "battery_life"
-      ]
     }
   ],
   "metric_accuracy": [
+    {
+      "review_id": "14406833950",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-08-09T07:31:46-07:00",
+      "text": "The concept sounds amazing. Monitor your vitals and help you improve performance and health. Other than the strain monitor, the other metrics are questionable at best. And the AI Chatbot, which is supposed to give you advice is utterly useless.. You are way better off to just talk with Claude or ChatGPT then waste your time with Whoop.",
+      "subcategory_tags": [
+        "metric_accuracy",
+        "ai_reliability_bugs"
+      ]
+    },
     {
       "review_id": "14405356198",
       "source": "app_store",
@@ -6884,17 +6892,6 @@
       "subcategory_tags": [
         "metric_accuracy",
         "upsell_pressure"
-      ]
-    },
-    {
-      "review_id": "14194735034",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-06-17T13:02:02-07:00",
-      "text": "The analytics are not great. if you buy a six month package, for example, they won’t cancel it. They’ll continue to bill you and you have to dispute that with your bank - caveat emptor.",
-      "subcategory_tags": [
-        "billing_disputes",
-        "metric_accuracy"
       ]
     }
   ],
@@ -8012,6 +8009,17 @@
   ],
   "ai_coach": [
     {
+      "review_id": "14406833950",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-08-09T07:31:46-07:00",
+      "text": "The concept sounds amazing. Monitor your vitals and help you improve performance and health. Other than the strain monitor, the other metrics are questionable at best. And the AI Chatbot, which is supposed to give you advice is utterly useless.. You are way better off to just talk with Claude or ChatGPT then waste your time with Whoop.",
+      "subcategory_tags": [
+        "metric_accuracy",
+        "ai_reliability_bugs"
+      ]
+    },
+    {
       "review_id": "14405356198",
       "source": "app_store",
       "rating": 3,
@@ -8345,20 +8353,20 @@
         "activity_detection",
         "ai_reliability_bugs"
       ]
-    },
-    {
-      "review_id": "14297631430",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-07-13T04:02:22-07:00",
-      "text": "They have an awful ai coach that you can’t turn off. It sends you pointless notifications all the time that make the experience so annoying. I’m getting rid of jt",
-      "subcategory_tags": [
-        "ai_autonomy",
-        "notification_community_issues"
-      ]
     }
   ],
   "ai_reliability_bugs": [
+    {
+      "review_id": "14406833950",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-08-09T07:31:46-07:00",
+      "text": "The concept sounds amazing. Monitor your vitals and help you improve performance and health. Other than the strain monitor, the other metrics are questionable at best. And the AI Chatbot, which is supposed to give you advice is utterly useless.. You are way better off to just talk with Claude or ChatGPT then waste your time with Whoop.",
+      "subcategory_tags": [
+        "metric_accuracy",
+        "ai_reliability_bugs"
+      ]
+    },
     {
       "review_id": "14398184389",
       "source": "app_store",
@@ -8699,17 +8707,6 @@
       "subcategory_tags": [
         "ai_reliability_bugs",
         "sleep_accuracy"
-      ]
-    },
-    {
-      "review_id": "14041309059",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-05-08T05:07:54-07:00",
-      "text": "Whoop your ai is a computer, not a human. Stop w the excessive guardrails.  Profanity or labeling as woke designed to change human behavior is not hurting AI. Overpriced and will be cancelling due to your AI refusal to answer legit questions bc of your excessive guardrails. Hope others do too.",
-      "subcategory_tags": [
-        "ai_reliability_bugs",
-        "price_value_perception"
       ]
     }
   ],
@@ -14830,6 +14827,16 @@
   ],
   "localization": [
     {
+      "review_id": "14406793031",
+      "source": "app_store",
+      "rating": 4,
+      "date": "2026-08-09T07:19:37-07:00",
+      "text": "Please support Chinese as soon as possible！",
+      "subcategory_tags": [
+        "missing_language_support"
+      ]
+    },
+    {
       "review_id": "14402367478",
       "source": "app_store",
       "rating": 3,
@@ -15127,19 +15134,19 @@
       "subcategory_tags": [
         "missing_language_support"
       ]
-    },
-    {
-      "review_id": "974081d8-a026-4772-933b-d90ceeed48c5",
-      "source": "google_play",
-      "rating": 2,
-      "date": "2025-05-10T05:22:25",
-      "text": "Whoop has a large Arabic-speaking community, yet it still doesn’t support the Arabic language. This lack of inclusivity is disappointing",
-      "subcategory_tags": [
-        "missing_language_support"
-      ]
     }
   ],
   "missing_language_support": [
+    {
+      "review_id": "14406793031",
+      "source": "app_store",
+      "rating": 4,
+      "date": "2026-08-09T07:19:37-07:00",
+      "text": "Please support Chinese as soon as possible！",
+      "subcategory_tags": [
+        "missing_language_support"
+      ]
+    },
     {
       "review_id": "14341117152",
       "source": "app_store",
@@ -15434,16 +15441,6 @@
       "rating": 2,
       "date": "2025-05-10T05:22:25",
       "text": "Whoop has a large Arabic-speaking community, yet it still doesn’t support the Arabic language. This lack of inclusivity is disappointing",
-      "subcategory_tags": [
-        "missing_language_support"
-      ]
-    },
-    {
-      "review_id": "d168d7f9-7967-4f09-9bca-251965b6de0f",
-      "source": "google_play",
-      "rating": 4,
-      "date": "2025-04-05T02:02:24",
-      "text": "Было бы не плохо, если бы добавили русский язык",
       "subcategory_tags": [
         "missing_language_support"
       ]
