@@ -1,7 +1,7 @@
 {
   "total_reviews": 3348,
-  "newly_tagged_this_run": 7,
-  "carried_over_this_run": 3341,
+  "newly_tagged_this_run": 0,
+  "carried_over_this_run": 3348,
   "tagged_ok": 3348,
   "failed": 0,
   "coverage_pct_this_run": 100.0,
