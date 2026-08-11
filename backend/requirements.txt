@@ -6,3 +6,5 @@ requests
 email-validator
 google-play-scraper
 pandas
+pyyaml
+pydantic
