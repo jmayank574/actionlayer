@@ -1,6 +1,28 @@
 {
   "pricing_billing": [
     {
+      "review_id": "14413156567",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-08-10T21:41:50-07:00",
+      "text": "I did the one month free trail. Then I went to monthly subscription, and kept it for another month. Now I am trying to cancel my membership and they are trying to charge me for a full year.",
+      "subcategory_tags": [
+        "billing_disputes"
+      ]
+    },
+    {
+      "review_id": "5bdb40c4-0c75-4c7a-b5f9-22177bb898c4",
+      "source": "google_play",
+      "rating": 1,
+      "date": "2026-08-11T04:17:03+00:00",
+      "text": "poor accuracy measuring sleep. Really bad GenAi experiencie. The worse I have seen. it does not worth the money.",
+      "subcategory_tags": [
+        "sleep_accuracy",
+        "ai_reliability_bugs",
+        "price_value_perception"
+      ]
+    },
+    {
       "review_id": "14406824726",
       "source": "app_store",
       "rating": 5,
@@ -317,33 +339,21 @@
         "personalization_use_case_fit",
         "price_value_perception"
       ]
-    },
-    {
-      "review_id": "14334223660",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-07-22T05:43:14-07:00",
-      "text": "Don’t waste you money or time. I got this because my son thinks, or thought it was a good thing. I think the chatty nature of the whole application is pure nonsense. It just repeats itself no matter what you may ask. I have challenged the AI and it doesn’t even come back with anything instructive or educational to improve. It’s says “if you don’t like my style then I’ll give you the basics”. Well then, if it’s basics why even get this?  You want a critic of your sleep patterns? This is it. Based on studies dating back to 2003, the app doesn’t not fit the customization you will need. It wants to bunch you up into the group of people who apparently need to sleep 9 hours to feel “healthy”. It says I’m aging quickly (10 years older). 😂 yet I feel like an ox. I’m intense in my workouts, I’m intense in my work, I don’t need a nap, and I’m extremely productive with 5-6 hours sleep and age 64. Whoop needs to offer a refund option if not happy once you’ve signed up. 50 days into this venture and I definitely feel I wasted my time and money. In one word:  garbage",
-      "subcategory_tags": [
-        "ai_reliability_bugs",
-        "personalization_use_case_fit",
-        "price_value_perception",
-        "billing_disputes"
-      ]
-    },
-    {
-      "review_id": "14333940271",
-      "source": "app_store",
-      "rating": 3,
-      "date": "2026-07-22T04:10:21-07:00",
-      "text": "Improve pricing and band design",
-      "subcategory_tags": [
-        "price_value_perception",
-        "comfort_fit"
-      ]
     }
   ],
   "price_value_perception": [
+    {
+      "review_id": "5bdb40c4-0c75-4c7a-b5f9-22177bb898c4",
+      "source": "google_play",
+      "rating": 1,
+      "date": "2026-08-11T04:17:03+00:00",
+      "text": "poor accuracy measuring sleep. Really bad GenAi experiencie. The worse I have seen. it does not worth the money.",
+      "subcategory_tags": [
+        "sleep_accuracy",
+        "ai_reliability_bugs",
+        "price_value_perception"
+      ]
+    },
     {
       "review_id": "14406824726",
       "source": "app_store",
@@ -670,21 +680,19 @@
       "subcategory_tags": [
         "price_value_perception"
       ]
-    },
-    {
-      "review_id": "14308663556",
-      "source": "app_store",
-      "rating": 3,
-      "date": "2026-07-15T20:34:39-07:00",
-      "text": "Please add Russian language support. Many users of your devices are Russian speakers, and not everyone can speak or read English! Just because we ask in Russian doesn't mean we are all ethnic Russians; there are people of many different nationalities among us—not just Slavs, but also Kazakhs, Kyrgyz, Tatars, Bashkirs, Uzbeks, and so on. Not everyone has a perfect command of English; constantly looking up complex new words, translating them, and trying to memorize them is a real hassle! Please optimize for Russian, especially since I pay $300 a year plus taxes.",
-      "subcategory_tags": [
-        "missing_language_support",
-        "english_jargon_complexity",
-        "price_value_perception"
-      ]
     }
   ],
   "billing_disputes": [
+    {
+      "review_id": "14413156567",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-08-10T21:41:50-07:00",
+      "text": "I did the one month free trail. Then I went to monthly subscription, and kept it for another month. Now I am trying to cancel my membership and they are trying to charge me for a full year.",
+      "subcategory_tags": [
+        "billing_disputes"
+      ]
+    },
     {
       "review_id": "682c6f55-0c48-48a1-b8ce-4d9f630ce9a5",
       "source": "google_play",
@@ -1012,20 +1020,6 @@
         "crashes_freezes",
         "support_responsiveness",
         "billing_disputes",
-        "price_value_perception"
-      ]
-    },
-    {
-      "review_id": "14119329535",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-05-29T05:48:44-07:00",
-      "text": "I recently got this device, it’s been 47 days. Since day 1: I have been unable to access the health page. I am on a 17 pro and the moment I open the health tab and slide down, it crashes. The app becomes unresponsive. I have emailed whoop several times about it, to only get AI responses telling me they cannot cancel my membership as it is past the 30 day trial. I only saw past the 30 day trial cause a representative said they are working on it. Now I can only get in contact with an AI. I can’t look at any of my data, use the coach feature, use the blood pressure feature (the reason I got the higher end model).\n\nThis product is a scam wrapped in a health band. Would much prefer Apple Watch or garmin where I can actually access the data I am paying for. \n\nIf a human being is reading this, please reach out to me on my email for a solution.",
-      "subcategory_tags": [
-        "crashes_freezes",
-        "ai_only_support_channel",
-        "billing_disputes",
-        "ecg_bp_feature_reliability",
         "price_value_perception"
       ]
     }
@@ -1728,6 +1722,28 @@
   ],
   "sleep_tracking": [
     {
+      "review_id": "5bdb40c4-0c75-4c7a-b5f9-22177bb898c4",
+      "source": "google_play",
+      "rating": 1,
+      "date": "2026-08-11T04:17:03+00:00",
+      "text": "poor accuracy measuring sleep. Really bad GenAi experiencie. The worse I have seen. it does not worth the money.",
+      "subcategory_tags": [
+        "sleep_accuracy",
+        "ai_reliability_bugs",
+        "price_value_perception"
+      ]
+    },
+    {
+      "review_id": "14410841263",
+      "source": "app_store",
+      "rating": 5,
+      "date": "2026-08-10T07:56:55-07:00",
+      "text": "I ended up with a whoop through a research study in 2023 and have been addicted to the data ever since. The sleep recovery information is the most helpful. As a physician, I’ve been able to add about an hour to my sleep schedule just by understanding the trends and tendencies that I probably felt but hadn’t seen in big data form.",
+      "subcategory_tags": [
+        "sleep_satisfaction"
+      ]
+    },
+    {
       "review_id": "36a353de-e2a5-4658-a1f3-516cf932cc68",
       "source": "google_play",
       "rating": 5,
@@ -2030,30 +2046,21 @@
       "subcategory_tags": [
         "sleep_satisfaction"
       ]
-    },
-    {
-      "review_id": "14318417672",
-      "source": "app_store",
-      "rating": 5,
-      "date": "2026-07-18T06:55:15-07:00",
-      "text": "With all of my business in life I need coaching and accountability when it comes to sleeps. The whoop provides both and my life is better because of it",
-      "subcategory_tags": [
-        "sleep_satisfaction"
-      ]
-    },
-    {
-      "review_id": "14318390982",
-      "source": "app_store",
-      "rating": 2,
-      "date": "2026-07-18T06:47:38-07:00",
-      "text": "Somehow the activity detection and sleep tracking has gotten worse over the last six months.  Getting notifications about playing golf when walking, exercise while driving and just general weirdness.  Also the sleep detection and tracking needs a ton of improvement.  Like the idea, product is just not there yet.",
-      "subcategory_tags": [
-        "activity_detection",
-        "sleep_accuracy"
-      ]
     }
   ],
   "sleep_accuracy": [
+    {
+      "review_id": "5bdb40c4-0c75-4c7a-b5f9-22177bb898c4",
+      "source": "google_play",
+      "rating": 1,
+      "date": "2026-08-11T04:17:03+00:00",
+      "text": "poor accuracy measuring sleep. Really bad GenAi experiencie. The worse I have seen. it does not worth the money.",
+      "subcategory_tags": [
+        "sleep_accuracy",
+        "ai_reliability_bugs",
+        "price_value_perception"
+      ]
+    },
     {
       "review_id": "14405269913",
       "source": "app_store",
@@ -2397,20 +2404,19 @@
       "subcategory_tags": [
         "sleep_accuracy"
       ]
-    },
-    {
-      "review_id": "13f70ac8-cf54-4f40-b855-83e4be85850a",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2026-04-20T20:46:21",
-      "text": "Re Sleep Detection is horrible. You wake up 5mins at night and then back to sleep for 4hours. Whoop won't detect the additional 4hours. It is super frustrating, my cheap Fitbit was better than this. This is becoming more of a fashion statement than actual health tracking. This gap effects my bio age and recovery. it's practically useless. I'm switching to Oura ring",
-      "subcategory_tags": [
-        "sleep_accuracy",
-        "price_value_perception"
-      ]
     }
   ],
   "sleep_satisfaction": [
+    {
+      "review_id": "14410841263",
+      "source": "app_store",
+      "rating": 5,
+      "date": "2026-08-10T07:56:55-07:00",
+      "text": "I ended up with a whoop through a research study in 2023 and have been addicted to the data ever since. The sleep recovery information is the most helpful. As a physician, I’ve been able to add about an hour to my sleep schedule just by understanding the trends and tendencies that I probably felt but hadn’t seen in big data form.",
+      "subcategory_tags": [
+        "sleep_satisfaction"
+      ]
+    },
     {
       "review_id": "36a353de-e2a5-4658-a1f3-516cf932cc68",
       "source": "google_play",
@@ -2719,16 +2725,6 @@
       "subcategory_tags": [
         "sleep_satisfaction",
         "personalization_use_case_fit"
-      ]
-    },
-    {
-      "review_id": "ff560935-b083-4d7e-8d91-037f4db74f7f",
-      "source": "google_play",
-      "rating": 5,
-      "date": "2026-07-05T17:11:27",
-      "text": "Good sleep band. whoop gives you very critical sensitive informations regarding your sleep process very analytically. you can change your sleep pattern definitely. simple steps but wonderful results. sleep is vey sensitive phenomenon. We are not aware of it. Whoop sensitise your perspective and practises towards the simple natural god gift sleep process. that's incredible. today I had a long sleep. thank you Whoop.",
-      "subcategory_tags": [
-        "sleep_satisfaction"
       ]
     }
   ],
@@ -3085,6 +3081,16 @@
   ],
   "hardware_wearability": [
     {
+      "review_id": "14412791519",
+      "source": "app_store",
+      "rating": 4,
+      "date": "2026-08-10T19:10:33-07:00",
+      "text": "I’ve been using whoop for a year and a half now I love the features, keeping track of my training and strain, being able to see how my sleep and recovery was showing me how hard I can push myself and keeping track of daily steps. My only issue is since I wear it to the gym I sweat with it on and I try to wash it with antibacterial soap daily but I still keep getting a rash on my wrist I believe it’s from bacteria build up, I switched to the silicone whoop strap it’s not as bad now but still an issue.",
+      "subcategory_tags": [
+        "comfort_fit"
+      ]
+    },
+    {
       "review_id": "5ad3391b-fdb7-407a-8268-d93f30797f13",
       "source": "google_play",
       "rating": 5,
@@ -3406,19 +3412,6 @@
       "subcategory_tags": [
         "price_value_perception",
         "comfort_fit"
-      ]
-    },
-    {
-      "review_id": "14076036651",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-05-17T13:08:13-07:00",
-      "text": "The biggest issue I had with whoop was it didn’t properly register workouts and naps. It doesn’t strap in properly. I had the whoop for a month and it kept falling off my wrist. One day it fell and I didn’t notice and the customer service was not helpful.",
-      "subcategory_tags": [
-        "activity_detection",
-        "sleep_accuracy",
-        "strap_clasp_durability",
-        "support_resolution_quality"
       ]
     }
   ],
@@ -3776,6 +3769,16 @@
   ],
   "comfort_fit": [
     {
+      "review_id": "14412791519",
+      "source": "app_store",
+      "rating": 4,
+      "date": "2026-08-10T19:10:33-07:00",
+      "text": "I’ve been using whoop for a year and a half now I love the features, keeping track of my training and strain, being able to see how my sleep and recovery was showing me how hard I can push myself and keeping track of daily steps. My only issue is since I wear it to the gym I sweat with it on and I try to wash it with antibacterial soap daily but I still keep getting a rash on my wrist I believe it’s from bacteria build up, I switched to the silicone whoop strap it’s not as bad now but still an issue.",
+      "subcategory_tags": [
+        "comfort_fit"
+      ]
+    },
+    {
       "review_id": "5ad3391b-fdb7-407a-8268-d93f30797f13",
       "source": "google_play",
       "rating": 5,
@@ -4102,18 +4105,6 @@
       "subcategory_tags": [
         "missing_metrics",
         "comfort_fit"
-      ]
-    },
-    {
-      "review_id": "e0a1a397-fce9-477a-a04d-eee13df7fe3b",
-      "source": "google_play",
-      "rating": 2,
-      "date": "2024-08-23T04:51:34",
-      "text": "Love my whoop but have many issues with it. Whenever I contact support, I'm always told to \"tighten it\" or \"wear it higher. \"... it's very annoying. I can't get it any tighter and if I wear it any higher it just falls down/doesn't stay in place which then turns into a constant battle of getting it to be flat on my arm to track correctly Another issue I have is that I use my arms a lot with my line of work and it causes my HR to read at crazy high levels for doing absolutely no actual activity.",
-      "subcategory_tags": [
-        "support_resolution_quality",
-        "comfort_fit",
-        "metric_accuracy"
       ]
     }
   ],
@@ -4813,6 +4804,16 @@
   ],
   "sync_connectivity": [
     {
+      "review_id": "14410286017",
+      "source": "app_store",
+      "rating": 4,
+      "date": "2026-08-10T05:11:37-07:00",
+      "text": "Upset that my connection was lost for 3 days",
+      "subcategory_tags": [
+        "ongoing_disconnects"
+      ]
+    },
+    {
       "review_id": "14394671016",
       "source": "app_store",
       "rating": 2,
@@ -5141,17 +5142,6 @@
       "text": "I had been a whoop member before but cancelled since it was not really making sense I wasn’t actively monitoring my cardio, chase comes in with a credit - why not try? Wrong. Can’t even set up the account, the suggested help is for me to share a screen record with next steps? That new Fitbit is gonna kill this app.",
       "subcategory_tags": [
         "onboarding_pairing"
-      ]
-    },
-    {
-      "review_id": "0eba7c68-8f8f-40e7-97fa-caaa9fabef0c",
-      "source": "google_play",
-      "rating": 4,
-      "date": "2026-05-20T12:10:45",
-      "text": "The app will say my strap is disconnected after a work out, when it wasn't. and sometimes the app will close and open again before I can pause and stop to log a work out. Over all it is solid with all other biometrics.",
-      "subcategory_tags": [
-        "ongoing_disconnects",
-        "crashes_freezes"
       ]
     }
   ],
@@ -5491,6 +5481,16 @@
   ],
   "ongoing_disconnects": [
     {
+      "review_id": "14410286017",
+      "source": "app_store",
+      "rating": 4,
+      "date": "2026-08-10T05:11:37-07:00",
+      "text": "Upset that my connection was lost for 3 days",
+      "subcategory_tags": [
+        "ongoing_disconnects"
+      ]
+    },
+    {
       "review_id": "1d2b158b-65fe-4654-aded-1fdbc925e51a",
       "source": "google_play",
       "rating": 1,
@@ -5811,18 +5811,6 @@
       "text": "Verbindet und synchronisiert sich nicht mehr mit dem Band. Jeden Morgen das gleiche Problem, völlig nutzlos.",
       "subcategory_tags": [
         "ongoing_disconnects"
-      ]
-    },
-    {
-      "review_id": "07502805-8eba-4e65-babc-ba58422a6619",
-      "source": "google_play",
-      "rating": 3,
-      "date": "2025-09-06T13:53:09",
-      "text": "It's good when it works. Today, it's not working. I upgraded to the life subscription about 4mo ago I was disappointed to find out that Whoop 5 was not compatible with ANY of the Whoop 4 armbands or wrist bands I bought during my 1st 2y of membership. Now add the connection issues. The device is fully charged and tapping to get into pairing mode does not work. Connection drops happen frequently. When my current subscription ends, I may try Polar's Loop which is subscription free.",
-      "subcategory_tags": [
-        "ongoing_disconnects",
-        "plan_trial_structure",
-        "price_value_perception"
       ]
     }
   ],
@@ -7265,6 +7253,16 @@
   ],
   "health_signal_reliability": [
     {
+      "review_id": "14410836225",
+      "source": "app_store",
+      "rating": 4,
+      "date": "2026-08-10T07:55:28-07:00",
+      "text": "No es fácil obtener un ECG aceptable demasiada interferencia.",
+      "subcategory_tags": [
+        "ecg_bp_feature_reliability"
+      ]
+    },
+    {
       "review_id": "14396240070",
       "source": "app_store",
       "rating": 3,
@@ -7601,18 +7599,6 @@
         "sleep_accuracy",
         "price_value_perception",
         "ecg_bp_feature_reliability"
-      ]
-    },
-    {
-      "review_id": "67c357a5-6d51-402f-a2a8-c775a1d64941",
-      "source": "google_play",
-      "rating": 3,
-      "date": "2025-08-31T12:23:23",
-      "text": "app is ok customer service needs improvement The EKG function works well. I have MCAS, H-Pots see my heart beat, BP in real time helps me know when I need to get to ER protocol. My Whoop EKG and ERs ekg were virtually identical. Reporting HR 100 times over my usual. The BP function is slightly off. whoop estimate often significantly lower than my cuff. AI for this money is not acceptable. you can never reach a human. that is why 3 stars vs 4",
-      "subcategory_tags": [
-        "ecg_bp_feature_reliability",
-        "ai_only_support_channel",
-        "price_value_perception"
       ]
     }
   ],
@@ -7654,6 +7640,16 @@
   ],
   "ecg_bp_feature_reliability": [
     {
+      "review_id": "14410836225",
+      "source": "app_store",
+      "rating": 4,
+      "date": "2026-08-10T07:55:28-07:00",
+      "text": "No es fácil obtener un ECG aceptable demasiada interferencia.",
+      "subcategory_tags": [
+        "ecg_bp_feature_reliability"
+      ]
+    },
+    {
       "review_id": "14396240070",
       "source": "app_store",
       "rating": 3,
@@ -7993,21 +7989,32 @@
         "ai_only_support_channel",
         "price_value_perception"
       ]
-    },
-    {
-      "review_id": "756289e6-5d1e-4d61-bd49-caf9b08f737e",
-      "source": "google_play",
-      "rating": 3,
-      "date": "2025-05-19T22:25:18",
-      "text": "This review is about the app, not about the company itself. Leave this reviews for Trustpilot or similar. I've been a Whoop user for 6 months and love this app. It's become my Bible for each day. Metrics are reported clearly but there are sometimes questions around accuracy, hence 3*. Heart rate shared to Strava from a Whoop activity, for example, has different numbers. Steps, even with the new MG, are good but not great, and I'm not (yet) sold on how good blood pressure monitoring really is.",
-      "subcategory_tags": [
-        "metric_accuracy",
-        "third_party_integration",
-        "ecg_bp_feature_reliability"
-      ]
     }
   ],
   "ai_coach": [
+    {
+      "review_id": "a07c6d87-3a41-4769-97e2-a7a3355a474d",
+      "source": "google_play",
+      "rating": 4,
+      "date": "2026-08-11T07:17:04+00:00",
+      "text": "love the app. only issue is that the chat keeps on lagging ie sometimes when I open the app the chat does not load. I get the notifications from it but very inconsistent with it",
+      "subcategory_tags": [
+        "ai_reliability_bugs",
+        "notification_community_issues"
+      ]
+    },
+    {
+      "review_id": "5bdb40c4-0c75-4c7a-b5f9-22177bb898c4",
+      "source": "google_play",
+      "rating": 1,
+      "date": "2026-08-11T04:17:03+00:00",
+      "text": "poor accuracy measuring sleep. Really bad GenAi experiencie. The worse I have seen. it does not worth the money.",
+      "subcategory_tags": [
+        "sleep_accuracy",
+        "ai_reliability_bugs",
+        "price_value_perception"
+      ]
+    },
     {
       "review_id": "14406833950",
       "source": "app_store",
@@ -8332,30 +8339,32 @@
       "subcategory_tags": [
         "ai_positive_reception"
       ]
-    },
-    {
-      "review_id": "14302486687",
-      "source": "app_store",
-      "rating": 5,
-      "date": "2026-07-14T08:15:31-07:00",
-      "text": "Accurate and reliable. With the all new AI you basically have a training coach on your wrist.",
-      "subcategory_tags": [
-        "ai_positive_reception"
-      ]
-    },
-    {
-      "review_id": "14299075270",
-      "source": "app_store",
-      "rating": 3,
-      "date": "2026-07-13T11:18:57-07:00",
-      "text": "I like the metrics and insights, but the AI has significant limitations. It creates problems it cannot undo. It logged strength training as indoor cycling. It logged indoor rowing as outdoor rowing. And it’s on me to report the bugs. This is beta tech at best.",
-      "subcategory_tags": [
-        "activity_detection",
-        "ai_reliability_bugs"
-      ]
     }
   ],
   "ai_reliability_bugs": [
+    {
+      "review_id": "a07c6d87-3a41-4769-97e2-a7a3355a474d",
+      "source": "google_play",
+      "rating": 4,
+      "date": "2026-08-11T07:17:04+00:00",
+      "text": "love the app. only issue is that the chat keeps on lagging ie sometimes when I open the app the chat does not load. I get the notifications from it but very inconsistent with it",
+      "subcategory_tags": [
+        "ai_reliability_bugs",
+        "notification_community_issues"
+      ]
+    },
+    {
+      "review_id": "5bdb40c4-0c75-4c7a-b5f9-22177bb898c4",
+      "source": "google_play",
+      "rating": 1,
+      "date": "2026-08-11T04:17:03+00:00",
+      "text": "poor accuracy measuring sleep. Really bad GenAi experiencie. The worse I have seen. it does not worth the money.",
+      "subcategory_tags": [
+        "sleep_accuracy",
+        "ai_reliability_bugs",
+        "price_value_perception"
+      ]
+    },
     {
       "review_id": "14406833950",
       "source": "app_store",
@@ -8685,28 +8694,6 @@
       "subcategory_tags": [
         "ai_reliability_bugs",
         "support_resolution_quality"
-      ]
-    },
-    {
-      "review_id": "baf3b7d2-24cd-49c7-a420-f639d4cf9846",
-      "source": "google_play",
-      "rating": 3,
-      "date": "2026-05-11T09:16:03",
-      "text": "very glitchy last 10 days. Their Ai. sucks",
-      "subcategory_tags": [
-        "crashes_freezes",
-        "ai_reliability_bugs"
-      ]
-    },
-    {
-      "review_id": "14042935358",
-      "source": "app_store",
-      "rating": 5,
-      "date": "2026-05-08T14:30:06-07:00",
-      "text": "I am using whoop life for just more than a week now but I absolutely love the insights. It's definitely a lot more than your regular smart watch. I just wish the beta AI version was bit more fast. The first time you punch in a question it doesn't answer, you've to leave the chat and then come again and the answers ready. Secondly, it doesn't detect naps 3 out of 4 times now. Just detected once. None of the factors were legit in my case so I guess it just failed to detect. But other than that, I love it.",
-      "subcategory_tags": [
-        "ai_reliability_bugs",
-        "sleep_accuracy"
       ]
     }
   ],
@@ -9266,6 +9253,16 @@
   ],
   "customer_support": [
     {
+      "review_id": "e38736bd-307f-44ab-8feb-014e49f052d8",
+      "source": "google_play",
+      "rating": 5,
+      "date": "2026-08-10T15:13:28+00:00",
+      "text": "Hello for getting back about my order .Adrian from support team you are a. Star🌟🌟 thank you for reaching as soon as possible and helped me in getting before delivery date . Thank you Adrian and Thank you Whoop support team ✨",
+      "subcategory_tags": [
+        "support_satisfaction"
+      ]
+    },
+    {
       "review_id": "94843019-079e-41dc-b922-15debd7e257c",
       "source": "google_play",
       "rating": 1,
@@ -9607,16 +9604,6 @@
         "ai_only_support_channel",
         "support_resolution_quality",
         "price_value_perception"
-      ]
-    },
-    {
-      "review_id": "14196869872",
-      "source": "app_store",
-      "rating": 5,
-      "date": "2026-06-18T03:50:18-07:00",
-      "text": "I want to thank Mo and the entire WHOOP Team\nfor the flowers, the cooler, and the support while I worked through a medical challenge this spring. My WHOOP let me know when my metrics were out of line, and I am on my back to building strength and reducing my WHOOP Age back to pre-event levels. I appreciate you all. WHOOP fan for life. Thank you.",
-      "subcategory_tags": [
-        "support_satisfaction"
       ]
     }
   ],
@@ -10717,6 +10704,16 @@
   ],
   "support_satisfaction": [
     {
+      "review_id": "e38736bd-307f-44ab-8feb-014e49f052d8",
+      "source": "google_play",
+      "rating": 5,
+      "date": "2026-08-10T15:13:28+00:00",
+      "text": "Hello for getting back about my order .Adrian from support team you are a. Star🌟🌟 thank you for reaching as soon as possible and helped me in getting before delivery date . Thank you Adrian and Thank you Whoop support team ✨",
+      "subcategory_tags": [
+        "support_satisfaction"
+      ]
+    },
+    {
       "review_id": "14196869872",
       "source": "app_store",
       "rating": 5,
@@ -11022,18 +11019,6 @@
       "subcategory_tags": [
         "support_satisfaction",
         "android_feature_gaps"
-      ]
-    },
-    {
-      "review_id": "1507c6a0-10fb-4bdf-a810-98bcc7cc1f9c",
-      "source": "google_play",
-      "rating": 4,
-      "date": "2021-02-23T13:49:33",
-      "text": "Excellent metrics and a groundbreaking tool for athletes and fitness amatures. Only downside is the connection stability after a longer period of use (over a month). But with great customer service they managed to retine the client and fix problem. So for me overall the price is well worth the product and services delivered.",
-      "subcategory_tags": [
-        "ongoing_disconnects",
-        "support_satisfaction",
-        "price_value_perception"
       ]
     }
   ],
@@ -12090,6 +12075,17 @@
   ],
   "ui_ux": [
     {
+      "review_id": "a07c6d87-3a41-4769-97e2-a7a3355a474d",
+      "source": "google_play",
+      "rating": 4,
+      "date": "2026-08-11T07:17:04+00:00",
+      "text": "love the app. only issue is that the chat keeps on lagging ie sometimes when I open the app the chat does not load. I get the notifications from it but very inconsistent with it",
+      "subcategory_tags": [
+        "ai_reliability_bugs",
+        "notification_community_issues"
+      ]
+    },
+    {
       "review_id": "682c6f55-0c48-48a1-b8ce-4d9f630ce9a5",
       "source": "google_play",
       "rating": 1,
@@ -12423,19 +12419,6 @@
         "redesign_regression",
         "personalization_use_case_fit",
         "feature_ui_friction"
-      ]
-    },
-    {
-      "review_id": "14242807436",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-06-29T16:20:27-07:00",
-      "text": "I love the in-depth data and logging, but whoops seriously fumbled with this app. \n\nI am a professional UI & UX consultant who has worked with over 700 companies.\n\nWhoop’s app is not intuitive or user friendly, and its implementation of its AI features are occasionally useful but the W ai logo covers the spot where the “+” SHOUKD be to add workouts. \n\nAlso the color scheme is difficult to read and feels like a melted pool of dark similar colors. \n\nAccessing data is difficult and not intuitive or user friendly, and the lack of a “swipe back” from the left edge of the screen shows that whatever software intern was in charge of this app really forgot some basics unfortunately. \n\nThe app also lacks a clear social interaction. It’s downright difficult to find and add friends. \n\nWeekly strain champions doesn’t even show the date when they win, just a generic timestamp with a 12-hr time and no date. \n\nThe sleep tracker on average misses 2-3 days of sleep by at least 2 hours. \n\nI will gladly update my one star rating when the app is fixed but given the fact that 3-4 screenless fitness trackers are about to debut this year with significantly better UI/UX, I could easily see Whoop going under due to such a poorly laid out app interface.",
-      "subcategory_tags": [
-        "redesign_regression",
-        "feature_ui_friction",
-        "sleep_accuracy",
-        "notification_community_issues"
       ]
     }
   ],
@@ -13474,6 +13457,17 @@
   ],
   "notification_community_issues": [
     {
+      "review_id": "a07c6d87-3a41-4769-97e2-a7a3355a474d",
+      "source": "google_play",
+      "rating": 4,
+      "date": "2026-08-11T07:17:04+00:00",
+      "text": "love the app. only issue is that the chat keeps on lagging ie sometimes when I open the app the chat does not load. I get the notifications from it but very inconsistent with it",
+      "subcategory_tags": [
+        "ai_reliability_bugs",
+        "notification_community_issues"
+      ]
+    },
+    {
       "review_id": "682c6f55-0c48-48a1-b8ce-4d9f630ce9a5",
       "source": "google_play",
       "rating": 1,
@@ -13794,16 +13788,6 @@
         "android_specific_bugs",
         "android_feature_gaps",
         "data_sync_delays",
-        "notification_community_issues"
-      ]
-    },
-    {
-      "review_id": "b4d45dab-3353-4506-8bce-b262ce67c608",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2026-03-01T16:04:48",
-      "text": "team chat is completely broken, I get notifications but I can only see my messages no one else's. Ridiculous and this bug has existed for well over a year.",
-      "subcategory_tags": [
         "notification_community_issues"
       ]
     }
