@@ -1,45 +1,45 @@
 {
   "product_id": "whoop",
-  "total_reviews": 3359,
+  "total_reviews": 3367,
   "other_ungrouped": {
     "count": 652,
-    "rate_pct": 19.411
+    "rate_pct": 19.364
   },
   "parents": [
     {
       "id": "pricing_billing",
       "name": "Pricing & Billing",
-      "count": 1068,
-      "rate_pct": 31.795,
+      "count": 1071,
+      "rate_pct": 31.809,
       "watch_category": false,
       "watch_reason": null,
       "subcategories": [
         {
           "id": "price_value_perception",
           "name": "Price / Value Perception",
-          "count": 591,
-          "rate_pct": 17.595,
+          "count": 593,
+          "rate_pct": 17.612,
           "watch_category": false
         },
         {
           "id": "billing_disputes",
           "name": "Billing Disputes, Cancellation & Refund Friction",
-          "count": 319,
-          "rate_pct": 9.497,
+          "count": 320,
+          "rate_pct": 9.504,
           "watch_category": false
         },
         {
           "id": "plan_trial_structure",
           "name": "Plan & Trial Structure",
           "count": 105,
-          "rate_pct": 3.126,
+          "rate_pct": 3.119,
           "watch_category": false
         },
         {
           "id": "upsell_pressure",
           "name": "In-App Upsell & Promotional Pressure",
           "count": 53,
-          "rate_pct": 1.578,
+          "rate_pct": 1.574,
           "watch_category": false
         }
       ]
@@ -47,8 +47,8 @@
     {
       "id": "sleep_tracking",
       "name": "Sleep Tracking",
-      "count": 440,
-      "rate_pct": 13.099,
+      "count": 442,
+      "rate_pct": 13.127,
       "watch_category": false,
       "watch_reason": null,
       "subcategories": [
@@ -56,21 +56,21 @@
           "id": "sleep_accuracy",
           "name": "Sleep Accuracy & Consistency",
           "count": 209,
-          "rate_pct": 6.222,
+          "rate_pct": 6.207,
           "watch_category": false
         },
         {
           "id": "sleep_satisfaction",
           "name": "Sleep Tracking Satisfaction",
-          "count": 193,
-          "rate_pct": 5.746,
+          "count": 195,
+          "rate_pct": 5.792,
           "watch_category": false
         },
         {
           "id": "sleep_alarm_ui",
           "name": "Sleep / Alarm UI Confusion",
           "count": 38,
-          "rate_pct": 1.131,
+          "rate_pct": 1.129,
           "watch_category": false
         }
       ]
@@ -79,7 +79,7 @@
       "id": "hardware_wearability",
       "name": "Hardware & Wearability",
       "count": 269,
-      "rate_pct": 8.008,
+      "rate_pct": 7.989,
       "watch_category": false,
       "watch_reason": null,
       "subcategories": [
@@ -87,28 +87,28 @@
           "id": "strap_clasp_durability",
           "name": "Strap / Clasp Durability",
           "count": 36,
-          "rate_pct": 1.072,
+          "rate_pct": 1.069,
           "watch_category": false
         },
         {
           "id": "comfort_fit",
           "name": "Comfort & Fit",
           "count": 58,
-          "rate_pct": 1.727,
+          "rate_pct": 1.723,
           "watch_category": false
         },
         {
           "id": "battery_life",
           "name": "Battery Life",
           "count": 84,
-          "rate_pct": 2.501,
+          "rate_pct": 2.495,
           "watch_category": false
         },
         {
           "id": "build_quality_perception",
           "name": "Build Quality Perception",
           "count": 91,
-          "rate_pct": 2.709,
+          "rate_pct": 2.703,
           "watch_category": false
         }
       ]
@@ -116,30 +116,30 @@
     {
       "id": "sync_connectivity",
       "name": "Device Connectivity & Data Sync",
-      "count": 813,
-      "rate_pct": 24.204,
+      "count": 814,
+      "rate_pct": 24.176,
       "watch_category": false,
       "watch_reason": null,
       "subcategories": [
         {
           "id": "onboarding_pairing",
           "name": "Onboarding & Initial Pairing",
-          "count": 173,
-          "rate_pct": 5.15,
+          "count": 174,
+          "rate_pct": 5.168,
           "watch_category": false
         },
         {
           "id": "ongoing_disconnects",
           "name": "Ongoing Disconnects / Re-pairing",
           "count": 381,
-          "rate_pct": 11.343,
+          "rate_pct": 11.316,
           "watch_category": false
         },
         {
           "id": "data_sync_delays",
           "name": "Data Sync Delays & Failures",
           "count": 259,
-          "rate_pct": 7.711,
+          "rate_pct": 7.692,
           "watch_category": false
         }
       ]
@@ -147,23 +147,23 @@
     {
       "id": "data_accuracy",
       "name": "Data Accuracy & Trust",
-      "count": 370,
-      "rate_pct": 11.015,
+      "count": 371,
+      "rate_pct": 11.019,
       "watch_category": false,
       "watch_reason": null,
       "subcategories": [
         {
           "id": "metric_accuracy",
           "name": "Sensor / Metric Accuracy (HR, Strain, Steps, Distance)",
-          "count": 283,
-          "rate_pct": 8.425,
+          "count": 284,
+          "rate_pct": 8.435,
           "watch_category": false
         },
         {
           "id": "activity_detection",
           "name": "Automatic Activity Detection & Recognition",
           "count": 87,
-          "rate_pct": 2.59,
+          "rate_pct": 2.584,
           "watch_category": false
         }
       ]
@@ -172,7 +172,7 @@
       "id": "health_signal_reliability",
       "name": "Health-Signal Reliability & Medical-Adjacent Trust",
       "count": 35,
-      "rate_pct": 1.042,
+      "rate_pct": 1.04,
       "watch_category": true,
       "watch_reason": "Only ~1.1% of the sample by volume (2 of 180), but this is where an inaccurate or delayed signal has the highest real-world stakes of anything in this taxonomy \u2014 a missed cardiac irregularity detection is a different category of consequence than a wrong step count. Frequency rank should not determine how visible this category is downstream.",
       "subcategories": [
@@ -187,7 +187,7 @@
           "id": "ecg_bp_feature_reliability",
           "name": "ECG / Blood Pressure Feature Reliability",
           "count": 32,
-          "rate_pct": 0.953,
+          "rate_pct": 0.95,
           "watch_category": true
         }
       ]
@@ -195,8 +195,8 @@
     {
       "id": "ai_coach",
       "name": "AI Coach & Automated Guidance",
-      "count": 141,
-      "rate_pct": 4.198,
+      "count": 142,
+      "rate_pct": 4.217,
       "watch_category": true,
       "watch_reason": "~5.6% of sample volume for the parent overall, but ai_autonomy specifically \u2014 the sharpest complaint shape (\"I can't turn this off\") \u2014 is extremely thin: a full-dataset keyword check (see taxonomy_changelog.md, v2 Fix 1) found exactly one review in all 3,295 describing a user disabling the AI Coach and having it silently re-enable itself. It's kept as its own subcategory anyway, per the brief's instruction not to bury low-volume/ high-stakes signal, but \"watch\" here means \"watch for more examples,\" not \"confirmed at scale.\"",
       "subcategories": [
@@ -204,21 +204,21 @@
           "id": "ai_reliability_bugs",
           "name": "AI Coach Reliability & Bugs",
           "count": 63,
-          "rate_pct": 1.876,
+          "rate_pct": 1.871,
           "watch_category": true
         },
         {
           "id": "ai_autonomy",
           "name": "Forced / Non-Consensual AI Interaction",
-          "count": 20,
-          "rate_pct": 0.595,
+          "count": 21,
+          "rate_pct": 0.624,
           "watch_category": true
         },
         {
           "id": "ai_positive_reception",
           "name": "AI Coach Positive Reception",
           "count": 58,
-          "rate_pct": 1.727,
+          "rate_pct": 1.723,
           "watch_category": true
         }
       ]
@@ -227,7 +227,7 @@
       "id": "customer_support",
       "name": "Customer Support Quality & Access",
       "count": 512,
-      "rate_pct": 15.243,
+      "rate_pct": 15.206,
       "watch_category": false,
       "watch_reason": null,
       "subcategories": [
@@ -235,28 +235,28 @@
           "id": "support_responsiveness",
           "name": "Support Responsiveness",
           "count": 200,
-          "rate_pct": 5.954,
+          "rate_pct": 5.94,
           "watch_category": false
         },
         {
           "id": "support_resolution_quality",
           "name": "Support Resolution Quality",
           "count": 194,
-          "rate_pct": 5.776,
+          "rate_pct": 5.762,
           "watch_category": false
         },
         {
           "id": "ai_only_support_channel",
           "name": "AI-Only Support Channel (No Human Path)",
           "count": 61,
-          "rate_pct": 1.816,
+          "rate_pct": 1.812,
           "watch_category": false
         },
         {
           "id": "support_satisfaction",
           "name": "Customer Support Satisfaction",
           "count": 57,
-          "rate_pct": 1.697,
+          "rate_pct": 1.693,
           "watch_category": false
         }
       ]
@@ -265,7 +265,7 @@
       "id": "app_stability",
       "name": "App Stability & Performance",
       "count": 513,
-      "rate_pct": 15.272,
+      "rate_pct": 15.236,
       "watch_category": false,
       "watch_reason": null,
       "subcategories": [
@@ -273,14 +273,14 @@
           "id": "crashes_freezes",
           "name": "Crashes, Freezes & Unresponsive App",
           "count": 320,
-          "rate_pct": 9.527,
+          "rate_pct": 9.504,
           "watch_category": false
         },
         {
           "id": "update_failures",
           "name": "Update Failures & Friction",
           "count": 193,
-          "rate_pct": 5.746,
+          "rate_pct": 5.732,
           "watch_category": false
         }
       ]
@@ -289,7 +289,7 @@
       "id": "ui_ux",
       "name": "UI/UX & Navigation",
       "count": 410,
-      "rate_pct": 12.206,
+      "rate_pct": 12.177,
       "watch_category": false,
       "watch_reason": null,
       "subcategories": [
@@ -297,28 +297,28 @@
           "id": "redesign_regression",
           "name": "Redesign Regression & Navigation Complexity",
           "count": 166,
-          "rate_pct": 4.942,
+          "rate_pct": 4.93,
           "watch_category": false
         },
         {
           "id": "device_rendering_bugs",
           "name": "Device-Specific Rendering & Accessibility Bugs",
           "count": 37,
-          "rate_pct": 1.102,
+          "rate_pct": 1.099,
           "watch_category": false
         },
         {
           "id": "feature_ui_friction",
           "name": "Feature-Specific UI Friction",
           "count": 121,
-          "rate_pct": 3.602,
+          "rate_pct": 3.594,
           "watch_category": false
         },
         {
           "id": "notification_community_issues",
           "name": "Notification & Community Feature Issues",
           "count": 86,
-          "rate_pct": 2.56,
+          "rate_pct": 2.554,
           "watch_category": false
         }
       ]
@@ -327,7 +327,7 @@
       "id": "platform_parity",
       "name": "Platform Parity (Android vs iOS)",
       "count": 326,
-      "rate_pct": 9.705,
+      "rate_pct": 9.682,
       "watch_category": false,
       "watch_reason": null,
       "subcategories": [
@@ -335,14 +335,14 @@
           "id": "android_feature_gaps",
           "name": "Feature Gaps on Android",
           "count": 135,
-          "rate_pct": 4.019,
+          "rate_pct": 4.01,
           "watch_category": false
         },
         {
           "id": "android_specific_bugs",
           "name": "Android-Specific Bugs / UX",
           "count": 191,
-          "rate_pct": 5.686,
+          "rate_pct": 5.673,
           "watch_category": false
         }
       ]
@@ -350,16 +350,16 @@
     {
       "id": "localization",
       "name": "Localization / Language Support",
-      "count": 41,
-      "rate_pct": 1.221,
+      "count": 42,
+      "rate_pct": 1.247,
       "watch_category": false,
       "watch_reason": null,
       "subcategories": [
         {
           "id": "missing_language_support",
           "name": "Missing Language / Translation Support",
-          "count": 34,
-          "rate_pct": 1.012,
+          "count": 35,
+          "rate_pct": 1.04,
           "watch_category": false
         },
         {
@@ -374,8 +374,8 @@
     {
       "id": "feature_requests",
       "name": "Feature Requests & Product Gaps",
-      "count": 394,
-      "rate_pct": 11.73,
+      "count": 395,
+      "rate_pct": 11.732,
       "watch_category": false,
       "watch_reason": null,
       "subcategories": [
@@ -383,28 +383,28 @@
           "id": "missing_activity_types",
           "name": "Missing Activity Types / Logging Granularity",
           "count": 59,
-          "rate_pct": 1.756,
+          "rate_pct": 1.752,
           "watch_category": false
         },
         {
           "id": "missing_metrics",
           "name": "Missing Metrics / Data Points",
           "count": 153,
-          "rate_pct": 4.555,
+          "rate_pct": 4.544,
           "watch_category": false
         },
         {
           "id": "personalization_use_case_fit",
           "name": "Personalization, Coaching Relevance & Use-Case Fit",
           "count": 110,
-          "rate_pct": 3.275,
+          "rate_pct": 3.267,
           "watch_category": false
         },
         {
           "id": "third_party_integration",
           "name": "Third-Party Integration Gaps & Errors",
-          "count": 72,
-          "rate_pct": 2.143,
+          "count": 73,
+          "rate_pct": 2.168,
           "watch_category": false
         }
       ]
