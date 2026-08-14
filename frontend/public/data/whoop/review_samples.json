@@ -4799,6 +4799,17 @@
   ],
   "sync_connectivity": [
     {
+      "review_id": "14421809447",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-08-13T01:16:38-07:00",
+      "text": "Health data still unavailable after iOS update",
+      "subcategory_tags": [
+        "data_sync_delays",
+        "update_failures"
+      ]
+    },
+    {
       "review_id": "237147af-8589-4748-a039-a8dd45dee351",
       "source": "google_play",
       "rating": 1,
@@ -5127,16 +5138,6 @@
         "support_resolution_quality",
         "data_sync_delays",
         "price_value_perception"
-      ]
-    },
-    {
-      "review_id": "54cf81ad-09a8-46cb-a22f-dde2dce20b9b",
-      "source": "google_play",
-      "rating": 4,
-      "date": "2026-05-22T07:55:36",
-      "text": "Great for the most part but sometimes the device disconnects without any warning",
-      "subcategory_tags": [
-        "ongoing_disconnects"
       ]
     }
   ],
@@ -5807,6 +5808,17 @@
   ],
   "data_sync_delays": [
     {
+      "review_id": "14421809447",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-08-13T01:16:38-07:00",
+      "text": "Health data still unavailable after iOS update",
+      "subcategory_tags": [
+        "data_sync_delays",
+        "update_failures"
+      ]
+    },
+    {
       "review_id": "14394671016",
       "source": "app_store",
       "rating": 2,
@@ -6151,24 +6163,32 @@
         "data_sync_delays",
         "redesign_regression"
       ]
-    },
-    {
-      "review_id": "ef4d7c4f-5238-4031-b319-7af06afd07a9",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2026-04-04T06:43:08",
-      "text": "Not being able to use the app without an Internet connection is simply bad. Doesn't import nutrition data from Android Health nor activities from Strava. Having to enter data manually and answer daily questions that can be automatically filled from its own workout data makes it a grind. Graphs look good but you can't use them to edit mistakes the device often makes for sleep time. Already cancelled my subscription just two months into the annual plan. What a waste of money.",
-      "subcategory_tags": [
-        "data_sync_delays",
-        "third_party_integration",
-        "missing_metrics",
-        "sleep_accuracy",
-        "billing_disputes",
-        "price_value_perception"
-      ]
     }
   ],
   "data_accuracy": [
+    {
+      "review_id": "79f09b21-9c9f-452a-85f9-1a1156a346fd",
+      "source": "google_play",
+      "rating": 3,
+      "date": "2026-08-12T19:42:12+00:00",
+      "text": "Since upgrading to the new WHOOP, the changes to the algorithm have made my Strain and calorie data feel completely inaccurate. My calories burned are now around 30% lower than before. Walks sometimes register no Strain, and even after an intense weightlifting session plus 15–20k steps, my calories barely show above BMR. It’s incredibly frustrating and affects my confidence in the overall health data. I really hope WHOOP fixes this soon.",
+      "subcategory_tags": [
+        "metric_accuracy",
+        "activity_detection"
+      ]
+    },
+    {
+      "review_id": "14419311797",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-08-12T09:33:40-07:00",
+      "text": "I’m a very active middle aged person who adopted Whoop to track my multitude of activities. I’ve encountered a major problem: Whoop doesn’t accurately measure where most of us live our lives: in HR zones 0-2. For a 5 mile walk in 85*F heat, whoop recorded 150 calories. Why? ‘I wasn’t working hard enough.’ The AI agent was condescending, passive aggressive and deflective. So, if you aren’t regularly pushing yourself often at HR zones 4-5, Whoop is basically useless for you.",
+      "subcategory_tags": [
+        "metric_accuracy",
+        "personalization_use_case_fit",
+        "support_resolution_quality"
+      ]
+    },
     {
       "review_id": "14413949076",
       "source": "app_store",
@@ -6499,32 +6519,32 @@
         "activity_detection",
         "missing_activity_types"
       ]
-    },
-    {
-      "review_id": "8534a186-8931-4076-87e1-6c06b28dfa3c",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2026-06-29T09:16:47",
-      "text": "The whoop never picks up on any naps I take, whereas my fitbit would pick up on a 30 minute nap everytime. I got this for free with my chase card, and even for free it sucks, cant justify how anyone is paying $30 a month for this. The data is pretty self explanatory. Bad night of sleep = low recovery score. Dont need a graph to show me that I'm tired after a poor night of sleep.",
-      "subcategory_tags": [
-        "sleep_accuracy",
-        "price_value_perception",
-        "metric_accuracy"
-      ]
-    },
-    {
-      "review_id": "14233682537",
-      "source": "app_store",
-      "rating": 3,
-      "date": "2026-06-27T10:46:26-07:00",
-      "text": "Between Msgs to go to sleep by 9 pm, and no matter what I do, my recovery never gets above 60% even though I wake rested and feel great.",
-      "subcategory_tags": [
-        "metric_accuracy",
-        "personalization_use_case_fit"
-      ]
     }
   ],
   "metric_accuracy": [
+    {
+      "review_id": "79f09b21-9c9f-452a-85f9-1a1156a346fd",
+      "source": "google_play",
+      "rating": 3,
+      "date": "2026-08-12T19:42:12+00:00",
+      "text": "Since upgrading to the new WHOOP, the changes to the algorithm have made my Strain and calorie data feel completely inaccurate. My calories burned are now around 30% lower than before. Walks sometimes register no Strain, and even after an intense weightlifting session plus 15–20k steps, my calories barely show above BMR. It’s incredibly frustrating and affects my confidence in the overall health data. I really hope WHOOP fixes this soon.",
+      "subcategory_tags": [
+        "metric_accuracy",
+        "activity_detection"
+      ]
+    },
+    {
+      "review_id": "14419311797",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-08-12T09:33:40-07:00",
+      "text": "I’m a very active middle aged person who adopted Whoop to track my multitude of activities. I’ve encountered a major problem: Whoop doesn’t accurately measure where most of us live our lives: in HR zones 0-2. For a 5 mile walk in 85*F heat, whoop recorded 150 calories. Why? ‘I wasn’t working hard enough.’ The AI agent was condescending, passive aggressive and deflective. So, if you aren’t regularly pushing yourself often at HR zones 4-5, Whoop is basically useless for you.",
+      "subcategory_tags": [
+        "metric_accuracy",
+        "personalization_use_case_fit",
+        "support_resolution_quality"
+      ]
+    },
     {
       "review_id": "14413949076",
       "source": "app_store",
@@ -6849,32 +6869,20 @@
         "activity_detection",
         "support_resolution_quality"
       ]
-    },
-    {
-      "review_id": "14200213765",
-      "source": "app_store",
-      "rating": 2,
-      "date": "2026-06-18T23:31:53-07:00",
-      "text": "For a premium price of 359 USD for 1 year I would expect it to measure steps properly. When it kept on giving me drastically different steps count for the same physical distance I questioned the validity of its results given they use that as a factor to calculate whoop age and pace of aging. In return I got their mediocre AI replying that Whoop isn’t good at it. Took me some effort to finally reach an actual person that too via email - but they also tried to put it on the user - asking how  and where am I wearing the band. I wear this thing at the same place every time and the least I expect is consistent and honest results. It is too overpriced to be feeding wrong data and not doing anything to improve it.",
-      "subcategory_tags": [
-        "metric_accuracy",
-        "ai_only_support_channel",
-        "support_resolution_quality",
-        "price_value_perception"
-      ]
-    },
-    {
-      "review_id": "14197161676",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-06-18T05:31:07-07:00",
-      "text": "So i will be sending more info with a video later but i have been using this for a good amount of time and recently found how inaccurate the hr is and thinking probably the rest of the metrics are like that, so in a fast jog the max hr i get is 98-102 while sitting and tapping my hand on my lap gets 175!!! So just tapping moves my hr from 70 to 175! Like wtf!! I am wearing it correctly and i really think maybe this device is broken or something!!",
-      "subcategory_tags": [
-        "metric_accuracy"
-      ]
     }
   ],
   "activity_detection": [
+    {
+      "review_id": "79f09b21-9c9f-452a-85f9-1a1156a346fd",
+      "source": "google_play",
+      "rating": 3,
+      "date": "2026-08-12T19:42:12+00:00",
+      "text": "Since upgrading to the new WHOOP, the changes to the algorithm have made my Strain and calorie data feel completely inaccurate. My calories burned are now around 30% lower than before. Walks sometimes register no Strain, and even after an intense weightlifting session plus 15–20k steps, my calories barely show above BMR. It’s incredibly frustrating and affects my confidence in the overall health data. I really hope WHOOP fixes this soon.",
+      "subcategory_tags": [
+        "metric_accuracy",
+        "activity_detection"
+      ]
+    },
     {
       "review_id": "14405356198",
       "source": "app_store",
@@ -7227,18 +7235,6 @@
         "activity_detection",
         "sleep_accuracy",
         "metric_accuracy"
-      ]
-    },
-    {
-      "review_id": "6e8834ce-019a-4c2b-a9e3-231de9cb840a",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2026-03-21T09:11:52",
-      "text": "when I turn on activity detection it immediately turns off. talked to support who made me try a dozen things then eventually said wait for an app update where it'll eventually get fixed. Unacceptable at this membership price point",
-      "subcategory_tags": [
-        "activity_detection",
-        "support_resolution_quality",
-        "price_value_perception"
       ]
     }
   ],
@@ -7984,6 +7980,17 @@
   ],
   "ai_coach": [
     {
+      "review_id": "728359d9-50dc-4fe9-9008-ad7c62a8fb05",
+      "source": "google_play",
+      "rating": 2,
+      "date": "2026-08-12T17:16:58+00:00",
+      "text": "The device and data are great but the app is overly reliant on AI that is constantly getting things wrong or not finish tasks. AI is a great tool but when you HAVE to use it for everything and 1/2 the time I talk to it is to fix something it forgot or messed up last time it gets very tiring.",
+      "subcategory_tags": [
+        "ai_reliability_bugs",
+        "ai_autonomy"
+      ]
+    },
+    {
       "review_id": "14414782430",
       "source": "app_store",
       "rating": 3,
@@ -8320,19 +8327,20 @@
         "ai_positive_reception",
         "feature_ui_friction"
       ]
-    },
-    {
-      "review_id": "14309748017",
-      "source": "app_store",
-      "rating": 5,
-      "date": "2026-07-16T04:03:28-07:00",
-      "text": "I’ve been a member of whoop since 2020 and worn it everyday for the last 3 years. It helps me with all of my marathon training, helping me with understanding better the strain on my body and my recovery. I use the Ai Coach to help with workout planning. Great device.",
-      "subcategory_tags": [
-        "ai_positive_reception"
-      ]
     }
   ],
   "ai_reliability_bugs": [
+    {
+      "review_id": "728359d9-50dc-4fe9-9008-ad7c62a8fb05",
+      "source": "google_play",
+      "rating": 2,
+      "date": "2026-08-12T17:16:58+00:00",
+      "text": "The device and data are great but the app is overly reliant on AI that is constantly getting things wrong or not finish tasks. AI is a great tool but when you HAVE to use it for everything and 1/2 the time I talk to it is to fix something it forgot or messed up last time it gets very tiring.",
+      "subcategory_tags": [
+        "ai_reliability_bugs",
+        "ai_autonomy"
+      ]
+    },
     {
       "review_id": "a07c6d87-3a41-4769-97e2-a7a3355a474d",
       "source": "google_play",
@@ -8675,20 +8683,20 @@
         "ai_reliability_bugs",
         "upsell_pressure"
       ]
-    },
-    {
-      "review_id": "14097358160",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-05-23T09:25:32-07:00",
-      "text": "I’m actually a whoop fan, but the AI Coach/Chat feature does not work on the Home Screen. I receive this message: “Whoop was unable to generate a response to your message. Please try again.” I’ve reached out to Whoop support twice and they were unhelpful both times. I found a workaround by accessing the chat on other pages in the app, but it doesn’t work from the Home Screen. I’ll update this review if/when the problem is fixed.",
-      "subcategory_tags": [
-        "ai_reliability_bugs",
-        "support_resolution_quality"
-      ]
     }
   ],
   "ai_autonomy": [
+    {
+      "review_id": "728359d9-50dc-4fe9-9008-ad7c62a8fb05",
+      "source": "google_play",
+      "rating": 2,
+      "date": "2026-08-12T17:16:58+00:00",
+      "text": "The device and data are great but the app is overly reliant on AI that is constantly getting things wrong or not finish tasks. AI is a great tool but when you HAVE to use it for everything and 1/2 the time I talk to it is to fix something it forgot or messed up last time it gets very tiring.",
+      "subcategory_tags": [
+        "ai_reliability_bugs",
+        "ai_autonomy"
+      ]
+    },
     {
       "review_id": "14414782430",
       "source": "app_store",
@@ -9254,6 +9262,18 @@
   ],
   "customer_support": [
     {
+      "review_id": "14419311797",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-08-12T09:33:40-07:00",
+      "text": "I’m a very active middle aged person who adopted Whoop to track my multitude of activities. I’ve encountered a major problem: Whoop doesn’t accurately measure where most of us live our lives: in HR zones 0-2. For a 5 mile walk in 85*F heat, whoop recorded 150 calories. Why? ‘I wasn’t working hard enough.’ The AI agent was condescending, passive aggressive and deflective. So, if you aren’t regularly pushing yourself often at HR zones 4-5, Whoop is basically useless for you.",
+      "subcategory_tags": [
+        "metric_accuracy",
+        "personalization_use_case_fit",
+        "support_resolution_quality"
+      ]
+    },
+    {
       "review_id": "e38736bd-307f-44ab-8feb-014e49f052d8",
       "source": "google_play",
       "rating": 5,
@@ -9590,19 +9610,6 @@
       "text": "Defective Clasp, Poor Warranty Support. New WHOOP member and very disappointed. The clasp/retention mechanism on my device failed during normal wear at an airport, causing the sensor to detach and become lost. I contacted WHOOP and explained that this was caused by defective hardware, not misuse or carelessness, but they refused to replace it and treated it as a simple lost item. For a premium subscription product, the warranty and customer support experience has been extremely disappointing.",
       "subcategory_tags": [
         "strap_clasp_durability",
-        "support_resolution_quality",
-        "price_value_perception"
-      ]
-    },
-    {
-      "review_id": "14200213765",
-      "source": "app_store",
-      "rating": 2,
-      "date": "2026-06-18T23:31:53-07:00",
-      "text": "For a premium price of 359 USD for 1 year I would expect it to measure steps properly. When it kept on giving me drastically different steps count for the same physical distance I questioned the validity of its results given they use that as a factor to calculate whoop age and pace of aging. In return I got their mediocre AI replying that Whoop isn’t good at it. Took me some effort to finally reach an actual person that too via email - but they also tried to put it on the user - asking how  and where am I wearing the band. I wear this thing at the same place every time and the least I expect is consistent and honest results. It is too overpriced to be feeding wrong data and not doing anything to improve it.",
-      "subcategory_tags": [
-        "metric_accuracy",
-        "ai_only_support_channel",
         "support_resolution_quality",
         "price_value_perception"
       ]
@@ -9972,6 +9979,18 @@
   ],
   "support_resolution_quality": [
     {
+      "review_id": "14419311797",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-08-12T09:33:40-07:00",
+      "text": "I’m a very active middle aged person who adopted Whoop to track my multitude of activities. I’ve encountered a major problem: Whoop doesn’t accurately measure where most of us live our lives: in HR zones 0-2. For a 5 mile walk in 85*F heat, whoop recorded 150 calories. Why? ‘I wasn’t working hard enough.’ The AI agent was condescending, passive aggressive and deflective. So, if you aren’t regularly pushing yourself often at HR zones 4-5, Whoop is basically useless for you.",
+      "subcategory_tags": [
+        "metric_accuracy",
+        "personalization_use_case_fit",
+        "support_resolution_quality"
+      ]
+    },
+    {
       "review_id": "14400555831",
       "source": "app_store",
       "rating": 1,
@@ -10313,18 +10332,6 @@
         "activity_detection",
         "sleep_accuracy",
         "strap_clasp_durability",
-        "support_resolution_quality"
-      ]
-    },
-    {
-      "review_id": "6b7d5a7b-a32c-4919-a260-0acba9966143",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2026-05-16T09:33:48",
-      "text": "I am consistently experiencing freezing issues, and my Whoop device has not provided any readings for two weeks. The customer service experience has been disappointing, as I have followed the same troubleshooting steps with multiple representatives without a resolution. Android user",
-      "subcategory_tags": [
-        "crashes_freezes",
-        "data_sync_delays",
         "support_resolution_quality"
       ]
     }
@@ -11025,6 +11032,17 @@
   ],
   "app_stability": [
     {
+      "review_id": "14421809447",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-08-13T01:16:38-07:00",
+      "text": "Health data still unavailable after iOS update",
+      "subcategory_tags": [
+        "data_sync_delays",
+        "update_failures"
+      ]
+    },
+    {
       "review_id": "14404964828",
       "source": "app_store",
       "rating": 1,
@@ -11363,17 +11381,6 @@
         "billing_disputes",
         "ecg_bp_feature_reliability",
         "price_value_perception"
-      ]
-    },
-    {
-      "review_id": "14110629196",
-      "source": "app_store",
-      "rating": 4,
-      "date": "2026-05-26T21:50:39-07:00",
-      "text": "Since yesterday after iOS 26.5 installed AI coach that usually gives some messages below 3 rings on the main screen showing- couldn’t load new notifications. We’ll try again later. Please fix it. Already did everything that could help like delete and install application again etc",
-      "subcategory_tags": [
-        "ai_reliability_bugs",
-        "update_failures"
       ]
     }
   ],
@@ -11733,6 +11740,17 @@
   ],
   "update_failures": [
     {
+      "review_id": "14421809447",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-08-13T01:16:38-07:00",
+      "text": "Health data still unavailable after iOS update",
+      "subcategory_tags": [
+        "data_sync_delays",
+        "update_failures"
+      ]
+    },
+    {
       "review_id": "14398517221",
       "source": "app_store",
       "rating": 1,
@@ -12060,17 +12078,6 @@
       "subcategory_tags": [
         "data_sync_delays",
         "update_failures"
-      ]
-    },
-    {
-      "review_id": "3ed0978d-69f6-4a20-97cd-ad16fa9bcd92",
-      "source": "google_play",
-      "rating": 2,
-      "date": "2025-12-19T04:23:46",
-      "text": "Crashing constant after recent update",
-      "subcategory_tags": [
-        "update_failures",
-        "crashes_freezes"
       ]
     }
   ],
@@ -15515,6 +15522,18 @@
   ],
   "feature_requests": [
     {
+      "review_id": "14419311797",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-08-12T09:33:40-07:00",
+      "text": "I’m a very active middle aged person who adopted Whoop to track my multitude of activities. I’ve encountered a major problem: Whoop doesn’t accurately measure where most of us live our lives: in HR zones 0-2. For a 5 mile walk in 85*F heat, whoop recorded 150 calories. Why? ‘I wasn’t working hard enough.’ The AI agent was condescending, passive aggressive and deflective. So, if you aren’t regularly pushing yourself often at HR zones 4-5, Whoop is basically useless for you.",
+      "subcategory_tags": [
+        "metric_accuracy",
+        "personalization_use_case_fit",
+        "support_resolution_quality"
+      ]
+    },
+    {
       "review_id": "ab0bc044-1d17-445e-b662-a8892b2d1dea",
       "source": "google_play",
       "rating": 2,
@@ -15835,17 +15854,6 @@
       "text": "when adding things to the journal, why is choosing a Time so damn difficult? for example, trying to use the slider to say when your last caffeine drink was or when you stopped working, the sliders do not function correctly. it's like it actively doesn't want you to choose the half past the hour options! then for starting an activity to be tracked in real time, why can't I search for the activity? why do I need to scroll and look it up manually?",
       "subcategory_tags": [
         "feature_ui_friction",
-        "missing_activity_types"
-      ]
-    },
-    {
-      "review_id": "14285949714",
-      "source": "app_store",
-      "rating": 4,
-      "date": "2026-07-10T05:39:34-07:00",
-      "text": "I’ve been enjoying my WHOOP overall, but there are a couple of features I’d love to see added. First, it would be great if there were a “Find My WHOOP” feature. I’ve had to remove it a few times and I’ve misplaced it and my charger more than once.\nSecond, I think it would be helpful to have an optional display that shows the time. I know WHOOP is designed as a fitness and recovery tracker rather than a traditional watch, but being able to quickly check the time would make it even more convenient.\nI’ve only had my WHOOP since December, so I’m still learning how to interpret all of the data it provides. The insights have been valuable, and I’m continuing to discover new features. Overall, I’m happy with it and look forward to getting even more out of it as I use it longer.",
-      "subcategory_tags": [
-        "missing_metrics",
         "missing_activity_types"
       ]
     }
@@ -16527,6 +16535,18 @@
   ],
   "personalization_use_case_fit": [
     {
+      "review_id": "14419311797",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-08-12T09:33:40-07:00",
+      "text": "I’m a very active middle aged person who adopted Whoop to track my multitude of activities. I’ve encountered a major problem: Whoop doesn’t accurately measure where most of us live our lives: in HR zones 0-2. For a 5 mile walk in 85*F heat, whoop recorded 150 calories. Why? ‘I wasn’t working hard enough.’ The AI agent was condescending, passive aggressive and deflective. So, if you aren’t regularly pushing yourself often at HR zones 4-5, Whoop is basically useless for you.",
+      "subcategory_tags": [
+        "metric_accuracy",
+        "personalization_use_case_fit",
+        "support_resolution_quality"
+      ]
+    },
+    {
       "review_id": "14401858760",
       "source": "app_store",
       "rating": 5,
@@ -16852,19 +16872,6 @@
         "price_value_perception",
         "third_party_integration",
         "personalization_use_case_fit"
-      ]
-    },
-    {
-      "review_id": "14161739979",
-      "source": "app_store",
-      "rating": 4,
-      "date": "2026-06-09T03:54:18-07:00",
-      "text": "Adequate, but it’s hard to tell how accurate the heart rate data truly is. It’d be nice if you could mark when you’re taking a rest day, because it feels like it encourages you to over train to “reach your strain” on a lot of days, despite the fact that I’m a high level athlete, with an intentional training split. Another way it encourages you to over train is that it does not do a great job of accurately measuring intensity during track/speed workouts where the intensity is high, but the rest periods are longer. It’d be nice if you could put RPE in with each workout. It would also be nice if in the lifting/strength sections that it kept track of the weight you used to last time you did that movement when you’re doing a new strength workout. I do like tracking overall trends with my\nHRV/resting heart rate though.",
-      "subcategory_tags": [
-        "metric_accuracy",
-        "personalization_use_case_fit",
-        "missing_metrics",
-        "feature_ui_friction"
       ]
     }
   ],
