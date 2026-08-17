@@ -120,6 +120,7 @@ class AssistantData:
                 "rate_pct": r["rate_pct"], "tag_count": int(r["tag_count"]),
                 "total_reviews": int(r["total_reviews"]),
                 "adequate_volume": bool(r["adequate_volume"]),
+                "is_current_partial": bool(r["is_current_partial"]),
                 "in_recent_window": bool(r["in_recent_window"]),
                 "flagged_spike": bool(r["flagged_spike"]), "flagged_decline": bool(r["flagged_decline"]),
             })

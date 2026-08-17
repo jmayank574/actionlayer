@@ -19,11 +19,12 @@ const BAR_COLOR: Record<TrendStatus, string> = {
 
 // Low-volume periods (adequate_volume: false) get a lighter/hollow-feeling
 // dot instead of the normal filled one -- a visual tell that a point rests
-// on too few reviews to trust on its own.
+// on too few reviews to trust on its own. The current in-progress month gets
+// the same treatment for a different reason: not unreliable, just unfinished.
 function LowVolumeDot(props: { cx?: number; cy?: number; payload?: TrendPoint; color: string }) {
   const { cx, cy, payload, color } = props
   if (cx == null || cy == null) return null
-  const adequate = payload?.adequate_volume ?? true
+  const adequate = (payload?.adequate_volume ?? true) && !payload?.is_current_partial
   return adequate ? (
     <circle cx={cx} cy={cy} r={3} fill="white" stroke={color} strokeWidth={2} />
   ) : (
@@ -42,7 +43,8 @@ export default function TrendChart({
 }) {
   const line = LINE_COLOR[status]
   const bar = BAR_COLOR[status]
-  const hasLowVolume = data.some((d) => !d.adequate_volume)
+  const hasCurrentPartial = data.some((d) => d.is_current_partial)
+  const hasLowVolume = data.some((d) => !d.adequate_volume && !d.is_current_partial)
 
   return (
     <div>
@@ -84,10 +86,13 @@ export default function TrendChart({
           />
         </ComposedChart>
       </ResponsiveContainer>
-      {!compact && hasLowVolume && (
+      {!compact && (hasLowVolume || hasCurrentPartial) && (
         <p className="mt-1 text-[11px] text-stone-400">
-          Hollow points mark months with fewer than 30 reviews — read those as directional, not
-          precise.
+          {hasCurrentPartial && hasLowVolume
+            ? 'Hollow points mark months with fewer than 30 reviews, and the current month (still in progress) — read those as directional, not precise.'
+            : hasCurrentPartial
+              ? 'The hollow point is the current month, still in progress — not a complete period yet.'
+              : 'Hollow points mark months with fewer than 30 reviews — read those as directional, not precise.'}
         </p>
       )}
     </div>

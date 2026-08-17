@@ -48,6 +48,9 @@ export interface TrendPoint {
   tag_count: number
   total_reviews: number
   adequate_volume: boolean
+  // The current calendar month, still in progress -- real data, shown as its
+  // own point, but excluded from spike/decline verdicts until complete.
+  is_current_partial: boolean
   in_recent_window: boolean
   flagged_spike: boolean
   flagged_decline: boolean

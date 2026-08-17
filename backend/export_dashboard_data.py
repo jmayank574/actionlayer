@@ -89,7 +89,8 @@ def build_snapshot(tagged: pd.DataFrame, taxonomy: dict, meta: dict) -> dict:
 
 def build_trends_timeseries(trends: pd.DataFrame, meta: dict) -> dict:
     """Nested by scope -> category_id -> [ {period, rate_pct, tag_count, total_reviews,
-    period_type, adequate_volume, in_recent_window, flagged_spike, flagged_decline}, ... ]
+    period_type, adequate_volume, is_current_partial, in_recent_window, flagged_spike,
+    flagged_decline}, ... ]
     ordered chronologically. scope here is the source column (google_play/app_store) --
     combined_overlap isn't in the descriptive series, only in the verdicts (see trend_verdicts.json)."""
     trends = trends.sort_values("period_start")
@@ -103,6 +104,7 @@ def build_trends_timeseries(trends: pd.DataFrame, meta: dict) -> dict:
             "rate_pct": None if pd.isna(r["rate_pct"]) else r["rate_pct"],
             "tag_count": int(r["tag_count"]), "total_reviews": int(r["total_reviews"]),
             "adequate_volume": bool(r["adequate_volume"]),
+            "is_current_partial": bool(r["is_current_partial"]),
             "in_recent_window": bool(r["in_recent_window"]),
             "flagged_spike": bool(r["flagged_spike"]),
             "flagged_decline": bool(r["flagged_decline"]),

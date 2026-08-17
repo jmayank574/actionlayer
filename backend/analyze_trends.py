@@ -100,13 +100,20 @@ def build_adaptive_buckets(monthly_totals: pd.Series, min_volume: int) -> list[d
 
 
 def compute_descriptive_series(exploded: pd.DataFrame, all_reviews: pd.DataFrame, categories: list[str],
-                                scopes: dict[str, dict] | None = None) -> pd.DataFrame:
+                                scopes: dict[str, dict] | None = None, current_month=None) -> pd.DataFrame:
     """Per scope, per adaptive bucket, per category: tag_count / total_reviews / rate_pct.
 
     scopes: {scope_name: {"sources": [...], "min_month": Period|None}}. Defaults to the two
     single-source scopes. min_month restricts a scope to periods >= that month -- used by
     combined_overlap so it never buckets in google_play-only history before app_store existed
-    (the exact mixing this whole analysis exists to avoid)."""
+    (the exact mixing this whole analysis exists to avoid).
+
+    current_month: if given, that month is always emitted as its own single-month bucket,
+    never merged into a neighboring bucket by the adaptive-bucketing tail logic -- it's real,
+    already-collected data and shouldn't be hidden, but it's still in progress (the month isn't
+    over), so it needs to stay visually and structurally distinct from a genuinely complete
+    period. Marked via is_current_partial rather than folded into adequate_volume, which is
+    about sample size, not about whether the calendar period has finished."""
     if scopes is None:
         scopes = {
             "google_play": {"sources": ["google_play"], "min_month": None},
@@ -119,7 +126,12 @@ def compute_descriptive_series(exploded: pd.DataFrame, all_reviews: pd.DataFrame
         if cfg.get("min_month") is not None:
             scope_reviews = scope_reviews[scope_reviews["month"] >= cfg["min_month"]]
         monthly_totals = scope_reviews.groupby("month").size()
-        buckets = build_adaptive_buckets(monthly_totals, MIN_BUCKET_VOLUME)
+
+        if current_month is not None and current_month in monthly_totals.index:
+            buckets = build_adaptive_buckets(monthly_totals.drop(current_month), MIN_BUCKET_VOLUME)
+            buckets.append({"months": [current_month], "label": str(current_month), "period_type": "month"})
+        else:
+            buckets = build_adaptive_buckets(monthly_totals, MIN_BUCKET_VOLUME)
 
         scope_exploded = exploded[exploded["source"].isin(cfg["sources"])]
         if cfg.get("min_month") is not None:
@@ -127,6 +139,7 @@ def compute_descriptive_series(exploded: pd.DataFrame, all_reviews: pd.DataFrame
 
         for b in buckets:
             month_set = set(b["months"])
+            is_current_partial = current_month is not None and month_set == {current_month}
             bucket_total = int(monthly_totals[monthly_totals.index.isin(month_set)].sum())
             bucket_exploded = scope_exploded[scope_exploded["month"].isin(month_set)]
             counts = bucket_exploded.groupby("category_id")["review_id"].nunique()
@@ -141,6 +154,7 @@ def compute_descriptive_series(exploded: pd.DataFrame, all_reviews: pd.DataFrame
                     "tag_count": tag_count, "total_reviews": bucket_total,
                     "rate_pct": round(rate, 3) if bucket_total else None,
                     "adequate_volume": bucket_total >= MIN_BUCKET_VOLUME,
+                    "is_current_partial": is_current_partial,
                 })
     return pd.DataFrame(rows)
 
@@ -186,18 +200,25 @@ def main():
     all_parents = sorted({c["id"] for c in taxonomy["categories"]})
     all_categories = all_parents + all_subcats
 
-    # Exclude the current partial month from all analysis.
+    # The current calendar month is still in progress. It's real, already-collected
+    # data -- shown on the descriptive series as its own provisional point (see
+    # compute_descriptive_series' is_current_partial) rather than hidden -- but it's
+    # excluded from the recent/baseline spike-decline verdicts below: comparing a
+    # still-forming month against a full baseline month would make every category
+    # look like it's "declining" purely because fewer days have elapsed, not
+    # because anything real changed.
     max_month = df["month"].max()
     current_month_start = max_month.to_timestamp()
-    print(f"Excluding current partial month ({max_month}) from trend analysis "
-          f"({(df['month'] == max_month).sum()} reviews excluded as incomplete).")
+    print(f"Current in-progress month: {max_month} "
+          f"({(df['month'] == max_month).sum()} reviews so far -- shown as a provisional "
+          f"point on the chart, excluded from spike/decline verdicts until complete).")
     df_complete = df[df["month"] < max_month].copy()
     exploded_complete = exploded[exploded["month"] < max_month].copy()
 
     app_store_min_month = df_complete.loc[df_complete["source"] == "app_store", "month"].min()
 
     print("\nBuilding descriptive time series (adaptive monthly/multi-month buckets, "
-          f"min {MIN_BUCKET_VOLUME} reviews/bucket)...")
+          f"min {MIN_BUCKET_VOLUME} reviews/bucket; current month always its own point)...")
     descriptive_scopes = {
         "google_play": {"sources": ["google_play"], "min_month": None},
         "app_store": {"sources": ["app_store"], "min_month": None},
@@ -205,7 +226,9 @@ def main():
         # actually starts existing -- never buckets google_play-only history in with it.
         "combined_overlap": {"sources": ["google_play", "app_store"], "min_month": app_store_min_month},
     }
-    descriptive = compute_descriptive_series(exploded_complete, df_complete, all_categories, descriptive_scopes)
+    # Full df/exploded here (not df_complete/exploded_complete) so the current
+    # in-progress month gets included as its own point instead of being dropped.
+    descriptive = compute_descriptive_series(exploded, df, all_categories, descriptive_scopes, current_month=max_month)
     print(f"  {len(descriptive)} (period x scope x category) rows")
 
     # --- Recent / baseline windows ---
@@ -257,6 +280,8 @@ def main():
     descriptive["verdict"] = None
 
     for idx, row in descriptive.iterrows():
+        if row["is_current_partial"]:
+            continue  # still-forming month -- never gets a spike/decline verdict attached
         period_end = pd.Period(row["period_end"], freq="M").end_time
         if period_end >= recent_start and row["source"] in ("google_play", "app_store", "combined_overlap"):
             v = verdicts_df[(verdicts_df["scope"] == row["source"]) & (verdicts_df["category_id"] == row["category_id"])]
