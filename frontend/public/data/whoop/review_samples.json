@@ -1,6 +1,18 @@
 {
   "pricing_billing": [
     {
+      "review_id": "6f0bda1f-76a7-4117-8db4-a124e1713abb",
+      "source": "google_play",
+      "rating": 1,
+      "date": "2026-08-16T06:29:51+00:00",
+      "text": "I decided to upgrade after a free trial with a borrowed device. I pushed the in-app upgrade button to find that no device will be sent, and I now don't have one as I returned my friends. Within 5-minutes, I email customer service who says we can cancel the subscription and order a new one with watch. Then they change their minds! I send a follow up email explaining my situation. They respond with a template AI email. Shows what they think about their customers.",
+      "subcategory_tags": [
+        "billing_disputes",
+        "ai_only_support_channel",
+        "support_resolution_quality"
+      ]
+    },
+    {
       "review_id": "14430227958",
       "source": "app_store",
       "rating": 2,
@@ -331,18 +343,6 @@
         "ecg_bp_feature_reliability",
         "missing_metrics",
         "price_value_perception"
-      ]
-    },
-    {
-      "review_id": "14365927486",
-      "source": "app_store",
-      "rating": 3,
-      "date": "2026-07-30T03:17:50-07:00",
-      "text": "Committed to using the band this year but it’s uncomfortable even with upgrading to a nicer one which makes Whoop even more expensive. Interface is better for serious athletes not it’s not for me.",
-      "subcategory_tags": [
-        "comfort_fit",
-        "price_value_perception",
-        "personalization_use_case_fit"
       ]
     }
   ],
@@ -692,6 +692,18 @@
   ],
   "billing_disputes": [
     {
+      "review_id": "6f0bda1f-76a7-4117-8db4-a124e1713abb",
+      "source": "google_play",
+      "rating": 1,
+      "date": "2026-08-16T06:29:51+00:00",
+      "text": "I decided to upgrade after a free trial with a borrowed device. I pushed the in-app upgrade button to find that no device will be sent, and I now don't have one as I returned my friends. Within 5-minutes, I email customer service who says we can cancel the subscription and order a new one with watch. Then they change their minds! I send a follow up email explaining my situation. They respond with a template AI email. Shows what they think about their customers.",
+      "subcategory_tags": [
+        "billing_disputes",
+        "ai_only_support_channel",
+        "support_resolution_quality"
+      ]
+    },
+    {
       "review_id": "14430227958",
       "source": "app_store",
       "rating": 2,
@@ -1013,18 +1025,6 @@
         "ai_only_support_channel",
         "billing_disputes",
         "plan_trial_structure"
-      ]
-    },
-    {
-      "review_id": "c3f4ce81-d258-4d22-9007-0687363f22b6",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2026-06-03T16:48:10",
-      "text": "Gives you a \"free\" trial that converts I to a subscription without telling the price upfront. The only visible price is \"0€\". Also the \"explore the app\" option doesn't let you explore the app but tries to funnel you into an annual subscription without telling the user the price.",
-      "subcategory_tags": [
-        "plan_trial_structure",
-        "upsell_pressure",
-        "billing_disputes"
       ]
     }
   ],
@@ -9299,6 +9299,18 @@
   ],
   "customer_support": [
     {
+      "review_id": "6f0bda1f-76a7-4117-8db4-a124e1713abb",
+      "source": "google_play",
+      "rating": 1,
+      "date": "2026-08-16T06:29:51+00:00",
+      "text": "I decided to upgrade after a free trial with a borrowed device. I pushed the in-app upgrade button to find that no device will be sent, and I now don't have one as I returned my friends. Within 5-minutes, I email customer service who says we can cancel the subscription and order a new one with watch. Then they change their minds! I send a follow up email explaining my situation. They respond with a template AI email. Shows what they think about their customers.",
+      "subcategory_tags": [
+        "billing_disputes",
+        "ai_only_support_channel",
+        "support_resolution_quality"
+      ]
+    },
+    {
       "review_id": "14426655685",
       "source": "app_store",
       "rating": 3,
@@ -9638,19 +9650,6 @@
         "ai_autonomy",
         "ai_only_support_channel",
         "price_value_perception"
-      ]
-    },
-    {
-      "review_id": "412e13a1-b8d6-4702-8962-41d20d9a4d7a",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2026-06-21T05:53:01",
-      "text": "Two years a loyal WHOOP user, loved it. But honestly, after all this time: it's useless if you don't sleep in one block. Nap or wake to drink water, and it chops your night into \"naps,\" crashing your sleep score and your recovery score with it. Body says fully recharged; app says red. Support has no fix for multiphase sleepers. Unless you sleep like a machine, the data will mislead you",
-      "subcategory_tags": [
-        "sleep_accuracy",
-        "metric_accuracy",
-        "support_resolution_quality",
-        "personalization_use_case_fit"
       ]
     }
   ],
@@ -10018,6 +10017,18 @@
   ],
   "support_resolution_quality": [
     {
+      "review_id": "6f0bda1f-76a7-4117-8db4-a124e1713abb",
+      "source": "google_play",
+      "rating": 1,
+      "date": "2026-08-16T06:29:51+00:00",
+      "text": "I decided to upgrade after a free trial with a borrowed device. I pushed the in-app upgrade button to find that no device will be sent, and I now don't have one as I returned my friends. Within 5-minutes, I email customer service who says we can cancel the subscription and order a new one with watch. Then they change their minds! I send a follow up email explaining my situation. They respond with a template AI email. Shows what they think about their customers.",
+      "subcategory_tags": [
+        "billing_disputes",
+        "ai_only_support_channel",
+        "support_resolution_quality"
+      ]
+    },
+    {
       "review_id": "14419311797",
       "source": "app_store",
       "rating": 1,
@@ -10360,22 +10371,21 @@
         "support_responsiveness",
         "support_resolution_quality"
       ]
-    },
-    {
-      "review_id": "14076036651",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-05-17T13:08:13-07:00",
-      "text": "The biggest issue I had with whoop was it didn’t properly register workouts and naps. It doesn’t strap in properly. I had the whoop for a month and it kept falling off my wrist. One day it fell and I didn’t notice and the customer service was not helpful.",
-      "subcategory_tags": [
-        "activity_detection",
-        "sleep_accuracy",
-        "strap_clasp_durability",
-        "support_resolution_quality"
-      ]
     }
   ],
   "ai_only_support_channel": [
+    {
+      "review_id": "6f0bda1f-76a7-4117-8db4-a124e1713abb",
+      "source": "google_play",
+      "rating": 1,
+      "date": "2026-08-16T06:29:51+00:00",
+      "text": "I decided to upgrade after a free trial with a borrowed device. I pushed the in-app upgrade button to find that no device will be sent, and I now don't have one as I returned my friends. Within 5-minutes, I email customer service who says we can cancel the subscription and order a new one with watch. Then they change their minds! I send a follow up email explaining my situation. They respond with a template AI email. Shows what they think about their customers.",
+      "subcategory_tags": [
+        "billing_disputes",
+        "ai_only_support_channel",
+        "support_resolution_quality"
+      ]
+    },
     {
       "review_id": "682c6f55-0c48-48a1-b8ce-4d9f630ce9a5",
       "source": "google_play",
@@ -10734,18 +10744,6 @@
         "ai_only_support_channel",
         "support_resolution_quality",
         "price_value_perception"
-      ]
-    },
-    {
-      "review_id": "9e66149b-abea-43ec-b329-333ec3d6f33e",
-      "source": "google_play",
-      "rating": 3,
-      "date": "2025-11-22T07:05:16",
-      "text": "I see marketing photos of graphs that I can't find anywhere in the app. There is no live person to talk to. I'm not confident the days is correct yes it has been going to sleep hours after I've actually gone to sleep.",
-      "subcategory_tags": [
-        "redesign_regression",
-        "ai_only_support_channel",
-        "sleep_accuracy"
       ]
     }
   ],
@@ -12117,6 +12115,16 @@
   ],
   "ui_ux": [
     {
+      "review_id": "68a413df-3331-4aac-b891-a1be4da8c7b3",
+      "source": "google_play",
+      "rating": 1,
+      "date": "2026-08-16T08:20:05+00:00",
+      "text": "I’m honestly tired of fighting with the time sliders in the WHOOP app. This really needs to be fixed. Entering an exact time in the Journal can be surprisingly difficult. For example, I may need to set an action to 12:00, but the slider keeps trying to select 11:30 or 12:30 instead. Please add a simple and precise way to enter the exact time manually, or significantly improve the slider behavior. Something as basic as logging the correct time should not be this frustrating.",
+      "subcategory_tags": [
+        "feature_ui_friction"
+      ]
+    },
+    {
       "review_id": "1e56220a-53e4-41bc-b57e-fa14540b782a",
       "source": "google_play",
       "rating": 2,
@@ -12450,16 +12458,6 @@
         "notification_community_issues",
         "upsell_pressure",
         "price_value_perception"
-      ]
-    },
-    {
-      "review_id": "14262477583",
-      "source": "app_store",
-      "rating": 5,
-      "date": "2026-07-04T08:22:00-07:00",
-      "text": "There seems to be a problem with the Heart Rate screen where it appears beyond screen and not readable",
-      "subcategory_tags": [
-        "device_rendering_bugs"
       ]
     }
   ],
@@ -13149,6 +13147,16 @@
   ],
   "feature_ui_friction": [
     {
+      "review_id": "68a413df-3331-4aac-b891-a1be4da8c7b3",
+      "source": "google_play",
+      "rating": 1,
+      "date": "2026-08-16T08:20:05+00:00",
+      "text": "I’m honestly tired of fighting with the time sliders in the WHOOP app. This really needs to be fixed. Entering an exact time in the Journal can be surprisingly difficult. For example, I may need to set an action to 12:00, but the slider keeps trying to select 11:30 or 12:30 instead. Please add a simple and precise way to enter the exact time manually, or significantly improve the slider behavior. Something as basic as logging the correct time should not be this frustrating.",
+      "subcategory_tags": [
+        "feature_ui_friction"
+      ]
+    },
+    {
       "review_id": "14423531173",
       "source": "app_store",
       "rating": 2,
@@ -13480,17 +13488,6 @@
       "text": "Great app overall. I recently rejoined after a break and think the AI integration is really well done.\n\nOne frustrating bug to report - when you search for activities for an activity, the only way to select an activity type is from the main/All tab - it doesn’t allow you to select an activity in the other tabs like ‘Recovery’. \n\nAdditionally, it only shows 5 most frequent / most recent activities. It should allow the user to favorite activities.\n\nThanks!",
       "subcategory_tags": [
         "ai_positive_reception",
-        "feature_ui_friction",
-        "missing_activity_types"
-      ]
-    },
-    {
-      "review_id": "14067984121",
-      "source": "app_store",
-      "rating": 4,
-      "date": "2026-05-15T10:38:14-07:00",
-      "text": "Just needs a dedicated lower tab to have workouts made and logged appropriately. That way when it creates a workout you can easily find and use them right now it’s kinda hidden. Other than that it’s a great app and device.",
-      "subcategory_tags": [
         "feature_ui_friction",
         "missing_activity_types"
       ]
