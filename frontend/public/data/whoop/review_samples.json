@@ -1,6 +1,29 @@
 {
   "pricing_billing": [
     {
+      "review_id": "14442750449",
+      "source": "app_store",
+      "rating": 5,
+      "date": "2026-08-18T06:09:17-07:00",
+      "text": "Without membership just like garmin is better",
+      "subcategory_tags": [
+        "price_value_perception"
+      ]
+    },
+    {
+      "review_id": "14442499498",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-08-18T04:52:00-07:00",
+      "text": "I loved it until I started to realize the data is inaccurate and misleading.  You get what it’s trying to teach you and after a while it can cause you to second guess yourself. I wanted a low tech “watch”that didn’t show notifications on my wrist. Which is this buuut the app bombards you with notifications and requested inputs. So it’s not really a low interaction device. \n\nI would have happily not reviewed this but the canceling process of your membership is predatory and motivated me to write this. \n\nThere are better cheaper competitors.",
+      "subcategory_tags": [
+        "metric_accuracy",
+        "notification_community_issues",
+        "billing_disputes",
+        "price_value_perception"
+      ]
+    },
+    {
       "review_id": "14434639447",
       "source": "app_store",
       "rating": 2,
@@ -320,33 +343,32 @@
         "redesign_regression",
         "billing_disputes"
       ]
+    }
+  ],
+  "price_value_perception": [
+    {
+      "review_id": "14442750449",
+      "source": "app_store",
+      "rating": 5,
+      "date": "2026-08-18T06:09:17-07:00",
+      "text": "Without membership just like garmin is better",
+      "subcategory_tags": [
+        "price_value_perception"
+      ]
     },
     {
-      "review_id": "14370486198",
+      "review_id": "14442499498",
       "source": "app_store",
       "rating": 1,
-      "date": "2026-07-31T05:56:28-07:00",
-      "text": "Second year in a row I get auto renewed. CC just charged hours ago, but impossible to get a refund. Cancel membership is hidden on their website I didn’t know existed. Sigh.",
+      "date": "2026-08-18T04:52:00-07:00",
+      "text": "I loved it until I started to realize the data is inaccurate and misleading.  You get what it’s trying to teach you and after a while it can cause you to second guess yourself. I wanted a low tech “watch”that didn’t show notifications on my wrist. Which is this buuut the app bombards you with notifications and requested inputs. So it’s not really a low interaction device. \n\nI would have happily not reviewed this but the canceling process of your membership is predatory and motivated me to write this. \n\nThere are better cheaper competitors.",
       "subcategory_tags": [
+        "metric_accuracy",
+        "notification_community_issues",
         "billing_disputes",
         "price_value_perception"
       ]
     },
-    {
-      "review_id": "14368029216",
-      "source": "app_store",
-      "rating": 3,
-      "date": "2026-07-30T14:20:50-07:00",
-      "text": "For a product of this price, the app experience should be polished. Firstly, clicking on the AI chat does not automatically bring you to the top of the conversation which is annoying if you use it frequently. Secondly, I consistently see the \"couldn't load notifications\" tile whenever I try to refresh on the homepage. Thirdly, the chat window and pill block the ability to metric explainers. \n\nThese don't break the UX but they do add friction to using this app daily.",
-      "subcategory_tags": [
-        "ai_reliability_bugs",
-        "notification_community_issues",
-        "feature_ui_friction",
-        "price_value_perception"
-      ]
-    }
-  ],
-  "price_value_perception": [
     {
       "review_id": "14434639447",
       "source": "app_store",
@@ -665,34 +687,22 @@
       "subcategory_tags": [
         "price_value_perception"
       ]
-    },
-    {
-      "review_id": "14335307574",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-07-22T11:00:08-07:00",
-      "text": "It’s cool to see the tracking for like simple workouts and jogs, but if you do intense physical contact sports like mma it does a horrible job of tracking your stats. I have had multiple sessions where it just gives me a blank time period when I’m working out and it’s very frustrating. Sometimes it works but it’s very in consistent. Also the price is so much for something so simple. Buying an Apple Watch is the same thing but no subscription.",
-      "subcategory_tags": [
-        "activity_detection",
-        "personalization_use_case_fit",
-        "price_value_perception"
-      ]
-    },
-    {
-      "review_id": "14334223660",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-07-22T05:43:14-07:00",
-      "text": "Don’t waste you money or time. I got this because my son thinks, or thought it was a good thing. I think the chatty nature of the whole application is pure nonsense. It just repeats itself no matter what you may ask. I have challenged the AI and it doesn’t even come back with anything instructive or educational to improve. It’s says “if you don’t like my style then I’ll give you the basics”. Well then, if it’s basics why even get this?  You want a critic of your sleep patterns? This is it. Based on studies dating back to 2003, the app doesn’t not fit the customization you will need. It wants to bunch you up into the group of people who apparently need to sleep 9 hours to feel “healthy”. It says I’m aging quickly (10 years older). 😂 yet I feel like an ox. I’m intense in my workouts, I’m intense in my work, I don’t need a nap, and I’m extremely productive with 5-6 hours sleep and age 64. Whoop needs to offer a refund option if not happy once you’ve signed up. 50 days into this venture and I definitely feel I wasted my time and money. In one word:  garbage",
-      "subcategory_tags": [
-        "ai_reliability_bugs",
-        "personalization_use_case_fit",
-        "price_value_perception",
-        "billing_disputes"
-      ]
     }
   ],
   "billing_disputes": [
+    {
+      "review_id": "14442499498",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-08-18T04:52:00-07:00",
+      "text": "I loved it until I started to realize the data is inaccurate and misleading.  You get what it’s trying to teach you and after a while it can cause you to second guess yourself. I wanted a low tech “watch”that didn’t show notifications on my wrist. Which is this buuut the app bombards you with notifications and requested inputs. So it’s not really a low interaction device. \n\nI would have happily not reviewed this but the canceling process of your membership is predatory and motivated me to write this. \n\nThere are better cheaper competitors.",
+      "subcategory_tags": [
+        "metric_accuracy",
+        "notification_community_issues",
+        "billing_disputes",
+        "price_value_perception"
+      ]
+    },
     {
       "review_id": "6f0bda1f-76a7-4117-8db4-a124e1713abb",
       "source": "google_play",
@@ -1015,18 +1025,6 @@
       "text": "Hate it. Then I couldn’t even cancel it through the app. There are a cancellation process requires you to fill out an entire survey. Shady.",
       "subcategory_tags": [
         "billing_disputes"
-      ]
-    },
-    {
-      "review_id": "3f51e567-ffb6-4ffe-b3b4-1ff0e4c0d3f8",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2026-06-04T08:54:52",
-      "text": "useless customer service, and bad service for extending memberships. For the new users you can get a free band, charger and the sensor. But if you gave the trial bracelet back, and got a membership - you need to buy everything new including the sensor! which you cannot buy in thw shop and AI service is useless. what is the point? I already starting to regret my decision to go ahead in the first place",
-      "subcategory_tags": [
-        "ai_only_support_channel",
-        "billing_disputes",
-        "plan_trial_structure"
       ]
     }
   ],
@@ -1728,6 +1726,28 @@
   ],
   "sleep_tracking": [
     {
+      "review_id": "77663841-e4ab-411e-898e-571103747761",
+      "source": "google_play",
+      "rating": 5,
+      "date": "2026-08-18T17:09:14+00:00",
+      "text": "Fabulous. The data is deep and has made such a difference in my ability to track and understand my sleep, work out, and stress patterns and see how they interact with each other.",
+      "subcategory_tags": [
+        "sleep_satisfaction"
+      ]
+    },
+    {
+      "review_id": "14442900365",
+      "source": "app_store",
+      "rating": 4,
+      "date": "2026-08-18T06:52:07-07:00",
+      "text": "Needs better privacy guarantees, needs better HR tracking and estimates for short intense interval workouts. Needs ability to switch between two or more active strength training activities. Otherwise good sleep gauging app.",
+      "subcategory_tags": [
+        "metric_accuracy",
+        "missing_activity_types",
+        "sleep_satisfaction"
+      ]
+    },
+    {
       "review_id": "14442444743",
       "source": "app_store",
       "rating": 5,
@@ -2036,28 +2056,6 @@
       "subcategory_tags": [
         "sleep_satisfaction",
         "missing_activity_types"
-      ]
-    },
-    {
-      "review_id": "14358521151",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-07-28T07:01:55-07:00",
-      "text": "The AI assistant keeps pinging you and incorrectly reads its own data. It consistently contradicts itself. Additionally, the sleep metrics can just ruin your day even if you’re feeling fine.",
-      "subcategory_tags": [
-        "ai_reliability_bugs",
-        "sleep_accuracy"
-      ]
-    },
-    {
-      "review_id": "14350986677",
-      "source": "app_store",
-      "rating": 5,
-      "date": "2026-07-26T09:35:25-07:00",
-      "text": "I’m not a bug athelete but for me Whoop is a health coach. My recovery score usually confirms when I’m sick and this helps me listen to my body more. Sleep detection is super accurate.",
-      "subcategory_tags": [
-        "sleep_satisfaction",
-        "personalization_use_case_fit"
       ]
     }
   ],
@@ -2422,6 +2420,28 @@
   ],
   "sleep_satisfaction": [
     {
+      "review_id": "77663841-e4ab-411e-898e-571103747761",
+      "source": "google_play",
+      "rating": 5,
+      "date": "2026-08-18T17:09:14+00:00",
+      "text": "Fabulous. The data is deep and has made such a difference in my ability to track and understand my sleep, work out, and stress patterns and see how they interact with each other.",
+      "subcategory_tags": [
+        "sleep_satisfaction"
+      ]
+    },
+    {
+      "review_id": "14442900365",
+      "source": "app_store",
+      "rating": 4,
+      "date": "2026-08-18T06:52:07-07:00",
+      "text": "Needs better privacy guarantees, needs better HR tracking and estimates for short intense interval workouts. Needs ability to switch between two or more active strength training activities. Otherwise good sleep gauging app.",
+      "subcategory_tags": [
+        "metric_accuracy",
+        "missing_activity_types",
+        "sleep_satisfaction"
+      ]
+    },
+    {
       "review_id": "14442444743",
       "source": "app_store",
       "rating": 5,
@@ -2721,28 +2741,6 @@
       "text": "I first got a whoop after hearing about it on a podcast. I wasn’t a health enthusiast.. barely worked out at the time. Then Covid hit and we were all scared. I started using the strain coach each day, modified activities, quit drinking, prioritized sleep… I’m now in the shape of my life. I love how whoop continues to develop new features, I also love that all my data is available for me to look through. It really is an amazing tool!",
       "subcategory_tags": [
         "sleep_satisfaction"
-      ]
-    },
-    {
-      "review_id": "14318417672",
-      "source": "app_store",
-      "rating": 5,
-      "date": "2026-07-18T06:55:15-07:00",
-      "text": "With all of my business in life I need coaching and accountability when it comes to sleeps. The whoop provides both and my life is better because of it",
-      "subcategory_tags": [
-        "sleep_satisfaction"
-      ]
-    },
-    {
-      "review_id": "14310462269",
-      "source": "app_store",
-      "rating": 5,
-      "date": "2026-07-16T07:42:27-07:00",
-      "text": "I discovered WHOOP from Chris Williamson’s Modern Wisdom podcast. I had been wanting to get more serious and precise with my fitness. I played a general amount of basketball and ate a general amount of food and had a general idea of my sleep quality. However, ever since I purchased WHOOP, my Fitness and my Health at large has probably doubled. It allows me to be extremely precise in the amount of calories I’m burning which means that I can diet correctly. Its guidance in the realm of sleep is unparalleled, and I love the strength-trainer that it offers - where you can create or have it create you a custom workout according to your goals (and I work at lifetime fitness and I’ve had Personal trainers look over my program and they had no critiques). The AI on WHOOP is also super beneficial and it’s always there if you have questions about bedtime or eating certain things or what you should be doing throughout your day. GET THE WHOOP. The best part is I still have the 4.0! So trust me, I’ll be upgrading to the 5.0 soon.",
-      "subcategory_tags": [
-        "sleep_satisfaction",
-        "ai_positive_reception",
-        "feature_ui_friction"
       ]
     }
   ],
@@ -6199,6 +6197,31 @@
   ],
   "data_accuracy": [
     {
+      "review_id": "14442900365",
+      "source": "app_store",
+      "rating": 4,
+      "date": "2026-08-18T06:52:07-07:00",
+      "text": "Needs better privacy guarantees, needs better HR tracking and estimates for short intense interval workouts. Needs ability to switch between two or more active strength training activities. Otherwise good sleep gauging app.",
+      "subcategory_tags": [
+        "metric_accuracy",
+        "missing_activity_types",
+        "sleep_satisfaction"
+      ]
+    },
+    {
+      "review_id": "14442499498",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-08-18T04:52:00-07:00",
+      "text": "I loved it until I started to realize the data is inaccurate and misleading.  You get what it’s trying to teach you and after a while it can cause you to second guess yourself. I wanted a low tech “watch”that didn’t show notifications on my wrist. Which is this buuut the app bombards you with notifications and requested inputs. So it’s not really a low interaction device. \n\nI would have happily not reviewed this but the canceling process of your membership is predatory and motivated me to write this. \n\nThere are better cheaper competitors.",
+      "subcategory_tags": [
+        "metric_accuracy",
+        "notification_community_issues",
+        "billing_disputes",
+        "price_value_perception"
+      ]
+    },
+    {
       "review_id": "14441431730",
       "source": "app_store",
       "rating": 1,
@@ -6522,33 +6545,34 @@
         "activity_detection",
         "sleep_accuracy"
       ]
-    },
-    {
-      "review_id": "992e472e-3f9f-494f-858e-adb0495c9864",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2026-07-15T17:03:30",
-      "text": "inaccurate & should do better research on women, I replaced the 1st whoop as big difference in counting steps, sleeping time & quality, and detecting me was taking a nap while I was having dinner with my family. the replacement doesn't seem to work well with me also. The app has no function for the women to switch between taking birth control pills and not. when you off the birth control pills, the past data all changed to off birth control pills. and birth control pills have 21 pills & 24 pills",
-      "subcategory_tags": [
-        "metric_accuracy",
-        "sleep_accuracy",
-        "personalization_use_case_fit",
-        "missing_metrics"
-      ]
-    },
-    {
-      "review_id": "14299075270",
-      "source": "app_store",
-      "rating": 3,
-      "date": "2026-07-13T11:18:57-07:00",
-      "text": "I like the metrics and insights, but the AI has significant limitations. It creates problems it cannot undo. It logged strength training as indoor cycling. It logged indoor rowing as outdoor rowing. And it’s on me to report the bugs. This is beta tech at best.",
-      "subcategory_tags": [
-        "activity_detection",
-        "ai_reliability_bugs"
-      ]
     }
   ],
   "metric_accuracy": [
+    {
+      "review_id": "14442900365",
+      "source": "app_store",
+      "rating": 4,
+      "date": "2026-08-18T06:52:07-07:00",
+      "text": "Needs better privacy guarantees, needs better HR tracking and estimates for short intense interval workouts. Needs ability to switch between two or more active strength training activities. Otherwise good sleep gauging app.",
+      "subcategory_tags": [
+        "metric_accuracy",
+        "missing_activity_types",
+        "sleep_satisfaction"
+      ]
+    },
+    {
+      "review_id": "14442499498",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-08-18T04:52:00-07:00",
+      "text": "I loved it until I started to realize the data is inaccurate and misleading.  You get what it’s trying to teach you and after a while it can cause you to second guess yourself. I wanted a low tech “watch”that didn’t show notifications on my wrist. Which is this buuut the app bombards you with notifications and requested inputs. So it’s not really a low interaction device. \n\nI would have happily not reviewed this but the canceling process of your membership is predatory and motivated me to write this. \n\nThere are better cheaper competitors.",
+      "subcategory_tags": [
+        "metric_accuracy",
+        "notification_community_issues",
+        "billing_disputes",
+        "price_value_perception"
+      ]
+    },
     {
       "review_id": "14441431730",
       "source": "app_store",
@@ -6867,29 +6891,6 @@
       "subcategory_tags": [
         "metric_accuracy",
         "battery_life"
-      ]
-    },
-    {
-      "review_id": "14222777126",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-06-24T18:30:27-07:00",
-      "text": "The VO2 max and daily step count data do not appear to be accurate, and the WHOOP AI predictions are not providing reliable results.",
-      "subcategory_tags": [
-        "metric_accuracy",
-        "ai_reliability_bugs"
-      ]
-    },
-    {
-      "review_id": "14217262337",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-06-23T09:13:15-07:00",
-      "text": "In addition to inaccurate measurements (eg steps), the ui is horrendous and the most important settings are not visible.  I am locked in for 2 years - otherwise I would have returned... If in doubt, get aura instead.",
-      "subcategory_tags": [
-        "metric_accuracy",
-        "redesign_regression",
-        "price_value_perception"
       ]
     }
   ],
@@ -12121,6 +12122,19 @@
   ],
   "ui_ux": [
     {
+      "review_id": "14442499498",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-08-18T04:52:00-07:00",
+      "text": "I loved it until I started to realize the data is inaccurate and misleading.  You get what it’s trying to teach you and after a while it can cause you to second guess yourself. I wanted a low tech “watch”that didn’t show notifications on my wrist. Which is this buuut the app bombards you with notifications and requested inputs. So it’s not really a low interaction device. \n\nI would have happily not reviewed this but the canceling process of your membership is predatory and motivated me to write this. \n\nThere are better cheaper competitors.",
+      "subcategory_tags": [
+        "metric_accuracy",
+        "notification_community_issues",
+        "billing_disputes",
+        "price_value_perception"
+      ]
+    },
+    {
       "review_id": "2a51e99a-ae5a-40c9-b3ec-ff9f4b274857",
       "source": "google_play",
       "rating": 2,
@@ -12448,19 +12462,6 @@
       "subcategory_tags": [
         "feature_ui_friction",
         "missing_activity_types"
-      ]
-    },
-    {
-      "review_id": "14285494669",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-07-10T03:06:20-07:00",
-      "text": "Been using Whoop for 4 months religiously and have had nothing but frustration with the faulty data and bad AI coaching.  Zero improvement in sleep and horrible workout plans with the strength trainer.  You’ll go for a run and 10 minutes later get a notification asking if you’re going to go for a run…it’s so frustrating.  I want my money back but I’m stuck with it.",
-      "subcategory_tags": [
-        "ai_reliability_bugs",
-        "activity_detection",
-        "billing_disputes",
-        "feature_ui_friction"
       ]
     }
   ],
@@ -13497,6 +13498,19 @@
   ],
   "notification_community_issues": [
     {
+      "review_id": "14442499498",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-08-18T04:52:00-07:00",
+      "text": "I loved it until I started to realize the data is inaccurate and misleading.  You get what it’s trying to teach you and after a while it can cause you to second guess yourself. I wanted a low tech “watch”that didn’t show notifications on my wrist. Which is this buuut the app bombards you with notifications and requested inputs. So it’s not really a low interaction device. \n\nI would have happily not reviewed this but the canceling process of your membership is predatory and motivated me to write this. \n\nThere are better cheaper competitors.",
+      "subcategory_tags": [
+        "metric_accuracy",
+        "notification_community_issues",
+        "billing_disputes",
+        "price_value_perception"
+      ]
+    },
+    {
       "review_id": "a07c6d87-3a41-4769-97e2-a7a3355a474d",
       "source": "google_play",
       "rating": 4,
@@ -13816,19 +13830,6 @@
         "activity_detection",
         "crashes_freezes",
         "update_failures"
-      ]
-    },
-    {
-      "review_id": "c18dfb38-1cc6-4116-a38d-dd587bffc3a7",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2026-03-02T09:58:35",
-      "text": "Since switching from iPhone to Pixel, I've had a terrible experience with the Whoop app. Notifications are delayed, syncs and activity processing are slow, and there's no search option to start an activity. Plus, messages in the community groups often show up hours later. Disappointed to see how the Android version of the app is not as refined as IOS. Hope they fix it soon.",
-      "subcategory_tags": [
-        "android_specific_bugs",
-        "android_feature_gaps",
-        "data_sync_delays",
-        "notification_community_issues"
       ]
     }
   ],
@@ -15552,6 +15553,28 @@
   ],
   "feature_requests": [
     {
+      "review_id": "5ee59893-76ec-4523-9a0b-51011f9f348d",
+      "source": "google_play",
+      "rating": 5,
+      "date": "2026-08-18T14:42:34+00:00",
+      "text": "best health tracking app. I have a 230 day streak. The app let's me know what's best for my body wish they had a food calculator on it. 10 out of 10 though",
+      "subcategory_tags": [
+        "missing_metrics"
+      ]
+    },
+    {
+      "review_id": "14442900365",
+      "source": "app_store",
+      "rating": 4,
+      "date": "2026-08-18T06:52:07-07:00",
+      "text": "Needs better privacy guarantees, needs better HR tracking and estimates for short intense interval workouts. Needs ability to switch between two or more active strength training activities. Otherwise good sleep gauging app.",
+      "subcategory_tags": [
+        "metric_accuracy",
+        "missing_activity_types",
+        "sleep_satisfaction"
+      ]
+    },
+    {
       "review_id": "14440002686",
       "source": "app_store",
       "rating": 1,
@@ -15865,32 +15888,21 @@
         "missing_language_support",
         "missing_metrics"
       ]
-    },
-    {
-      "review_id": "6fbe5271-092f-4a3f-a305-9e6b2e5d2bd3",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2026-07-23T10:05:58",
-      "text": "I don't like the new AI - it used to be data-driven, focused on facts. Now the \"coach\" is routinely berating me for not doing enough, not being perfect, not sleeping better, not even acknowledging improvements or context (e.g. disease keeping me awake). I told the AI several times but it remains critical and berates on a daily basis. This is seriously making me consider abandoning Whoop for another wearable. This may be great for professional athletes but normal people need leeway not perfection",
-      "subcategory_tags": [
-        "ai_reliability_bugs",
-        "personalization_use_case_fit"
-      ]
-    },
-    {
-      "review_id": "14335307574",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-07-22T11:00:08-07:00",
-      "text": "It’s cool to see the tracking for like simple workouts and jogs, but if you do intense physical contact sports like mma it does a horrible job of tracking your stats. I have had multiple sessions where it just gives me a blank time period when I’m working out and it’s very frustrating. Sometimes it works but it’s very in consistent. Also the price is so much for something so simple. Buying an Apple Watch is the same thing but no subscription.",
-      "subcategory_tags": [
-        "activity_detection",
-        "personalization_use_case_fit",
-        "price_value_perception"
-      ]
     }
   ],
   "missing_activity_types": [
+    {
+      "review_id": "14442900365",
+      "source": "app_store",
+      "rating": 4,
+      "date": "2026-08-18T06:52:07-07:00",
+      "text": "Needs better privacy guarantees, needs better HR tracking and estimates for short intense interval workouts. Needs ability to switch between two or more active strength training activities. Otherwise good sleep gauging app.",
+      "subcategory_tags": [
+        "metric_accuracy",
+        "missing_activity_types",
+        "sleep_satisfaction"
+      ]
+    },
     {
       "review_id": "f9993455-852d-4fc7-9eea-c81c93159837",
       "source": "google_play",
@@ -16212,20 +16224,19 @@
         "missing_metrics",
         "missing_activity_types"
       ]
-    },
-    {
-      "review_id": "1f2acd4f-16df-4ee6-91ab-a37f789e7094",
-      "source": "google_play",
-      "rating": 5,
-      "date": "2025-11-11T09:28:49",
-      "text": "Hoping for faster processing of activities and simpler way to tie weightlifting with strain load. Meanwhile my health is improving because of your talent and vision. Nice ecosystem!",
-      "subcategory_tags": [
-        "data_sync_delays",
-        "missing_activity_types"
-      ]
     }
   ],
   "missing_metrics": [
+    {
+      "review_id": "5ee59893-76ec-4523-9a0b-51011f9f348d",
+      "source": "google_play",
+      "rating": 5,
+      "date": "2026-08-18T14:42:34+00:00",
+      "text": "best health tracking app. I have a 230 day streak. The app let's me know what's best for my body wish they had a food calculator on it. 10 out of 10 though",
+      "subcategory_tags": [
+        "missing_metrics"
+      ]
+    },
     {
       "review_id": "14431047499",
       "source": "app_store",
@@ -16552,17 +16563,6 @@
       "subcategory_tags": [
         "missing_metrics",
         "price_value_perception"
-      ]
-    },
-    {
-      "review_id": "c5bb056a-d6e8-4bb5-bacc-d450af9ef64f",
-      "source": "google_play",
-      "rating": 3,
-      "date": "2026-05-18T15:34:57",
-      "text": "Lacks some really simple features like setting vibrations for hr zones and common activities like motorcycling, or even support for logging custom activities at all.",
-      "subcategory_tags": [
-        "missing_activity_types",
-        "missing_metrics"
       ]
     }
   ],
