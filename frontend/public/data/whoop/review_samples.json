@@ -1,6 +1,28 @@
 {
   "pricing_billing": [
     {
+      "review_id": "14452213935",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-08-20T13:36:37-07:00",
+      "text": "This app is trash. Purchased the Life membership. Signed into the app. It didn’t recognize my membership. Wouldn’t connect to Bluetooth. Literal trash. If I could give it no stars, I would. You know what was easy though? Giving them my CC info. They have that squared away. Zero stars. Refund requested.",
+      "subcategory_tags": [
+        "onboarding_pairing",
+        "billing_disputes"
+      ]
+    },
+    {
+      "review_id": "14450516919",
+      "source": "app_store",
+      "rating": 2,
+      "date": "2026-08-20T04:50:29-07:00",
+      "text": "I think the only thing that really stands out with this tracker is the aging/health span info. There are lots of other devices with screens that could give you some of the same information. Granted, this one is less distracting, and the accuracy is probably better. The AI generated daily outlooks have been incredibly inaccurate lately. I will probably use the device for the remainder of the year and break away before I have to re-up my subscription.",
+      "subcategory_tags": [
+        "ai_reliability_bugs",
+        "price_value_perception"
+      ]
+    },
+    {
       "review_id": "14449428710",
       "source": "app_store",
       "rating": 1,
@@ -319,36 +341,20 @@
         "ai_reliability_bugs",
         "price_value_perception"
       ]
-    },
-    {
-      "review_id": "abc20aac-c89c-4824-9d67-43c978fcbc3e",
-      "source": "google_play",
-      "rating": 4,
-      "date": "2026-08-02T16:08:49",
-      "text": "Monitoring of sleep and recovery ,HRV ,are very good. But many rooms of improvement for the expensive cost of memberships. Ai advice are mainly push you to more exercise and sleep. And data collections , diary are time consuming. It cannot detect activities uncless you log in. customer service are slow. Multiple lag time and hang of app requiring forced close and restore. Ai advice of activities are not medical advice , but its act like one. So I use it just baseline daily monitor.",
-      "subcategory_tags": [
-        "sleep_satisfaction",
-        "price_value_perception",
-        "ai_reliability_bugs",
-        "activity_detection",
-        "support_responsiveness",
-        "crashes_freezes"
-      ]
-    },
-    {
-      "review_id": "14376933635",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-08-01T19:15:32-07:00",
-      "text": "Dirty people that steal your money during a free charge. No support at all just ai bots. Absolute junk don’t waste your time or money",
-      "subcategory_tags": [
-        "billing_disputes",
-        "ai_only_support_channel",
-        "price_value_perception"
-      ]
     }
   ],
   "price_value_perception": [
+    {
+      "review_id": "14450516919",
+      "source": "app_store",
+      "rating": 2,
+      "date": "2026-08-20T04:50:29-07:00",
+      "text": "I think the only thing that really stands out with this tracker is the aging/health span info. There are lots of other devices with screens that could give you some of the same information. Granted, this one is less distracting, and the accuracy is probably better. The AI generated daily outlooks have been incredibly inaccurate lately. I will probably use the device for the remainder of the year and break away before I have to re-up my subscription.",
+      "subcategory_tags": [
+        "ai_reliability_bugs",
+        "price_value_perception"
+      ]
+    },
     {
       "review_id": "14449428710",
       "source": "app_store",
@@ -684,19 +690,20 @@
       "subcategory_tags": [
         "price_value_perception"
       ]
-    },
-    {
-      "review_id": "14338320928",
-      "source": "app_store",
-      "rating": 5,
-      "date": "2026-07-23T05:52:00-07:00",
-      "text": "The data provided by whoop had been a game changer in tracking and changing my health. Yes, it can just be another wearable and people often ask me if it’s worth it. I always say if you use it the way it’s designed and intended, it’s worth every penny.",
-      "subcategory_tags": [
-        "price_value_perception"
-      ]
     }
   ],
   "billing_disputes": [
+    {
+      "review_id": "14452213935",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-08-20T13:36:37-07:00",
+      "text": "This app is trash. Purchased the Life membership. Signed into the app. It didn’t recognize my membership. Wouldn’t connect to Bluetooth. Literal trash. If I could give it no stars, I would. You know what was easy though? Giving them my CC info. They have that squared away. Zero stars. Refund requested.",
+      "subcategory_tags": [
+        "onboarding_pairing",
+        "billing_disputes"
+      ]
+    },
     {
       "review_id": "14442499498",
       "source": "app_store",
@@ -1022,16 +1029,6 @@
       "subcategory_tags": [
         "billing_disputes",
         "support_resolution_quality"
-      ]
-    },
-    {
-      "review_id": "14154241446",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-06-07T04:39:24-07:00",
-      "text": "Hate it. Then I couldn’t even cancel it through the app. There are a cancellation process requires you to fill out an entire survey. Shady.",
-      "subcategory_tags": [
-        "billing_disputes"
       ]
     }
   ],
@@ -1733,6 +1730,16 @@
   ],
   "sleep_tracking": [
     {
+      "review_id": "07e26a71-bc63-4305-a540-bba4395eec96",
+      "source": "google_play",
+      "rating": 5,
+      "date": "2026-08-20T13:57:59+00:00",
+      "text": "It is an accurate sleep/activity tracker.",
+      "subcategory_tags": [
+        "sleep_satisfaction"
+      ]
+    },
+    {
       "review_id": "14449428710",
       "source": "app_store",
       "rating": 1,
@@ -2056,16 +2063,6 @@
         "battery_life",
         "sleep_satisfaction",
         "missing_metrics"
-      ]
-    },
-    {
-      "review_id": "14374082016",
-      "source": "app_store",
-      "rating": 5,
-      "date": "2026-08-01T03:12:10-07:00",
-      "text": "I’ve had my whoop probably just over 8 years now through 2 pregnancies, different lifestyles and different experiences \nMy whoop helps me to track my progress and habits, I’ve correct some to better my sleep nutrition and performance \nHonestly best fitness lifestyle device on the market",
-      "subcategory_tags": [
-        "sleep_satisfaction"
       ]
     }
   ],
@@ -2431,6 +2428,16 @@
   ],
   "sleep_satisfaction": [
     {
+      "review_id": "07e26a71-bc63-4305-a540-bba4395eec96",
+      "source": "google_play",
+      "rating": 5,
+      "date": "2026-08-20T13:57:59+00:00",
+      "text": "It is an accurate sleep/activity tracker.",
+      "subcategory_tags": [
+        "sleep_satisfaction"
+      ]
+    },
+    {
       "review_id": "77663841-e4ab-411e-898e-571103747761",
       "source": "google_play",
       "rating": 5,
@@ -2740,16 +2747,6 @@
       "rating": 5,
       "date": "2026-07-22T05:32:23-07:00",
       "text": "I thought I was pushing myself to hard before I got my whoop and struggled to understand why I wasn’t making progress but with my whoop now I know why I wasn’t making progress. Sleep deficient and not pushing myself to my fullest potential where some large contributing factors",
-      "subcategory_tags": [
-        "sleep_satisfaction"
-      ]
-    },
-    {
-      "review_id": "14318520313",
-      "source": "app_store",
-      "rating": 5,
-      "date": "2026-07-18T07:23:57-07:00",
-      "text": "I first got a whoop after hearing about it on a podcast. I wasn’t a health enthusiast.. barely worked out at the time. Then Covid hit and we were all scared. I started using the strain coach each day, modified activities, quit drinking, prioritized sleep… I’m now in the shape of my life. I love how whoop continues to develop new features, I also love that all my data is available for me to look through. It really is an amazing tool!",
       "subcategory_tags": [
         "sleep_satisfaction"
       ]
@@ -4839,6 +4836,17 @@
   ],
   "sync_connectivity": [
     {
+      "review_id": "14452213935",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-08-20T13:36:37-07:00",
+      "text": "This app is trash. Purchased the Life membership. Signed into the app. It didn’t recognize my membership. Wouldn’t connect to Bluetooth. Literal trash. If I could give it no stars, I would. You know what was easy though? Giving them my CC info. They have that squared away. Zero stars. Refund requested.",
+      "subcategory_tags": [
+        "onboarding_pairing",
+        "billing_disputes"
+      ]
+    },
+    {
       "review_id": "537c60d5-58e0-401e-81f3-842229a73452",
       "source": "google_play",
       "rating": 3,
@@ -5166,22 +5174,20 @@
         "onboarding_pairing",
         "price_value_perception"
       ]
-    },
-    {
-      "review_id": "10b12d2a-87ba-4852-9146-3c3aed580da2",
-      "source": "google_play",
-      "rating": 3,
-      "date": "2026-06-01T07:40:29",
-      "text": "Sleep and step syncing is perpetually delayed despite all troubleshooting. It's spotty enough that all my data is off and my whoop age is +2 yrs. Samsung health and Google fit only logged 1100 of the 26000 steps from Saturday. It's thrown off my carb and calorie tracker. I don't need to the net gains/losses days after I drop out of ketosis. Also, the app looks like it was organized by a hoarder with untreated Schizophrenia and ADHD. Convoluted, disorganized, and random. Make it allcustomizable!",
-      "subcategory_tags": [
-        "data_sync_delays",
-        "metric_accuracy",
-        "third_party_integration",
-        "redesign_regression"
-      ]
     }
   ],
   "onboarding_pairing": [
+    {
+      "review_id": "14452213935",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-08-20T13:36:37-07:00",
+      "text": "This app is trash. Purchased the Life membership. Signed into the app. It didn’t recognize my membership. Wouldn’t connect to Bluetooth. Literal trash. If I could give it no stars, I would. You know what was easy though? Giving them my CC info. They have that squared away. Zero stars. Refund requested.",
+      "subcategory_tags": [
+        "onboarding_pairing",
+        "billing_disputes"
+      ]
+    },
     {
       "review_id": "237147af-8589-4748-a039-a8dd45dee351",
       "source": "google_play",
@@ -5497,17 +5503,6 @@
       "text": "You can't even log into existing account. It assumes automatically you are a new customer. Super annoying when switching phones or reinstalling the app",
       "subcategory_tags": [
         "onboarding_pairing"
-      ]
-    },
-    {
-      "review_id": "8a0d173d-4810-46c3-a5b0-8e2ff85928f3",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2024-10-18T08:26:03",
-      "text": "Connecting and setup are way too much of a hassle for something that costs $250. (With tax.) Returning the device to the athletic shop immediately.",
-      "subcategory_tags": [
-        "onboarding_pairing",
-        "price_value_perception"
       ]
     }
   ],
@@ -8020,6 +8015,17 @@
   ],
   "ai_coach": [
     {
+      "review_id": "14450516919",
+      "source": "app_store",
+      "rating": 2,
+      "date": "2026-08-20T04:50:29-07:00",
+      "text": "I think the only thing that really stands out with this tracker is the aging/health span info. There are lots of other devices with screens that could give you some of the same information. Granted, this one is less distracting, and the accuracy is probably better. The AI generated daily outlooks have been incredibly inaccurate lately. I will probably use the device for the remainder of the year and break away before I have to re-up my subscription.",
+      "subcategory_tags": [
+        "ai_reliability_bugs",
+        "price_value_perception"
+      ]
+    },
+    {
       "review_id": "82bbd4bf-d04e-41fd-91ae-38e9c882ff61",
       "source": "google_play",
       "rating": 1,
@@ -8357,20 +8363,20 @@
       "subcategory_tags": [
         "ai_positive_reception"
       ]
-    },
-    {
-      "review_id": "14342872740",
-      "source": "app_store",
-      "rating": 5,
-      "date": "2026-07-24T08:17:11-07:00",
-      "text": "I started wearing Whoop in a critical time of my life. Seeing the numbers has helped me to keep strong lifestyle habits of healthy sleep & exercise. The app just keeps getting better with the new AI features. I can literally ask my “coach”, “is now too late to do a workout?” And it will usually tell me to not workout within 90 minutes of bedtime. Having Whooping makes me healthier. I highly recommend.",
-      "subcategory_tags": [
-        "ai_positive_reception",
-        "sleep_satisfaction"
-      ]
     }
   ],
   "ai_reliability_bugs": [
+    {
+      "review_id": "14450516919",
+      "source": "app_store",
+      "rating": 2,
+      "date": "2026-08-20T04:50:29-07:00",
+      "text": "I think the only thing that really stands out with this tracker is the aging/health span info. There are lots of other devices with screens that could give you some of the same information. Granted, this one is less distracting, and the accuracy is probably better. The AI generated daily outlooks have been incredibly inaccurate lately. I will probably use the device for the remainder of the year and break away before I have to re-up my subscription.",
+      "subcategory_tags": [
+        "ai_reliability_bugs",
+        "price_value_perception"
+      ]
+    },
     {
       "review_id": "82bbd4bf-d04e-41fd-91ae-38e9c882ff61",
       "source": "google_play",
@@ -8709,19 +8715,6 @@
       "subcategory_tags": [
         "ai_autonomy",
         "ai_reliability_bugs"
-      ]
-    },
-    {
-      "review_id": "14130681224",
-      "source": "app_store",
-      "rating": 4,
-      "date": "2026-06-01T03:32:36-07:00",
-      "text": "The AI code should be able to send an email or generate a PDF, AI Coach should be able to generate notifications and reminders of Key activities on a collaborated protocol. On the Hill side I think for HRV there should be some algorithm for daytime monitoring. Including more longevity related issues. Make the advanced bloodwork, more affordable. Make your accessories, wristbands, and etc., more affordable. \n\nThere should be a user to find activity, particularly things that are physical and reoccurring.\n\nStill All and All I’m very happy and please whoop.",
-      "subcategory_tags": [
-        "ai_reliability_bugs",
-        "missing_metrics",
-        "price_value_perception",
-        "missing_activity_types"
       ]
     }
   ],
