@@ -1,6 +1,19 @@
 {
   "pricing_billing": [
     {
+      "review_id": "3b2df189-fe72-4d0c-bfd7-9e7dd77b91e7",
+      "source": "google_play",
+      "rating": 3,
+      "date": "2026-08-21T22:50:47+00:00",
+      "text": "I've used WHOOP for nearly 3 months and have been frustrated with it more than a few times. Like other users, I’ve had to manually add sleep records because WHOOP fails to auto detect it. The AI uses inconsistent and sometimes contradictory language and observations. I'm paying a subscription fee for this product and expect higher data accuracy and analysis than I'm getting. I'm undecided if I'll renew my subscription.",
+      "subcategory_tags": [
+        "sleep_accuracy",
+        "ai_reliability_bugs",
+        "metric_accuracy",
+        "price_value_perception"
+      ]
+    },
+    {
       "review_id": "14452213935",
       "source": "app_store",
       "rating": 1,
@@ -329,21 +342,22 @@
         "price_value_perception",
         "plan_trial_structure"
       ]
-    },
-    {
-      "review_id": "81d55955-d3d9-4fd2-8ac3-8e3334e8bd6f",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2026-08-03T09:37:15",
-      "text": "Steps which are a core metric of my day are extremely inaccurate. The ai defends a clearly flawed product. The price for subscription is far too high for a product that is still in development. Overall I can't trust anything this device says. I wasted my money so you don't have to. Be warned the Whoop MG is a joke. One that I am stuck with for a year now.",
-      "subcategory_tags": [
-        "metric_accuracy",
-        "ai_reliability_bugs",
-        "price_value_perception"
-      ]
     }
   ],
   "price_value_perception": [
+    {
+      "review_id": "3b2df189-fe72-4d0c-bfd7-9e7dd77b91e7",
+      "source": "google_play",
+      "rating": 3,
+      "date": "2026-08-21T22:50:47+00:00",
+      "text": "I've used WHOOP for nearly 3 months and have been frustrated with it more than a few times. Like other users, I’ve had to manually add sleep records because WHOOP fails to auto detect it. The AI uses inconsistent and sometimes contradictory language and observations. I'm paying a subscription fee for this product and expect higher data accuracy and analysis than I'm getting. I'm undecided if I'll renew my subscription.",
+      "subcategory_tags": [
+        "sleep_accuracy",
+        "ai_reliability_bugs",
+        "metric_accuracy",
+        "price_value_perception"
+      ]
+    },
     {
       "review_id": "14450516919",
       "source": "app_store",
@@ -679,16 +693,6 @@
         "comfort_fit",
         "price_value_perception",
         "personalization_use_case_fit"
-      ]
-    },
-    {
-      "review_id": "14343120272",
-      "source": "app_store",
-      "rating": 4,
-      "date": "2026-07-24T09:29:40-07:00",
-      "text": "Robbery. That much for a replacement band? Bruh. No good. Just for a wrist strap?? Great app awesome app, tracks and optimizing my health and sleep. I love it. BUT $72.56 for a freakin replacement band?? Come ON MAN.",
-      "subcategory_tags": [
-        "price_value_perception"
       ]
     }
   ],
@@ -1730,6 +1734,19 @@
   ],
   "sleep_tracking": [
     {
+      "review_id": "3b2df189-fe72-4d0c-bfd7-9e7dd77b91e7",
+      "source": "google_play",
+      "rating": 3,
+      "date": "2026-08-21T22:50:47+00:00",
+      "text": "I've used WHOOP for nearly 3 months and have been frustrated with it more than a few times. Like other users, I’ve had to manually add sleep records because WHOOP fails to auto detect it. The AI uses inconsistent and sometimes contradictory language and observations. I'm paying a subscription fee for this product and expect higher data accuracy and analysis than I'm getting. I'm undecided if I'll renew my subscription.",
+      "subcategory_tags": [
+        "sleep_accuracy",
+        "ai_reliability_bugs",
+        "metric_accuracy",
+        "price_value_perception"
+      ]
+    },
+    {
       "review_id": "07e26a71-bc63-4305-a540-bba4395eec96",
       "source": "google_play",
       "rating": 5,
@@ -2052,21 +2069,22 @@
         "support_responsiveness",
         "crashes_freezes"
       ]
-    },
-    {
-      "review_id": "8fd13b4b-f9bb-4d94-813e-8725f36c1871",
-      "source": "google_play",
-      "rating": 5,
-      "date": "2026-08-01T14:58:13",
-      "text": "I've never heard of this product. I was gifted this device for my birthday and I absolutely love it. The battery life is amazing and I love how it tracks my sleep, recovery, strain, stress and body temp, it helps keep me accountable and informed of whats happening withIN me. The more I use this the more I believe it can benefit from improvement. 1) It would be nice to have access to our dashboard while still recording our activity. I cant list anymore bc ive ran out of characters for this review",
-      "subcategory_tags": [
-        "battery_life",
-        "sleep_satisfaction",
-        "missing_metrics"
-      ]
     }
   ],
   "sleep_accuracy": [
+    {
+      "review_id": "3b2df189-fe72-4d0c-bfd7-9e7dd77b91e7",
+      "source": "google_play",
+      "rating": 3,
+      "date": "2026-08-21T22:50:47+00:00",
+      "text": "I've used WHOOP for nearly 3 months and have been frustrated with it more than a few times. Like other users, I’ve had to manually add sleep records because WHOOP fails to auto detect it. The AI uses inconsistent and sometimes contradictory language and observations. I'm paying a subscription fee for this product and expect higher data accuracy and analysis than I'm getting. I'm undecided if I'll renew my subscription.",
+      "subcategory_tags": [
+        "sleep_accuracy",
+        "ai_reliability_bugs",
+        "metric_accuracy",
+        "price_value_perception"
+      ]
+    },
     {
       "review_id": "14449428710",
       "source": "app_store",
@@ -2412,17 +2430,6 @@
       "subcategory_tags": [
         "sleep_accuracy",
         "personalization_use_case_fit"
-      ]
-    },
-    {
-      "review_id": "14115045178",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-05-28T03:07:31-07:00",
-      "text": "There are many good things that can be said about Whoop, but my waking up to the whoop alarm (in the green zone) is the worst. It’s so bad that I get stressed out during sleep and end up not sleeping at all.\nAlso, no clear place for feedback either.",
-      "subcategory_tags": [
-        "sleep_alarm_ui",
-        "sleep_accuracy"
       ]
     }
   ],
@@ -6199,6 +6206,19 @@
   ],
   "data_accuracy": [
     {
+      "review_id": "3b2df189-fe72-4d0c-bfd7-9e7dd77b91e7",
+      "source": "google_play",
+      "rating": 3,
+      "date": "2026-08-21T22:50:47+00:00",
+      "text": "I've used WHOOP for nearly 3 months and have been frustrated with it more than a few times. Like other users, I’ve had to manually add sleep records because WHOOP fails to auto detect it. The AI uses inconsistent and sometimes contradictory language and observations. I'm paying a subscription fee for this product and expect higher data accuracy and analysis than I'm getting. I'm undecided if I'll renew my subscription.",
+      "subcategory_tags": [
+        "sleep_accuracy",
+        "ai_reliability_bugs",
+        "metric_accuracy",
+        "price_value_perception"
+      ]
+    },
+    {
       "review_id": "537c60d5-58e0-401e-81f3-842229a73452",
       "source": "google_play",
       "rating": 3,
@@ -6541,19 +6561,22 @@
         "sleep_accuracy",
         "ai_reliability_bugs"
       ]
-    },
-    {
-      "review_id": "1d514064-f4ef-4a21-9f9b-ec8b7747adfc",
-      "source": "google_play",
-      "rating": 4,
-      "date": "2026-07-20T10:54:02",
-      "text": "hoping they work on getting steps to be accurate. They are never as many as I am actually do. I use a pedometer to make up for it and a compare them. But everything else is amazing and has been invaluable to improving my health and workout logs.",
-      "subcategory_tags": [
-        "metric_accuracy"
-      ]
     }
   ],
   "metric_accuracy": [
+    {
+      "review_id": "3b2df189-fe72-4d0c-bfd7-9e7dd77b91e7",
+      "source": "google_play",
+      "rating": 3,
+      "date": "2026-08-21T22:50:47+00:00",
+      "text": "I've used WHOOP for nearly 3 months and have been frustrated with it more than a few times. Like other users, I’ve had to manually add sleep records because WHOOP fails to auto detect it. The AI uses inconsistent and sometimes contradictory language and observations. I'm paying a subscription fee for this product and expect higher data accuracy and analysis than I'm getting. I'm undecided if I'll renew my subscription.",
+      "subcategory_tags": [
+        "sleep_accuracy",
+        "ai_reliability_bugs",
+        "metric_accuracy",
+        "price_value_perception"
+      ]
+    },
     {
       "review_id": "14449428710",
       "source": "app_store",
@@ -6889,17 +6912,6 @@
       "subcategory_tags": [
         "metric_accuracy",
         "personalization_use_case_fit"
-      ]
-    },
-    {
-      "review_id": "e09fe7f3-e965-47f6-a3b1-cb3430d0d43c",
-      "source": "google_play",
-      "rating": 4,
-      "date": "2026-06-26T19:12:46",
-      "text": "I like the Data. sometimes the Data collection can be abehrrent but typically spot in for trends. wish subscription tiered down (ie less as time goes on until nothing. would be a good model as competitors are coming)",
-      "subcategory_tags": [
-        "price_value_perception",
-        "metric_accuracy"
       ]
     }
   ],
@@ -8015,6 +8027,29 @@
   ],
   "ai_coach": [
     {
+      "review_id": "3b2df189-fe72-4d0c-bfd7-9e7dd77b91e7",
+      "source": "google_play",
+      "rating": 3,
+      "date": "2026-08-21T22:50:47+00:00",
+      "text": "I've used WHOOP for nearly 3 months and have been frustrated with it more than a few times. Like other users, I’ve had to manually add sleep records because WHOOP fails to auto detect it. The AI uses inconsistent and sometimes contradictory language and observations. I'm paying a subscription fee for this product and expect higher data accuracy and analysis than I'm getting. I'm undecided if I'll renew my subscription.",
+      "subcategory_tags": [
+        "sleep_accuracy",
+        "ai_reliability_bugs",
+        "metric_accuracy",
+        "price_value_perception"
+      ]
+    },
+    {
+      "review_id": "14454449879",
+      "source": "app_store",
+      "rating": 5,
+      "date": "2026-08-21T04:32:11-07:00",
+      "text": "I’m really impressed with WHOOP Live. It’s surprisingly accurate, especially considering how little input it requires from me. It seems to understand my activity, recovery, and how I’m feeling with minimal effort on my part. The insights feel relevant and personalized without requiring constant logging. Definitely a feature I’ve been enjoying!",
+      "subcategory_tags": [
+        "ai_positive_reception"
+      ]
+    },
+    {
       "review_id": "14450516919",
       "source": "app_store",
       "rating": 2,
@@ -8341,31 +8376,22 @@
         "ai_reliability_bugs",
         "personalization_use_case_fit"
       ]
-    },
-    {
-      "review_id": "14346948790",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-07-25T08:53:44-07:00",
-      "text": "The AI advice is terrible.  Customer support is god awful if you even get a response from them it’s the same script each time leading me to believe you’re not even speaking to a human.  They don’t read the emails you send and do nothing to help you with any issues you have.\n\nThey’re great at giving you instructions on how to wear the stupid thing though.",
-      "subcategory_tags": [
-        "ai_reliability_bugs",
-        "ai_only_support_channel",
-        "support_resolution_quality"
-      ]
-    },
-    {
-      "review_id": "14343085831",
-      "source": "app_store",
-      "rating": 5,
-      "date": "2026-07-24T09:19:25-07:00",
-      "text": "I have had my Whoop for over ten months now. I have learned so much and learn more everyday. I am constantly discovering what choices impact my body and can make informed tweaks. I also did the whoop blood test and loved the clinician report and detailed plans that I received. I am constantly chatting with my Whoop AI about my day and ways to improve. I literally level up every day!!!!!!!!!!! I’m so thankful for Whoop. I am confident it is helping add years to my life and healthspan. Thank you Whoop team for all that you do!!!",
-      "subcategory_tags": [
-        "ai_positive_reception"
-      ]
     }
   ],
   "ai_reliability_bugs": [
+    {
+      "review_id": "3b2df189-fe72-4d0c-bfd7-9e7dd77b91e7",
+      "source": "google_play",
+      "rating": 3,
+      "date": "2026-08-21T22:50:47+00:00",
+      "text": "I've used WHOOP for nearly 3 months and have been frustrated with it more than a few times. Like other users, I’ve had to manually add sleep records because WHOOP fails to auto detect it. The AI uses inconsistent and sometimes contradictory language and observations. I'm paying a subscription fee for this product and expect higher data accuracy and analysis than I'm getting. I'm undecided if I'll renew my subscription.",
+      "subcategory_tags": [
+        "sleep_accuracy",
+        "ai_reliability_bugs",
+        "metric_accuracy",
+        "price_value_perception"
+      ]
+    },
     {
       "review_id": "14450516919",
       "source": "app_store",
@@ -8705,17 +8731,6 @@
         "support_resolution_quality",
         "ai_reliability_bugs"
       ]
-    },
-    {
-      "review_id": "86975f15-bda3-4dab-91bd-f232e134a168",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2026-06-04T23:05:42",
-      "text": "Would be 5 stars if I could just opt out of having that horrible AI on every single page analyzing. To start off, The AI (Coach) has memory settings turned on by default, and never asked to opt in or out of the experience. I found a mile long list of so called memories that are being harvested by Whoop and their coach AI. Additionally, the AI just isn't good. It likes to blame a lot of its mistakes on \"noise\", Honestly, love whoop data and granularity and have been hyping it up and justifying",
-      "subcategory_tags": [
-        "ai_autonomy",
-        "ai_reliability_bugs"
-      ]
     }
   ],
   "ai_autonomy": [
@@ -9002,6 +9017,16 @@
     }
   ],
   "ai_positive_reception": [
+    {
+      "review_id": "14454449879",
+      "source": "app_store",
+      "rating": 5,
+      "date": "2026-08-21T04:32:11-07:00",
+      "text": "I’m really impressed with WHOOP Live. It’s surprisingly accurate, especially considering how little input it requires from me. It seems to understand my activity, recovery, and how I’m feeling with minimal effort on my part. The insights feel relevant and personalized without requiring constant logging. Definitely a feature I’ve been enjoying!",
+      "subcategory_tags": [
+        "ai_positive_reception"
+      ]
+    },
     {
       "review_id": "f678d5b6-ff49-4b3a-aded-cded7114a71a",
       "source": "google_play",
@@ -9319,16 +9344,6 @@
       "text": "I really enjoy this app’s many features. Specifically my recovery and strain ranges. The Whoop AI Coach gives valuable advice as well. You can be very creative with your prompts and the coach gives a reliable answer around 80% of the time. The other 20% of the time the coach replies that the App can’t process the request which kind of bums me out, I guess I’m expecting AI capabilities like ChatGPT has. Nonetheless, this app has been a daily health and wellness indicator for me for over 2 years now, and more years to come.",
       "subcategory_tags": [
         "ai_reliability_bugs",
-        "ai_positive_reception"
-      ]
-    },
-    {
-      "review_id": "14169012660",
-      "source": "app_store",
-      "rating": 5,
-      "date": "2026-06-11T00:48:06-07:00",
-      "text": "I feel bad for my Whoop coach Austin, the dude is relentless though I’ll give him that",
-      "subcategory_tags": [
         "ai_positive_reception"
       ]
     }
@@ -15573,6 +15588,16 @@
   ],
   "feature_requests": [
     {
+      "review_id": "f5fa4264-564f-48cf-be66-1581a4dd3d82",
+      "source": "google_play",
+      "rating": 4,
+      "date": "2026-08-22T06:15:43+00:00",
+      "text": "It's a great tool that measures everything going on in your body. The one thing I wish it had was a good food log/calerie counter.",
+      "subcategory_tags": [
+        "missing_metrics"
+      ]
+    },
+    {
       "review_id": "14449428710",
       "source": "app_store",
       "rating": 1,
@@ -15900,16 +15925,6 @@
       "subcategory_tags": [
         "ai_reliability_bugs",
         "personalization_use_case_fit"
-      ]
-    },
-    {
-      "review_id": "a8a93323-a8cb-43a5-bc80-ffa150dce359",
-      "source": "google_play",
-      "rating": 4,
-      "date": "2026-07-25T04:59:25",
-      "text": "The biological age is not good",
-      "subcategory_tags": [
-        "missing_metrics"
       ]
     }
   ],
@@ -16251,6 +16266,16 @@
   ],
   "missing_metrics": [
     {
+      "review_id": "f5fa4264-564f-48cf-be66-1581a4dd3d82",
+      "source": "google_play",
+      "rating": 4,
+      "date": "2026-08-22T06:15:43+00:00",
+      "text": "It's a great tool that measures everything going on in your body. The one thing I wish it had was a good food log/calerie counter.",
+      "subcategory_tags": [
+        "missing_metrics"
+      ]
+    },
+    {
       "review_id": "14449428710",
       "source": "app_store",
       "rating": 1,
@@ -16576,19 +16601,6 @@
         "personalization_use_case_fit",
         "missing_metrics",
         "feature_ui_friction"
-      ]
-    },
-    {
-      "review_id": "14130681224",
-      "source": "app_store",
-      "rating": 4,
-      "date": "2026-06-01T03:32:36-07:00",
-      "text": "The AI code should be able to send an email or generate a PDF, AI Coach should be able to generate notifications and reminders of Key activities on a collaborated protocol. On the Hill side I think for HRV there should be some algorithm for daytime monitoring. Including more longevity related issues. Make the advanced bloodwork, more affordable. Make your accessories, wristbands, and etc., more affordable. \n\nThere should be a user to find activity, particularly things that are physical and reoccurring.\n\nStill All and All I’m very happy and please whoop.",
-      "subcategory_tags": [
-        "ai_reliability_bugs",
-        "missing_metrics",
-        "price_value_perception",
-        "missing_activity_types"
       ]
     }
   ],
