@@ -1,6 +1,17 @@
 {
   "pricing_billing": [
     {
+      "review_id": "c1784e8a-f45c-419d-b6f9-4374ae268aa5",
+      "source": "google_play",
+      "rating": 2,
+      "date": "2026-08-23T12:18:55+00:00",
+      "text": "Unsure what's been going on with the AI coach for the past week, but my God it's become unreliable. If you want to upload your workout for it to map to an activity, good luck - constant hallucinations, misreading text in one version but then reading it correctly when uploading the second time, glitchy memory, inconsistent analysis of what you upload. Really not impressed considering how much I pay for a Whoop subscription",
+      "subcategory_tags": [
+        "ai_reliability_bugs",
+        "price_value_perception"
+      ]
+    },
+    {
       "review_id": "3b2df189-fe72-4d0c-bfd7-9e7dd77b91e7",
       "source": "google_play",
       "rating": 3,
@@ -331,20 +342,20 @@
       "subcategory_tags": [
         "price_value_perception"
       ]
-    },
-    {
-      "review_id": "6ed4cbc3-4892-4558-b910-0fc434cd3e19",
-      "source": "google_play",
-      "rating": 4,
-      "date": "2026-08-03T09:44:02",
-      "text": "The app and the Product are great. The information and biometric readings are very helpful when keeping track of health and activity. However, the price for the whole experience is very high and really only for those who want and need the very detailed statics. If there was a way to pay for just the band and use a less robust version for general activity and sleep tracking. I will be done after the my year is over and be moving to a different screenless activity tracker that I only pay for once.",
-      "subcategory_tags": [
-        "price_value_perception",
-        "plan_trial_structure"
-      ]
     }
   ],
   "price_value_perception": [
+    {
+      "review_id": "c1784e8a-f45c-419d-b6f9-4374ae268aa5",
+      "source": "google_play",
+      "rating": 2,
+      "date": "2026-08-23T12:18:55+00:00",
+      "text": "Unsure what's been going on with the AI coach for the past week, but my God it's become unreliable. If you want to upload your workout for it to map to an activity, good luck - constant hallucinations, misreading text in one version but then reading it correctly when uploading the second time, glitchy memory, inconsistent analysis of what you upload. Really not impressed considering how much I pay for a Whoop subscription",
+      "subcategory_tags": [
+        "ai_reliability_bugs",
+        "price_value_perception"
+      ]
+    },
     {
       "review_id": "3b2df189-fe72-4d0c-bfd7-9e7dd77b91e7",
       "source": "google_play",
@@ -681,18 +692,6 @@
         "ecg_bp_feature_reliability",
         "missing_metrics",
         "price_value_perception"
-      ]
-    },
-    {
-      "review_id": "14365927486",
-      "source": "app_store",
-      "rating": 3,
-      "date": "2026-07-30T03:17:50-07:00",
-      "text": "Committed to using the band this year but it’s uncomfortable even with upgrading to a nicer one which makes Whoop even more expensive. Interface is better for serious athletes not it’s not for me.",
-      "subcategory_tags": [
-        "comfort_fit",
-        "price_value_perception",
-        "personalization_use_case_fit"
       ]
     }
   ],
@@ -8027,6 +8026,17 @@
   ],
   "ai_coach": [
     {
+      "review_id": "c1784e8a-f45c-419d-b6f9-4374ae268aa5",
+      "source": "google_play",
+      "rating": 2,
+      "date": "2026-08-23T12:18:55+00:00",
+      "text": "Unsure what's been going on with the AI coach for the past week, but my God it's become unreliable. If you want to upload your workout for it to map to an activity, good luck - constant hallucinations, misreading text in one version but then reading it correctly when uploading the second time, glitchy memory, inconsistent analysis of what you upload. Really not impressed considering how much I pay for a Whoop subscription",
+      "subcategory_tags": [
+        "ai_reliability_bugs",
+        "price_value_perception"
+      ]
+    },
+    {
       "review_id": "3b2df189-fe72-4d0c-bfd7-9e7dd77b91e7",
       "source": "google_play",
       "rating": 3,
@@ -8365,20 +8375,20 @@
         "metric_accuracy",
         "ai_positive_reception"
       ]
-    },
-    {
-      "review_id": "ea718ee8-e413-48bf-8deb-15e9a5bf25b0",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2026-07-26T04:40:14",
-      "text": "It's really sad. This used to be my trusted companion. I've used Whoop for more than two years and I would look forward to seeing my stats & talking through it with the AI coach. I've improved my health substantially- become more fit, lost weight, reversed my aging. But an update about two months ago changed everything. Now the app constantly assumes I'm in the middle of a crisis, either health or mental health wise. it's actually starting to harm me. I'll be leaving the service. Do not buy.",
-      "subcategory_tags": [
-        "ai_reliability_bugs",
-        "personalization_use_case_fit"
-      ]
     }
   ],
   "ai_reliability_bugs": [
+    {
+      "review_id": "c1784e8a-f45c-419d-b6f9-4374ae268aa5",
+      "source": "google_play",
+      "rating": 2,
+      "date": "2026-08-23T12:18:55+00:00",
+      "text": "Unsure what's been going on with the AI coach for the past week, but my God it's become unreliable. If you want to upload your workout for it to map to an activity, good luck - constant hallucinations, misreading text in one version but then reading it correctly when uploading the second time, glitchy memory, inconsistent analysis of what you upload. Really not impressed considering how much I pay for a Whoop subscription",
+      "subcategory_tags": [
+        "ai_reliability_bugs",
+        "price_value_perception"
+      ]
+    },
     {
       "review_id": "3b2df189-fe72-4d0c-bfd7-9e7dd77b91e7",
       "source": "google_play",
@@ -8718,18 +8728,6 @@
       "subcategory_tags": [
         "ai_reliability_bugs",
         "ai_positive_reception"
-      ]
-    },
-    {
-      "review_id": "c89733ea-8499-4f11-bffe-1709581de49b",
-      "source": "google_play",
-      "rating": 2,
-      "date": "2026-06-10T18:00:57",
-      "text": "app is pretty basic and super expensive. customer service is horrible. the AI in the app is pretty bad.",
-      "subcategory_tags": [
-        "price_value_perception",
-        "support_resolution_quality",
-        "ai_reliability_bugs"
       ]
     }
   ],
@@ -15588,6 +15586,16 @@
   ],
   "feature_requests": [
     {
+      "review_id": "14458161635",
+      "source": "app_store",
+      "rating": 5,
+      "date": "2026-08-22T03:17:20-07:00",
+      "text": "Should have function to represent all actions selected at once",
+      "subcategory_tags": [
+        "missing_metrics"
+      ]
+    },
+    {
       "review_id": "f5fa4264-564f-48cf-be66-1581a4dd3d82",
       "source": "google_play",
       "rating": 4,
@@ -15913,17 +15921,6 @@
       "text": "I’m not a bug athelete but for me Whoop is a health coach. My recovery score usually confirms when I’m sick and this helps me listen to my body more. Sleep detection is super accurate.",
       "subcategory_tags": [
         "sleep_satisfaction",
-        "personalization_use_case_fit"
-      ]
-    },
-    {
-      "review_id": "ea718ee8-e413-48bf-8deb-15e9a5bf25b0",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2026-07-26T04:40:14",
-      "text": "It's really sad. This used to be my trusted companion. I've used Whoop for more than two years and I would look forward to seeing my stats & talking through it with the AI coach. I've improved my health substantially- become more fit, lost weight, reversed my aging. But an update about two months ago changed everything. Now the app constantly assumes I'm in the middle of a crisis, either health or mental health wise. it's actually starting to harm me. I'll be leaving the service. Do not buy.",
-      "subcategory_tags": [
-        "ai_reliability_bugs",
         "personalization_use_case_fit"
       ]
     }
@@ -16266,6 +16263,16 @@
   ],
   "missing_metrics": [
     {
+      "review_id": "14458161635",
+      "source": "app_store",
+      "rating": 5,
+      "date": "2026-08-22T03:17:20-07:00",
+      "text": "Should have function to represent all actions selected at once",
+      "subcategory_tags": [
+        "missing_metrics"
+      ]
+    },
+    {
       "review_id": "f5fa4264-564f-48cf-be66-1581a4dd3d82",
       "source": "google_play",
       "rating": 4,
@@ -16588,19 +16595,6 @@
       "text": "I can’t believe this oversight hasn’t been fixed since it was made a few versions ago.\n\nI’ve used behavior logging to help me improve my habits, and the trailing 90 days yes or no counts for each helped to keep me accountable. For example, I tried to keep my drinking days in the teens for every trailing 90 days, and it made a huge difference.\n\nWhoop changed this so now it comes the remaining days of the current months as “not logged.” It’s the least helpful information to know that I haven’t logged my behaviors for the following x days of the month in the future. And it’s completely broken the trailing 90 day accountability strategy.\n\nFix this now please!",
       "subcategory_tags": [
         "missing_metrics"
-      ]
-    },
-    {
-      "review_id": "14161739979",
-      "source": "app_store",
-      "rating": 4,
-      "date": "2026-06-09T03:54:18-07:00",
-      "text": "Adequate, but it’s hard to tell how accurate the heart rate data truly is. It’d be nice if you could mark when you’re taking a rest day, because it feels like it encourages you to over train to “reach your strain” on a lot of days, despite the fact that I’m a high level athlete, with an intentional training split. Another way it encourages you to over train is that it does not do a great job of accurately measuring intensity during track/speed workouts where the intensity is high, but the rest periods are longer. It’d be nice if you could put RPE in with each workout. It would also be nice if in the lifting/strength sections that it kept track of the weight you used to last time you did that movement when you’re doing a new strength workout. I do like tracking overall trends with my\nHRV/resting heart rate though.",
-      "subcategory_tags": [
-        "metric_accuracy",
-        "personalization_use_case_fit",
-        "missing_metrics",
-        "feature_ui_friction"
       ]
     }
   ],
