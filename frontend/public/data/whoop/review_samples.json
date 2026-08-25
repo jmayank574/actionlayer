@@ -6205,6 +6205,16 @@
   ],
   "data_accuracy": [
     {
+      "review_id": "14464669627",
+      "source": "app_store",
+      "rating": 4,
+      "date": "2026-08-23T18:35:15-07:00",
+      "text": "Great idea i hope it can be automated. Have to manually input activities.",
+      "subcategory_tags": [
+        "activity_detection"
+      ]
+    },
+    {
       "review_id": "3b2df189-fe72-4d0c-bfd7-9e7dd77b91e7",
       "source": "google_play",
       "rating": 3,
@@ -6547,18 +6557,6 @@
         "activity_detection",
         "personalization_use_case_fit",
         "price_value_perception"
-      ]
-    },
-    {
-      "review_id": "14330101752",
-      "source": "app_store",
-      "rating": 2,
-      "date": "2026-07-21T05:16:06-07:00",
-      "text": "Misses workouts, messes up sleep! The AI brain is the size of an acorn that’s been flattened by a 18 wheeler truck!",
-      "subcategory_tags": [
-        "activity_detection",
-        "sleep_accuracy",
-        "ai_reliability_bugs"
       ]
     }
   ],
@@ -6916,6 +6914,16 @@
   ],
   "activity_detection": [
     {
+      "review_id": "14464669627",
+      "source": "app_store",
+      "rating": 4,
+      "date": "2026-08-23T18:35:15-07:00",
+      "text": "Great idea i hope it can be automated. Have to manually input activities.",
+      "subcategory_tags": [
+        "activity_detection"
+      ]
+    },
+    {
       "review_id": "537c60d5-58e0-401e-81f3-842229a73452",
       "source": "google_play",
       "rating": 3,
@@ -7269,18 +7277,6 @@
         "crashes_freezes",
         "metric_accuracy",
         "activity_detection"
-      ]
-    },
-    {
-      "review_id": "13982293032",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-04-21T10:03:30-07:00",
-      "text": "My overall experience of the product has been negative. My activities keep getting tagged incorrectly and I have to manually fix it every-time. Also, the calories burnt and heart rate during activities aren’t tracked correctly. Not sure if their software needs ti be fixed or their device has issues, the support team doesn’t know that either.",
-      "subcategory_tags": [
-        "activity_detection",
-        "metric_accuracy",
-        "support_resolution_quality"
       ]
     }
   ],
@@ -11122,6 +11118,16 @@
   ],
   "app_stability": [
     {
+      "review_id": "14464977000",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-08-23T20:39:55-07:00",
+      "text": "Journal entry feature continues to pop up for the same day",
+      "subcategory_tags": [
+        "crashes_freezes"
+      ]
+    },
+    {
       "review_id": "14447297787",
       "source": "app_store",
       "rating": 1,
@@ -11450,20 +11456,19 @@
         "crashes_freezes",
         "price_value_perception"
       ]
-    },
-    {
-      "review_id": "39fc8099-f680-4978-999e-781261d6ad2b",
-      "source": "google_play",
-      "rating": 3,
-      "date": "2026-06-04T18:25:12",
-      "text": "The idea is great, the implementation is mediocre. The app itself is bugged and unfinished. The data is questionable.",
-      "subcategory_tags": [
-        "crashes_freezes",
-        "metric_accuracy"
-      ]
     }
   ],
   "crashes_freezes": [
+    {
+      "review_id": "14464977000",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-08-23T20:39:55-07:00",
+      "text": "Journal entry feature continues to pop up for the same day",
+      "subcategory_tags": [
+        "crashes_freezes"
+      ]
+    },
     {
       "review_id": "14447297787",
       "source": "app_store",
@@ -11798,17 +11803,6 @@
         "billing_disputes",
         "ecg_bp_feature_reliability",
         "price_value_perception"
-      ]
-    },
-    {
-      "review_id": "ba405f04-9cb7-4984-8f1f-4281d405ab59",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2026-05-21T18:14:35",
-      "text": "Glitches a lot and doesn't work correctly and accurately. Whoop need to investigate the app.",
-      "subcategory_tags": [
-        "crashes_freezes",
-        "metric_accuracy"
       ]
     }
   ],
