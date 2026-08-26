@@ -1,6 +1,40 @@
 {
   "pricing_billing": [
     {
+      "review_id": "14467695272",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-08-24T13:06:06-07:00",
+      "text": "Very disappointing customer service experience with WHOOP. I purchased a subscription as a gift for my girlfriend, and she only used it for one year. When I tried to cancel the subscription, I contacted customer service on two different occasions, but they were not able to help me.\n\nBoth times, I was simply referred to send an email instead of having the issue resolved directly. I expected much better customer service, especially when trying to cancel a subscription.\n\nI would not recommend this company based on my experience with their customer service.",
+      "subcategory_tags": [
+        "billing_disputes",
+        "support_responsiveness",
+        "support_resolution_quality"
+      ]
+    },
+    {
+      "review_id": "14467140480",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-08-24T09:58:31-07:00",
+      "text": "Update: you can’t delete your payment information and you can’t delete your account. So now I have payment information out there that I can’t delete. Shady AF! Do not buy!!!",
+      "subcategory_tags": [
+        "billing_disputes"
+      ]
+    },
+    {
+      "review_id": "14466799494",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-08-24T08:14:11-07:00",
+      "text": "Bought this hoping to gain some insights on my sleep habits. Nothing useful has come from it. It’s basically like my iPhone bedtime reminder and alarm, but for $400 a year. Not renewing my membership, especially after they wouldn’t honor the 30 day return policy.",
+      "subcategory_tags": [
+        "sleep_accuracy",
+        "price_value_perception",
+        "billing_disputes"
+      ]
+    },
+    {
       "review_id": "c1784e8a-f45c-419d-b6f9-4374ae268aa5",
       "source": "google_play",
       "rating": 2,
@@ -310,41 +344,21 @@
         "ecg_bp_feature_reliability",
         "metric_accuracy"
       ]
-    },
-    {
-      "review_id": "5647e6fd-3a25-4beb-9224-700e304b644b",
-      "source": "google_play",
-      "rating": 2,
-      "date": "2026-08-06T05:43:19",
-      "text": "This app is not great. First off, the UI is cluttered and messy. This could/should be so much cleaner and easier. Secondly, I've never seen an app/product trying to get you to upgrade, spend more, commit to more of a subscription in my life (also why the user interface is so cluttered, it's just riddled with \"click here, upgrade there, spend more monthly\". I get the same info from my Garmin watch, with NO subscription. This thing will be going back. Thumbs down.",
-      "subcategory_tags": [
-        "redesign_regression",
-        "upsell_pressure",
-        "price_value_perception"
-      ]
-    },
-    {
-      "review_id": "14392590603",
-      "source": "app_store",
-      "rating": 2,
-      "date": "2026-08-05T15:08:46-07:00",
-      "text": "I really do enjoy the bracelet but I doubt I will keep it when my year is up.   Way too expensive for a membership.  In all honestly once you buy this thing it should just work.  Lord knows we don’t need another monthly bill.",
-      "subcategory_tags": [
-        "price_value_perception"
-      ]
-    },
-    {
-      "review_id": "f0296ac4-e148-4206-a26b-db948edf4a24",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2026-08-03T15:36:42",
-      "text": "too expensive for what it is",
-      "subcategory_tags": [
-        "price_value_perception"
-      ]
     }
   ],
   "price_value_perception": [
+    {
+      "review_id": "14466799494",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-08-24T08:14:11-07:00",
+      "text": "Bought this hoping to gain some insights on my sleep habits. Nothing useful has come from it. It’s basically like my iPhone bedtime reminder and alarm, but for $400 a year. Not renewing my membership, especially after they wouldn’t honor the 30 day return policy.",
+      "subcategory_tags": [
+        "sleep_accuracy",
+        "price_value_perception",
+        "billing_disputes"
+      ]
+    },
     {
       "review_id": "c1784e8a-f45c-419d-b6f9-4374ae268aa5",
       "source": "google_play",
@@ -681,21 +695,43 @@
         "price_value_perception",
         "feature_ui_friction"
       ]
-    },
-    {
-      "review_id": "14367456315",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-07-30T11:04:09-07:00",
-      "text": "I do not recommend the Whoop band if you’re buying it for blood pressure monitoring.\n\nI purchased the lifetime membership because I have high blood pressure and wanted a device to help me track it. I was very disappointed to learn that Whoop does not measure or even estimate your blood pressure. Instead, it asks you to manually enter your blood pressure readings and then simply shows the average of the values you entered yourself.\n\nThere is no real blood pressure monitoring, no estimated readings, and no meaningful tracking beyond your own manual entries. If blood pressure is your main concern, this device will not meet your expectations. I believe this limitation should be made much clearer before customers purchase a membership.",
-      "subcategory_tags": [
-        "ecg_bp_feature_reliability",
-        "missing_metrics",
-        "price_value_perception"
-      ]
     }
   ],
   "billing_disputes": [
+    {
+      "review_id": "14467695272",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-08-24T13:06:06-07:00",
+      "text": "Very disappointing customer service experience with WHOOP. I purchased a subscription as a gift for my girlfriend, and she only used it for one year. When I tried to cancel the subscription, I contacted customer service on two different occasions, but they were not able to help me.\n\nBoth times, I was simply referred to send an email instead of having the issue resolved directly. I expected much better customer service, especially when trying to cancel a subscription.\n\nI would not recommend this company based on my experience with their customer service.",
+      "subcategory_tags": [
+        "billing_disputes",
+        "support_responsiveness",
+        "support_resolution_quality"
+      ]
+    },
+    {
+      "review_id": "14467140480",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-08-24T09:58:31-07:00",
+      "text": "Update: you can’t delete your payment information and you can’t delete your account. So now I have payment information out there that I can’t delete. Shady AF! Do not buy!!!",
+      "subcategory_tags": [
+        "billing_disputes"
+      ]
+    },
+    {
+      "review_id": "14466799494",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-08-24T08:14:11-07:00",
+      "text": "Bought this hoping to gain some insights on my sleep habits. Nothing useful has come from it. It’s basically like my iPhone bedtime reminder and alarm, but for $400 a year. Not renewing my membership, especially after they wouldn’t honor the 30 day return policy.",
+      "subcategory_tags": [
+        "sleep_accuracy",
+        "price_value_perception",
+        "billing_disputes"
+      ]
+    },
     {
       "review_id": "14452213935",
       "source": "app_store",
@@ -996,42 +1032,6 @@
       "subcategory_tags": [
         "billing_disputes",
         "ecg_bp_feature_reliability"
-      ]
-    },
-    {
-      "review_id": "14194735034",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-06-17T13:02:02-07:00",
-      "text": "The analytics are not great. if you buy a six month package, for example, they won’t cancel it. They’ll continue to bill you and you have to dispute that with your bank - caveat emptor.",
-      "subcategory_tags": [
-        "billing_disputes",
-        "metric_accuracy"
-      ]
-    },
-    {
-      "review_id": "53f1424d-0046-4682-8a95-cc691da3667a",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2026-06-11T11:47:18",
-      "text": "glitchy app, often fails to register activities or process manually tracked sleep at all (leading to no recovery or sleep score). rebooting, force closing, Bluetooth toggling, un/reinstallation all fail. shameful price and a model that holds the user hostage",
-      "subcategory_tags": [
-        "crashes_freezes",
-        "activity_detection",
-        "sleep_accuracy",
-        "price_value_perception",
-        "billing_disputes"
-      ]
-    },
-    {
-      "review_id": "7be74300-1dab-4e49-ad08-28a81de0c98f",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2026-06-10T23:03:30",
-      "text": "Deceptive business practices and atrocious customer service - I had paused my membership as I wasn't sure if I wanted to continue using it. I decided I did not want to reactivate the membership, and was told you must reactivate the membership (AND PAY FOR ANOTHER MONTH) in order to cancel. Whoop customer service has refused to issue a refund.",
-      "subcategory_tags": [
-        "billing_disputes",
-        "support_resolution_quality"
       ]
     }
   ],
@@ -1733,6 +1733,18 @@
   ],
   "sleep_tracking": [
     {
+      "review_id": "14466799494",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-08-24T08:14:11-07:00",
+      "text": "Bought this hoping to gain some insights on my sleep habits. Nothing useful has come from it. It’s basically like my iPhone bedtime reminder and alarm, but for $400 a year. Not renewing my membership, especially after they wouldn’t honor the 30 day return policy.",
+      "subcategory_tags": [
+        "sleep_accuracy",
+        "price_value_perception",
+        "billing_disputes"
+      ]
+    },
+    {
       "review_id": "3b2df189-fe72-4d0c-bfd7-9e7dd77b91e7",
       "source": "google_play",
       "rating": 3,
@@ -2053,24 +2065,21 @@
         "sleep_accuracy",
         "metric_accuracy"
       ]
-    },
-    {
-      "review_id": "abc20aac-c89c-4824-9d67-43c978fcbc3e",
-      "source": "google_play",
-      "rating": 4,
-      "date": "2026-08-02T16:08:49",
-      "text": "Monitoring of sleep and recovery ,HRV ,are very good. But many rooms of improvement for the expensive cost of memberships. Ai advice are mainly push you to more exercise and sleep. And data collections , diary are time consuming. It cannot detect activities uncless you log in. customer service are slow. Multiple lag time and hang of app requiring forced close and restore. Ai advice of activities are not medical advice , but its act like one. So I use it just baseline daily monitor.",
-      "subcategory_tags": [
-        "sleep_satisfaction",
-        "price_value_perception",
-        "ai_reliability_bugs",
-        "activity_detection",
-        "support_responsiveness",
-        "crashes_freezes"
-      ]
     }
   ],
   "sleep_accuracy": [
+    {
+      "review_id": "14466799494",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-08-24T08:14:11-07:00",
+      "text": "Bought this hoping to gain some insights on my sleep habits. Nothing useful has come from it. It’s basically like my iPhone bedtime reminder and alarm, but for $400 a year. Not renewing my membership, especially after they wouldn’t honor the 30 day return policy.",
+      "subcategory_tags": [
+        "sleep_accuracy",
+        "price_value_perception",
+        "billing_disputes"
+      ]
+    },
     {
       "review_id": "3b2df189-fe72-4d0c-bfd7-9e7dd77b91e7",
       "source": "google_play",
@@ -2418,17 +2427,6 @@
         "sleep_accuracy",
         "price_value_perception",
         "billing_disputes"
-      ]
-    },
-    {
-      "review_id": "14115768202",
-      "source": "app_store",
-      "rating": 3,
-      "date": "2026-05-28T07:06:56-07:00",
-      "text": "Consistently stingy on sleep and incapable of taking chronic conditions into consideration.",
-      "subcategory_tags": [
-        "sleep_accuracy",
-        "personalization_use_case_fit"
       ]
     }
   ],
@@ -8022,6 +8020,16 @@
   ],
   "ai_coach": [
     {
+      "review_id": "2955ad1b-6478-4de9-9ffd-6abee47d43e6",
+      "source": "google_play",
+      "rating": 2,
+      "date": "2026-08-24T14:07:45+00:00",
+      "text": "ai bug the ai window gets stuck on full screen and I can't exit it and rest of app becomes inaccessible...",
+      "subcategory_tags": [
+        "ai_reliability_bugs"
+      ]
+    },
+    {
       "review_id": "c1784e8a-f45c-419d-b6f9-4374ae268aa5",
       "source": "google_play",
       "rating": 2,
@@ -8359,21 +8367,19 @@
         "ai_reliability_bugs",
         "sleep_accuracy"
       ]
-    },
-    {
-      "review_id": "14350257084",
-      "source": "app_store",
-      "rating": 5,
-      "date": "2026-07-26T06:00:06-07:00",
-      "text": "Prior to using WHOOP my average hours sleep was just under 5.5 hrs down from prior  year of just under 6 hrs per night since using WHOOP, my average hours per night is over 7.5 hrs. It has educated and improved my health by bringing metrics like HRV and accurate RHR as well as many others. It has assisted in my training to improve cardiovascular and body comp to address recently diagnosed sarcoidosis. I am healthier for using it and better informed with information and questioning its AI.",
-      "subcategory_tags": [
-        "sleep_satisfaction",
-        "metric_accuracy",
-        "ai_positive_reception"
-      ]
     }
   ],
   "ai_reliability_bugs": [
+    {
+      "review_id": "2955ad1b-6478-4de9-9ffd-6abee47d43e6",
+      "source": "google_play",
+      "rating": 2,
+      "date": "2026-08-24T14:07:45+00:00",
+      "text": "ai bug the ai window gets stuck on full screen and I can't exit it and rest of app becomes inaccessible...",
+      "subcategory_tags": [
+        "ai_reliability_bugs"
+      ]
+    },
     {
       "review_id": "c1784e8a-f45c-419d-b6f9-4374ae268aa5",
       "source": "google_play",
@@ -8713,17 +8719,6 @@
       "subcategory_tags": [
         "third_party_integration",
         "ai_reliability_bugs"
-      ]
-    },
-    {
-      "review_id": "14176328585",
-      "source": "app_store",
-      "rating": 5,
-      "date": "2026-06-12T20:27:25-07:00",
-      "text": "I really enjoy this app’s many features. Specifically my recovery and strain ranges. The Whoop AI Coach gives valuable advice as well. You can be very creative with your prompts and the coach gives a reliable answer around 80% of the time. The other 20% of the time the coach replies that the App can’t process the request which kind of bums me out, I guess I’m expecting AI capabilities like ChatGPT has. Nonetheless, this app has been a daily health and wellness indicator for me for over 2 years now, and more years to come.",
-      "subcategory_tags": [
-        "ai_reliability_bugs",
-        "ai_positive_reception"
       ]
     }
   ],
@@ -9344,6 +9339,18 @@
   ],
   "customer_support": [
     {
+      "review_id": "14467695272",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-08-24T13:06:06-07:00",
+      "text": "Very disappointing customer service experience with WHOOP. I purchased a subscription as a gift for my girlfriend, and she only used it for one year. When I tried to cancel the subscription, I contacted customer service on two different occasions, but they were not able to help me.\n\nBoth times, I was simply referred to send an email instead of having the issue resolved directly. I expected much better customer service, especially when trying to cancel a subscription.\n\nI would not recommend this company based on my experience with their customer service.",
+      "subcategory_tags": [
+        "billing_disputes",
+        "support_responsiveness",
+        "support_resolution_quality"
+      ]
+    },
+    {
       "review_id": "14441034641",
       "source": "app_store",
       "rating": 1,
@@ -9686,19 +9693,21 @@
         "support_resolution_quality",
         "price_value_perception"
       ]
-    },
-    {
-      "review_id": "dd713ba3-f429-4b56-a746-85d8ee7b4e67",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2026-06-26T09:30:49",
-      "text": "the worst Member ship services",
-      "subcategory_tags": [
-        "support_resolution_quality"
-      ]
     }
   ],
   "support_responsiveness": [
+    {
+      "review_id": "14467695272",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-08-24T13:06:06-07:00",
+      "text": "Very disappointing customer service experience with WHOOP. I purchased a subscription as a gift for my girlfriend, and she only used it for one year. When I tried to cancel the subscription, I contacted customer service on two different occasions, but they were not able to help me.\n\nBoth times, I was simply referred to send an email instead of having the issue resolved directly. I expected much better customer service, especially when trying to cancel a subscription.\n\nI would not recommend this company based on my experience with their customer service.",
+      "subcategory_tags": [
+        "billing_disputes",
+        "support_responsiveness",
+        "support_resolution_quality"
+      ]
+    },
     {
       "review_id": "14426493523",
       "source": "app_store",
@@ -10046,21 +10055,21 @@
         "support_responsiveness",
         "crashes_freezes"
       ]
-    },
-    {
-      "review_id": "17865658-3ee2-431a-abd4-5dcfaca5b8dd",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2026-03-22T11:14:21",
-      "text": "doesn't track sleep lol update: whoop device burned my skin. their support is also non-existent. disappointed.",
-      "subcategory_tags": [
-        "sleep_accuracy",
-        "comfort_fit",
-        "support_responsiveness"
-      ]
     }
   ],
   "support_resolution_quality": [
+    {
+      "review_id": "14467695272",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-08-24T13:06:06-07:00",
+      "text": "Very disappointing customer service experience with WHOOP. I purchased a subscription as a gift for my girlfriend, and she only used it for one year. When I tried to cancel the subscription, I contacted customer service on two different occasions, but they were not able to help me.\n\nBoth times, I was simply referred to send an email instead of having the issue resolved directly. I expected much better customer service, especially when trying to cancel a subscription.\n\nI would not recommend this company based on my experience with their customer service.",
+      "subcategory_tags": [
+        "billing_disputes",
+        "support_responsiveness",
+        "support_resolution_quality"
+      ]
+    },
     {
       "review_id": "14441034641",
       "source": "app_store",
@@ -10402,19 +10411,6 @@
       "subcategory_tags": [
         "ai_reliability_bugs",
         "support_resolution_quality"
-      ]
-    },
-    {
-      "review_id": "6897fb8a-76ef-4665-8cc4-299704eca3ce",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2026-05-23T05:05:31",
-      "text": "customer support really really bad, my device is showing inaccurate reading, all numbers are wrong! whoop support doesn't care, ignoring me totally giving unacceptable solutions! they refused to change the device! and refused to refund my subscription! unfortunately whoop now is only money driving, they show you how supportive they are one you do the purchase everything is changed after! they are not like how they use to be!",
-      "subcategory_tags": [
-        "metric_accuracy",
-        "support_responsiveness",
-        "support_resolution_quality",
-        "billing_disputes"
       ]
     }
   ],
