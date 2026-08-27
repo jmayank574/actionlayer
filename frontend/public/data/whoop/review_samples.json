@@ -3109,6 +3109,19 @@
   ],
   "hardware_wearability": [
     {
+      "review_id": "14473197727",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-08-25T23:51:59-07:00",
+      "text": "I was very satisfied except for the very frequent crashes when you try to move exercises around on a workout plan. After about 4 months, my whoop band stopped working after a short swim (it’s supposed to be waterproof). I asked for help and got AI help, when I told the AI agent what I had attempted to do, followed the new recommendations only to get another AI email giving more recommendations that clearly do not address the fact that its stopped working after going into the water.",
+      "subcategory_tags": [
+        "crashes_freezes",
+        "strap_clasp_durability",
+        "ai_only_support_channel",
+        "support_resolution_quality"
+      ]
+    },
+    {
       "review_id": "537c60d5-58e0-401e-81f3-842229a73452",
       "source": "google_play",
       "rating": 3,
@@ -3434,21 +3447,22 @@
         "support_responsiveness",
         "support_resolution_quality"
       ]
-    },
-    {
-      "review_id": "574ae065-3de5-4b63-a914-d33704b8fcba",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2026-05-26T16:14:01",
-      "text": "very disappointed with band keeps coming off, accuracy of readings and information display, compared to Garmin which is free.",
-      "subcategory_tags": [
-        "strap_clasp_durability",
-        "metric_accuracy",
-        "price_value_perception"
-      ]
     }
   ],
   "strap_clasp_durability": [
+    {
+      "review_id": "14473197727",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-08-25T23:51:59-07:00",
+      "text": "I was very satisfied except for the very frequent crashes when you try to move exercises around on a workout plan. After about 4 months, my whoop band stopped working after a short swim (it’s supposed to be waterproof). I asked for help and got AI help, when I told the AI agent what I had attempted to do, followed the new recommendations only to get another AI email giving more recommendations that clearly do not address the fact that its stopped working after going into the water.",
+      "subcategory_tags": [
+        "crashes_freezes",
+        "strap_clasp_durability",
+        "ai_only_support_channel",
+        "support_resolution_quality"
+      ]
+    },
     {
       "review_id": "cd8c772f-bb7e-4389-bd12-54abfede2c48",
       "source": "google_play",
@@ -3786,17 +3800,6 @@
         "missing_metrics",
         "strap_clasp_durability",
         "battery_life"
-      ]
-    },
-    {
-      "review_id": "f1db36df-8d8b-4555-a445-5434dcad0741",
-      "source": "google_play",
-      "rating": 2,
-      "date": "2020-08-18T03:30:49",
-      "text": "Talk about maintenance issues. \"Didn't register sleep\" is insanely common. I'm quite sure my whoop strap 3.0 is deteriorating and malfunctioning along with the software. Neat idea, but unnecessary that they track all your locations, internet search history, and all the contents of your phone including pictures, emails, texts, phone calls etc.",
-      "subcategory_tags": [
-        "sleep_accuracy",
-        "strap_clasp_durability"
       ]
     }
   ],
@@ -8020,6 +8023,16 @@
   ],
   "ai_coach": [
     {
+      "review_id": "14471190075",
+      "source": "app_store",
+      "rating": 4,
+      "date": "2026-08-25T10:39:00-07:00",
+      "text": "It’s great does a good job, but I wish the AI was a little more aware on my workouts and plans we discussed and executed together. Kind of just does its own unless I remind it. Other than that it’s good",
+      "subcategory_tags": [
+        "ai_reliability_bugs"
+      ]
+    },
+    {
       "review_id": "2955ad1b-6478-4de9-9ffd-6abee47d43e6",
       "source": "google_play",
       "rating": 2,
@@ -8356,20 +8369,19 @@
       "subcategory_tags": [
         "ai_positive_reception"
       ]
-    },
-    {
-      "review_id": "14358521151",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-07-28T07:01:55-07:00",
-      "text": "The AI assistant keeps pinging you and incorrectly reads its own data. It consistently contradicts itself. Additionally, the sleep metrics can just ruin your day even if you’re feeling fine.",
-      "subcategory_tags": [
-        "ai_reliability_bugs",
-        "sleep_accuracy"
-      ]
     }
   ],
   "ai_reliability_bugs": [
+    {
+      "review_id": "14471190075",
+      "source": "app_store",
+      "rating": 4,
+      "date": "2026-08-25T10:39:00-07:00",
+      "text": "It’s great does a good job, but I wish the AI was a little more aware on my workouts and plans we discussed and executed together. Kind of just does its own unless I remind it. Other than that it’s good",
+      "subcategory_tags": [
+        "ai_reliability_bugs"
+      ]
+    },
     {
       "review_id": "2955ad1b-6478-4de9-9ffd-6abee47d43e6",
       "source": "google_play",
@@ -8708,17 +8720,6 @@
         "metric_accuracy",
         "activity_detection",
         "support_resolution_quality"
-      ]
-    },
-    {
-      "review_id": "14182191121",
-      "source": "app_store",
-      "rating": 4,
-      "date": "2026-06-14T08:38:17-07:00",
-      "text": "Love that this keeps track of my data, and integrates with other things (like my scale). But the AI is terrible – prone to hallucinations that it claims are based on the data, but which aren’t.",
-      "subcategory_tags": [
-        "third_party_integration",
-        "ai_reliability_bugs"
       ]
     }
   ],
@@ -9339,6 +9340,19 @@
   ],
   "customer_support": [
     {
+      "review_id": "14473197727",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-08-25T23:51:59-07:00",
+      "text": "I was very satisfied except for the very frequent crashes when you try to move exercises around on a workout plan. After about 4 months, my whoop band stopped working after a short swim (it’s supposed to be waterproof). I asked for help and got AI help, when I told the AI agent what I had attempted to do, followed the new recommendations only to get another AI email giving more recommendations that clearly do not address the fact that its stopped working after going into the water.",
+      "subcategory_tags": [
+        "crashes_freezes",
+        "strap_clasp_durability",
+        "ai_only_support_channel",
+        "support_resolution_quality"
+      ]
+    },
+    {
       "review_id": "14467695272",
       "source": "app_store",
       "rating": 1,
@@ -9677,21 +9691,6 @@
       "subcategory_tags": [
         "support_responsiveness",
         "support_resolution_quality"
-      ]
-    },
-    {
-      "review_id": "14231860837",
-      "source": "app_store",
-      "rating": 2,
-      "date": "2026-06-27T01:00:39-07:00",
-      "text": "WHOOP started out as an amazing product. The sensor is small, thin, comfortable, and easy to forget you’re even wearing it.\n\nUnfortunately, over the past two and a half years, the experience has steadily declined. I’ve had five sensor failures, worsening battery life, repeated connection issues with the app, and persistent software problems that support has been unable to resolve.\n\nFor a premium annual subscription, I expected premium hardware and customer support. Unfortunately, neither has met that expectation.\n\nIt’s a shame to see what Will Ahmed built come to this. I expected much more from WHOOP.",
-      "subcategory_tags": [
-        "build_quality_perception",
-        "battery_life",
-        "ongoing_disconnects",
-        "crashes_freezes",
-        "support_resolution_quality",
-        "price_value_perception"
       ]
     }
   ],
@@ -10059,6 +10058,19 @@
   ],
   "support_resolution_quality": [
     {
+      "review_id": "14473197727",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-08-25T23:51:59-07:00",
+      "text": "I was very satisfied except for the very frequent crashes when you try to move exercises around on a workout plan. After about 4 months, my whoop band stopped working after a short swim (it’s supposed to be waterproof). I asked for help and got AI help, when I told the AI agent what I had attempted to do, followed the new recommendations only to get another AI email giving more recommendations that clearly do not address the fact that its stopped working after going into the water.",
+      "subcategory_tags": [
+        "crashes_freezes",
+        "strap_clasp_durability",
+        "ai_only_support_channel",
+        "support_resolution_quality"
+      ]
+    },
+    {
       "review_id": "14467695272",
       "source": "app_store",
       "rating": 1,
@@ -10401,20 +10413,22 @@
         "data_sync_delays",
         "price_value_perception"
       ]
-    },
-    {
-      "review_id": "14097358160",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-05-23T09:25:32-07:00",
-      "text": "I’m actually a whoop fan, but the AI Coach/Chat feature does not work on the Home Screen. I receive this message: “Whoop was unable to generate a response to your message. Please try again.” I’ve reached out to Whoop support twice and they were unhelpful both times. I found a workaround by accessing the chat on other pages in the app, but it doesn’t work from the Home Screen. I’ll update this review if/when the problem is fixed.",
-      "subcategory_tags": [
-        "ai_reliability_bugs",
-        "support_resolution_quality"
-      ]
     }
   ],
   "ai_only_support_channel": [
+    {
+      "review_id": "14473197727",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-08-25T23:51:59-07:00",
+      "text": "I was very satisfied except for the very frequent crashes when you try to move exercises around on a workout plan. After about 4 months, my whoop band stopped working after a short swim (it’s supposed to be waterproof). I asked for help and got AI help, when I told the AI agent what I had attempted to do, followed the new recommendations only to get another AI email giving more recommendations that clearly do not address the fact that its stopped working after going into the water.",
+      "subcategory_tags": [
+        "crashes_freezes",
+        "strap_clasp_durability",
+        "ai_only_support_channel",
+        "support_resolution_quality"
+      ]
+    },
     {
       "review_id": "6f0bda1f-76a7-4117-8db4-a124e1713abb",
       "source": "google_play",
@@ -10773,19 +10787,6 @@
         "ai_only_support_channel",
         "billing_disputes"
       ]
-    },
-    {
-      "review_id": "a419d66d-3400-4fe0-82bf-df3ca2566139",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2025-12-01T20:29:24",
-      "text": "I jave a problem with time zone in Kazakhstan. App doesn't see fully GMT+5. Some bug. Because of it alarm works incorrectly and some other functions. Had a beatiful conversation with support wich concist of AI for about 90%. Reveived just one message from a human. She said that MAYBE it will be solved in future updates of the app. Nice solution, thank you. Here is my rating for your customer support for the annual $240 subscription guys. So be aware people.",
-      "subcategory_tags": [
-        "sleep_alarm_ui",
-        "ai_only_support_channel",
-        "support_resolution_quality",
-        "price_value_perception"
-      ]
     }
   ],
   "support_satisfaction": [
@@ -11114,6 +11115,19 @@
   ],
   "app_stability": [
     {
+      "review_id": "14473197727",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-08-25T23:51:59-07:00",
+      "text": "I was very satisfied except for the very frequent crashes when you try to move exercises around on a workout plan. After about 4 months, my whoop band stopped working after a short swim (it’s supposed to be waterproof). I asked for help and got AI help, when I told the AI agent what I had attempted to do, followed the new recommendations only to get another AI email giving more recommendations that clearly do not address the fact that its stopped working after going into the water.",
+      "subcategory_tags": [
+        "crashes_freezes",
+        "strap_clasp_durability",
+        "ai_only_support_channel",
+        "support_resolution_quality"
+      ]
+    },
+    {
       "review_id": "14464977000",
       "source": "app_store",
       "rating": 1,
@@ -11441,20 +11455,22 @@
         "price_value_perception",
         "billing_disputes"
       ]
-    },
-    {
-      "review_id": "14162385333",
-      "source": "app_store",
-      "rating": 2,
-      "date": "2026-06-09T07:22:09-07:00",
-      "text": "The app is very glitchy for how expensive this device is…",
-      "subcategory_tags": [
-        "crashes_freezes",
-        "price_value_perception"
-      ]
     }
   ],
   "crashes_freezes": [
+    {
+      "review_id": "14473197727",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-08-25T23:51:59-07:00",
+      "text": "I was very satisfied except for the very frequent crashes when you try to move exercises around on a workout plan. After about 4 months, my whoop band stopped working after a short swim (it’s supposed to be waterproof). I asked for help and got AI help, when I told the AI agent what I had attempted to do, followed the new recommendations only to get another AI email giving more recommendations that clearly do not address the fact that its stopped working after going into the water.",
+      "subcategory_tags": [
+        "crashes_freezes",
+        "strap_clasp_durability",
+        "ai_only_support_channel",
+        "support_resolution_quality"
+      ]
+    },
     {
       "review_id": "14464977000",
       "source": "app_store",
@@ -11784,20 +11800,6 @@
         "crashes_freezes",
         "support_responsiveness",
         "billing_disputes",
-        "price_value_perception"
-      ]
-    },
-    {
-      "review_id": "14119329535",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-05-29T05:48:44-07:00",
-      "text": "I recently got this device, it’s been 47 days. Since day 1: I have been unable to access the health page. I am on a 17 pro and the moment I open the health tab and slide down, it crashes. The app becomes unresponsive. I have emailed whoop several times about it, to only get AI responses telling me they cannot cancel my membership as it is past the 30 day trial. I only saw past the 30 day trial cause a representative said they are working on it. Now I can only get in contact with an AI. I can’t look at any of my data, use the coach feature, use the blood pressure feature (the reason I got the higher end model).\n\nThis product is a scam wrapped in a health band. Would much prefer Apple Watch or garmin where I can actually access the data I am paying for. \n\nIf a human being is reading this, please reach out to me on my email for a solution.",
-      "subcategory_tags": [
-        "crashes_freezes",
-        "ai_only_support_channel",
-        "billing_disputes",
-        "ecg_bp_feature_reliability",
         "price_value_perception"
       ]
     }
@@ -12147,6 +12149,16 @@
   ],
   "ui_ux": [
     {
+      "review_id": "14471561674",
+      "source": "app_store",
+      "rating": 3,
+      "date": "2026-08-25T12:46:38-07:00",
+      "text": "The calendar view is not responsive on mainstream models",
+      "subcategory_tags": [
+        "device_rendering_bugs"
+      ]
+    },
+    {
       "review_id": "3330561f-d9b7-438c-bfdc-30822753515e",
       "source": "google_play",
       "rating": 1,
@@ -12476,17 +12488,6 @@
       "text": "Slide bar diffucult to select times when trying to fill out journal. Please make slide bar easier to shift, times clear to read. Or allow manual time entry.",
       "subcategory_tags": [
         "feature_ui_friction"
-      ]
-    },
-    {
-      "review_id": "14297631430",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-07-13T04:02:22-07:00",
-      "text": "They have an awful ai coach that you can’t turn off. It sends you pointless notifications all the time that make the experience so annoying. I’m getting rid of jt",
-      "subcategory_tags": [
-        "ai_autonomy",
-        "notification_community_issues"
       ]
     }
   ],
@@ -12847,6 +12848,16 @@
   ],
   "device_rendering_bugs": [
     {
+      "review_id": "14471561674",
+      "source": "app_store",
+      "rating": 3,
+      "date": "2026-08-25T12:46:38-07:00",
+      "text": "The calendar view is not responsive on mainstream models",
+      "subcategory_tags": [
+        "device_rendering_bugs"
+      ]
+    },
+    {
       "review_id": "14431332246",
       "source": "app_store",
       "rating": 3,
@@ -13159,18 +13170,6 @@
       "subcategory_tags": [
         "device_rendering_bugs",
         "price_value_perception"
-      ]
-    },
-    {
-      "review_id": "24520bd0-3d35-4fb3-a0e5-337cba73a93c",
-      "source": "google_play",
-      "rating": 3,
-      "date": "2023-11-08T07:02:04",
-      "text": "This whole whoop thing is really helpful and as I see it, the future. It really helps your overall health with statistics and algorithms. The app feels not quite finished yet ... On android, you are not able to change the language. Some articles are not available. The stress-monitor is not viewable in horizontal mode, which is pretty sad. But overall, I really like the concept. There is a lot of work behind that. Thank you!",
-      "subcategory_tags": [
-        "missing_language_support",
-        "android_feature_gaps",
-        "device_rendering_bugs"
       ]
     }
   ],
