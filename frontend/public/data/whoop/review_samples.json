@@ -1,6 +1,17 @@
 {
   "pricing_billing": [
     {
+      "review_id": "aa2b9bb7-594f-4a3b-ae34-b8cabeb744b5",
+      "source": "google_play",
+      "rating": 4,
+      "date": "2026-08-27T16:11:16+00:00",
+      "text": "Fix the wonky step counting for 5 stars. I walk the exact same path multiple times daily. Each time the step count will vary between 200 and 400 steps. Example, 2,800 steps v. 3,200 steps. In contrast, my Fitbit step counts are within 100 steps each walk. Makes me consider the Fitbit Air",
+      "subcategory_tags": [
+        "metric_accuracy",
+        "price_value_perception"
+      ]
+    },
+    {
       "review_id": "14467695272",
       "source": "app_store",
       "rating": 1,
@@ -332,21 +343,20 @@
         "billing_disputes",
         "ai_reliability_bugs"
       ]
-    },
-    {
-      "review_id": "14396240070",
-      "source": "app_store",
-      "rating": 3,
-      "date": "2026-08-06T12:57:59-07:00",
-      "text": "Here’s the thing I’m looking for this to provide me with information regarding blood pressure, heartbeat, sleep, etc. nothing overly complicated. They have four categories in the app 1000 advertisements. Every other thing on the app is trying to sell you a service or an add-on. to be clear I’m only giving my thoughts here on the app itself. This is overly convoluted. I’ll round back up to this after the first 30 days once I’ve opened Healthspan and compare the numbers to my Apple Watch. To be fair, I actually had a conversation with my cardiologist. Not familiar whoop nor do they have a feeling one way or the other about it. So they’re curious.. I’m not sure MG for medical grade necessarily means anything beyond Marketing. I’m cautiously optimistic.",
-      "subcategory_tags": [
-        "upsell_pressure",
-        "ecg_bp_feature_reliability",
-        "metric_accuracy"
-      ]
     }
   ],
   "price_value_perception": [
+    {
+      "review_id": "aa2b9bb7-594f-4a3b-ae34-b8cabeb744b5",
+      "source": "google_play",
+      "rating": 4,
+      "date": "2026-08-27T16:11:16+00:00",
+      "text": "Fix the wonky step counting for 5 stars. I walk the exact same path multiple times daily. Each time the step count will vary between 200 and 400 steps. Example, 2,800 steps v. 3,200 steps. In contrast, my Fitbit step counts are within 100 steps each walk. Makes me consider the Fitbit Air",
+      "subcategory_tags": [
+        "metric_accuracy",
+        "price_value_perception"
+      ]
+    },
     {
       "review_id": "14466799494",
       "source": "app_store",
@@ -683,17 +693,6 @@
         "notification_community_issues",
         "feature_ui_friction",
         "price_value_perception"
-      ]
-    },
-    {
-      "review_id": "791c8c89-d7d6-4c48-94bf-8d52f87a7de7",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2026-07-30T20:22:32",
-      "text": "As expensive as this subscription is, you'd think the app would be perfect. well, I've complained directly, and it still hasn't been fixed. The journal, which seems pretty important to the functionality, has these godawful, heinous sliders to record time of day. Every freaking time I try to record a time, it will just slide right off my intended time by 30min. Want to record 9am? Too bad! You can only record 8:30 or 9:30. It makes me so ridiculously irritated every night when I try to journal.",
-      "subcategory_tags": [
-        "price_value_perception",
-        "feature_ui_friction"
       ]
     }
   ],
@@ -6206,6 +6205,27 @@
   ],
   "data_accuracy": [
     {
+      "review_id": "aa2b9bb7-594f-4a3b-ae34-b8cabeb744b5",
+      "source": "google_play",
+      "rating": 4,
+      "date": "2026-08-27T16:11:16+00:00",
+      "text": "Fix the wonky step counting for 5 stars. I walk the exact same path multiple times daily. Each time the step count will vary between 200 and 400 steps. Example, 2,800 steps v. 3,200 steps. In contrast, my Fitbit step counts are within 100 steps each walk. Makes me consider the Fitbit Air",
+      "subcategory_tags": [
+        "metric_accuracy",
+        "price_value_perception"
+      ]
+    },
+    {
+      "review_id": "c88b2698-043d-4761-98da-7a2152f8e091",
+      "source": "google_play",
+      "rating": 3,
+      "date": "2026-08-27T11:41:18+00:00",
+      "text": "I love the app, but now they have changed the algorithm, and a 40 minute walk results in ZERO strain. It used to be around 4.5. Either you were lying before, or you are lying now. Zero strain should be me sitting on my couch watching Netflix.",
+      "subcategory_tags": [
+        "metric_accuracy"
+      ]
+    },
+    {
       "review_id": "14464669627",
       "source": "app_store",
       "rating": 4,
@@ -6535,33 +6555,30 @@
       "subcategory_tags": [
         "metric_accuracy"
       ]
-    },
-    {
-      "review_id": "14350257084",
-      "source": "app_store",
-      "rating": 5,
-      "date": "2026-07-26T06:00:06-07:00",
-      "text": "Prior to using WHOOP my average hours sleep was just under 5.5 hrs down from prior  year of just under 6 hrs per night since using WHOOP, my average hours per night is over 7.5 hrs. It has educated and improved my health by bringing metrics like HRV and accurate RHR as well as many others. It has assisted in my training to improve cardiovascular and body comp to address recently diagnosed sarcoidosis. I am healthier for using it and better informed with information and questioning its AI.",
-      "subcategory_tags": [
-        "sleep_satisfaction",
-        "metric_accuracy",
-        "ai_positive_reception"
-      ]
-    },
-    {
-      "review_id": "14335307574",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-07-22T11:00:08-07:00",
-      "text": "It’s cool to see the tracking for like simple workouts and jogs, but if you do intense physical contact sports like mma it does a horrible job of tracking your stats. I have had multiple sessions where it just gives me a blank time period when I’m working out and it’s very frustrating. Sometimes it works but it’s very in consistent. Also the price is so much for something so simple. Buying an Apple Watch is the same thing but no subscription.",
-      "subcategory_tags": [
-        "activity_detection",
-        "personalization_use_case_fit",
-        "price_value_perception"
-      ]
     }
   ],
   "metric_accuracy": [
+    {
+      "review_id": "aa2b9bb7-594f-4a3b-ae34-b8cabeb744b5",
+      "source": "google_play",
+      "rating": 4,
+      "date": "2026-08-27T16:11:16+00:00",
+      "text": "Fix the wonky step counting for 5 stars. I walk the exact same path multiple times daily. Each time the step count will vary between 200 and 400 steps. Example, 2,800 steps v. 3,200 steps. In contrast, my Fitbit step counts are within 100 steps each walk. Makes me consider the Fitbit Air",
+      "subcategory_tags": [
+        "metric_accuracy",
+        "price_value_perception"
+      ]
+    },
+    {
+      "review_id": "c88b2698-043d-4761-98da-7a2152f8e091",
+      "source": "google_play",
+      "rating": 3,
+      "date": "2026-08-27T11:41:18+00:00",
+      "text": "I love the app, but now they have changed the algorithm, and a 40 minute walk results in ZERO strain. It used to be around 4.5. Either you were lying before, or you are lying now. Zero strain should be me sitting on my couch watching Netflix.",
+      "subcategory_tags": [
+        "metric_accuracy"
+      ]
+    },
     {
       "review_id": "3b2df189-fe72-4d0c-bfd7-9e7dd77b91e7",
       "source": "google_play",
@@ -6887,29 +6904,6 @@
         "metric_accuracy",
         "sleep_satisfaction",
         "price_value_perception"
-      ]
-    },
-    {
-      "review_id": "8534a186-8931-4076-87e1-6c06b28dfa3c",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2026-06-29T09:16:47",
-      "text": "The whoop never picks up on any naps I take, whereas my fitbit would pick up on a 30 minute nap everytime. I got this for free with my chase card, and even for free it sucks, cant justify how anyone is paying $30 a month for this. The data is pretty self explanatory. Bad night of sleep = low recovery score. Dont need a graph to show me that I'm tired after a poor night of sleep.",
-      "subcategory_tags": [
-        "sleep_accuracy",
-        "price_value_perception",
-        "metric_accuracy"
-      ]
-    },
-    {
-      "review_id": "14233682537",
-      "source": "app_store",
-      "rating": 3,
-      "date": "2026-06-27T10:46:26-07:00",
-      "text": "Between Msgs to go to sleep by 9 pm, and no matter what I do, my recovery never gets above 60% even though I wake rested and feel great.",
-      "subcategory_tags": [
-        "metric_accuracy",
-        "personalization_use_case_fit"
       ]
     }
   ],
