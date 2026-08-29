@@ -1,6 +1,17 @@
 {
   "pricing_billing": [
     {
+      "review_id": "c168f7e5-9c80-445b-9529-14e2c38df90f",
+      "source": "google_play",
+      "rating": 2,
+      "date": "2026-08-28T01:07:40+00:00",
+      "text": "has good info but they force all this garbage into the app promoting their paid services that most people don't want and definitely don't want to see in the app. the company is very focused on extracting every dollar from its base instead of focusing on the best user experience they can. I will not be renewing. their product is good but their model is severely flawed. stop forcing your garbage on us and allow to hide all of those services.",
+      "subcategory_tags": [
+        "upsell_pressure",
+        "price_value_perception"
+      ]
+    },
+    {
       "review_id": "aa2b9bb7-594f-4a3b-ae34-b8cabeb744b5",
       "source": "google_play",
       "rating": 4,
@@ -331,21 +342,20 @@
       "subcategory_tags": [
         "billing_disputes"
       ]
-    },
-    {
-      "review_id": "14398184389",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-08-07T02:01:26-07:00",
-      "text": "This device continues to miss my sleep even though it is placed correctly, and charged how it should be. I have had it replaced and changed the strap. I made the mistake of paying for a year… and they will not refund me. I will not do that again. Also the AI feature is generic and unhelpful. It doesn’t even notice that the data isn’t accurate.",
-      "subcategory_tags": [
-        "sleep_accuracy",
-        "billing_disputes",
-        "ai_reliability_bugs"
-      ]
     }
   ],
   "price_value_perception": [
+    {
+      "review_id": "c168f7e5-9c80-445b-9529-14e2c38df90f",
+      "source": "google_play",
+      "rating": 2,
+      "date": "2026-08-28T01:07:40+00:00",
+      "text": "has good info but they force all this garbage into the app promoting their paid services that most people don't want and definitely don't want to see in the app. the company is very focused on extracting every dollar from its base instead of focusing on the best user experience they can. I will not be renewing. their product is good but their model is severely flawed. stop forcing your garbage on us and allow to hide all of those services.",
+      "subcategory_tags": [
+        "upsell_pressure",
+        "price_value_perception"
+      ]
+    },
     {
       "review_id": "aa2b9bb7-594f-4a3b-ae34-b8cabeb744b5",
       "source": "google_play",
@@ -679,19 +689,6 @@
       "text": "Second year in a row I get auto renewed. CC just charged hours ago, but impossible to get a refund. Cancel membership is hidden on their website I didn’t know existed. Sigh.",
       "subcategory_tags": [
         "billing_disputes",
-        "price_value_perception"
-      ]
-    },
-    {
-      "review_id": "14368029216",
-      "source": "app_store",
-      "rating": 3,
-      "date": "2026-07-30T14:20:50-07:00",
-      "text": "For a product of this price, the app experience should be polished. Firstly, clicking on the AI chat does not automatically bring you to the top of the conversation which is annoying if you use it frequently. Secondly, I consistently see the \"couldn't load notifications\" tile whenever I try to refresh on the homepage. Thirdly, the chat window and pill block the ability to metric explainers. \n\nThese don't break the UX but they do add friction to using this app daily.",
-      "subcategory_tags": [
-        "ai_reliability_bugs",
-        "notification_community_issues",
-        "feature_ui_friction",
         "price_value_perception"
       ]
     }
@@ -1382,6 +1379,17 @@
   ],
   "upsell_pressure": [
     {
+      "review_id": "c168f7e5-9c80-445b-9529-14e2c38df90f",
+      "source": "google_play",
+      "rating": 2,
+      "date": "2026-08-28T01:07:40+00:00",
+      "text": "has good info but they force all this garbage into the app promoting their paid services that most people don't want and definitely don't want to see in the app. the company is very focused on extracting every dollar from its base instead of focusing on the best user experience they can. I will not be renewing. their product is good but their model is severely flawed. stop forcing your garbage on us and allow to hide all of those services.",
+      "subcategory_tags": [
+        "upsell_pressure",
+        "price_value_perception"
+      ]
+    },
+    {
       "review_id": "14396240070",
       "source": "app_store",
       "rating": 3,
@@ -1713,20 +1721,6 @@
         "upsell_pressure",
         "price_value_perception",
         "data_sync_delays"
-      ]
-    },
-    {
-      "review_id": "13551987025",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2025-12-24T20:02:22-07:00",
-      "text": "The app prioritizes trying to make me share “free trials” and then the shop and monetization. Kind of a bummer for something this expensive and personalized… just bad product leadership. \n\nI can’t seem to customize the home screen to see heart rate (seems like something core, over selling me stuff)… despite the ai engine continuing to tell me there are pencils or customization buttons that actually aren’t there in my version. Again, just seems like bad product management. Our family are not loving it thru day 1.",
-      "subcategory_tags": [
-        "upsell_pressure",
-        "price_value_perception",
-        "missing_metrics",
-        "ai_reliability_bugs",
-        "redesign_regression"
       ]
     }
   ],
