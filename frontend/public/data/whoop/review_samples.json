@@ -12137,6 +12137,16 @@
   ],
   "ui_ux": [
     {
+      "review_id": "05662742-39f3-4ec7-8315-f2bc46ac37dd",
+      "source": "google_play",
+      "rating": 4,
+      "date": "2026-08-29T13:54:22+00:00",
+      "text": "add search option on Start Activities",
+      "subcategory_tags": [
+        "feature_ui_friction"
+      ]
+    },
+    {
       "review_id": "14471561674",
       "source": "app_store",
       "rating": 3,
@@ -12465,16 +12475,6 @@
       "subcategory_tags": [
         "sleep_satisfaction",
         "ai_positive_reception",
-        "feature_ui_friction"
-      ]
-    },
-    {
-      "review_id": "5ff6d519-0938-4c51-aed7-d38a0c3f1f94",
-      "source": "google_play",
-      "rating": 3,
-      "date": "2026-07-14T17:48:45",
-      "text": "Slide bar diffucult to select times when trying to fill out journal. Please make slide bar easier to shift, times clear to read. Or allow manual time entry.",
-      "subcategory_tags": [
         "feature_ui_friction"
       ]
     }
@@ -13163,6 +13163,16 @@
   ],
   "feature_ui_friction": [
     {
+      "review_id": "05662742-39f3-4ec7-8315-f2bc46ac37dd",
+      "source": "google_play",
+      "rating": 4,
+      "date": "2026-08-29T13:54:22+00:00",
+      "text": "add search option on Start Activities",
+      "subcategory_tags": [
+        "feature_ui_friction"
+      ]
+    },
+    {
       "review_id": "3330561f-d9b7-438c-bfdc-30822753515e",
       "source": "google_play",
       "rating": 1,
@@ -13491,17 +13501,6 @@
       "date": "2026-06-04T04:46:30-07:00",
       "text": "When click “whoop is off body” notification, it should deep link to find my whoop button. On click button, whoop should vibrate",
       "subcategory_tags": [
-        "feature_ui_friction"
-      ]
-    },
-    {
-      "review_id": "be161492-0ce8-429b-8813-1a4fe0851567",
-      "source": "google_play",
-      "rating": 2,
-      "date": "2026-05-22T08:03:53",
-      "text": "Great wearable if you can stand the app! It no joke to say that Whoop changed my life for the healthier. I get better sleep, I drink less, and I would get even more out of it if I didn't hate using the app on a regular basis. There are several major usability concerns that have yet to be fixed. Orientation Detection: the app loves to flip you sideways into the detailed heart rate view, expect when you're trying to use it. Time entry is slow and error prone. Journal is not suited to touchscreen.",
-      "subcategory_tags": [
-        "sleep_satisfaction",
         "feature_ui_friction"
       ]
     }

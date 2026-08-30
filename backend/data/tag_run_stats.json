@@ -1,8 +1,8 @@
 {
-  "total_reviews": 3461,
+  "total_reviews": 3462,
   "newly_tagged_this_run": 1,
-  "carried_over_this_run": 3460,
-  "tagged_ok": 3461,
+  "carried_over_this_run": 3461,
+  "tagged_ok": 3462,
   "failed": 0,
   "coverage_pct_this_run": 100.0,
   "invalid_subcategory_ids_dropped": 0,
@@ -15,7 +15,7 @@
   ],
   "other_ungrouped_out_of_reference_range": true,
   "multi_label_count": 1693,
-  "multi_label_rate": 0.4892,
+  "multi_label_rate": 0.489,
   "multi_label_reference_range": [
     0.35,
     0.4
