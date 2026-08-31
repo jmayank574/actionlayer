@@ -1,6 +1,17 @@
 {
   "pricing_billing": [
     {
+      "review_id": "1db8e294-c1b7-459d-ae38-06d53b7cb88a",
+      "source": "google_play",
+      "rating": 5,
+      "date": "2026-08-30T05:39:43+00:00",
+      "text": "it's good, however Whoop is expensive, they will have to offer more given the competitors which are cheaper and also good. I'd like to see a dynamic calorie deficit number adjusted to your weight goal, Huawei watches offer it with a native app called \"Stay fit\" and I love it, if Whoop offers it I won't have a need to wear a watch anymore",
+      "subcategory_tags": [
+        "price_value_perception",
+        "missing_metrics"
+      ]
+    },
+    {
       "review_id": "c168f7e5-9c80-445b-9529-14e2c38df90f",
       "source": "google_play",
       "rating": 2,
@@ -332,19 +343,20 @@
         "support_responsiveness",
         "price_value_perception"
       ]
-    },
-    {
-      "review_id": "14398643236",
-      "source": "app_store",
-      "rating": 3,
-      "date": "2026-08-07T04:53:22-07:00",
-      "text": "I hate it when apps make it extremely hard to find the cancel button. This one was particularly bad which is why I gave 3 stars. The app itself was fine while I was using it.",
-      "subcategory_tags": [
-        "billing_disputes"
-      ]
     }
   ],
   "price_value_perception": [
+    {
+      "review_id": "1db8e294-c1b7-459d-ae38-06d53b7cb88a",
+      "source": "google_play",
+      "rating": 5,
+      "date": "2026-08-30T05:39:43+00:00",
+      "text": "it's good, however Whoop is expensive, they will have to offer more given the competitors which are cheaper and also good. I'd like to see a dynamic calorie deficit number adjusted to your weight goal, Huawei watches offer it with a native app called \"Stay fit\" and I love it, if Whoop offers it I won't have a need to wear a watch anymore",
+      "subcategory_tags": [
+        "price_value_perception",
+        "missing_metrics"
+      ]
+    },
     {
       "review_id": "c168f7e5-9c80-445b-9529-14e2c38df90f",
       "source": "google_play",
@@ -678,17 +690,6 @@
       "subcategory_tags": [
         "billing_disputes",
         "ai_only_support_channel",
-        "price_value_perception"
-      ]
-    },
-    {
-      "review_id": "14370486198",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-07-31T05:56:28-07:00",
-      "text": "Second year in a row I get auto renewed. CC just charged hours ago, but impossible to get a refund. Cancel membership is hidden on their website I didn’t know existed. Sigh.",
-      "subcategory_tags": [
-        "billing_disputes",
         "price_value_perception"
       ]
     }
@@ -15562,6 +15563,17 @@
   ],
   "feature_requests": [
     {
+      "review_id": "1db8e294-c1b7-459d-ae38-06d53b7cb88a",
+      "source": "google_play",
+      "rating": 5,
+      "date": "2026-08-30T05:39:43+00:00",
+      "text": "it's good, however Whoop is expensive, they will have to offer more given the competitors which are cheaper and also good. I'd like to see a dynamic calorie deficit number adjusted to your weight goal, Huawei watches offer it with a native app called \"Stay fit\" and I love it, if Whoop offers it I won't have a need to wear a watch anymore",
+      "subcategory_tags": [
+        "price_value_perception",
+        "missing_metrics"
+      ]
+    },
+    {
       "review_id": "14458161635",
       "source": "app_store",
       "rating": 5,
@@ -15886,17 +15898,6 @@
       "date": "2026-07-28T09:31:44-07:00",
       "text": "I’ve been a Type 1 Diabetic for 19+ years and I’ve always been curious and focused on my health in all aspects. Whoop gives me answers, helps me stay on track and gives me metrics I can understand. If you are looking to improve your health, sleep, stress and state of mind.. Whoop is the answer!",
       "subcategory_tags": [
-        "personalization_use_case_fit"
-      ]
-    },
-    {
-      "review_id": "14350986677",
-      "source": "app_store",
-      "rating": 5,
-      "date": "2026-07-26T09:35:25-07:00",
-      "text": "I’m not a bug athelete but for me Whoop is a health coach. My recovery score usually confirms when I’m sick and this helps me listen to my body more. Sleep detection is super accurate.",
-      "subcategory_tags": [
-        "sleep_satisfaction",
         "personalization_use_case_fit"
       ]
     }
@@ -16239,6 +16240,17 @@
   ],
   "missing_metrics": [
     {
+      "review_id": "1db8e294-c1b7-459d-ae38-06d53b7cb88a",
+      "source": "google_play",
+      "rating": 5,
+      "date": "2026-08-30T05:39:43+00:00",
+      "text": "it's good, however Whoop is expensive, they will have to offer more given the competitors which are cheaper and also good. I'd like to see a dynamic calorie deficit number adjusted to your weight goal, Huawei watches offer it with a native app called \"Stay fit\" and I love it, if Whoop offers it I won't have a need to wear a watch anymore",
+      "subcategory_tags": [
+        "price_value_perception",
+        "missing_metrics"
+      ]
+    },
+    {
       "review_id": "14458161635",
       "source": "app_store",
       "rating": 5,
@@ -16559,16 +16571,6 @@
       "rating": 5,
       "date": "2026-06-12T03:49:05",
       "text": "I wish I could add my own parameters to the journal",
-      "subcategory_tags": [
-        "missing_metrics"
-      ]
-    },
-    {
-      "review_id": "14167997703",
-      "source": "app_store",
-      "rating": 3,
-      "date": "2026-06-10T17:21:52-07:00",
-      "text": "I can’t believe this oversight hasn’t been fixed since it was made a few versions ago.\n\nI’ve used behavior logging to help me improve my habits, and the trailing 90 days yes or no counts for each helped to keep me accountable. For example, I tried to keep my drinking days in the teens for every trailing 90 days, and it made a huge difference.\n\nWhoop changed this so now it comes the remaining days of the current months as “not logged.” It’s the least helpful information to know that I haven’t logged my behaviors for the following x days of the month in the future. And it’s completely broken the trailing 90 day accountability strategy.\n\nFix this now please!",
       "subcategory_tags": [
         "missing_metrics"
       ]
