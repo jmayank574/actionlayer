@@ -1727,6 +1727,16 @@
   ],
   "sleep_tracking": [
     {
+      "review_id": "14489517148",
+      "source": "app_store",
+      "rating": 5,
+      "date": "2026-08-30T04:19:49-07:00",
+      "text": "I’ve been using WHOOP for a while now, and it has completely changed the way I understand my body and approach my daily routine. I love being able to see how my sleep, recovery, stress, and training all connect.\n\nWhat I appreciate most is that it’s not just about tracking workouts—it helps me make smarter decisions about when to push harder and when my body needs more recovery. The insights have made me much more intentional with my habits, sleep, and overall performance.\n\nIf you’re someone who is serious about improving your fitness, recovery, and overall lifestyle, WHOOP is absolutely worth it. It has become part of my everyday routine, and I genuinely love having real data to help me understand my progress.\n\nHighly recommend! ⭐️⭐️⭐️⭐️⭐️",
+      "subcategory_tags": [
+        "sleep_satisfaction"
+      ]
+    },
+    {
       "review_id": "14466799494",
       "source": "app_store",
       "rating": 1,
@@ -2046,17 +2056,6 @@
       "text": "The device has significantly helped me manage my sleep quality , along with using sleep hygiene and it has helped  me monitor my heart rate during jogging. I do recommend to it friends",
       "subcategory_tags": [
         "sleep_satisfaction",
-        "metric_accuracy"
-      ]
-    },
-    {
-      "review_id": "14385199016",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-08-03T20:04:21-07:00",
-      "text": "Inaccurate readings. Doesn’t recognize and process sleep accurately. Heart rate is hit or miss during a workout.",
-      "subcategory_tags": [
-        "sleep_accuracy",
         "metric_accuracy"
       ]
     }
@@ -2426,6 +2425,16 @@
   ],
   "sleep_satisfaction": [
     {
+      "review_id": "14489517148",
+      "source": "app_store",
+      "rating": 5,
+      "date": "2026-08-30T04:19:49-07:00",
+      "text": "I’ve been using WHOOP for a while now, and it has completely changed the way I understand my body and approach my daily routine. I love being able to see how my sleep, recovery, stress, and training all connect.\n\nWhat I appreciate most is that it’s not just about tracking workouts—it helps me make smarter decisions about when to push harder and when my body needs more recovery. The insights have made me much more intentional with my habits, sleep, and overall performance.\n\nIf you’re someone who is serious about improving your fitness, recovery, and overall lifestyle, WHOOP is absolutely worth it. It has become part of my everyday routine, and I genuinely love having real data to help me understand my progress.\n\nHighly recommend! ⭐️⭐️⭐️⭐️⭐️",
+      "subcategory_tags": [
+        "sleep_satisfaction"
+      ]
+    },
+    {
       "review_id": "07e26a71-bc63-4305-a540-bba4395eec96",
       "source": "google_play",
       "rating": 5,
@@ -2735,16 +2744,6 @@
       "rating": 5,
       "date": "2026-07-24T03:00:53-07:00",
       "text": "Whoop has radically changed the routine of my wife and I for the better, especially our sleep.  And now we can see clearly how critical a good sleep foundation and diet are for supporting a great day.  And a great day is required to stay healthy, and become strong, smart, disciplined, and fit.  And all of that is required to be able to do the most good for others while also being the smallest burden on others.  QED.",
-      "subcategory_tags": [
-        "sleep_satisfaction"
-      ]
-    },
-    {
-      "review_id": "14334188052",
-      "source": "app_store",
-      "rating": 5,
-      "date": "2026-07-22T05:32:23-07:00",
-      "text": "I thought I was pushing myself to hard before I got my whoop and struggled to understand why I wasn’t making progress but with my whoop now I know why I wasn’t making progress. Sleep deficient and not pushing myself to my fullest potential where some large contributing factors",
       "subcategory_tags": [
         "sleep_satisfaction"
       ]
@@ -3103,6 +3102,30 @@
   ],
   "hardware_wearability": [
     {
+      "review_id": "14493545320",
+      "source": "app_store",
+      "rating": 2,
+      "date": "2026-08-31T04:45:37-07:00",
+      "text": "As title says, great product and I love it besides the lack of gps. The customer service is terrible. When I had a 4.0, there was a time where it wouldn’t connect to my phone for a few days so I contacted support and they just said to wait and let it run out of battery and try again. So I waited over 2 weeks for this thing to run out and thankfully it connected again. Now with my 5.0, I was at the beach and it fell off while swimming in flat water. I eventually found it with goggles but the clasp was gone (broke off) so I contacted support and they said it’s not covered by warranty so order a new one. Just used $50 to replace with the cheapest band I could. What’s the point of a warranty if it doesn’t cover the band breaking.",
+      "subcategory_tags": [
+        "strap_clasp_durability",
+        "support_resolution_quality",
+        "ongoing_disconnects",
+        "missing_metrics"
+      ]
+    },
+    {
+      "review_id": "14486435203",
+      "source": "app_store",
+      "rating": 5,
+      "date": "2026-08-29T08:34:58-07:00",
+      "text": "Whoop was recommended to me by a friend, I did the trial & it’s been a wrap ever since. There are so many benefits wrapped into one band, the long lasting battery is great, the insights and tracking, and the AI feature does a wonderful job giving recommendations and adjustments",
+      "subcategory_tags": [
+        "battery_life",
+        "ai_positive_reception"
+      ]
+    },
+    {
       "review_id": "14473197727",
       "source": "app_store",
       "rating": 1,
@@ -3416,34 +3439,22 @@
         "support_resolution_quality",
         "price_value_perception"
       ]
-    },
-    {
-      "review_id": "14190040621",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-06-16T09:11:56-07:00",
-      "text": "Dear WHOOP, the world doesn’t need another running wearable!!! \n\nI have been a WHOOP user for a long time. After I got deeply frustrated with the 5.0, I cancelled my membership. About a year and a half later, I decided to sign up for a month hoping they did some major updates to the strength trainer section…NOPE.\n\nThe WHOOP was the first/only wearable that I found to track my strain/HRV in the weight room. I started with gen 2 and have used every version except the WHOOP Life. I have the 5.0 MG, and all throughout my use of the WHOOP, I have been hoping for updates to the strength trainer section of the app. I provide tons of feedback anytime I get a survey. They have never improved the UI of the strength trainer section, and it’s THE ONLY THING that sets this expensive wearable apart from my Garmin. Well, not anymore now that Garmin tracks strength training. Additionally, one of the key elements of the expense was that you would never have to pay for upgrades. You paid ~$450/year, so you get them. Not with the 5.0! The band is minutely smaller, so I have to get all new accessories because all the others don’t fit anymore; the charger won’t fit from my 4.0; the WHOOP 5.0 (not even considering the life/MG) is a costly “one-time” charge; and the strength training section still isn’t upgraded! I’m glad I paid for a month because it helped make my decision to stop using it feel more solid. It’s a shame, man, it feels like WHOOP wasted the one thing that set them apart.",
-      "subcategory_tags": [
-        "feature_ui_friction",
-        "price_value_perception",
-        "plan_trial_structure",
-        "build_quality_perception"
-      ]
-    },
-    {
-      "review_id": "7e5c2969-a41e-4b87-ad2c-9ff701e00c2a",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2026-05-30T22:06:54",
-      "text": "what a joke. whoop stopped working. took weeks before support agreed to replace. then they ghosted and aren't responding and never replaced .",
-      "subcategory_tags": [
-        "build_quality_perception",
-        "support_responsiveness",
-        "support_resolution_quality"
-      ]
     }
   ],
   "strap_clasp_durability": [
+    {
+      "review_id": "14493545320",
+      "source": "app_store",
+      "rating": 2,
+      "date": "2026-08-31T04:45:37-07:00",
+      "text": "As title says, great product and I love it besides the lack of gps. The customer service is terrible. When I had a 4.0, there was a time where it wouldn’t connect to my phone for a few days so I contacted support and they just said to wait and let it run out of battery and try again. So I waited over 2 weeks for this thing to run out and thankfully it connected again. Now with my 5.0, I was at the beach and it fell off while swimming in flat water. I eventually found it with goggles but the clasp was gone (broke off) so I contacted support and they said it’s not covered by warranty so order a new one. Just used $50 to replace with the cheapest band I could. What’s the point of a warranty if it doesn’t cover the band breaking.",
+      "subcategory_tags": [
+        "strap_clasp_durability",
+        "support_resolution_quality",
+        "ongoing_disconnects",
+        "missing_metrics"
+      ]
+    },
     {
       "review_id": "14473197727",
       "source": "app_store",
@@ -3782,18 +3793,6 @@
         "support_satisfaction",
         "comfort_fit",
         "strap_clasp_durability"
-      ]
-    },
-    {
-      "review_id": "71e37ecf-563f-4969-a266-a2e6de84be9b",
-      "source": "google_play",
-      "rating": 2,
-      "date": "2020-09-12T08:31:40",
-      "text": "The app itself is cool, it'd be nice to have a pedometer and multiple charging options. - had it for about a week before the battery pack fell off during a run and I can not charge it. Would be better if the battery pack was built to clip on better",
-      "subcategory_tags": [
-        "missing_metrics",
-        "strap_clasp_durability",
-        "battery_life"
       ]
     }
   ],
@@ -4140,6 +4139,17 @@
   ],
   "battery_life": [
     {
+      "review_id": "14486435203",
+      "source": "app_store",
+      "rating": 5,
+      "date": "2026-08-29T08:34:58-07:00",
+      "text": "Whoop was recommended to me by a friend, I did the trial & it’s been a wrap ever since. There are so many benefits wrapped into one band, the long lasting battery is great, the insights and tracking, and the AI feature does a wonderful job giving recommendations and adjustments",
+      "subcategory_tags": [
+        "battery_life",
+        "ai_positive_reception"
+      ]
+    },
+    {
       "review_id": "14426595707",
       "source": "app_store",
       "rating": 5,
@@ -4463,20 +4473,6 @@
       "subcategory_tags": [
         "ai_positive_reception",
         "battery_life"
-      ]
-    },
-    {
-      "review_id": "5947ab33-db70-4761-99ba-3a55a774e3c2",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2025-07-31T05:12:02",
-      "text": "They lied to me about receiving new hardware with a subscription. The measurements are low quality, esp the crucial sleep tracking, so I was looking forward to the next gen hardware. But I'd have to buy another YEAR or subscription, and I just got my subscription not long ago. Anyway the new gen is bad too according to reviews. App is fundamentally bad too, I just lost multiple days of tracking because the battery was empty but it didn't alert me. luckily there are now cheaper alternatives",
-      "subcategory_tags": [
-        "billing_disputes",
-        "price_value_perception",
-        "sleep_accuracy",
-        "battery_life",
-        "build_quality_perception"
       ]
     }
   ],
@@ -4837,6 +4833,40 @@
   ],
   "sync_connectivity": [
     {
+      "review_id": "14493545320",
+      "source": "app_store",
+      "rating": 2,
+      "date": "2026-08-31T04:45:37-07:00",
+      "text": "As title says, great product and I love it besides the lack of gps. The customer service is terrible. When I had a 4.0, there was a time where it wouldn’t connect to my phone for a few days so I contacted support and they just said to wait and let it run out of battery and try again. So I waited over 2 weeks for this thing to run out and thankfully it connected again. Now with my 5.0, I was at the beach and it fell off while swimming in flat water. I eventually found it with goggles but the clasp was gone (broke off) so I contacted support and they said it’s not covered by warranty so order a new one. Just used $50 to replace with the cheapest band I could. What’s the point of a warranty if it doesn’t cover the band breaking.",
+      "subcategory_tags": [
+        "strap_clasp_durability",
+        "support_resolution_quality",
+        "ongoing_disconnects",
+        "missing_metrics"
+      ]
+    },
+    {
+      "review_id": "14488905581",
+      "source": "app_store",
+      "rating": 5,
+      "date": "2026-08-30T00:11:11-07:00",
+      "text": "Always disconnect when phone is flight mood off",
+      "subcategory_tags": [
+        "ongoing_disconnects"
+      ]
+    },
+    {
+      "review_id": "14485637035",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-08-29T04:38:07-07:00",
+      "text": "I’ve lost 2 sets of workout data in the last 3 weeks. It was certainly taking the data in and measuring while I was working out. And even registered strain. Whoop people can’t figure it out.  I’ve had one for over a year now, so I’m not new to it.  The whole point of this thing is to measure your workouts and it’s stopped being consistent. Caveat emptor",
+      "subcategory_tags": [
+        "data_sync_delays",
+        "support_resolution_quality"
+      ]
+    },
+    {
       "review_id": "14452213935",
       "source": "app_store",
       "rating": 1,
@@ -5139,40 +5169,6 @@
         "data_sync_delays",
         "sleep_accuracy",
         "metric_accuracy",
-        "price_value_perception"
-      ]
-    },
-    {
-      "review_id": "1417f0ac-4e63-4fcc-b5a4-38e954029702",
-      "source": "google_play",
-      "rating": 4,
-      "date": "2026-06-10T22:55:22",
-      "text": "nice way of tracking, but not for me. Too many connection issues with whoop 4.",
-      "subcategory_tags": [
-        "ongoing_disconnects"
-      ]
-    },
-    {
-      "review_id": "039a86e5-41cf-4c94-bd2b-1d4bad82b5a6",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2026-06-02T03:36:25",
-      "text": "Had the device for 50+ days .. the latest update is full of bugs. says it has synced then shows me no stats and keeps merging days on my activity log can't seem to reset it and there's no place to notify the company of these issues so I have to resort to giving a bad review. $400 buyers remorse",
-      "subcategory_tags": [
-        "update_failures",
-        "data_sync_delays",
-        "support_responsiveness",
-        "price_value_perception"
-      ]
-    },
-    {
-      "review_id": "14131485493",
-      "source": "app_store",
-      "rating": 5,
-      "date": "2026-06-01T07:47:53-07:00",
-      "text": "Could not get the watch to attach i tried 3 devices finally on my 4th a motorola razzor phone, it attached.  I then was finally able to get an account opened and they wanted a yearly fee that cost me more than the watch itself.  Don't purchase this app or the watch its a scam!",
-      "subcategory_tags": [
-        "onboarding_pairing",
         "price_value_perception"
       ]
     }
@@ -5509,6 +5505,29 @@
   ],
   "ongoing_disconnects": [
     {
+      "review_id": "14493545320",
+      "source": "app_store",
+      "rating": 2,
+      "date": "2026-08-31T04:45:37-07:00",
+      "text": "As title says, great product and I love it besides the lack of gps. The customer service is terrible. When I had a 4.0, there was a time where it wouldn’t connect to my phone for a few days so I contacted support and they just said to wait and let it run out of battery and try again. So I waited over 2 weeks for this thing to run out and thankfully it connected again. Now with my 5.0, I was at the beach and it fell off while swimming in flat water. I eventually found it with goggles but the clasp was gone (broke off) so I contacted support and they said it’s not covered by warranty so order a new one. Just used $50 to replace with the cheapest band I could. What’s the point of a warranty if it doesn’t cover the band breaking.",
+      "subcategory_tags": [
+        "strap_clasp_durability",
+        "support_resolution_quality",
+        "ongoing_disconnects",
+        "missing_metrics"
+      ]
+    },
+    {
+      "review_id": "14488905581",
+      "source": "app_store",
+      "rating": 5,
+      "date": "2026-08-30T00:11:11-07:00",
+      "text": "Always disconnect when phone is flight mood off",
+      "subcategory_tags": [
+        "ongoing_disconnects"
+      ]
+    },
+    {
       "review_id": "14410286017",
       "source": "app_store",
       "rating": 4,
@@ -5817,32 +5836,20 @@
       "subcategory_tags": [
         "ongoing_disconnects"
       ]
-    },
-    {
-      "review_id": "c6d74905-def1-44f5-9835-d19dda8153b5",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2025-09-16T06:41:33",
-      "text": "completely useless. my husband and i have exactly the same issue with the new 5.0mg. it NEVER syncs. daily we have to uninstall and reinstall or reconnect. however mine is not syncing since 7 days but its connected and showing up in the app. its extremely annoying and i want my money back. i have it since 2 months and was never able to enjoy or use that thing. i am so frustrated by now. its quite expensive, so why are they not able to fix the issue?? and i am stuck now for 1 year with it 😧",
-      "subcategory_tags": [
-        "ongoing_disconnects",
-        "data_sync_delays",
-        "billing_disputes",
-        "price_value_perception"
-      ]
-    },
-    {
-      "review_id": "88f358eb-0379-457a-9f80-a7e53c6bd3c0",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2025-09-08T22:52:40",
-      "text": "Verbindet und synchronisiert sich nicht mehr mit dem Band. Jeden Morgen das gleiche Problem, völlig nutzlos.",
-      "subcategory_tags": [
-        "ongoing_disconnects"
-      ]
     }
   ],
   "data_sync_delays": [
+    {
+      "review_id": "14485637035",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-08-29T04:38:07-07:00",
+      "text": "I’ve lost 2 sets of workout data in the last 3 weeks. It was certainly taking the data in and measuring while I was working out. And even registered strain. Whoop people can’t figure it out.  I’ve had one for over a year now, so I’m not new to it.  The whole point of this thing is to measure your workouts and it’s stopped being consistent. Caveat emptor",
+      "subcategory_tags": [
+        "data_sync_delays",
+        "support_resolution_quality"
+      ]
+    },
     {
       "review_id": "537c60d5-58e0-401e-81f3-842229a73452",
       "source": "google_play",
@@ -6183,22 +6190,20 @@
         "ai_only_support_channel",
         "support_resolution_quality"
       ]
-    },
-    {
-      "review_id": "1922dbdd-8cfc-445f-bb6c-38bddac4d5bd",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2026-04-13T07:08:52",
-      "text": "It's logging out automatically since the new update. seriously what's going on. edit: last update after Dec 23 2025. does not logging my hicking activity. the battery is ok. spent all my day with the whoop on my wrist, and nothing. update Apr 2026: sync data runs forever. can't see my sleep because still syncing, and I always have my BT ON. guys, fix this.",
-      "subcategory_tags": [
-        "update_failures",
-        "activity_detection",
-        "data_sync_delays",
-        "sleep_accuracy"
-      ]
     }
   ],
   "data_accuracy": [
+    {
+      "review_id": "bb7c406c-f23d-40dc-aaba-deeae1e7d666",
+      "source": "google_play",
+      "rating": 3,
+      "date": "2026-08-30T20:42:54+00:00",
+      "text": "activity detection is very bad lately. it detects walking as an activity and spams you w notifications about you walking to grab a beer. this is ridiculous. and it is also ruining autodetection of some real activities, adding walking before and after session to the detected activity.",
+      "subcategory_tags": [
+        "activity_detection",
+        "notification_community_issues"
+      ]
+    },
     {
       "review_id": "aa2b9bb7-594f-4a3b-ae34-b8cabeb744b5",
       "source": "google_play",
@@ -6539,16 +6544,6 @@
         "ongoing_disconnects",
         "activity_detection",
         "feature_ui_friction"
-      ]
-    },
-    {
-      "review_id": "14354339008",
-      "source": "app_store",
-      "rating": 5,
-      "date": "2026-07-27T06:32:06-07:00",
-      "text": "Many companies can copy them, but nobody will ever beat whoop in my opinion. HRV is actually something very important after I learned about it. I love how it’s so accurate on whoop.",
-      "subcategory_tags": [
-        "metric_accuracy"
       ]
     }
   ],
@@ -6904,6 +6899,17 @@
   ],
   "activity_detection": [
     {
+      "review_id": "bb7c406c-f23d-40dc-aaba-deeae1e7d666",
+      "source": "google_play",
+      "rating": 3,
+      "date": "2026-08-30T20:42:54+00:00",
+      "text": "activity detection is very bad lately. it detects walking as an activity and spams you w notifications about you walking to grab a beer. this is ridiculous. and it is also ruining autodetection of some real activities, adding walking before and after session to the detected activity.",
+      "subcategory_tags": [
+        "activity_detection",
+        "notification_community_issues"
+      ]
+    },
+    {
       "review_id": "14464669627",
       "source": "app_store",
       "rating": 4,
@@ -7255,18 +7261,6 @@
         "crashes_freezes",
         "activity_detection",
         "price_value_perception"
-      ]
-    },
-    {
-      "review_id": "05707a70-128b-4784-b8e7-05ace00a50cd",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2026-04-27T10:56:35",
-      "text": "lots of issues. keeps closing and data provided is not precise.. unable to detect exercises precisely...",
-      "subcategory_tags": [
-        "crashes_freezes",
-        "metric_accuracy",
-        "activity_detection"
       ]
     }
   ],
@@ -8012,6 +8006,28 @@
   ],
   "ai_coach": [
     {
+      "review_id": "b055d79f-144f-4f82-a43f-42a1c7ba4312",
+      "source": "google_play",
+      "rating": 3,
+      "date": "2026-08-31T14:55:31+00:00",
+      "text": "AI bloat makes some of the functions not work. I cannot view my Sleep or Recovery metric windows within the app because the AI analysis pop-up windows are non-dissmissable so about a third of the data I can't access.",
+      "subcategory_tags": [
+        "ai_autonomy",
+        "redesign_regression"
+      ]
+    },
+    {
+      "review_id": "14486435203",
+      "source": "app_store",
+      "rating": 5,
+      "date": "2026-08-29T08:34:58-07:00",
+      "text": "Whoop was recommended to me by a friend, I did the trial & it’s been a wrap ever since. There are so many benefits wrapped into one band, the long lasting battery is great, the insights and tracking, and the AI feature does a wonderful job giving recommendations and adjustments",
+      "subcategory_tags": [
+        "battery_life",
+        "ai_positive_reception"
+      ]
+    },
+    {
       "review_id": "14471190075",
       "source": "app_store",
       "rating": 4,
@@ -8334,29 +8350,6 @@
         "notification_community_issues",
         "feature_ui_friction",
         "price_value_perception"
-      ]
-    },
-    {
-      "review_id": "14367054341",
-      "source": "app_store",
-      "rating": 4,
-      "date": "2026-07-30T09:02:05-07:00",
-      "text": "I really like it’s workout feature and AI, hence I keep using it. The only problem I have is with App’s UX, it’s not easy on the eye and checking simple things like steps is a bit over complicated. It’s annoying to see flash cards every day and my ocd kicks in to clean them. You should not make things difficult for users, give options and suggestions to make it more widget based, where user can pick and choose way easy.",
-      "subcategory_tags": [
-        "ai_positive_reception",
-        "redesign_regression",
-        "feature_ui_friction",
-        "missing_metrics"
-      ]
-    },
-    {
-      "review_id": "14362596445",
-      "source": "app_store",
-      "rating": 5,
-      "date": "2026-07-29T07:06:28-07:00",
-      "text": "Whoop has transformed how I view my work outs and plan my recovery. The insights and coach helps keep all my records",
-      "subcategory_tags": [
-        "ai_positive_reception"
       ]
     }
   ],
@@ -8714,6 +8707,17 @@
   ],
   "ai_autonomy": [
     {
+      "review_id": "b055d79f-144f-4f82-a43f-42a1c7ba4312",
+      "source": "google_play",
+      "rating": 3,
+      "date": "2026-08-31T14:55:31+00:00",
+      "text": "AI bloat makes some of the functions not work. I cannot view my Sleep or Recovery metric windows within the app because the AI analysis pop-up windows are non-dissmissable so about a third of the data I can't access.",
+      "subcategory_tags": [
+        "ai_autonomy",
+        "redesign_regression"
+      ]
+    },
+    {
       "review_id": "82bbd4bf-d04e-41fd-91ae-38e9c882ff61",
       "source": "google_play",
       "rating": 1,
@@ -8996,6 +9000,17 @@
     }
   ],
   "ai_positive_reception": [
+    {
+      "review_id": "14486435203",
+      "source": "app_store",
+      "rating": 5,
+      "date": "2026-08-29T08:34:58-07:00",
+      "text": "Whoop was recommended to me by a friend, I did the trial & it’s been a wrap ever since. There are so many benefits wrapped into one band, the long lasting battery is great, the insights and tracking, and the AI feature does a wonderful job giving recommendations and adjustments",
+      "subcategory_tags": [
+        "battery_life",
+        "ai_positive_reception"
+      ]
+    },
     {
       "review_id": "14454449879",
       "source": "app_store",
@@ -9314,20 +9329,44 @@
         "ai_positive_reception",
         "price_value_perception"
       ]
-    },
-    {
-      "review_id": "14176328585",
-      "source": "app_store",
-      "rating": 5,
-      "date": "2026-06-12T20:27:25-07:00",
-      "text": "I really enjoy this app’s many features. Specifically my recovery and strain ranges. The Whoop AI Coach gives valuable advice as well. You can be very creative with your prompts and the coach gives a reliable answer around 80% of the time. The other 20% of the time the coach replies that the App can’t process the request which kind of bums me out, I guess I’m expecting AI capabilities like ChatGPT has. Nonetheless, this app has been a daily health and wellness indicator for me for over 2 years now, and more years to come.",
-      "subcategory_tags": [
-        "ai_reliability_bugs",
-        "ai_positive_reception"
-      ]
     }
   ],
   "customer_support": [
+    {
+      "review_id": "14493545320",
+      "source": "app_store",
+      "rating": 2,
+      "date": "2026-08-31T04:45:37-07:00",
+      "text": "As title says, great product and I love it besides the lack of gps. The customer service is terrible. When I had a 4.0, there was a time where it wouldn’t connect to my phone for a few days so I contacted support and they just said to wait and let it run out of battery and try again. So I waited over 2 weeks for this thing to run out and thankfully it connected again. Now with my 5.0, I was at the beach and it fell off while swimming in flat water. I eventually found it with goggles but the clasp was gone (broke off) so I contacted support and they said it’s not covered by warranty so order a new one. Just used $50 to replace with the cheapest band I could. What’s the point of a warranty if it doesn’t cover the band breaking.",
+      "subcategory_tags": [
+        "strap_clasp_durability",
+        "support_resolution_quality",
+        "ongoing_disconnects",
+        "missing_metrics"
+      ]
+    },
+    {
+      "review_id": "14491552808",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-08-30T15:03:36-07:00",
+      "text": "It’s been 3 days and the app won’t let me login. Tried changing password, reinstalling app, nothing works. Customer service is not very helpful nor can they fix the problem. Extremely frustrating.",
+      "subcategory_tags": [
+        "crashes_freezes",
+        "support_resolution_quality"
+      ]
+    },
+    {
+      "review_id": "14485637035",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-08-29T04:38:07-07:00",
+      "text": "I’ve lost 2 sets of workout data in the last 3 weeks. It was certainly taking the data in and measuring while I was working out. And even registered strain. Whoop people can’t figure it out.  I’ve had one for over a year now, so I’m not new to it.  The whole point of this thing is to measure your workouts and it’s stopped being consistent. Caveat emptor",
+      "subcategory_tags": [
+        "data_sync_delays",
+        "support_resolution_quality"
+      ]
+    },
     {
       "review_id": "14473197727",
       "source": "app_store",
@@ -9646,40 +9685,6 @@
         "support_responsiveness",
         "support_resolution_quality",
         "ongoing_disconnects"
-      ]
-    },
-    {
-      "review_id": "14267468364",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-07-05T14:03:09-07:00",
-      "text": "I have been a loyal WHOOP member for over six years and have recommended the product to countless friends, family members, athletes, and business colleagues. Unfortunately, my experience with their customer support has completely destroyed the trust I had in the company.\n\nMy account was deleted, resulting in the loss of approximately six years of health, recovery, training, and biometric data. For a company whose entire value proposition revolves around collecting and analyzing long-term personal health data, this is an unacceptable failure.\n\nWhat made the situation even worse was the customer support experience. It took nearly two months of repeated emails and messages just to get meaningful responses and traction on the issue. The support process felt fragmented, slow, and heavily outsourced, with little ownership of the problem and no sense of urgency despite the severity of losing years of irreplaceable data.\n\nAfter months of frustration, the resolution offered was two free months of service. To be clear, six years of personal health history cannot be replaced by two months of membership credit.\n\nThe most disappointing part is that I wasn’t a casual customer. I genuinely believed in WHOOP, paid for the service for years, and actively promoted it to others. Losing my data was devastating. Feeling ignored for two months while trying to get help was even worse.\n\nThe hardware and insights may be good when everything works, but a company’s true character is revealed when something goes wrong. Based on my experience, WHOOP’s customer support and account recovery processes fell far short of what customers should expect from a premium subscription service.\n\nI sincerely hope WHOOP improves its support systems, data protection practices, and escalation procedures so that no other long-term member has to go through what I experienced.",
-      "subcategory_tags": [
-        "support_responsiveness",
-        "support_resolution_quality",
-        "missing_metrics"
-      ]
-    },
-    {
-      "review_id": "14258955730",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-07-03T11:09:24-07:00",
-      "text": "The awake time is give me to much time. I went to sleep at 12 and woke up at 10 and it said I had an 1 and 28 mins of awake time. Awful. Returning now because all the workers can’t ever fix anything",
-      "subcategory_tags": [
-        "sleep_accuracy",
-        "support_resolution_quality"
-      ]
-    },
-    {
-      "review_id": "14249360457",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-07-01T05:52:19-07:00",
-      "text": "Watch out if you need customer service help because your device doesn’t work correctly… as a life member I’d assume good support but nope.",
-      "subcategory_tags": [
-        "support_responsiveness",
-        "support_resolution_quality"
       ]
     }
   ],
@@ -10047,6 +10052,41 @@
   ],
   "support_resolution_quality": [
     {
+      "review_id": "14493545320",
+      "source": "app_store",
+      "rating": 2,
+      "date": "2026-08-31T04:45:37-07:00",
+      "text": "As title says, great product and I love it besides the lack of gps. The customer service is terrible. When I had a 4.0, there was a time where it wouldn’t connect to my phone for a few days so I contacted support and they just said to wait and let it run out of battery and try again. So I waited over 2 weeks for this thing to run out and thankfully it connected again. Now with my 5.0, I was at the beach and it fell off while swimming in flat water. I eventually found it with goggles but the clasp was gone (broke off) so I contacted support and they said it’s not covered by warranty so order a new one. Just used $50 to replace with the cheapest band I could. What’s the point of a warranty if it doesn’t cover the band breaking.",
+      "subcategory_tags": [
+        "strap_clasp_durability",
+        "support_resolution_quality",
+        "ongoing_disconnects",
+        "missing_metrics"
+      ]
+    },
+    {
+      "review_id": "14491552808",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-08-30T15:03:36-07:00",
+      "text": "It’s been 3 days and the app won’t let me login. Tried changing password, reinstalling app, nothing works. Customer service is not very helpful nor can they fix the problem. Extremely frustrating.",
+      "subcategory_tags": [
+        "crashes_freezes",
+        "support_resolution_quality"
+      ]
+    },
+    {
+      "review_id": "14485637035",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-08-29T04:38:07-07:00",
+      "text": "I’ve lost 2 sets of workout data in the last 3 weeks. It was certainly taking the data in and measuring while I was working out. And even registered strain. Whoop people can’t figure it out.  I’ve had one for over a year now, so I’m not new to it.  The whole point of this thing is to measure your workouts and it’s stopped being consistent. Caveat emptor",
+      "subcategory_tags": [
+        "data_sync_delays",
+        "support_resolution_quality"
+      ]
+    },
+    {
       "review_id": "14473197727",
       "source": "app_store",
       "rating": 1,
@@ -10365,42 +10405,6 @@
         "price_value_perception",
         "support_resolution_quality",
         "ai_reliability_bugs"
-      ]
-    },
-    {
-      "review_id": "7e5c2969-a41e-4b87-ad2c-9ff701e00c2a",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2026-05-30T22:06:54",
-      "text": "what a joke. whoop stopped working. took weeks before support agreed to replace. then they ghosted and aren't responding and never replaced .",
-      "subcategory_tags": [
-        "build_quality_perception",
-        "support_responsiveness",
-        "support_resolution_quality"
-      ]
-    },
-    {
-      "review_id": "fc6cbe58-854d-400d-a143-af2874ce7fe9",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2026-05-24T21:30:09",
-      "text": "Terrible support. My WHOOP 5.0 sensor broke (bands won't lock). I’ve dealt with 8 different agents in a week because nobody reads the ticket history. One agent finally approved my warranty replacement and took my shipping address. The next day, a new agent ignored the approval and asked for a troubleshooting video for the 5th time! Zero internal communication and they refuse to honor their own confirmed resolutions. A premium subscription deserves better",
-      "subcategory_tags": [
-        "strap_clasp_durability",
-        "support_responsiveness",
-        "support_resolution_quality"
-      ]
-    },
-    {
-      "review_id": "706e1992-1196-48d6-b3b3-2dcc37501d2c",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2026-05-24T02:42:32",
-      "text": "customer service is terrible! when the device has issues collecting data and it will occasionally. they reply is you wear it wrong. according to whoop in the 3 years ive had the service i wear my device incorrectly randomly causing it to not work for days. the product is overpriced for a company that does zero to fix issues on their end. Id give the device when working a 5 star whoops customer service is so bad id like to give it negative stars.",
-      "subcategory_tags": [
-        "support_resolution_quality",
-        "data_sync_delays",
-        "price_value_perception"
       ]
     }
   ],
@@ -11104,6 +11108,17 @@
   ],
   "app_stability": [
     {
+      "review_id": "14491552808",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-08-30T15:03:36-07:00",
+      "text": "It’s been 3 days and the app won’t let me login. Tried changing password, reinstalling app, nothing works. Customer service is not very helpful nor can they fix the problem. Extremely frustrating.",
+      "subcategory_tags": [
+        "crashes_freezes",
+        "support_resolution_quality"
+      ]
+    },
+    {
       "review_id": "14473197727",
       "source": "app_store",
       "rating": 1,
@@ -11430,23 +11445,20 @@
         "support_responsiveness",
         "price_value_perception"
       ]
-    },
-    {
-      "review_id": "53f1424d-0046-4682-8a95-cc691da3667a",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2026-06-11T11:47:18",
-      "text": "glitchy app, often fails to register activities or process manually tracked sleep at all (leading to no recovery or sleep score). rebooting, force closing, Bluetooth toggling, un/reinstallation all fail. shameful price and a model that holds the user hostage",
-      "subcategory_tags": [
-        "crashes_freezes",
-        "activity_detection",
-        "sleep_accuracy",
-        "price_value_perception",
-        "billing_disputes"
-      ]
     }
   ],
   "crashes_freezes": [
+    {
+      "review_id": "14491552808",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-08-30T15:03:36-07:00",
+      "text": "It’s been 3 days and the app won’t let me login. Tried changing password, reinstalling app, nothing works. Customer service is not very helpful nor can they fix the problem. Extremely frustrating.",
+      "subcategory_tags": [
+        "crashes_freezes",
+        "support_resolution_quality"
+      ]
+    },
     {
       "review_id": "14473197727",
       "source": "app_store",
@@ -11776,20 +11788,6 @@
         "metric_accuracy",
         "activity_detection",
         "crashes_freezes"
-      ]
-    },
-    {
-      "review_id": "14123621673",
-      "source": "app_store",
-      "rating": 5,
-      "date": "2026-05-30T07:41:20-07:00",
-      "text": "I purchased WHOOP expecting a premium product and premium service, but my experience has been frustrating from the very beginning.\n\nAfter only a few days of use, the app stopped working properly. One morning, my recovery never processed, the app remained stuck on the previous day, and my data would not update correctly. For a product that is supposed to provide real-time health and recovery insights, this is unacceptable.\n\nThe customer service experience has been equally frustrating. Finding support is difficult, getting help takes too long, and there is no simple way to resolve issues quickly.\n\nThe return process is another major problem. Customers are expected to pay for return shipping, and accessories cannot be returned through a simple online process. Instead, you have to contact customer support first, which is unnecessarily complicated and time-consuming.\n\nFor a company charging premium prices and a membership fee, I expected a polished product, reliable software, and responsive customer support. Instead, I experienced app issues within the first week, poor customer service, and a frustrating return process.\n\nThis has been one of the worst experiences I’ve had with a wearable technology company, and I would not recommend WHOOP to others.",
-      "subcategory_tags": [
-        "data_sync_delays",
-        "crashes_freezes",
-        "support_responsiveness",
-        "billing_disputes",
-        "price_value_perception"
       ]
     }
   ],
@@ -12138,6 +12136,28 @@
   ],
   "ui_ux": [
     {
+      "review_id": "b055d79f-144f-4f82-a43f-42a1c7ba4312",
+      "source": "google_play",
+      "rating": 3,
+      "date": "2026-08-31T14:55:31+00:00",
+      "text": "AI bloat makes some of the functions not work. I cannot view my Sleep or Recovery metric windows within the app because the AI analysis pop-up windows are non-dissmissable so about a third of the data I can't access.",
+      "subcategory_tags": [
+        "ai_autonomy",
+        "redesign_regression"
+      ]
+    },
+    {
+      "review_id": "bb7c406c-f23d-40dc-aaba-deeae1e7d666",
+      "source": "google_play",
+      "rating": 3,
+      "date": "2026-08-30T20:42:54+00:00",
+      "text": "activity detection is very bad lately. it detects walking as an activity and spams you w notifications about you walking to grab a beer. this is ridiculous. and it is also ruining autodetection of some real activities, adding walking before and after session to the detected activity.",
+      "subcategory_tags": [
+        "activity_detection",
+        "notification_community_issues"
+      ]
+    },
+    {
       "review_id": "05662742-39f3-4ec7-8315-f2bc46ac37dd",
       "source": "google_play",
       "rating": 4,
@@ -12454,33 +12474,20 @@
         "android_feature_gaps",
         "notification_community_issues"
       ]
-    },
-    {
-      "review_id": "e359e077-ff73-49b4-9965-f6daf3f082ae",
-      "source": "google_play",
-      "rating": 2,
-      "date": "2026-07-20T05:15:21",
-      "text": "Way too expensive. The UI is a dumpster fire; it looks like someone threw random design elements into a box and shook it. The AI is mostly useless. I can't take it off to shower without it freaking out. The band physically looks nice though, and the data it gathers can be interesting, if not useful.",
-      "subcategory_tags": [
-        "price_value_perception",
-        "redesign_regression",
-        "ai_reliability_bugs"
-      ]
-    },
-    {
-      "review_id": "14310462269",
-      "source": "app_store",
-      "rating": 5,
-      "date": "2026-07-16T07:42:27-07:00",
-      "text": "I discovered WHOOP from Chris Williamson’s Modern Wisdom podcast. I had been wanting to get more serious and precise with my fitness. I played a general amount of basketball and ate a general amount of food and had a general idea of my sleep quality. However, ever since I purchased WHOOP, my Fitness and my Health at large has probably doubled. It allows me to be extremely precise in the amount of calories I’m burning which means that I can diet correctly. Its guidance in the realm of sleep is unparalleled, and I love the strength-trainer that it offers - where you can create or have it create you a custom workout according to your goals (and I work at lifetime fitness and I’ve had Personal trainers look over my program and they had no critiques). The AI on WHOOP is also super beneficial and it’s always there if you have questions about bedtime or eating certain things or what you should be doing throughout your day. GET THE WHOOP. The best part is I still have the 4.0! So trust me, I’ll be upgrading to the 5.0 soon.",
-      "subcategory_tags": [
-        "sleep_satisfaction",
-        "ai_positive_reception",
-        "feature_ui_friction"
-      ]
     }
   ],
   "redesign_regression": [
+    {
+      "review_id": "b055d79f-144f-4f82-a43f-42a1c7ba4312",
+      "source": "google_play",
+      "rating": 3,
+      "date": "2026-08-31T14:55:31+00:00",
+      "text": "AI bloat makes some of the functions not work. I cannot view my Sleep or Recovery metric windows within the app because the AI analysis pop-up windows are non-dissmissable so about a third of the data I can't access.",
+      "subcategory_tags": [
+        "ai_autonomy",
+        "redesign_regression"
+      ]
+    },
     {
       "review_id": "1e56220a-53e4-41bc-b57e-fa14540b782a",
       "source": "google_play",
@@ -12820,17 +12827,6 @@
         "support_responsiveness",
         "support_resolution_quality",
         "data_sync_delays",
-        "redesign_regression"
-      ]
-    },
-    {
-      "review_id": "13925810664",
-      "source": "app_store",
-      "rating": 3,
-      "date": "2026-04-05T09:55:53-07:00",
-      "text": "It’s a pretty good health tracker app. The only annoying thing is that they spam you with ads to upgrade in every page. I don’t want to upgrade. Get rid of the ads and you’ll have more space to show more details on the tabs people choose to track. I don’t want to have to click on a tab to take me to the stats. I want it shown on the homepage",
-      "subcategory_tags": [
-        "upsell_pressure",
         "redesign_regression"
       ]
     }
@@ -13508,6 +13504,17 @@
   ],
   "notification_community_issues": [
     {
+      "review_id": "bb7c406c-f23d-40dc-aaba-deeae1e7d666",
+      "source": "google_play",
+      "rating": 3,
+      "date": "2026-08-30T20:42:54+00:00",
+      "text": "activity detection is very bad lately. it detects walking as an activity and spams you w notifications about you walking to grab a beer. this is ridiculous. and it is also ruining autodetection of some real activities, adding walking before and after session to the detected activity.",
+      "subcategory_tags": [
+        "activity_detection",
+        "notification_community_issues"
+      ]
+    },
+    {
       "review_id": "14442499498",
       "source": "app_store",
       "rating": 1,
@@ -13827,19 +13834,6 @@
       "subcategory_tags": [
         "crashes_freezes",
         "notification_community_issues"
-      ]
-    },
-    {
-      "review_id": "05b69ca4-cf83-4c69-99b8-5215805d5fbe",
-      "source": "google_play",
-      "rating": 3,
-      "date": "2026-03-09T11:30:32",
-      "text": "- No notifications at all for some reason since upgrade to 5.0 - no reminders to log the previous day - no notification on detecting activity - Activity tracking toggle switches off on its own - app crashes when you go to the community tab",
-      "subcategory_tags": [
-        "notification_community_issues",
-        "activity_detection",
-        "crashes_freezes",
-        "update_failures"
       ]
     }
   ],
@@ -15563,6 +15557,19 @@
   ],
   "feature_requests": [
     {
+      "review_id": "14493545320",
+      "source": "app_store",
+      "rating": 2,
+      "date": "2026-08-31T04:45:37-07:00",
+      "text": "As title says, great product and I love it besides the lack of gps. The customer service is terrible. When I had a 4.0, there was a time where it wouldn’t connect to my phone for a few days so I contacted support and they just said to wait and let it run out of battery and try again. So I waited over 2 weeks for this thing to run out and thankfully it connected again. Now with my 5.0, I was at the beach and it fell off while swimming in flat water. I eventually found it with goggles but the clasp was gone (broke off) so I contacted support and they said it’s not covered by warranty so order a new one. Just used $50 to replace with the cheapest band I could. What’s the point of a warranty if it doesn’t cover the band breaking.",
+      "subcategory_tags": [
+        "strap_clasp_durability",
+        "support_resolution_quality",
+        "ongoing_disconnects",
+        "missing_metrics"
+      ]
+    },
+    {
       "review_id": "1db8e294-c1b7-459d-ae38-06d53b7cb88a",
       "source": "google_play",
       "rating": 5,
@@ -15889,16 +15896,6 @@
       "subcategory_tags": [
         "sleep_satisfaction",
         "missing_activity_types"
-      ]
-    },
-    {
-      "review_id": "14359049688",
-      "source": "app_store",
-      "rating": 5,
-      "date": "2026-07-28T09:31:44-07:00",
-      "text": "I’ve been a Type 1 Diabetic for 19+ years and I’ve always been curious and focused on my health in all aspects. Whoop gives me answers, helps me stay on track and gives me metrics I can understand. If you are looking to improve your health, sleep, stress and state of mind.. Whoop is the answer!",
-      "subcategory_tags": [
-        "personalization_use_case_fit"
       ]
     }
   ],
@@ -16240,6 +16237,19 @@
   ],
   "missing_metrics": [
     {
+      "review_id": "14493545320",
+      "source": "app_store",
+      "rating": 2,
+      "date": "2026-08-31T04:45:37-07:00",
+      "text": "As title says, great product and I love it besides the lack of gps. The customer service is terrible. When I had a 4.0, there was a time where it wouldn’t connect to my phone for a few days so I contacted support and they just said to wait and let it run out of battery and try again. So I waited over 2 weeks for this thing to run out and thankfully it connected again. Now with my 5.0, I was at the beach and it fell off while swimming in flat water. I eventually found it with goggles but the clasp was gone (broke off) so I contacted support and they said it’s not covered by warranty so order a new one. Just used $50 to replace with the cheapest band I could. What’s the point of a warranty if it doesn’t cover the band breaking.",
+      "subcategory_tags": [
+        "strap_clasp_durability",
+        "support_resolution_quality",
+        "ongoing_disconnects",
+        "missing_metrics"
+      ]
+    },
+    {
       "review_id": "1db8e294-c1b7-459d-ae38-06d53b7cb88a",
       "source": "google_play",
       "rating": 5,
@@ -16561,16 +16571,6 @@
       "rating": 4,
       "date": "2026-06-16T21:53:52",
       "text": "whoop needs fasting feature as well. where i log fasting.",
-      "subcategory_tags": [
-        "missing_metrics"
-      ]
-    },
-    {
-      "review_id": "f66fb0d2-9f6c-4cd8-9703-fc4fce082268",
-      "source": "google_play",
-      "rating": 5,
-      "date": "2026-06-12T03:49:05",
-      "text": "I wish I could add my own parameters to the journal",
       "subcategory_tags": [
         "missing_metrics"
       ]
