@@ -1,6 +1,37 @@
 {
   "pricing_billing": [
     {
+      "review_id": "1c0e8872-d2fe-4fd5-b7b1-dde9f93e8a74",
+      "source": "google_play",
+      "rating": 5,
+      "date": "2026-09-02T15:27:46+00:00",
+      "text": "it's good but it's a bit expensive",
+      "subcategory_tags": [
+        "price_value_perception"
+      ]
+    },
+    {
+      "review_id": "ba13f413-e505-4615-a0d6-cdffbc6325da",
+      "source": "google_play",
+      "rating": 1,
+      "date": "2026-09-02T12:58:00+00:00",
+      "text": "As a paid member, this app is FULL of ads. They most care about milking every cent from you.",
+      "subcategory_tags": [
+        "upsell_pressure"
+      ]
+    },
+    {
+      "review_id": "14499681422",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-09-01T16:30:44-07:00",
+      "text": "I bought a WHOOP because I wanted good sleep detection, but they’ve updated the algorithm a couple of times and completely messed up the sleep detection at this point. The rest of the functions are no different than what you get on a much cheaper Fitbit or any other tracker. I would strongly recommend against buying WHOOP. Likewise, the support has been terrible.",
+      "subcategory_tags": [
+        "sleep_accuracy",
+        "price_value_perception"
+      ]
+    },
+    {
       "review_id": "1db8e294-c1b7-459d-ae38-06d53b7cb88a",
       "source": "google_play",
       "rating": 5,
@@ -308,44 +339,30 @@
       "subcategory_tags": [
         "price_value_perception"
       ]
-    },
-    {
-      "review_id": "682c6f55-0c48-48a1-b8ce-4d9f630ce9a5",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2026-08-08T18:13:35+00:00",
-      "text": "The Whoop wristband is clingly. You can't take it off without it sending annoying messages about your wristband being off, so notifications have to be turned off entirely. Then Whoop processes your data through AI when opening pages and forces its AI slop without a way to opt out. After reaching out to customer service for the first time, I received a clueless AI-generated response. After that, I cancelled my subscription and threw my Whoop wristband in the trash.",
-      "subcategory_tags": [
-        "notification_community_issues",
-        "ai_autonomy",
-        "ai_only_support_channel",
-        "billing_disputes"
-      ]
-    },
-    {
-      "review_id": "14402367478",
-      "source": "app_store",
-      "rating": 3,
-      "date": "2026-08-08T03:50:37-07:00",
-      "text": "Poderia oferecer e ser mais fácil de entender pelo que cobra, ex: dificuldade de colocar os exames no aplicativo, etc..",
-      "subcategory_tags": [
-        "price_value_perception",
-        "english_jargon_complexity"
-      ]
-    },
-    {
-      "review_id": "3e395941-9621-4f32-872e-3b64fcc721c7",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2026-08-07T17:03:04+00:00",
-      "text": "The worst app support and customer support you can expect for such a premium that you pay for their services. I did not exact this from Whoop. Do no recommend anyone using this product. It's a scam. Stay away",
-      "subcategory_tags": [
-        "support_responsiveness",
-        "price_value_perception"
-      ]
     }
   ],
   "price_value_perception": [
+    {
+      "review_id": "1c0e8872-d2fe-4fd5-b7b1-dde9f93e8a74",
+      "source": "google_play",
+      "rating": 5,
+      "date": "2026-09-02T15:27:46+00:00",
+      "text": "it's good but it's a bit expensive",
+      "subcategory_tags": [
+        "price_value_perception"
+      ]
+    },
+    {
+      "review_id": "14499681422",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-09-01T16:30:44-07:00",
+      "text": "I bought a WHOOP because I wanted good sleep detection, but they’ve updated the algorithm a couple of times and completely messed up the sleep detection at this point. The rest of the functions are no different than what you get on a much cheaper Fitbit or any other tracker. I would strongly recommend against buying WHOOP. Likewise, the support has been terrible.",
+      "subcategory_tags": [
+        "sleep_accuracy",
+        "price_value_perception"
+      ]
+    },
     {
       "review_id": "1db8e294-c1b7-459d-ae38-06d53b7cb88a",
       "source": "google_play",
@@ -663,33 +680,6 @@
       "subcategory_tags": [
         "metric_accuracy",
         "ai_reliability_bugs",
-        "price_value_perception"
-      ]
-    },
-    {
-      "review_id": "abc20aac-c89c-4824-9d67-43c978fcbc3e",
-      "source": "google_play",
-      "rating": 4,
-      "date": "2026-08-02T16:08:49",
-      "text": "Monitoring of sleep and recovery ,HRV ,are very good. But many rooms of improvement for the expensive cost of memberships. Ai advice are mainly push you to more exercise and sleep. And data collections , diary are time consuming. It cannot detect activities uncless you log in. customer service are slow. Multiple lag time and hang of app requiring forced close and restore. Ai advice of activities are not medical advice , but its act like one. So I use it just baseline daily monitor.",
-      "subcategory_tags": [
-        "sleep_satisfaction",
-        "price_value_perception",
-        "ai_reliability_bugs",
-        "activity_detection",
-        "support_responsiveness",
-        "crashes_freezes"
-      ]
-    },
-    {
-      "review_id": "14376933635",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-08-01T19:15:32-07:00",
-      "text": "Dirty people that steal your money during a free charge. No support at all just ai bots. Absolute junk don’t waste your time or money",
-      "subcategory_tags": [
-        "billing_disputes",
-        "ai_only_support_channel",
         "price_value_perception"
       ]
     }
@@ -1380,6 +1370,16 @@
   ],
   "upsell_pressure": [
     {
+      "review_id": "ba13f413-e505-4615-a0d6-cdffbc6325da",
+      "source": "google_play",
+      "rating": 1,
+      "date": "2026-09-02T12:58:00+00:00",
+      "text": "As a paid member, this app is FULL of ads. They most care about milking every cent from you.",
+      "subcategory_tags": [
+        "upsell_pressure"
+      ]
+    },
+    {
       "review_id": "c168f7e5-9c80-445b-9529-14e2c38df90f",
       "source": "google_play",
       "rating": 2,
@@ -1711,21 +1711,64 @@
         "upsell_pressure",
         "feature_ui_friction"
       ]
-    },
-    {
-      "review_id": "d0e5061a-5a30-4d70-a44b-37ceca256578",
-      "source": "google_play",
-      "rating": 2,
-      "date": "2025-12-31T05:15:16",
-      "text": "Update: You've added ads? I don't pay hundreds of dollars a year to see ads. 2 stars. The \"3, 2, 1\" is annoying and is 3 seconds spent not working out. Also when I pull to refresh, it says \"Data caught up 11:45AM\" with a green checkmark. I know it's noon, my phone knows it's noon, and your servers know it's noon. There's no reason for any part of this system to believe that 11:45 is \"caught up\"",
-      "subcategory_tags": [
-        "upsell_pressure",
-        "price_value_perception",
-        "data_sync_delays"
-      ]
     }
   ],
   "sleep_tracking": [
+    {
+      "review_id": "14501549600",
+      "source": "app_store",
+      "rating": 2,
+      "date": "2026-09-02T05:13:37-07:00",
+      "text": "I’ve been a Whoop “member” since 2017. It’s been a struggle to watch this company fall into the same traps of most tech companies. The strap’s performance is terrible. I’ve had to adjust my sleep almost every day for 3+ years and this occurred with the 3.0, 4.0, amd now the 5.0. To make matters worse, you have to go through horrendous AI to try and get answers that inevitably doesn’t work. When/if you get a human involved, they will tell you some basic advice that doesn’t consider your particular situation and won’t be helpful.",
+      "subcategory_tags": [
+        "sleep_accuracy",
+        "ai_only_support_channel",
+        "support_resolution_quality"
+      ]
+    },
+    {
+      "review_id": "14501414205",
+      "source": "app_store",
+      "rating": 5,
+      "date": "2026-09-02T04:31:09-07:00",
+      "text": "Whoop has helped me figure out my sleep so that I am more aware of how my daily habits directly affect my sleep!",
+      "subcategory_tags": [
+        "sleep_satisfaction"
+      ]
+    },
+    {
+      "review_id": "14500034304",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-09-01T18:46:41-07:00",
+      "text": "The WHOOP band occasionally stops working automatically while sleeping at night.",
+      "subcategory_tags": [
+        "sleep_accuracy",
+        "data_sync_delays"
+      ]
+    },
+    {
+      "review_id": "14499681422",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-09-01T16:30:44-07:00",
+      "text": "I bought a WHOOP because I wanted good sleep detection, but they’ve updated the algorithm a couple of times and completely messed up the sleep detection at this point. The rest of the functions are no different than what you get on a much cheaper Fitbit or any other tracker. I would strongly recommend against buying WHOOP. Likewise, the support has been terrible.",
+      "subcategory_tags": [
+        "sleep_accuracy",
+        "price_value_perception"
+      ]
+    },
+    {
+      "review_id": "14497552463",
+      "source": "app_store",
+      "rating": 5,
+      "date": "2026-09-01T04:58:22-07:00",
+      "text": "Loving my Whoop!!  Keeps track of my steps, analyzes my sleep & training. It’s helpful with designing workouts on demand. It’s gotten to know my movements so if I forget to start an activity, it will automatically know I’ve started & will process the data anyway.",
+      "subcategory_tags": [
+        "sleep_satisfaction",
+        "activity_detection"
+      ]
+    },
     {
       "review_id": "14489517148",
       "source": "app_store",
@@ -2005,62 +2048,43 @@
       "subcategory_tags": [
         "sleep_satisfaction"
       ]
-    },
-    {
-      "review_id": "14398184389",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-08-07T02:01:26-07:00",
-      "text": "This device continues to miss my sleep even though it is placed correctly, and charged how it should be. I have had it replaced and changed the strap. I made the mistake of paying for a year… and they will not refund me. I will not do that again. Also the AI feature is generic and unhelpful. It doesn’t even notice that the data isn’t accurate.",
-      "subcategory_tags": [
-        "sleep_accuracy",
-        "billing_disputes",
-        "ai_reliability_bugs"
-      ]
-    },
-    {
-      "review_id": "47ea5e4b-f15c-4a98-adbd-17f3bd12a261",
-      "source": "google_play",
-      "rating": 5,
-      "date": "2026-08-06T02:51:46",
-      "text": "this has really helped me with good insights into how my choices affect sleep and recovery patterns. I am really pleased thus far",
-      "subcategory_tags": [
-        "sleep_satisfaction"
-      ]
-    },
-    {
-      "review_id": "14391085029",
-      "source": "app_store",
-      "rating": 4,
-      "date": "2026-08-05T07:07:38-07:00",
-      "text": "Whoop has helped me realize sleep quality, HRV, and overall stress (physical and non physical) as well as the associated impacts to each. I now fully understand what alcohol, and mental stress will do to my overall help and can track and take steps to avoid/improve my sleep.",
-      "subcategory_tags": [
-        "sleep_satisfaction"
-      ]
-    },
-    {
-      "review_id": "14387543807",
-      "source": "app_store",
-      "rating": 5,
-      "date": "2026-08-04T09:43:26-07:00",
-      "text": "I bought the whoop band 5.0 peak to start learning about my sleep patterns and fitness habits (or lack of them). It has been a great acquisition, every day I learn more of the features on the app to improve also my workouts in a way that guides me to do it better and to have a better understanding on recovery and sleep needs. It is very cool.",
-      "subcategory_tags": [
-        "sleep_satisfaction"
-      ]
-    },
-    {
-      "review_id": "14386610513",
-      "source": "app_store",
-      "rating": 5,
-      "date": "2026-08-04T05:16:35-07:00",
-      "text": "The device has significantly helped me manage my sleep quality , along with using sleep hygiene and it has helped  me monitor my heart rate during jogging. I do recommend to it friends",
-      "subcategory_tags": [
-        "sleep_satisfaction",
-        "metric_accuracy"
-      ]
     }
   ],
   "sleep_accuracy": [
+    {
+      "review_id": "14501549600",
+      "source": "app_store",
+      "rating": 2,
+      "date": "2026-09-02T05:13:37-07:00",
+      "text": "I’ve been a Whoop “member” since 2017. It’s been a struggle to watch this company fall into the same traps of most tech companies. The strap’s performance is terrible. I’ve had to adjust my sleep almost every day for 3+ years and this occurred with the 3.0, 4.0, amd now the 5.0. To make matters worse, you have to go through horrendous AI to try and get answers that inevitably doesn’t work. When/if you get a human involved, they will tell you some basic advice that doesn’t consider your particular situation and won’t be helpful.",
+      "subcategory_tags": [
+        "sleep_accuracy",
+        "ai_only_support_channel",
+        "support_resolution_quality"
+      ]
+    },
+    {
+      "review_id": "14500034304",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-09-01T18:46:41-07:00",
+      "text": "The WHOOP band occasionally stops working automatically while sleeping at night.",
+      "subcategory_tags": [
+        "sleep_accuracy",
+        "data_sync_delays"
+      ]
+    },
+    {
+      "review_id": "14499681422",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-09-01T16:30:44-07:00",
+      "text": "I bought a WHOOP because I wanted good sleep detection, but they’ve updated the algorithm a couple of times and completely messed up the sleep detection at this point. The rest of the functions are no different than what you get on a much cheaper Fitbit or any other tracker. I would strongly recommend against buying WHOOP. Likewise, the support has been terrible.",
+      "subcategory_tags": [
+        "sleep_accuracy",
+        "price_value_perception"
+      ]
+    },
     {
       "review_id": "14466799494",
       "source": "app_store",
@@ -2381,49 +2405,30 @@
         "sleep_accuracy",
         "metric_accuracy"
       ]
-    },
-    {
-      "review_id": "1d02dc43-48dc-47c6-be79-1c28ff313fa2",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2026-06-11T22:26:58",
-      "text": "Stay away. App always have problems, crashes all the time get stuck ,don't detect sleep and now I can't even use the app at all its fully stuck and waiting for customer support but nothing. Don't waste you money here go and buy Fitbit air or any Garmin. Once my yearly subscription is over I will not be renewing. I really regretted using whoop.",
-      "subcategory_tags": [
-        "crashes_freezes",
-        "sleep_accuracy",
-        "support_responsiveness",
-        "price_value_perception"
-      ]
-    },
-    {
-      "review_id": "31911b4f-520f-4f29-ba5d-13ef131d7dc6",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2026-06-11T19:05:26",
-      "text": "I've been using this device for over a year, and the same issues have existed since day one. Data is frequently missing, sleep and recovery metrics often fail to register, and syncing is unreliable. For a product that requires an expensive membership, I expected far better performance. The constant technical problems make the data difficult to trust, and after a year of frustration, I don't believe this device offers good value for the price.",
-      "subcategory_tags": [
-        "data_sync_delays",
-        "sleep_accuracy",
-        "metric_accuracy",
-        "price_value_perception"
-      ]
-    },
-    {
-      "review_id": "53f1424d-0046-4682-8a95-cc691da3667a",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2026-06-11T11:47:18",
-      "text": "glitchy app, often fails to register activities or process manually tracked sleep at all (leading to no recovery or sleep score). rebooting, force closing, Bluetooth toggling, un/reinstallation all fail. shameful price and a model that holds the user hostage",
-      "subcategory_tags": [
-        "crashes_freezes",
-        "activity_detection",
-        "sleep_accuracy",
-        "price_value_perception",
-        "billing_disputes"
-      ]
     }
   ],
   "sleep_satisfaction": [
+    {
+      "review_id": "14501414205",
+      "source": "app_store",
+      "rating": 5,
+      "date": "2026-09-02T04:31:09-07:00",
+      "text": "Whoop has helped me figure out my sleep so that I am more aware of how my daily habits directly affect my sleep!",
+      "subcategory_tags": [
+        "sleep_satisfaction"
+      ]
+    },
+    {
+      "review_id": "14497552463",
+      "source": "app_store",
+      "rating": 5,
+      "date": "2026-09-01T04:58:22-07:00",
+      "text": "Loving my Whoop!!  Keeps track of my steps, analyzes my sleep & training. It’s helpful with designing workouts on demand. It’s gotten to know my movements so if I forget to start an activity, it will automatically know I’ve started & will process the data anyway.",
+      "subcategory_tags": [
+        "sleep_satisfaction",
+        "activity_detection"
+      ]
+    },
     {
       "review_id": "14489517148",
       "source": "app_store",
@@ -2725,26 +2730,6 @@
       "text": "I started wearing Whoop in a critical time of my life. Seeing the numbers has helped me to keep strong lifestyle habits of healthy sleep & exercise. The app just keeps getting better with the new AI features. I can literally ask my “coach”, “is now too late to do a workout?” And it will usually tell me to not workout within 90 minutes of bedtime. Having Whooping makes me healthier. I highly recommend.",
       "subcategory_tags": [
         "ai_positive_reception",
-        "sleep_satisfaction"
-      ]
-    },
-    {
-      "review_id": "14342068663",
-      "source": "app_store",
-      "rating": 5,
-      "date": "2026-07-24T04:17:37-07:00",
-      "text": "Been wearing the Whoop since 2020, according to the app I’ve had it on for more than 1,900 days straight. Love the feedback it gives, the ability to customize, and I use it as a daily tracker for sleep, stress, and several health indicators. Huge fan!",
-      "subcategory_tags": [
-        "sleep_satisfaction"
-      ]
-    },
-    {
-      "review_id": "14341859941",
-      "source": "app_store",
-      "rating": 5,
-      "date": "2026-07-24T03:00:53-07:00",
-      "text": "Whoop has radically changed the routine of my wife and I for the better, especially our sleep.  And now we can see clearly how critical a good sleep foundation and diet are for supporting a great day.  And a great day is required to stay healthy, and become strong, smart, disciplined, and fit.  And all of that is required to be able to do the most good for others while also being the smallest burden on others.  QED.",
-      "subcategory_tags": [
         "sleep_satisfaction"
       ]
     }
@@ -4833,6 +4818,17 @@
   ],
   "sync_connectivity": [
     {
+      "review_id": "14500034304",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-09-01T18:46:41-07:00",
+      "text": "The WHOOP band occasionally stops working automatically while sleeping at night.",
+      "subcategory_tags": [
+        "sleep_accuracy",
+        "data_sync_delays"
+      ]
+    },
+    {
       "review_id": "14493545320",
       "source": "app_store",
       "rating": 2,
@@ -5157,19 +5153,6 @@
       "subcategory_tags": [
         "sleep_satisfaction",
         "data_sync_delays"
-      ]
-    },
-    {
-      "review_id": "31911b4f-520f-4f29-ba5d-13ef131d7dc6",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2026-06-11T19:05:26",
-      "text": "I've been using this device for over a year, and the same issues have existed since day one. Data is frequently missing, sleep and recovery metrics often fail to register, and syncing is unreliable. For a product that requires an expensive membership, I expected far better performance. The constant technical problems make the data difficult to trust, and after a year of frustration, I don't believe this device offers good value for the price.",
-      "subcategory_tags": [
-        "data_sync_delays",
-        "sleep_accuracy",
-        "metric_accuracy",
-        "price_value_perception"
       ]
     }
   ],
@@ -5840,6 +5823,17 @@
   ],
   "data_sync_delays": [
     {
+      "review_id": "14500034304",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-09-01T18:46:41-07:00",
+      "text": "The WHOOP band occasionally stops working automatically while sleeping at night.",
+      "subcategory_tags": [
+        "sleep_accuracy",
+        "data_sync_delays"
+      ]
+    },
+    {
       "review_id": "14485637035",
       "source": "app_store",
       "rating": 1,
@@ -6177,22 +6171,20 @@
       "subcategory_tags": [
         "data_sync_delays"
       ]
-    },
-    {
-      "review_id": "13961248537",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-04-15T10:57:10-07:00",
-      "text": "Ive had my whoop since December n i’ve had 2 issues of giving wrong info and data. Just now after putting me on Whoop Bets Lab testing after midnight, a lot of data is blank, missing and incorrect. Chat bot is not much help. Once u email the reply is a bunch of excuses instead of fixing the issue. Very hard to get help to resolve the issue. Even the Ai chat has agreed dat it gave me wrong info. I suggest go elsewhere for your tracking needs.",
-      "subcategory_tags": [
-        "data_sync_delays",
-        "metric_accuracy",
-        "ai_only_support_channel",
-        "support_resolution_quality"
-      ]
     }
   ],
   "data_accuracy": [
+    {
+      "review_id": "14497552463",
+      "source": "app_store",
+      "rating": 5,
+      "date": "2026-09-01T04:58:22-07:00",
+      "text": "Loving my Whoop!!  Keeps track of my steps, analyzes my sleep & training. It’s helpful with designing workouts on demand. It’s gotten to know my movements so if I forget to start an activity, it will automatically know I’ve started & will process the data anyway.",
+      "subcategory_tags": [
+        "sleep_satisfaction",
+        "activity_detection"
+      ]
+    },
     {
       "review_id": "bb7c406c-f23d-40dc-aaba-deeae1e7d666",
       "source": "google_play",
@@ -6531,19 +6523,6 @@
         "metric_accuracy",
         "data_sync_delays",
         "activity_detection"
-      ]
-    },
-    {
-      "review_id": "1a6e0142-c7da-49b4-8b80-2ef748251ed7",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2026-07-29T03:45:00",
-      "text": "relax practice not work without network connection, whoop simultaneously disconnected from app, activity auto-detection worx bad, stupid time input interface when filling out the journal — it's impossible to get to the right time (previous review magically deleted from store)",
-      "subcategory_tags": [
-        "data_sync_delays",
-        "ongoing_disconnects",
-        "activity_detection",
-        "feature_ui_friction"
       ]
     }
   ],
@@ -6899,6 +6878,17 @@
   ],
   "activity_detection": [
     {
+      "review_id": "14497552463",
+      "source": "app_store",
+      "rating": 5,
+      "date": "2026-09-01T04:58:22-07:00",
+      "text": "Loving my Whoop!!  Keeps track of my steps, analyzes my sleep & training. It’s helpful with designing workouts on demand. It’s gotten to know my movements so if I forget to start an activity, it will automatically know I’ve started & will process the data anyway.",
+      "subcategory_tags": [
+        "sleep_satisfaction",
+        "activity_detection"
+      ]
+    },
+    {
       "review_id": "bb7c406c-f23d-40dc-aaba-deeae1e7d666",
       "source": "google_play",
       "rating": 3,
@@ -7248,19 +7238,6 @@
         "sleep_accuracy",
         "strap_clasp_durability",
         "support_resolution_quality"
-      ]
-    },
-    {
-      "review_id": "4fdc3572-a028-4f8f-b369-5a5781ccc7eb",
-      "source": "google_play",
-      "rating": 2,
-      "date": "2026-05-16T21:27:11",
-      "text": "Lots of great marketing, but the product just doesn’t deliver. There are plenty of analytics, but I don’t trust the data, and the software is buggy as hell. Even simple features like automatic time zone changes or ending a workout automatically — or at least notifying you when your heart rate drops — don’t work properly. Save your money and buy something that actually works.",
-      "subcategory_tags": [
-        "metric_accuracy",
-        "crashes_freezes",
-        "activity_detection",
-        "price_value_perception"
       ]
     }
   ],
@@ -9333,6 +9310,18 @@
   ],
   "customer_support": [
     {
+      "review_id": "14501549600",
+      "source": "app_store",
+      "rating": 2,
+      "date": "2026-09-02T05:13:37-07:00",
+      "text": "I’ve been a Whoop “member” since 2017. It’s been a struggle to watch this company fall into the same traps of most tech companies. The strap’s performance is terrible. I’ve had to adjust my sleep almost every day for 3+ years and this occurred with the 3.0, 4.0, amd now the 5.0. To make matters worse, you have to go through horrendous AI to try and get answers that inevitably doesn’t work. When/if you get a human involved, they will tell you some basic advice that doesn’t consider your particular situation and won’t be helpful.",
+      "subcategory_tags": [
+        "sleep_accuracy",
+        "ai_only_support_channel",
+        "support_resolution_quality"
+      ]
+    },
+    {
       "review_id": "14493545320",
       "source": "app_store",
       "rating": 2,
@@ -9673,18 +9662,6 @@
         "price_value_perception",
         "comfort_fit",
         "support_responsiveness"
-      ]
-    },
-    {
-      "review_id": "47bd6b0e-f217-4429-8d9d-10d5a5ce64c2",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2026-07-09T20:13:22",
-      "text": "terrible customer service. the device \"rejected\" my phone and trying to rectify that has been terrible. even finding a way to log on on the app is ridiculous. After digging around several hours for help, I did what the app suggested and used the email address the APP GAVE and still working on it with \"Albert\" and had to provide my receipt (understandable) and after providing had to respond in email with all of the information I just provided in the damn receipt. on week 2 with no resolution",
-      "subcategory_tags": [
-        "support_responsiveness",
-        "support_resolution_quality",
-        "ongoing_disconnects"
       ]
     }
   ],
@@ -10052,6 +10029,18 @@
   ],
   "support_resolution_quality": [
     {
+      "review_id": "14501549600",
+      "source": "app_store",
+      "rating": 2,
+      "date": "2026-09-02T05:13:37-07:00",
+      "text": "I’ve been a Whoop “member” since 2017. It’s been a struggle to watch this company fall into the same traps of most tech companies. The strap’s performance is terrible. I’ve had to adjust my sleep almost every day for 3+ years and this occurred with the 3.0, 4.0, amd now the 5.0. To make matters worse, you have to go through horrendous AI to try and get answers that inevitably doesn’t work. When/if you get a human involved, they will tell you some basic advice that doesn’t consider your particular situation and won’t be helpful.",
+      "subcategory_tags": [
+        "sleep_accuracy",
+        "ai_only_support_channel",
+        "support_resolution_quality"
+      ]
+    },
+    {
       "review_id": "14493545320",
       "source": "app_store",
       "rating": 2,
@@ -10394,21 +10383,21 @@
         "billing_disputes",
         "support_resolution_quality"
       ]
-    },
-    {
-      "review_id": "c89733ea-8499-4f11-bffe-1709581de49b",
-      "source": "google_play",
-      "rating": 2,
-      "date": "2026-06-10T18:00:57",
-      "text": "app is pretty basic and super expensive. customer service is horrible. the AI in the app is pretty bad.",
-      "subcategory_tags": [
-        "price_value_perception",
-        "support_resolution_quality",
-        "ai_reliability_bugs"
-      ]
     }
   ],
   "ai_only_support_channel": [
+    {
+      "review_id": "14501549600",
+      "source": "app_store",
+      "rating": 2,
+      "date": "2026-09-02T05:13:37-07:00",
+      "text": "I’ve been a Whoop “member” since 2017. It’s been a struggle to watch this company fall into the same traps of most tech companies. The strap’s performance is terrible. I’ve had to adjust my sleep almost every day for 3+ years and this occurred with the 3.0, 4.0, amd now the 5.0. To make matters worse, you have to go through horrendous AI to try and get answers that inevitably doesn’t work. When/if you get a human involved, they will tell you some basic advice that doesn’t consider your particular situation and won’t be helpful.",
+      "subcategory_tags": [
+        "sleep_accuracy",
+        "ai_only_support_channel",
+        "support_resolution_quality"
+      ]
+    },
     {
       "review_id": "14473197727",
       "source": "app_store",
@@ -10767,18 +10756,6 @@
         "data_sync_delays",
         "price_value_perception",
         "ai_only_support_channel"
-      ]
-    },
-    {
-      "review_id": "59792f62-4b7e-45ab-a32f-16bd0e28088e",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2025-12-03T04:24:53",
-      "text": "Whoop MG device failed after 6 weeks, the AI support is appalling, and now I'm left with a device that doesn't work and a subscription that is 2 years prepaid with no way to speak to a human. even cancelling doesn't refund the unused subscription... garbage device and support. this feels like a scam tbh. avoid at all costs.",
-      "subcategory_tags": [
-        "build_quality_perception",
-        "ai_only_support_channel",
-        "billing_disputes"
       ]
     }
   ],
