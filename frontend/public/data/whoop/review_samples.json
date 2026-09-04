@@ -1,6 +1,29 @@
 {
   "pricing_billing": [
     {
+      "review_id": "b59257e7-d38a-4526-ae5d-602f781b7578",
+      "source": "google_play",
+      "rating": 1,
+      "date": "2026-09-03T13:33:31+00:00",
+      "text": "difficult to use the app doesn't offer a lot of functionality in terms of figuring out where things are but it does have ai that you can ask questions I use it to tell me how I slept probably not worth the money",
+      "subcategory_tags": [
+        "redesign_regression",
+        "price_value_perception",
+        "sleep_satisfaction"
+      ]
+    },
+    {
+      "review_id": "14505238659",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-09-03T04:08:59-07:00",
+      "text": "I was told that Whoop changed their algorithm to help track heart rate better, but since it's done that, it's done a horrible job of tracking my real heart rate. \n\nI compare it against my Apple Watch, which is usually bad, but now I lean on it much more than my Whoop. I can be having a high-intensity interval training session, heart rate skyrocketing, and it doesn't even show me past zone 1. It's pretty ridiculous. \n\nI'm not renewing. This algorithm change messed things up.",
+      "subcategory_tags": [
+        "metric_accuracy",
+        "price_value_perception"
+      ]
+    },
+    {
       "review_id": "1c0e8872-d2fe-4fd5-b7b1-dde9f93e8a74",
       "source": "google_play",
       "rating": 5,
@@ -316,32 +339,32 @@
       "subcategory_tags": [
         "price_value_perception"
       ]
+    }
+  ],
+  "price_value_perception": [
+    {
+      "review_id": "b59257e7-d38a-4526-ae5d-602f781b7578",
+      "source": "google_play",
+      "rating": 1,
+      "date": "2026-09-03T13:33:31+00:00",
+      "text": "difficult to use the app doesn't offer a lot of functionality in terms of figuring out where things are but it does have ai that you can ask questions I use it to tell me how I slept probably not worth the money",
+      "subcategory_tags": [
+        "redesign_regression",
+        "price_value_perception",
+        "sleep_satisfaction"
+      ]
     },
     {
-      "review_id": "14405356198",
+      "review_id": "14505238659",
       "source": "app_store",
-      "rating": 3,
-      "date": "2026-08-08T21:56:04-07:00",
-      "text": "The piling on of AI “features” that I can’t turn off or opt out of is already irritating, but the tracking has also only been getting worse (it used to be on the nose about my main activity, now it is all over the place and regular automatically stops logging when I’ve barely even started, only to log showers as activities instead). It might just be coincidence but the decline coinciding with the increased AI integration, and my observations of every other AI tool I’ve been unable to avoid, do make me suspicious that these things are related, to Whoop’s detriment. A new low, it logged 4x as many steps as Apple Health today - I was on a road trip for 5.5 hours, Whoop is definitely the one that’s wrong about this. If they insist on burying themselves with AI, I just wish I could at least turn off the way it interacts with me. I don’t want an app talking to me in a creepy imitation of a person. Unfortunately, I bought a longer subscription at my last renewal. If the accuracy doesn’t come back by the time that expires, I just don’t think the high price will be worth it.",
+      "rating": 1,
+      "date": "2026-09-03T04:08:59-07:00",
+      "text": "I was told that Whoop changed their algorithm to help track heart rate better, but since it's done that, it's done a horrible job of tracking my real heart rate. \n\nI compare it against my Apple Watch, which is usually bad, but now I lean on it much more than my Whoop. I can be having a high-intensity interval training session, heart rate skyrocketing, and it doesn't even show me past zone 1. It's pretty ridiculous. \n\nI'm not renewing. This algorithm change messed things up.",
       "subcategory_tags": [
-        "ai_autonomy",
-        "activity_detection",
         "metric_accuracy",
         "price_value_perception"
       ]
     },
-    {
-      "review_id": "f3c8c299-0735-474b-8868-b9eb483215ae",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2026-08-09T04:45:42+00:00",
-      "text": "No value for money 👎",
-      "subcategory_tags": [
-        "price_value_perception"
-      ]
-    }
-  ],
-  "price_value_perception": [
     {
       "review_id": "1c0e8872-d2fe-4fd5-b7b1-dde9f93e8a74",
       "source": "google_play",
@@ -657,29 +680,6 @@
       "date": "2026-08-03T15:36:42",
       "text": "too expensive for what it is",
       "subcategory_tags": [
-        "price_value_perception"
-      ]
-    },
-    {
-      "review_id": "6ed4cbc3-4892-4558-b910-0fc434cd3e19",
-      "source": "google_play",
-      "rating": 4,
-      "date": "2026-08-03T09:44:02",
-      "text": "The app and the Product are great. The information and biometric readings are very helpful when keeping track of health and activity. However, the price for the whole experience is very high and really only for those who want and need the very detailed statics. If there was a way to pay for just the band and use a less robust version for general activity and sleep tracking. I will be done after the my year is over and be moving to a different screenless activity tracker that I only pay for once.",
-      "subcategory_tags": [
-        "price_value_perception",
-        "plan_trial_structure"
-      ]
-    },
-    {
-      "review_id": "81d55955-d3d9-4fd2-8ac3-8e3334e8bd6f",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2026-08-03T09:37:15",
-      "text": "Steps which are a core metric of my day are extremely inaccurate. The ai defends a clearly flawed product. The price for subscription is far too high for a product that is still in development. Overall I can't trust anything this device says. I wasted my money so you don't have to. Be warned the Whoop MG is a joke. One that I am stuck with for a year now.",
-      "subcategory_tags": [
-        "metric_accuracy",
-        "ai_reliability_bugs",
         "price_value_perception"
       ]
     }
@@ -1715,6 +1715,18 @@
   ],
   "sleep_tracking": [
     {
+      "review_id": "b59257e7-d38a-4526-ae5d-602f781b7578",
+      "source": "google_play",
+      "rating": 1,
+      "date": "2026-09-03T13:33:31+00:00",
+      "text": "difficult to use the app doesn't offer a lot of functionality in terms of figuring out where things are but it does have ai that you can ask questions I use it to tell me how I slept probably not worth the money",
+      "subcategory_tags": [
+        "redesign_regression",
+        "price_value_perception",
+        "sleep_satisfaction"
+      ]
+    },
+    {
       "review_id": "14501549600",
       "source": "app_store",
       "rating": 2,
@@ -2035,16 +2047,6 @@
       "rating": 5,
       "date": "2026-08-08T04:48:38-07:00",
       "text": "I’ve had WHOOP for over 5 years and still wear it every day. I’m very active, and I love being able to track my recovery, sleep, and strain and see how my body is actually handling everything. WHOOP has continued to get better over the years, and it’s definitely been worth it for me.",
-      "subcategory_tags": [
-        "sleep_satisfaction"
-      ]
-    },
-    {
-      "review_id": "14402465349",
-      "source": "app_store",
-      "rating": 5,
-      "date": "2026-08-08T04:28:11-07:00",
-      "text": "The best self investment, great for tracking post recovery and sleep quality. Lot many deep features embedded to band.",
       "subcategory_tags": [
         "sleep_satisfaction"
       ]
@@ -2409,6 +2411,18 @@
   ],
   "sleep_satisfaction": [
     {
+      "review_id": "b59257e7-d38a-4526-ae5d-602f781b7578",
+      "source": "google_play",
+      "rating": 1,
+      "date": "2026-09-03T13:33:31+00:00",
+      "text": "difficult to use the app doesn't offer a lot of functionality in terms of figuring out where things are but it does have ai that you can ask questions I use it to tell me how I slept probably not worth the money",
+      "subcategory_tags": [
+        "redesign_regression",
+        "price_value_perception",
+        "sleep_satisfaction"
+      ]
+    },
+    {
       "review_id": "14501414205",
       "source": "app_store",
       "rating": 5,
@@ -2719,17 +2733,6 @@
       "date": "2026-07-24T20:03:01",
       "text": "Buy Whoop if: You're serious about training, sleep, and recovery data and don't care about a screen it's really work superb. It's amazing.",
       "subcategory_tags": [
-        "sleep_satisfaction"
-      ]
-    },
-    {
-      "review_id": "14342872740",
-      "source": "app_store",
-      "rating": 5,
-      "date": "2026-07-24T08:17:11-07:00",
-      "text": "I started wearing Whoop in a critical time of my life. Seeing the numbers has helped me to keep strong lifestyle habits of healthy sleep & exercise. The app just keeps getting better with the new AI features. I can literally ask my “coach”, “is now too late to do a workout?” And it will usually tell me to not workout within 90 minutes of bedtime. Having Whooping makes me healthier. I highly recommend.",
-      "subcategory_tags": [
-        "ai_positive_reception",
         "sleep_satisfaction"
       ]
     }
@@ -6175,6 +6178,17 @@
   ],
   "data_accuracy": [
     {
+      "review_id": "14505238659",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-09-03T04:08:59-07:00",
+      "text": "I was told that Whoop changed their algorithm to help track heart rate better, but since it's done that, it's done a horrible job of tracking my real heart rate. \n\nI compare it against my Apple Watch, which is usually bad, but now I lean on it much more than my Whoop. I can be having a high-intensity interval training session, heart rate skyrocketing, and it doesn't even show me past zone 1. It's pretty ridiculous. \n\nI'm not renewing. This algorithm change messed things up.",
+      "subcategory_tags": [
+        "metric_accuracy",
+        "price_value_perception"
+      ]
+    },
+    {
       "review_id": "14497552463",
       "source": "app_store",
       "rating": 5,
@@ -6512,21 +6526,20 @@
         "support_responsiveness",
         "crashes_freezes"
       ]
-    },
-    {
-      "review_id": "24aea93b-a881-4feb-9856-9372b4658e73",
-      "source": "google_play",
-      "rating": 2,
-      "date": "2026-07-29T11:23:20",
-      "text": "it is kind of fun, but I suspect it makes up data sometimes, and it is really bad at offline data capture. If you're going on a multiday hike out of coverage, Whoop will fail to capture your activities. It needs some work",
-      "subcategory_tags": [
-        "metric_accuracy",
-        "data_sync_delays",
-        "activity_detection"
-      ]
     }
   ],
   "metric_accuracy": [
+    {
+      "review_id": "14505238659",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-09-03T04:08:59-07:00",
+      "text": "I was told that Whoop changed their algorithm to help track heart rate better, but since it's done that, it's done a horrible job of tracking my real heart rate. \n\nI compare it against my Apple Watch, which is usually bad, but now I lean on it much more than my Whoop. I can be having a high-intensity interval training session, heart rate skyrocketing, and it doesn't even show me past zone 1. It's pretty ridiculous. \n\nI'm not renewing. This algorithm change messed things up.",
+      "subcategory_tags": [
+        "metric_accuracy",
+        "price_value_perception"
+      ]
+    },
     {
       "review_id": "aa2b9bb7-594f-4a3b-ae34-b8cabeb744b5",
       "source": "google_play",
@@ -6860,18 +6873,6 @@
         "metric_accuracy",
         "activity_detection",
         "ecg_bp_feature_reliability",
-        "price_value_perception"
-      ]
-    },
-    {
-      "review_id": "14287048492",
-      "source": "app_store",
-      "rating": 3,
-      "date": "2026-07-10T11:00:17-07:00",
-      "text": "Cool data but I struggle to make it actionable. It does a great job tracking sleep but over counts steps and seems to be off on things like BMR. I’ll likely go back to Apple Watch. It has its challenges too but is paid for…",
-      "subcategory_tags": [
-        "metric_accuracy",
-        "sleep_satisfaction",
         "price_value_perception"
       ]
     }
@@ -7983,6 +7984,48 @@
   ],
   "ai_coach": [
     {
+      "review_id": "14505542508",
+      "source": "app_store",
+      "rating": 5,
+      "date": "2026-09-03T05:45:55-07:00",
+      "text": "Luv stats and focus on improving. Their AI is very good",
+      "subcategory_tags": [
+        "ai_positive_reception"
+      ]
+    },
+    {
+      "review_id": "14505214382",
+      "source": "app_store",
+      "rating": 2,
+      "date": "2026-09-03T04:00:27-07:00",
+      "text": "While the data is great, the AI “coach” nags too much. It can be annoying and sometimes frustrating.\n\nAll I need is the metrics.  I wish I could turn it off.",
+      "subcategory_tags": [
+        "ai_autonomy"
+      ]
+    },
+    {
+      "review_id": "ad4bbc81-07f9-4d20-af41-1448ab5eb456",
+      "source": "google_play",
+      "rating": 2,
+      "date": "2026-09-03T07:16:08+00:00",
+      "text": "The AI overlays are buggy. They restrict being able to use the screens e. g. The Sleep metric screen cannot be scrolled as the AI overlay tile prevents any touches to be detected by the main screen. On the screens where the AI overlay do not have this buy the tile is still large enough to feel they are intruding readability of the page. Only on the Home page does the Overlay minimise to the small W logo and stay put on the right hand side. The AI overlay should also be on demand only.",
+      "subcategory_tags": [
+        "ai_autonomy",
+        "feature_ui_friction"
+      ]
+    },
+    {
+      "review_id": "97dd672a-ecc3-4f24-951f-9fbeb849a23b",
+      "source": "google_play",
+      "rating": 5,
+      "date": "2026-09-02T23:20:16+00:00",
+      "text": "Buggy-ness or not, I love this app. Unlike others, I've not used it for much fitness tracking but to manage my ADHD and normally crippling menstrual cycles. In less than 2 months, the coaching is more tailored to my executive dysfunction and has noticeably raised my focused work time. It advises me on handling distractions & to get to bed on time or what to do the next day if I haven't listened. A friend with chronic illness suggested it to me, so it has more to offer besides workout metrics!",
+      "subcategory_tags": [
+        "personalization_use_case_fit",
+        "ai_positive_reception"
+      ]
+    },
+    {
       "review_id": "b055d79f-144f-4f82-a43f-42a1c7ba4312",
       "source": "google_play",
       "rating": 3,
@@ -8280,53 +8323,6 @@
         "activity_detection",
         "support_responsiveness",
         "crashes_freezes"
-      ]
-    },
-    {
-      "review_id": "14370528337",
-      "source": "app_store",
-      "rating": 5,
-      "date": "2026-07-31T06:08:36-07:00",
-      "text": "As someone of a certain age… Closer to 60, then 50, it’s been harder to stay in shape with the various responsibilities of taking care of my mom, and age, dog, and helping college kids become responsible professionals. As well as maintaining those relationships that are truly important so with that being said, the WHOOP band has given me the needed motivation and assistance to stay on track. With the AI feature helping me understand what I’m doing right and what I’m doing wrong, it’s really created more balance in my life. Which honestly, I need. And at the end of the day or at the end of the week, I feel better both physically and mentally. So thank you.",
-      "subcategory_tags": [
-        "ai_positive_reception",
-        "personalization_use_case_fit"
-      ]
-    },
-    {
-      "review_id": "14370112701",
-      "source": "app_store",
-      "rating": 5,
-      "date": "2026-07-31T03:57:42-07:00",
-      "text": "I have use WHOOP for over seven years and I can’t imagine life without it. I’ve seen it developed into a tool that not only helps me with my workouts and recoveries but my every day life ! \n\nMy father became suddenly ill and I found myself 1300 miles away from home without my CrossFit classes for over two months and WHOOP instructed me daily how to stay fit while I was taking care of my dad with only a resistance band.\n\nI ask WHOOP questions from diet to exercise to rest and encouraged me to get my bio markers done !  It was simple to add previous blood test to my app. I’m glad I did. Not only did it tell me what they were but how to make them better. \n\nI don’t go anywhere without my WHOOP! I’ve worn it for over 2500 days and I plan to wear it to my grave. Let’s see how that works?! 😀",
-      "subcategory_tags": [
-        "ai_positive_reception",
-        "missing_metrics"
-      ]
-    },
-    {
-      "review_id": "14368511721",
-      "source": "app_store",
-      "rating": 5,
-      "date": "2026-07-30T17:26:11-07:00",
-      "text": "awesome app so far I am very appreciated of the things that I can see only thing is I wish it showed me some better ways to get healthier and improve my goals like some sort of article section or community chat would be great and for the AI to tell me some better ways too.  I wish it had a better calorie and macro tracker and I also wish that AI speak to it was quite a bit better it often cuts out randomly without like telling me and gets a lot of my words wrong, awesome app so far tho, just need a little bit of smoothing out.",
-      "subcategory_tags": [
-        "missing_metrics",
-        "ai_reliability_bugs",
-        "notification_community_issues"
-      ]
-    },
-    {
-      "review_id": "14368029216",
-      "source": "app_store",
-      "rating": 3,
-      "date": "2026-07-30T14:20:50-07:00",
-      "text": "For a product of this price, the app experience should be polished. Firstly, clicking on the AI chat does not automatically bring you to the top of the conversation which is annoying if you use it frequently. Secondly, I consistently see the \"couldn't load notifications\" tile whenever I try to refresh on the homepage. Thirdly, the chat window and pill block the ability to metric explainers. \n\nThese don't break the UX but they do add friction to using this app daily.",
-      "subcategory_tags": [
-        "ai_reliability_bugs",
-        "notification_community_issues",
-        "feature_ui_friction",
-        "price_value_perception"
       ]
     }
   ],
@@ -8684,6 +8680,27 @@
   ],
   "ai_autonomy": [
     {
+      "review_id": "14505214382",
+      "source": "app_store",
+      "rating": 2,
+      "date": "2026-09-03T04:00:27-07:00",
+      "text": "While the data is great, the AI “coach” nags too much. It can be annoying and sometimes frustrating.\n\nAll I need is the metrics.  I wish I could turn it off.",
+      "subcategory_tags": [
+        "ai_autonomy"
+      ]
+    },
+    {
+      "review_id": "ad4bbc81-07f9-4d20-af41-1448ab5eb456",
+      "source": "google_play",
+      "rating": 2,
+      "date": "2026-09-03T07:16:08+00:00",
+      "text": "The AI overlays are buggy. They restrict being able to use the screens e. g. The Sleep metric screen cannot be scrolled as the AI overlay tile prevents any touches to be detected by the main screen. On the screens where the AI overlay do not have this buy the tile is still large enough to feel they are intruding readability of the page. Only on the Home page does the Overlay minimise to the small W logo and stay put on the right hand side. The AI overlay should also be on demand only.",
+      "subcategory_tags": [
+        "ai_autonomy",
+        "feature_ui_friction"
+      ]
+    },
+    {
       "review_id": "b055d79f-144f-4f82-a43f-42a1c7ba4312",
       "source": "google_play",
       "rating": 3,
@@ -8977,6 +8994,27 @@
     }
   ],
   "ai_positive_reception": [
+    {
+      "review_id": "14505542508",
+      "source": "app_store",
+      "rating": 5,
+      "date": "2026-09-03T05:45:55-07:00",
+      "text": "Luv stats and focus on improving. Their AI is very good",
+      "subcategory_tags": [
+        "ai_positive_reception"
+      ]
+    },
+    {
+      "review_id": "97dd672a-ecc3-4f24-951f-9fbeb849a23b",
+      "source": "google_play",
+      "rating": 5,
+      "date": "2026-09-02T23:20:16+00:00",
+      "text": "Buggy-ness or not, I love this app. Unlike others, I've not used it for much fitness tracking but to manage my ADHD and normally crippling menstrual cycles. In less than 2 months, the coaching is more tailored to my executive dysfunction and has noticeably raised my focused work time. It advises me on handling distractions & to get to bed on time or what to do the next day if I haven't listened. A friend with chronic illness suggested it to me, so it has more to offer besides workout metrics!",
+      "subcategory_tags": [
+        "personalization_use_case_fit",
+        "ai_positive_reception"
+      ]
+    },
     {
       "review_id": "14486435203",
       "source": "app_store",
@@ -9281,30 +9319,6 @@
       "subcategory_tags": [
         "sleep_satisfaction",
         "ai_positive_reception"
-      ]
-    },
-    {
-      "review_id": "14197690581",
-      "source": "app_store",
-      "rating": 5,
-      "date": "2026-06-18T08:07:10-07:00",
-      "text": "I’ve been using the WHOOP for almost a year now and it’s helped me to better manage my chronic illnesses and even helped me in managing my PTSD. I love the AI function where I can speak to it about any new concerns or changes and it always has an answer that’s backed up by research. It’s even helped me in guarding me to go to the doctor in letting me know that I’m probably ill based on recent data. I think the coolest thing is that it attracts your sleep and educates you on every little bit of life and why sleep affects strain output and HRV and resting heart rate, etc",
-      "subcategory_tags": [
-        "personalization_use_case_fit",
-        "ai_positive_reception",
-        "sleep_satisfaction"
-      ]
-    },
-    {
-      "review_id": "14177657644",
-      "source": "app_store",
-      "rating": 5,
-      "date": "2026-06-13T05:28:29-07:00",
-      "text": "I’ve used whoop for about 6 years now and it’s changed my life. Knowing my metrics and being able to adjust to optimize my fitness shaped my journey post college sports. Not every day is a push day and whoop’s recovery features help me know when my body needs rest, so I don’t feel as if I’m just being lazy. Also so many new features like ECG, daily blood pressure readings, and whoop’s AI is such an intelligent use to better your health as opposed to ignorantly using AI to create memes and ask it silly things. I also participate in every study whoop has offered me, I love that they advance science. On top of scientific discovery, it also makes their product more accurate in the time I’ve used it (a big perk of the product is the accuracy). While the pricepoint is higher, as a preventative medicine professional (I’m an RN in biometric screenings) I firmly believe they are giving you sound data to improve your health day in and day out & make it well worth the price.",
-      "subcategory_tags": [
-        "ecg_bp_feature_reliability",
-        "ai_positive_reception",
-        "price_value_perception"
       ]
     }
   ],
@@ -12113,6 +12127,29 @@
   ],
   "ui_ux": [
     {
+      "review_id": "b59257e7-d38a-4526-ae5d-602f781b7578",
+      "source": "google_play",
+      "rating": 1,
+      "date": "2026-09-03T13:33:31+00:00",
+      "text": "difficult to use the app doesn't offer a lot of functionality in terms of figuring out where things are but it does have ai that you can ask questions I use it to tell me how I slept probably not worth the money",
+      "subcategory_tags": [
+        "redesign_regression",
+        "price_value_perception",
+        "sleep_satisfaction"
+      ]
+    },
+    {
+      "review_id": "ad4bbc81-07f9-4d20-af41-1448ab5eb456",
+      "source": "google_play",
+      "rating": 2,
+      "date": "2026-09-03T07:16:08+00:00",
+      "text": "The AI overlays are buggy. They restrict being able to use the screens e. g. The Sleep metric screen cannot be scrolled as the AI overlay tile prevents any touches to be detected by the main screen. On the screens where the AI overlay do not have this buy the tile is still large enough to feel they are intruding readability of the page. Only on the Home page does the Overlay minimise to the small W logo and stay put on the right hand side. The AI overlay should also be on demand only.",
+      "subcategory_tags": [
+        "ai_autonomy",
+        "feature_ui_friction"
+      ]
+    },
+    {
       "review_id": "b055d79f-144f-4f82-a43f-42a1c7ba4312",
       "source": "google_play",
       "rating": 3,
@@ -12430,30 +12467,21 @@
         "sleep_alarm_ui",
         "redesign_regression"
       ]
-    },
-    {
-      "review_id": "14331113883",
-      "source": "app_store",
-      "rating": 4,
-      "date": "2026-07-21T10:09:47-07:00",
-      "text": "Genuinely incredible. But please improve the strength trainer UI!! It really needs some work, and the exercise catalog there",
-      "subcategory_tags": [
-        "feature_ui_friction"
-      ]
-    },
-    {
-      "review_id": "2cf6252c-c972-4771-9c1e-eac636e9c161",
-      "source": "google_play",
-      "rating": 4,
-      "date": "2026-07-20T07:30:17",
-      "text": "Good app but lacking feature parity with iOS. For example, on iOS you can drop workouts into a superset mid workout in strength trainer but cannot on android. also the chat in groups often won't refresh unless you restart your device",
-      "subcategory_tags": [
-        "android_feature_gaps",
-        "notification_community_issues"
-      ]
     }
   ],
   "redesign_regression": [
+    {
+      "review_id": "b59257e7-d38a-4526-ae5d-602f781b7578",
+      "source": "google_play",
+      "rating": 1,
+      "date": "2026-09-03T13:33:31+00:00",
+      "text": "difficult to use the app doesn't offer a lot of functionality in terms of figuring out where things are but it does have ai that you can ask questions I use it to tell me how I slept probably not worth the money",
+      "subcategory_tags": [
+        "redesign_regression",
+        "price_value_perception",
+        "sleep_satisfaction"
+      ]
+    },
     {
       "review_id": "b055d79f-144f-4f82-a43f-42a1c7ba4312",
       "source": "google_play",
@@ -12790,22 +12818,6 @@
         "price_value_perception",
         "redesign_regression"
       ]
-    },
-    {
-      "review_id": "13933122512",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-04-07T11:40:13-07:00",
-      "text": "Update: whoop, who if you look at the recent reviews, backs ups my experience on the tee is now suing Bevel a “competitor” who does not sell hardware and app actually functions and does not freeze. Whoop also just raised a round of funding so it is obvious they need to make more money to satisfy their shareholder which means the consumer is now on the bottom of their list to support. Stay away!!\n\nWhere to start…\nI started with the Whoop 3.0 and liked it’s features and easy to use. Bought 18 month subscription and $200 in straps and batteries. 45 days later 4.0 comes out and is free and all gear I bought is obsolete! No notice. No refund. \n\n1. Whoop also double dips. Charge $30/ month for service then sells our info “anonymously” for more profit!! Why so expensive then!\n2. Constant hardware issues. Battery doesn’t fully charge Whoop and could not get a spare battery for 8+ months. Battery updates have come out with no resolve so proves there is a known issue. \n3. Customer service is horrible and wants to just replace unit for every issue but only complimentary first time. Also takes time to respond but then wants to close ticket within 24 hours if you don’t respond asap. \n4. If you are serious about using this to work out, real time data is important. In version 4.0 constant data sync issues. I wake up and takes 1-2 hours for info to update. How can I know where my body is at and plan my day/ workout with that? I’m paying for this info too at a premium. \n5. App AI is confusing to navigate and overwhelming. Once you figure it out another update comes out and you start all over again. \n\nBottom line, Whoop started off strong and great info for athletes. As of late it’s about profits and growing it’s wearables line but app and hardware have dropped wayside. I’m not renewing subscription and sad to see such a great source of info fail slowly.",
-      "subcategory_tags": [
-        "price_value_perception",
-        "billing_disputes",
-        "battery_life",
-        "support_responsiveness",
-        "support_resolution_quality",
-        "data_sync_delays",
-        "redesign_regression"
-      ]
     }
   ],
   "device_rendering_bugs": [
@@ -13137,6 +13149,17 @@
   ],
   "feature_ui_friction": [
     {
+      "review_id": "ad4bbc81-07f9-4d20-af41-1448ab5eb456",
+      "source": "google_play",
+      "rating": 2,
+      "date": "2026-09-03T07:16:08+00:00",
+      "text": "The AI overlays are buggy. They restrict being able to use the screens e. g. The Sleep metric screen cannot be scrolled as the AI overlay tile prevents any touches to be detected by the main screen. On the screens where the AI overlay do not have this buy the tile is still large enough to feel they are intruding readability of the page. Only on the Home page does the Overlay minimise to the small W logo and stay put on the right hand side. The AI overlay should also be on demand only.",
+      "subcategory_tags": [
+        "ai_autonomy",
+        "feature_ui_friction"
+      ]
+    },
+    {
       "review_id": "05662742-39f3-4ec7-8315-f2bc46ac37dd",
       "source": "google_play",
       "rating": 4,
@@ -13465,16 +13488,6 @@
         "metric_accuracy",
         "personalization_use_case_fit",
         "missing_metrics",
-        "feature_ui_friction"
-      ]
-    },
-    {
-      "review_id": "14142615219",
-      "source": "app_store",
-      "rating": 4,
-      "date": "2026-06-04T04:46:30-07:00",
-      "text": "When click “whoop is off body” notification, it should deep link to find my whoop button. On click button, whoop should vibrate",
-      "subcategory_tags": [
         "feature_ui_friction"
       ]
     }
@@ -14831,6 +14844,16 @@
   ],
   "localization": [
     {
+      "review_id": "14504693976",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-09-03T00:18:57-07:00",
+      "text": "حطو اللغه العربيه مو معقول كل اللغات موجوده الا العربيه !!",
+      "subcategory_tags": [
+        "missing_language_support"
+      ]
+    },
+    {
       "review_id": "14422603496",
       "source": "app_store",
       "rating": 1,
@@ -15128,19 +15151,19 @@
       "subcategory_tags": [
         "missing_language_support"
       ]
-    },
-    {
-      "review_id": "13495559670",
-      "source": "app_store",
-      "rating": 4,
-      "date": "2025-12-09T16:48:34-07:00",
-      "text": "I’ve been a long-time WHOOP user and really love the recovery and training insights. However, the app still doesn’t support Chinese, which makes it hard for my family and many potential users to use it. Could you please share if there’s any plan or estimated timeline for adding Chinese language support? It would greatly improve the experience for a huge user base. Looking forward to it!",
-      "subcategory_tags": [
-        "missing_language_support"
-      ]
     }
   ],
   "missing_language_support": [
+    {
+      "review_id": "14504693976",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-09-03T00:18:57-07:00",
+      "text": "حطو اللغه العربيه مو معقول كل اللغات موجوده الا العربيه !!",
+      "subcategory_tags": [
+        "missing_language_support"
+      ]
+    },
     {
       "review_id": "14422603496",
       "source": "app_store",
@@ -15435,16 +15458,6 @@
       "rating": 4,
       "date": "2025-12-09T16:48:34-07:00",
       "text": "I’ve been a long-time WHOOP user and really love the recovery and training insights. However, the app still doesn’t support Chinese, which makes it hard for my family and many potential users to use it. Could you please share if there’s any plan or estimated timeline for adding Chinese language support? It would greatly improve the experience for a huge user base. Looking forward to it!",
-      "subcategory_tags": [
-        "missing_language_support"
-      ]
-    },
-    {
-      "review_id": "d65dcd97-cb6f-4969-af96-13e0784a2b0e",
-      "source": "google_play",
-      "rating": 5,
-      "date": "2025-11-29T03:21:32",
-      "text": "Please add Turkish Language too to the app",
       "subcategory_tags": [
         "missing_language_support"
       ]
@@ -15533,6 +15546,27 @@
     }
   ],
   "feature_requests": [
+    {
+      "review_id": "ab76eae1-d1f1-463b-b838-6ed19e67f41c",
+      "source": "google_play",
+      "rating": 5,
+      "date": "2026-09-03T05:14:39+00:00",
+      "text": "I can't live without my WHOOP Call me a geek I'm also on a glp-1 and it helps me track my protein intake.",
+      "subcategory_tags": [
+        "missing_metrics"
+      ]
+    },
+    {
+      "review_id": "97dd672a-ecc3-4f24-951f-9fbeb849a23b",
+      "source": "google_play",
+      "rating": 5,
+      "date": "2026-09-02T23:20:16+00:00",
+      "text": "Buggy-ness or not, I love this app. Unlike others, I've not used it for much fitness tracking but to manage my ADHD and normally crippling menstrual cycles. In less than 2 months, the coaching is more tailored to my executive dysfunction and has noticeably raised my focused work time. It advises me on handling distractions & to get to bed on time or what to do the next day if I haven't listened. A friend with chronic illness suggested it to me, so it has more to offer besides workout metrics!",
+      "subcategory_tags": [
+        "personalization_use_case_fit",
+        "ai_positive_reception"
+      ]
+    },
     {
       "review_id": "14493545320",
       "source": "app_store",
@@ -15850,29 +15884,6 @@
         "redesign_regression",
         "feature_ui_friction",
         "missing_metrics"
-      ]
-    },
-    {
-      "review_id": "14365927486",
-      "source": "app_store",
-      "rating": 3,
-      "date": "2026-07-30T03:17:50-07:00",
-      "text": "Committed to using the band this year but it’s uncomfortable even with upgrading to a nicer one which makes Whoop even more expensive. Interface is better for serious athletes not it’s not for me.",
-      "subcategory_tags": [
-        "comfort_fit",
-        "price_value_perception",
-        "personalization_use_case_fit"
-      ]
-    },
-    {
-      "review_id": "14362297405",
-      "source": "app_store",
-      "rating": 5,
-      "date": "2026-07-29T05:39:03-07:00",
-      "text": "I love my Whoop. Love it. I’ve influenced a few friends to buy it - but let me tell you who it works for, and who it doesn’t. I primarily bought it because I didn’t want a second screen. I don’t like to be on my phone, and I wanted a fitness tracker that could fade into the background. However, I also wanted something that was very accurate in terms of tracking my workouts and recovery. My primary form of athletic activity is lifting, and I really love the muscular strain feature of the whoop - especially now that it can automatically track muscular load. Lastly, I’m really enjoying the variety of bands. I think I have 7 at this point? They’re all very cute and I feel like I can wear them in very professional settings and it becomes sort of a statement piece / fashion statement and conversation starter vs. looking ugly. \n\nI would love for the next version to be even smaller!",
-      "subcategory_tags": [
-        "sleep_satisfaction",
-        "missing_activity_types"
       ]
     }
   ],
@@ -16214,6 +16225,16 @@
   ],
   "missing_metrics": [
     {
+      "review_id": "ab76eae1-d1f1-463b-b838-6ed19e67f41c",
+      "source": "google_play",
+      "rating": 5,
+      "date": "2026-09-03T05:14:39+00:00",
+      "text": "I can't live without my WHOOP Call me a geek I'm also on a glp-1 and it helps me track my protein intake.",
+      "subcategory_tags": [
+        "missing_metrics"
+      ]
+    },
+    {
       "review_id": "14493545320",
       "source": "app_store",
       "rating": 2,
@@ -16541,19 +16562,20 @@
         "third_party_integration",
         "missing_metrics"
       ]
-    },
-    {
-      "review_id": "de0c14d7-66a5-4400-8b0a-926575e261e1",
-      "source": "google_play",
-      "rating": 4,
-      "date": "2026-06-16T21:53:52",
-      "text": "whoop needs fasting feature as well. where i log fasting.",
-      "subcategory_tags": [
-        "missing_metrics"
-      ]
     }
   ],
   "personalization_use_case_fit": [
+    {
+      "review_id": "97dd672a-ecc3-4f24-951f-9fbeb849a23b",
+      "source": "google_play",
+      "rating": 5,
+      "date": "2026-09-02T23:20:16+00:00",
+      "text": "Buggy-ness or not, I love this app. Unlike others, I've not used it for much fitness tracking but to manage my ADHD and normally crippling menstrual cycles. In less than 2 months, the coaching is more tailored to my executive dysfunction and has noticeably raised my focused work time. It advises me on handling distractions & to get to bed on time or what to do the next day if I haven't listened. A friend with chronic illness suggested it to me, so it has more to offer besides workout metrics!",
+      "subcategory_tags": [
+        "personalization_use_case_fit",
+        "ai_positive_reception"
+      ]
+    },
     {
       "review_id": "14440002686",
       "source": "app_store",
@@ -16884,18 +16906,6 @@
         "sleep_accuracy",
         "metric_accuracy",
         "support_resolution_quality",
-        "personalization_use_case_fit"
-      ]
-    },
-    {
-      "review_id": "c9a79d1e-916a-4d7c-98ee-6563effaee2c",
-      "source": "google_play",
-      "rating": 5,
-      "date": "2026-06-20T03:50:41",
-      "text": "WHOOP has been one of the best investments I've ever made in my health. It's not cheap, but the value it provides far exceeds the cost. The insights on sleep, recovery, stress, and overall wellness help you make better decisions every day. You don't need to be an athlete to benefit from it. If you care about your physical and mental well-being, WHOOP is a powerful tool that helps you understand your body and live a healthier, more balanced life.",
-      "subcategory_tags": [
-        "price_value_perception",
-        "sleep_satisfaction",
         "personalization_use_case_fit"
       ]
     }
