@@ -1,6 +1,27 @@
 {
   "pricing_billing": [
     {
+      "review_id": "14508533933",
+      "source": "app_store",
+      "rating": 5,
+      "date": "2026-09-04T00:06:31-07:00",
+      "text": "My only complaint is the subscription model. Instead of forcing an annual subscription, Whoop should offer a one-time purchase price. A clear, fixed price would make people much more comfortable buying it, instead of being put off by the idea of paying every year forever.",
+      "subcategory_tags": [
+        "price_value_perception"
+      ]
+    },
+    {
+      "review_id": "14507801422",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-09-03T18:40:49-07:00",
+      "text": "Will advertise free but wont let you continue without payment. Scammers should be sued for wrongfully collecting my sensitive information",
+      "subcategory_tags": [
+        "billing_disputes",
+        "plan_trial_structure"
+      ]
+    },
+    {
       "review_id": "b59257e7-d38a-4526-ae5d-602f781b7578",
       "source": "google_play",
       "rating": 1,
@@ -317,31 +338,19 @@
       "subcategory_tags": [
         "billing_disputes"
       ]
-    },
-    {
-      "review_id": "5bdb40c4-0c75-4c7a-b5f9-22177bb898c4",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2026-08-11T04:17:03+00:00",
-      "text": "poor accuracy measuring sleep. Really bad GenAi experiencie. The worse I have seen. it does not worth the money.",
-      "subcategory_tags": [
-        "sleep_accuracy",
-        "ai_reliability_bugs",
-        "price_value_perception"
-      ]
-    },
-    {
-      "review_id": "14406824726",
-      "source": "app_store",
-      "rating": 5,
-      "date": "2026-08-09T07:29:00-07:00",
-      "text": "Love the watch and what it does for my daily life,work,sports.  Only complaint is the price upfront for the subscription",
-      "subcategory_tags": [
-        "price_value_perception"
-      ]
     }
   ],
   "price_value_perception": [
+    {
+      "review_id": "14508533933",
+      "source": "app_store",
+      "rating": 5,
+      "date": "2026-09-04T00:06:31-07:00",
+      "text": "My only complaint is the subscription model. Instead of forcing an annual subscription, Whoop should offer a one-time purchase price. A clear, fixed price would make people much more comfortable buying it, instead of being put off by the idea of paying every year forever.",
+      "subcategory_tags": [
+        "price_value_perception"
+      ]
+    },
     {
       "review_id": "b59257e7-d38a-4526-ae5d-602f781b7578",
       "source": "google_play",
@@ -672,19 +681,20 @@
       "subcategory_tags": [
         "price_value_perception"
       ]
-    },
-    {
-      "review_id": "f0296ac4-e148-4206-a26b-db948edf4a24",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2026-08-03T15:36:42",
-      "text": "too expensive for what it is",
-      "subcategory_tags": [
-        "price_value_perception"
-      ]
     }
   ],
   "billing_disputes": [
+    {
+      "review_id": "14507801422",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-09-03T18:40:49-07:00",
+      "text": "Will advertise free but wont let you continue without payment. Scammers should be sued for wrongfully collecting my sensitive information",
+      "subcategory_tags": [
+        "billing_disputes",
+        "plan_trial_structure"
+      ]
+    },
     {
       "review_id": "14467695272",
       "source": "app_store",
@@ -1009,20 +1019,20 @@
         "plan_trial_structure",
         "billing_disputes"
       ]
-    },
-    {
-      "review_id": "14205248971",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-06-20T06:32:19-07:00",
-      "text": "Paid for annual whoop labs blood testing for 4 times per year. When showing up to Quest they attempted to charge $441 when Whoop said no payment is required.",
-      "subcategory_tags": [
-        "billing_disputes",
-        "ecg_bp_feature_reliability"
-      ]
     }
   ],
   "plan_trial_structure": [
+    {
+      "review_id": "14507801422",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-09-03T18:40:49-07:00",
+      "text": "Will advertise free but wont let you continue without payment. Scammers should be sued for wrongfully collecting my sensitive information",
+      "subcategory_tags": [
+        "billing_disputes",
+        "plan_trial_structure"
+      ]
+    },
     {
       "review_id": "6ed4cbc3-4892-4558-b910-0fc434cd3e19",
       "source": "google_play",
@@ -1353,18 +1363,6 @@
         "upsell_pressure",
         "price_value_perception",
         "billing_disputes"
-      ]
-    },
-    {
-      "review_id": "51637274-0071-4661-a3dd-f3b8b75b29fa",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2025-08-01T01:30:45",
-      "text": "I renewed a full year waiting the hardware upgrade from 4.0 to 5.0 but it never came. I openned a ticket to ask why didn't i get my upgrade and i they want me to renew another year using a different link... I feel scammed, i will use this because i have paid a full year but if you didn't, dont buy it. You won't get the customer service you are paying. I still have a 2nd hand device that they give me to test the App. They refuse to give me a brand-new device after i paid for a family plan...",
-      "subcategory_tags": [
-        "billing_disputes",
-        "plan_trial_structure",
-        "support_resolution_quality"
       ]
     }
   ],
@@ -12127,6 +12125,16 @@
   ],
   "ui_ux": [
     {
+      "review_id": "51d2cfc1-cdb1-43dd-ab2f-ce47e29fddff",
+      "source": "google_play",
+      "rating": 2,
+      "date": "2026-09-04T06:36:20+00:00",
+      "text": "I am using Whoop on a Samsung Fold 7 and on most of rhe screen, I cannot scroll down to see the additional metrics. The window with the AI analysis pops up and everything below it is inaccessible. Even the arrow in the upper left corner to go back is not responsive. I used it like this for several weeks, updated, force stopped, cleared cash, opened in folded mode, in unfolded mode... No change. It is pretty frustrating...",
+      "subcategory_tags": [
+        "device_rendering_bugs"
+      ]
+    },
+    {
       "review_id": "b59257e7-d38a-4526-ae5d-602f781b7578",
       "source": "google_play",
       "rating": 1,
@@ -12455,17 +12463,6 @@
         "ongoing_disconnects",
         "activity_detection",
         "feature_ui_friction"
-      ]
-    },
-    {
-      "review_id": "14348602662",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-07-25T19:04:20-07:00",
-      "text": "New app update and can’t turn alarm off. They decided to get rid of the “planning” tab and though they say that the planning is on the Home Screen, it absolutely isn’t. Needs update. App is trash",
-      "subcategory_tags": [
-        "sleep_alarm_ui",
-        "redesign_regression"
       ]
     }
   ],
@@ -12822,6 +12819,16 @@
   ],
   "device_rendering_bugs": [
     {
+      "review_id": "51d2cfc1-cdb1-43dd-ab2f-ce47e29fddff",
+      "source": "google_play",
+      "rating": 2,
+      "date": "2026-09-04T06:36:20+00:00",
+      "text": "I am using Whoop on a Samsung Fold 7 and on most of rhe screen, I cannot scroll down to see the additional metrics. The window with the AI analysis pops up and everything below it is inaccessible. Even the arrow in the upper left corner to go back is not responsive. I used it like this for several weeks, updated, force stopped, cleared cash, opened in folded mode, in unfolded mode... No change. It is pretty frustrating...",
+      "subcategory_tags": [
+        "device_rendering_bugs"
+      ]
+    },
+    {
       "review_id": "14471561674",
       "source": "app_store",
       "rating": 3,
@@ -13131,17 +13138,6 @@
       "subcategory_tags": [
         "plan_trial_structure",
         "billing_disputes",
-        "device_rendering_bugs",
-        "price_value_perception"
-      ]
-    },
-    {
-      "review_id": "9db2ac91-584d-408c-a533-427b4c9de4ff",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2023-12-01T21:13:07",
-      "text": "Phenomenal data, but nearly unusable on fold phones. Unacceptable for a high end tech gadget with a premium subscription.",
-      "subcategory_tags": [
         "device_rendering_bugs",
         "price_value_perception"
       ]
