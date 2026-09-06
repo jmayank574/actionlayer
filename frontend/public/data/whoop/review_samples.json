@@ -1,6 +1,54 @@
 {
   "pricing_billing": [
     {
+      "review_id": "14513233118",
+      "source": "app_store",
+      "rating": 3,
+      "date": "2026-09-05T04:40:29-07:00",
+      "text": "Doesn’t sense and pick up my workout unless I manually start an activity. Other products are more sensitive and do this for you. Not very user friendly making me remember to start an activity and then I have to tend to end the activity and if I forget I get these 23 hour workouts. For the price point this feature shouldn’t be so faulty. Unless fixed I won’t be renewing next year.",
+      "subcategory_tags": [
+        "activity_detection",
+        "price_value_perception"
+      ]
+    },
+    {
+      "review_id": "14510205521",
+      "source": "app_store",
+      "rating": 5,
+      "date": "2026-09-04T09:25:14-07:00",
+      "text": "It’s really good a little pricey but so worth it",
+      "subcategory_tags": [
+        "price_value_perception"
+      ]
+    },
+    {
+      "review_id": "14509772320",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-09-04T07:21:18-07:00",
+      "text": "Got this band plus 1 year membership with Chase Sapphire Reserve perk. Not even worth the tax I had to pay on this benefit. The most basic feature, counting steps, is wildly inaccurate. So how can I trust anything else coming from this device. The narrative content provided in app is just AI slop and worthless. Battery life is good and recharging while wearing device is cool. These features allow you to wear band almost 24/7 which is nice but the band starts to stink after wearing in the shower a few times (which defeats purpose of having strong battery and charging features). I canceled after giving this 5 months into a 1 year membership. Much happier with cheaper, more accurate fitness band with no subscription fees.",
+      "subcategory_tags": [
+        "metric_accuracy",
+        "ai_reliability_bugs",
+        "battery_life",
+        "comfort_fit",
+        "billing_disputes",
+        "price_value_perception"
+      ]
+    },
+    {
+      "review_id": "14509084380",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-09-04T03:55:19-07:00",
+      "text": "Never consistent!! Depending on where it is worn and what activity you are doing. Picks up false stain and activity. Don’t waste your time or money on this device. Garmin is tried and true !!",
+      "subcategory_tags": [
+        "metric_accuracy",
+        "activity_detection",
+        "price_value_perception"
+      ]
+    },
+    {
       "review_id": "14508533933",
       "source": "app_store",
       "rating": 5,
@@ -297,50 +345,57 @@
         "sleep_accuracy",
         "price_value_perception"
       ]
-    },
-    {
-      "review_id": "ab0bc044-1d17-445e-b662-a8892b2d1dea",
-      "source": "google_play",
-      "rating": 2,
-      "date": "2026-08-12T12:49:06+00:00",
-      "text": "overrated devise, the app features some ads of available free integrations with other apps, but turns out is it not available for all regions. so why am I seeing them ? False advertising all over again, same as with free trial and return",
-      "subcategory_tags": [
-        "third_party_integration",
-        "billing_disputes"
-      ]
-    },
-    {
-      "review_id": "5429b954-f058-4c5e-a9a6-212e3b2c6426",
-      "source": "google_play",
-      "rating": 5,
-      "date": "2026-08-12T11:31:35+00:00",
-      "text": "great for working out and tracking all kind sof metrics. this is for people who want to track exercise. there are other bands out there, but nothing like whoop. Hume doesnt track any real movement except steps, and whoop can do everything every other band does if ya just pay for it. and those who complain about paying every year, how do you expect the company to bring you more without capital. ill gladly pay 200 a year for the rest of my life for what ive gained in metrics.",
-      "subcategory_tags": [
-        "price_value_perception"
-      ]
-    },
-    {
-      "review_id": "14414537855",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-08-11T06:10:44-07:00",
-      "text": "Muchas fallas, muy caro para lo que otros ofrecen sin costo de licencia",
-      "subcategory_tags": [
-        "price_value_perception"
-      ]
-    },
-    {
-      "review_id": "14413156567",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-08-10T21:41:50-07:00",
-      "text": "I did the one month free trail. Then I went to monthly subscription, and kept it for another month. Now I am trying to cancel my membership and they are trying to charge me for a full year.",
-      "subcategory_tags": [
-        "billing_disputes"
-      ]
     }
   ],
   "price_value_perception": [
+    {
+      "review_id": "14513233118",
+      "source": "app_store",
+      "rating": 3,
+      "date": "2026-09-05T04:40:29-07:00",
+      "text": "Doesn’t sense and pick up my workout unless I manually start an activity. Other products are more sensitive and do this for you. Not very user friendly making me remember to start an activity and then I have to tend to end the activity and if I forget I get these 23 hour workouts. For the price point this feature shouldn’t be so faulty. Unless fixed I won’t be renewing next year.",
+      "subcategory_tags": [
+        "activity_detection",
+        "price_value_perception"
+      ]
+    },
+    {
+      "review_id": "14510205521",
+      "source": "app_store",
+      "rating": 5,
+      "date": "2026-09-04T09:25:14-07:00",
+      "text": "It’s really good a little pricey but so worth it",
+      "subcategory_tags": [
+        "price_value_perception"
+      ]
+    },
+    {
+      "review_id": "14509772320",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-09-04T07:21:18-07:00",
+      "text": "Got this band plus 1 year membership with Chase Sapphire Reserve perk. Not even worth the tax I had to pay on this benefit. The most basic feature, counting steps, is wildly inaccurate. So how can I trust anything else coming from this device. The narrative content provided in app is just AI slop and worthless. Battery life is good and recharging while wearing device is cool. These features allow you to wear band almost 24/7 which is nice but the band starts to stink after wearing in the shower a few times (which defeats purpose of having strong battery and charging features). I canceled after giving this 5 months into a 1 year membership. Much happier with cheaper, more accurate fitness band with no subscription fees.",
+      "subcategory_tags": [
+        "metric_accuracy",
+        "ai_reliability_bugs",
+        "battery_life",
+        "comfort_fit",
+        "billing_disputes",
+        "price_value_perception"
+      ]
+    },
+    {
+      "review_id": "14509084380",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-09-04T03:55:19-07:00",
+      "text": "Never consistent!! Depending on where it is worn and what activity you are doing. Picks up false stain and activity. Don’t waste your time or money on this device. Garmin is tried and true !!",
+      "subcategory_tags": [
+        "metric_accuracy",
+        "activity_detection",
+        "price_value_perception"
+      ]
+    },
     {
       "review_id": "14508533933",
       "source": "app_store",
@@ -637,53 +692,24 @@
       "subcategory_tags": [
         "price_value_perception"
       ]
-    },
-    {
-      "review_id": "14402367478",
-      "source": "app_store",
-      "rating": 3,
-      "date": "2026-08-08T03:50:37-07:00",
-      "text": "Poderia oferecer e ser mais fácil de entender pelo que cobra, ex: dificuldade de colocar os exames no aplicativo, etc..",
-      "subcategory_tags": [
-        "price_value_perception",
-        "english_jargon_complexity"
-      ]
-    },
-    {
-      "review_id": "3e395941-9621-4f32-872e-3b64fcc721c7",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2026-08-07T17:03:04+00:00",
-      "text": "The worst app support and customer support you can expect for such a premium that you pay for their services. I did not exact this from Whoop. Do no recommend anyone using this product. It's a scam. Stay away",
-      "subcategory_tags": [
-        "support_responsiveness",
-        "price_value_perception"
-      ]
-    },
-    {
-      "review_id": "5647e6fd-3a25-4beb-9224-700e304b644b",
-      "source": "google_play",
-      "rating": 2,
-      "date": "2026-08-06T05:43:19",
-      "text": "This app is not great. First off, the UI is cluttered and messy. This could/should be so much cleaner and easier. Secondly, I've never seen an app/product trying to get you to upgrade, spend more, commit to more of a subscription in my life (also why the user interface is so cluttered, it's just riddled with \"click here, upgrade there, spend more monthly\". I get the same info from my Garmin watch, with NO subscription. This thing will be going back. Thumbs down.",
-      "subcategory_tags": [
-        "redesign_regression",
-        "upsell_pressure",
-        "price_value_perception"
-      ]
-    },
-    {
-      "review_id": "14392590603",
-      "source": "app_store",
-      "rating": 2,
-      "date": "2026-08-05T15:08:46-07:00",
-      "text": "I really do enjoy the bracelet but I doubt I will keep it when my year is up.   Way too expensive for a membership.  In all honestly once you buy this thing it should just work.  Lord knows we don’t need another monthly bill.",
-      "subcategory_tags": [
-        "price_value_perception"
-      ]
     }
   ],
   "billing_disputes": [
+    {
+      "review_id": "14509772320",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-09-04T07:21:18-07:00",
+      "text": "Got this band plus 1 year membership with Chase Sapphire Reserve perk. Not even worth the tax I had to pay on this benefit. The most basic feature, counting steps, is wildly inaccurate. So how can I trust anything else coming from this device. The narrative content provided in app is just AI slop and worthless. Battery life is good and recharging while wearing device is cool. These features allow you to wear band almost 24/7 which is nice but the band starts to stink after wearing in the shower a few times (which defeats purpose of having strong battery and charging features). I canceled after giving this 5 months into a 1 year membership. Much happier with cheaper, more accurate fitness band with no subscription fees.",
+      "subcategory_tags": [
+        "metric_accuracy",
+        "ai_reliability_bugs",
+        "battery_life",
+        "comfort_fit",
+        "billing_disputes",
+        "price_value_perception"
+      ]
+    },
     {
       "review_id": "14507801422",
       "source": "app_store",
@@ -1006,17 +1032,6 @@
       "date": "2026-06-23T19:06:28",
       "text": "After a year, I decided that I would like to cancel my membership. However, there is nowhere in the app that allows you to do that. I have repeatedly looked at directions and tried following instructions on their website, and there is no option within the app to cancel. This is very disappointing that it is so hard despite there being multiple directions that say that this is possible.",
       "subcategory_tags": [
-        "billing_disputes"
-      ]
-    },
-    {
-      "review_id": "14213522221",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-06-22T09:45:45-07:00",
-      "text": "I kept the subscription and waited patiently, instead of delivering on their promise they made a new subscription tier. They Lied and gaslight anyone who says otherwise.",
-      "subcategory_tags": [
-        "plan_trial_structure",
         "billing_disputes"
       ]
     }
@@ -1713,6 +1728,17 @@
   ],
   "sleep_tracking": [
     {
+      "review_id": "14510169827",
+      "source": "app_store",
+      "rating": 5,
+      "date": "2026-09-04T09:14:30-07:00",
+      "text": "i just wish that is tracked naps and the amount of yards i swim.",
+      "subcategory_tags": [
+        "sleep_accuracy",
+        "missing_activity_types"
+      ]
+    },
+    {
       "review_id": "b59257e7-d38a-4526-ae5d-602f781b7578",
       "source": "google_play",
       "rating": 1,
@@ -2038,19 +2064,20 @@
         "activity_detection",
         "metric_accuracy"
       ]
-    },
-    {
-      "review_id": "14402521676",
-      "source": "app_store",
-      "rating": 5,
-      "date": "2026-08-08T04:48:38-07:00",
-      "text": "I’ve had WHOOP for over 5 years and still wear it every day. I’m very active, and I love being able to track my recovery, sleep, and strain and see how my body is actually handling everything. WHOOP has continued to get better over the years, and it’s definitely been worth it for me.",
-      "subcategory_tags": [
-        "sleep_satisfaction"
-      ]
     }
   ],
   "sleep_accuracy": [
+    {
+      "review_id": "14510169827",
+      "source": "app_store",
+      "rating": 5,
+      "date": "2026-09-04T09:14:30-07:00",
+      "text": "i just wish that is tracked naps and the amount of yards i swim.",
+      "subcategory_tags": [
+        "sleep_accuracy",
+        "missing_activity_types"
+      ]
+    },
     {
       "review_id": "14501549600",
       "source": "app_store",
@@ -2392,18 +2419,6 @@
       "subcategory_tags": [
         "activity_detection",
         "sleep_accuracy"
-      ]
-    },
-    {
-      "review_id": "14177837071",
-      "source": "app_store",
-      "rating": 3,
-      "date": "2026-06-13T06:24:28-07:00",
-      "text": "En mi caso es una falta de exactitud lo que le falta al whoop, muchas veces hago ejercicio y no se da cuenta, o  estoy enferma y tampoco se da cuenta, interrupciones del sueño que no nota  , en otras plataformas hasta te ayudan con la alimentación siendo súper más exactas . Creo que deben ajustar estos detalles para ser competitivos con todo lo que está saliendo",
-      "subcategory_tags": [
-        "activity_detection",
-        "sleep_accuracy",
-        "metric_accuracy"
       ]
     }
   ],
@@ -3088,6 +3103,21 @@
   ],
   "hardware_wearability": [
     {
+      "review_id": "14509772320",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-09-04T07:21:18-07:00",
+      "text": "Got this band plus 1 year membership with Chase Sapphire Reserve perk. Not even worth the tax I had to pay on this benefit. The most basic feature, counting steps, is wildly inaccurate. So how can I trust anything else coming from this device. The narrative content provided in app is just AI slop and worthless. Battery life is good and recharging while wearing device is cool. These features allow you to wear band almost 24/7 which is nice but the band starts to stink after wearing in the shower a few times (which defeats purpose of having strong battery and charging features). I canceled after giving this 5 months into a 1 year membership. Much happier with cheaper, more accurate fitness band with no subscription fees.",
+      "subcategory_tags": [
+        "metric_accuracy",
+        "ai_reliability_bugs",
+        "battery_life",
+        "comfort_fit",
+        "billing_disputes",
+        "price_value_perception"
+      ]
+    },
+    {
       "review_id": "14493545320",
       "source": "app_store",
       "rating": 2,
@@ -3412,18 +3442,6 @@
       "text": "The app has way more features than an Apple Watch has and the wristwatch is more comfortable than an apple watch",
       "subcategory_tags": [
         "comfort_fit"
-      ]
-    },
-    {
-      "review_id": "cd8c772f-bb7e-4389-bd12-54abfede2c48",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2026-06-19T08:02:09",
-      "text": "Defective Clasp, Poor Warranty Support. New WHOOP member and very disappointed. The clasp/retention mechanism on my device failed during normal wear at an airport, causing the sensor to detach and become lost. I contacted WHOOP and explained that this was caused by defective hardware, not misuse or carelessness, but they refused to replace it and treated it as a simple lost item. For a premium subscription product, the warranty and customer support experience has been extremely disappointing.",
-      "subcategory_tags": [
-        "strap_clasp_durability",
-        "support_resolution_quality",
-        "price_value_perception"
       ]
     }
   ],
@@ -3784,6 +3802,21 @@
   ],
   "comfort_fit": [
     {
+      "review_id": "14509772320",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-09-04T07:21:18-07:00",
+      "text": "Got this band plus 1 year membership with Chase Sapphire Reserve perk. Not even worth the tax I had to pay on this benefit. The most basic feature, counting steps, is wildly inaccurate. So how can I trust anything else coming from this device. The narrative content provided in app is just AI slop and worthless. Battery life is good and recharging while wearing device is cool. These features allow you to wear band almost 24/7 which is nice but the band starts to stink after wearing in the shower a few times (which defeats purpose of having strong battery and charging features). I canceled after giving this 5 months into a 1 year membership. Much happier with cheaper, more accurate fitness band with no subscription fees.",
+      "subcategory_tags": [
+        "metric_accuracy",
+        "ai_reliability_bugs",
+        "battery_life",
+        "comfort_fit",
+        "billing_disputes",
+        "price_value_perception"
+      ]
+    },
+    {
       "review_id": "537c60d5-58e0-401e-81f3-842229a73452",
       "source": "google_play",
       "rating": 3,
@@ -4109,21 +4142,24 @@
         "comfort_fit",
         "price_value_perception"
       ]
-    },
-    {
-      "review_id": "721ee7b2-4487-4871-b391-fcbd0b8a0a93",
-      "source": "google_play",
-      "rating": 2,
-      "date": "2025-04-07T02:58:09",
-      "text": "2.5 Stars, I did enjoy it at first but the watch keeps giving me rashes so I had to take it off for a few days. The app keeps logging me out of my account overall I just feel like I get more out of it than from any other fitness watch/app combo.",
-      "subcategory_tags": [
-        "comfort_fit",
-        "crashes_freezes",
-        "price_value_perception"
-      ]
     }
   ],
   "battery_life": [
+    {
+      "review_id": "14509772320",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-09-04T07:21:18-07:00",
+      "text": "Got this band plus 1 year membership with Chase Sapphire Reserve perk. Not even worth the tax I had to pay on this benefit. The most basic feature, counting steps, is wildly inaccurate. So how can I trust anything else coming from this device. The narrative content provided in app is just AI slop and worthless. Battery life is good and recharging while wearing device is cool. These features allow you to wear band almost 24/7 which is nice but the band starts to stink after wearing in the shower a few times (which defeats purpose of having strong battery and charging features). I canceled after giving this 5 months into a 1 year membership. Much happier with cheaper, more accurate fitness band with no subscription fees.",
+      "subcategory_tags": [
+        "metric_accuracy",
+        "ai_reliability_bugs",
+        "battery_life",
+        "comfort_fit",
+        "billing_disputes",
+        "price_value_perception"
+      ]
+    },
     {
       "review_id": "14486435203",
       "source": "app_store",
@@ -4447,17 +4483,6 @@
       "text": "I don't know what's going on with the most recent versions of whoop but it is more often sluggish and a battery hog. earlier versions had a very responsive UI. I love my whoop and the data. the UI sluggishness is very off putting. responsiveness is a big deal in app development",
       "subcategory_tags": [
         "crashes_freezes",
-        "battery_life"
-      ]
-    },
-    {
-      "review_id": "19706853-46ef-49d3-a6f3-ee13cdd46470",
-      "source": "google_play",
-      "rating": 5,
-      "date": "2025-08-13T09:00:40",
-      "text": "I was worried after reading all the negative reviews on here and reddit, but I've had my whoop 5.0 for a month now and couldn't be happier. Haven't had any connectivity issues with the app or glitches. The data seems pretty accurate and the chat bot is actually amazing at reasoning skills. Not sure why it gets such bad rep. Battery life has been the stated 14 days for me.",
-      "subcategory_tags": [
-        "ai_positive_reception",
         "battery_life"
       ]
     }
@@ -6176,6 +6201,44 @@
   ],
   "data_accuracy": [
     {
+      "review_id": "14513233118",
+      "source": "app_store",
+      "rating": 3,
+      "date": "2026-09-05T04:40:29-07:00",
+      "text": "Doesn’t sense and pick up my workout unless I manually start an activity. Other products are more sensitive and do this for you. Not very user friendly making me remember to start an activity and then I have to tend to end the activity and if I forget I get these 23 hour workouts. For the price point this feature shouldn’t be so faulty. Unless fixed I won’t be renewing next year.",
+      "subcategory_tags": [
+        "activity_detection",
+        "price_value_perception"
+      ]
+    },
+    {
+      "review_id": "14509772320",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-09-04T07:21:18-07:00",
+      "text": "Got this band plus 1 year membership with Chase Sapphire Reserve perk. Not even worth the tax I had to pay on this benefit. The most basic feature, counting steps, is wildly inaccurate. So how can I trust anything else coming from this device. The narrative content provided in app is just AI slop and worthless. Battery life is good and recharging while wearing device is cool. These features allow you to wear band almost 24/7 which is nice but the band starts to stink after wearing in the shower a few times (which defeats purpose of having strong battery and charging features). I canceled after giving this 5 months into a 1 year membership. Much happier with cheaper, more accurate fitness band with no subscription fees.",
+      "subcategory_tags": [
+        "metric_accuracy",
+        "ai_reliability_bugs",
+        "battery_life",
+        "comfort_fit",
+        "billing_disputes",
+        "price_value_perception"
+      ]
+    },
+    {
+      "review_id": "14509084380",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-09-04T03:55:19-07:00",
+      "text": "Never consistent!! Depending on where it is worn and what activity you are doing. Picks up false stain and activity. Don’t waste your time or money on this device. Garmin is tried and true !!",
+      "subcategory_tags": [
+        "metric_accuracy",
+        "activity_detection",
+        "price_value_perception"
+      ]
+    },
+    {
       "review_id": "14505238659",
       "source": "app_store",
       "rating": 1,
@@ -6486,47 +6549,36 @@
         "sleep_accuracy",
         "metric_accuracy"
       ]
-    },
+    }
+  ],
+  "metric_accuracy": [
     {
-      "review_id": "81d55955-d3d9-4fd2-8ac3-8e3334e8bd6f",
-      "source": "google_play",
+      "review_id": "14509772320",
+      "source": "app_store",
       "rating": 1,
-      "date": "2026-08-03T09:37:15",
-      "text": "Steps which are a core metric of my day are extremely inaccurate. The ai defends a clearly flawed product. The price for subscription is far too high for a product that is still in development. Overall I can't trust anything this device says. I wasted my money so you don't have to. Be warned the Whoop MG is a joke. One that I am stuck with for a year now.",
+      "date": "2026-09-04T07:21:18-07:00",
+      "text": "Got this band plus 1 year membership with Chase Sapphire Reserve perk. Not even worth the tax I had to pay on this benefit. The most basic feature, counting steps, is wildly inaccurate. So how can I trust anything else coming from this device. The narrative content provided in app is just AI slop and worthless. Battery life is good and recharging while wearing device is cool. These features allow you to wear band almost 24/7 which is nice but the band starts to stink after wearing in the shower a few times (which defeats purpose of having strong battery and charging features). I canceled after giving this 5 months into a 1 year membership. Much happier with cheaper, more accurate fitness band with no subscription fees.",
       "subcategory_tags": [
         "metric_accuracy",
         "ai_reliability_bugs",
+        "battery_life",
+        "comfort_fit",
+        "billing_disputes",
         "price_value_perception"
       ]
     },
     {
-      "review_id": "d6d90ade-0d34-4338-be72-31fc5b024692",
-      "source": "google_play",
-      "rating": 2,
-      "date": "2026-08-02T23:47:20",
-      "text": "I have an uneasy feeling the heart readings are inaccurate. The UI is suboptimal for many functions where reading details on the screen is difficult",
+      "review_id": "14509084380",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-09-04T03:55:19-07:00",
+      "text": "Never consistent!! Depending on where it is worn and what activity you are doing. Picks up false stain and activity. Don’t waste your time or money on this device. Garmin is tried and true !!",
       "subcategory_tags": [
         "metric_accuracy",
-        "redesign_regression"
+        "activity_detection",
+        "price_value_perception"
       ]
     },
-    {
-      "review_id": "abc20aac-c89c-4824-9d67-43c978fcbc3e",
-      "source": "google_play",
-      "rating": 4,
-      "date": "2026-08-02T16:08:49",
-      "text": "Monitoring of sleep and recovery ,HRV ,are very good. But many rooms of improvement for the expensive cost of memberships. Ai advice are mainly push you to more exercise and sleep. And data collections , diary are time consuming. It cannot detect activities uncless you log in. customer service are slow. Multiple lag time and hang of app requiring forced close and restore. Ai advice of activities are not medical advice , but its act like one. So I use it just baseline daily monitor.",
-      "subcategory_tags": [
-        "sleep_satisfaction",
-        "price_value_perception",
-        "ai_reliability_bugs",
-        "activity_detection",
-        "support_responsiveness",
-        "crashes_freezes"
-      ]
-    }
-  ],
-  "metric_accuracy": [
     {
       "review_id": "14505238659",
       "source": "app_store",
@@ -6846,36 +6898,32 @@
         "metric_accuracy",
         "price_value_perception"
       ]
-    },
-    {
-      "review_id": "992e472e-3f9f-494f-858e-adb0495c9864",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2026-07-15T17:03:30",
-      "text": "inaccurate & should do better research on women, I replaced the 1st whoop as big difference in counting steps, sleeping time & quality, and detecting me was taking a nap while I was having dinner with my family. the replacement doesn't seem to work well with me also. The app has no function for the women to switch between taking birth control pills and not. when you off the birth control pills, the past data all changed to off birth control pills. and birth control pills have 21 pills & 24 pills",
-      "subcategory_tags": [
-        "metric_accuracy",
-        "sleep_accuracy",
-        "personalization_use_case_fit",
-        "missing_metrics"
-      ]
-    },
-    {
-      "review_id": "14292329722",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-07-11T18:48:48-07:00",
-      "text": "Really do I take naps but I’ve taken two in the last month and the WHOOP doesn’t even detect the nap, but my Apple Watch does.  Then I manually added it in the apps and somehow it makes up data of deep sleep, light sleep… Etc.\nIt has my HRV in the 20s. Yet, when I have worn other. Devices, including the Apple Watch Ultra, I’m in the 40s 50s and sometimes 70s because the Apple Watch measures it throughout the day at different times. \nI exercise six days a week. Sometimes I go for runs, and it doesn’t detect the run. I have to manually input it and then it makes up which zone I was in all of a sudden.  The same with lifting weights, I always have to insert the data manually.  \nI took my blood pressure three times and input the data. When I take my blood pressure manually with the arm wrap the whoop isn’t close most of the time.   I get that it takes your blood pressure in the middle of the night but I don’t see this being a blood pressure device.  \nI have visited with three different doctors and all of them say the Apple Watch is the best and they have gone to medical conferences and the discussion has come up and  the Apple Watch is always discussed as being the most accurate.  \nWhat you’re buying with the WHOOP is a glorified nighttime sleep tracker.  \nI’m sure people love their WHOOP and I know they have a cult following   \nIf you’re thinking about getting it, save your money and just wear your Apple Watch or your Google watch  \nHonestly, if you get a good nights sleep, you eat right and you exercise you don’t even need one of these device to track stuff   \nJust pay attention to what your body tells you with how you feel",
-      "subcategory_tags": [
-        "sleep_accuracy",
-        "metric_accuracy",
-        "activity_detection",
-        "ecg_bp_feature_reliability",
-        "price_value_perception"
-      ]
     }
   ],
   "activity_detection": [
+    {
+      "review_id": "14513233118",
+      "source": "app_store",
+      "rating": 3,
+      "date": "2026-09-05T04:40:29-07:00",
+      "text": "Doesn’t sense and pick up my workout unless I manually start an activity. Other products are more sensitive and do this for you. Not very user friendly making me remember to start an activity and then I have to tend to end the activity and if I forget I get these 23 hour workouts. For the price point this feature shouldn’t be so faulty. Unless fixed I won’t be renewing next year.",
+      "subcategory_tags": [
+        "activity_detection",
+        "price_value_perception"
+      ]
+    },
+    {
+      "review_id": "14509084380",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-09-04T03:55:19-07:00",
+      "text": "Never consistent!! Depending on where it is worn and what activity you are doing. Picks up false stain and activity. Don’t waste your time or money on this device. Garmin is tried and true !!",
+      "subcategory_tags": [
+        "metric_accuracy",
+        "activity_detection",
+        "price_value_perception"
+      ]
+    },
     {
       "review_id": "14497552463",
       "source": "app_store",
@@ -7214,29 +7262,6 @@
         "metric_accuracy",
         "activity_detection",
         "crashes_freezes"
-      ]
-    },
-    {
-      "review_id": "a64eb99a-ab25-49e8-992e-9983454f51a8",
-      "source": "google_play",
-      "rating": 2,
-      "date": "2026-05-19T11:41:56",
-      "text": "this app is great but overtime it doesnt automatically log my gym session as it used to. this throws all the data out",
-      "subcategory_tags": [
-        "activity_detection"
-      ]
-    },
-    {
-      "review_id": "14076036651",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-05-17T13:08:13-07:00",
-      "text": "The biggest issue I had with whoop was it didn’t properly register workouts and naps. It doesn’t strap in properly. I had the whoop for a month and it kept falling off my wrist. One day it fell and I didn’t notice and the customer service was not helpful.",
-      "subcategory_tags": [
-        "activity_detection",
-        "sleep_accuracy",
-        "strap_clasp_durability",
-        "support_resolution_quality"
       ]
     }
   ],
@@ -7982,6 +8007,33 @@
   ],
   "ai_coach": [
     {
+      "review_id": "92e7e263-3ef5-4d26-91d8-9c5f7283a212",
+      "source": "google_play",
+      "rating": 3,
+      "date": "2026-09-04T20:03:32+00:00",
+      "text": "The software is very unrefined and often lags heavily. It either runs slowly or doesn't work at all. The AI leaves much to be desired: first, it makes mistakes, and second, it processes information very slowly. I am 60 years old with a specific medical history and health issues. Nevertheless, the app stubbornly requires me to reach a strain level of 18.6, even though I started using WHOOP only two weeks ago.",
+      "subcategory_tags": [
+        "crashes_freezes",
+        "ai_reliability_bugs",
+        "personalization_use_case_fit"
+      ]
+    },
+    {
+      "review_id": "14509772320",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-09-04T07:21:18-07:00",
+      "text": "Got this band plus 1 year membership with Chase Sapphire Reserve perk. Not even worth the tax I had to pay on this benefit. The most basic feature, counting steps, is wildly inaccurate. So how can I trust anything else coming from this device. The narrative content provided in app is just AI slop and worthless. Battery life is good and recharging while wearing device is cool. These features allow you to wear band almost 24/7 which is nice but the band starts to stink after wearing in the shower a few times (which defeats purpose of having strong battery and charging features). I canceled after giving this 5 months into a 1 year membership. Much happier with cheaper, more accurate fitness band with no subscription fees.",
+      "subcategory_tags": [
+        "metric_accuracy",
+        "ai_reliability_bugs",
+        "battery_life",
+        "comfort_fit",
+        "billing_disputes",
+        "price_value_perception"
+      ]
+    },
+    {
       "review_id": "14505542508",
       "source": "app_store",
       "rating": 5,
@@ -8295,36 +8347,36 @@
         "billing_disputes",
         "ai_reliability_bugs"
       ]
-    },
-    {
-      "review_id": "81d55955-d3d9-4fd2-8ac3-8e3334e8bd6f",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2026-08-03T09:37:15",
-      "text": "Steps which are a core metric of my day are extremely inaccurate. The ai defends a clearly flawed product. The price for subscription is far too high for a product that is still in development. Overall I can't trust anything this device says. I wasted my money so you don't have to. Be warned the Whoop MG is a joke. One that I am stuck with for a year now.",
-      "subcategory_tags": [
-        "metric_accuracy",
-        "ai_reliability_bugs",
-        "price_value_perception"
-      ]
-    },
-    {
-      "review_id": "abc20aac-c89c-4824-9d67-43c978fcbc3e",
-      "source": "google_play",
-      "rating": 4,
-      "date": "2026-08-02T16:08:49",
-      "text": "Monitoring of sleep and recovery ,HRV ,are very good. But many rooms of improvement for the expensive cost of memberships. Ai advice are mainly push you to more exercise and sleep. And data collections , diary are time consuming. It cannot detect activities uncless you log in. customer service are slow. Multiple lag time and hang of app requiring forced close and restore. Ai advice of activities are not medical advice , but its act like one. So I use it just baseline daily monitor.",
-      "subcategory_tags": [
-        "sleep_satisfaction",
-        "price_value_perception",
-        "ai_reliability_bugs",
-        "activity_detection",
-        "support_responsiveness",
-        "crashes_freezes"
-      ]
     }
   ],
   "ai_reliability_bugs": [
+    {
+      "review_id": "92e7e263-3ef5-4d26-91d8-9c5f7283a212",
+      "source": "google_play",
+      "rating": 3,
+      "date": "2026-09-04T20:03:32+00:00",
+      "text": "The software is very unrefined and often lags heavily. It either runs slowly or doesn't work at all. The AI leaves much to be desired: first, it makes mistakes, and second, it processes information very slowly. I am 60 years old with a specific medical history and health issues. Nevertheless, the app stubbornly requires me to reach a strain level of 18.6, even though I started using WHOOP only two weeks ago.",
+      "subcategory_tags": [
+        "crashes_freezes",
+        "ai_reliability_bugs",
+        "personalization_use_case_fit"
+      ]
+    },
+    {
+      "review_id": "14509772320",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-09-04T07:21:18-07:00",
+      "text": "Got this band plus 1 year membership with Chase Sapphire Reserve perk. Not even worth the tax I had to pay on this benefit. The most basic feature, counting steps, is wildly inaccurate. So how can I trust anything else coming from this device. The narrative content provided in app is just AI slop and worthless. Battery life is good and recharging while wearing device is cool. These features allow you to wear band almost 24/7 which is nice but the band starts to stink after wearing in the shower a few times (which defeats purpose of having strong battery and charging features). I canceled after giving this 5 months into a 1 year membership. Much happier with cheaper, more accurate fitness band with no subscription fees.",
+      "subcategory_tags": [
+        "metric_accuracy",
+        "ai_reliability_bugs",
+        "battery_life",
+        "comfort_fit",
+        "billing_disputes",
+        "price_value_perception"
+      ]
+    },
     {
       "review_id": "14471190075",
       "source": "app_store",
@@ -8649,30 +8701,6 @@
       "subcategory_tags": [
         "metric_accuracy",
         "ai_reliability_bugs"
-      ]
-    },
-    {
-      "review_id": "14207745478",
-      "source": "app_store",
-      "rating": 2,
-      "date": "2026-06-20T21:29:52-07:00",
-      "text": "Five-year user. For improving sleep and performance.  \n\nGreat Data, but the recent UI upgrade forces a new “sleep app badge” that obstructs view of sleep data screens and delivers punishing “you’re failing” messages.\n\nThe recent upgrade disables more than once use of Copy function inside the WHOOP Coach performance insights chat. \nThe only workaround is to close the app and login again which obstructs use of the coach performance App",
-      "subcategory_tags": [
-        "redesign_regression",
-        "ai_reliability_bugs"
-      ]
-    },
-    {
-      "review_id": "14200570056",
-      "source": "app_store",
-      "rating": 3,
-      "date": "2026-06-19T02:12:14-07:00",
-      "text": "I have worn a Whoop almost everyday for 9 years and it has guided my training. Sadly, the experience has gotten much worse. The AI is glitchy, the data is inconstant , the auto recognition or activities has changed from 20 minutes to 10 and it is reading even when I turn it off, the customer service which used to be amazing is terrible.  I hope it gets better or I will be looking for an alternative. :-(",
-      "subcategory_tags": [
-        "ai_reliability_bugs",
-        "metric_accuracy",
-        "activity_detection",
-        "support_resolution_quality"
       ]
     }
   ],
@@ -11097,6 +11125,18 @@
   ],
   "app_stability": [
     {
+      "review_id": "92e7e263-3ef5-4d26-91d8-9c5f7283a212",
+      "source": "google_play",
+      "rating": 3,
+      "date": "2026-09-04T20:03:32+00:00",
+      "text": "The software is very unrefined and often lags heavily. It either runs slowly or doesn't work at all. The AI leaves much to be desired: first, it makes mistakes, and second, it processes information very slowly. I am 60 years old with a specific medical history and health issues. Nevertheless, the app stubbornly requires me to reach a strain level of 18.6, even though I started using WHOOP only two weeks ago.",
+      "subcategory_tags": [
+        "crashes_freezes",
+        "ai_reliability_bugs",
+        "personalization_use_case_fit"
+      ]
+    },
+    {
       "review_id": "14491552808",
       "source": "app_store",
       "rating": 1,
@@ -11421,22 +11461,21 @@
       "subcategory_tags": [
         "crashes_freezes"
       ]
-    },
-    {
-      "review_id": "1d02dc43-48dc-47c6-be79-1c28ff313fa2",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2026-06-11T22:26:58",
-      "text": "Stay away. App always have problems, crashes all the time get stuck ,don't detect sleep and now I can't even use the app at all its fully stuck and waiting for customer support but nothing. Don't waste you money here go and buy Fitbit air or any Garmin. Once my yearly subscription is over I will not be renewing. I really regretted using whoop.",
-      "subcategory_tags": [
-        "crashes_freezes",
-        "sleep_accuracy",
-        "support_responsiveness",
-        "price_value_perception"
-      ]
     }
   ],
   "crashes_freezes": [
+    {
+      "review_id": "92e7e263-3ef5-4d26-91d8-9c5f7283a212",
+      "source": "google_play",
+      "rating": 3,
+      "date": "2026-09-04T20:03:32+00:00",
+      "text": "The software is very unrefined and often lags heavily. It either runs slowly or doesn't work at all. The AI leaves much to be desired: first, it makes mistakes, and second, it processes information very slowly. I am 60 years old with a specific medical history and health issues. Nevertheless, the app stubbornly requires me to reach a strain level of 18.6, even though I started using WHOOP only two weeks ago.",
+      "subcategory_tags": [
+        "crashes_freezes",
+        "ai_reliability_bugs",
+        "personalization_use_case_fit"
+      ]
+    },
     {
       "review_id": "14491552808",
       "source": "app_store",
@@ -11765,18 +11804,6 @@
       "subcategory_tags": [
         "crashes_freezes",
         "metric_accuracy"
-      ]
-    },
-    {
-      "review_id": "e2640443-1d2d-4603-a4c0-fff408772363",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2026-06-02T00:38:26",
-      "text": "unfortunately, data not accurate enough and UI is very buggy sometimes. Automatic activity tracking is very inaccurate too but the stress monitor is nice though",
-      "subcategory_tags": [
-        "metric_accuracy",
-        "activity_detection",
-        "crashes_freezes"
       ]
     }
   ],
@@ -12125,6 +12152,27 @@
   ],
   "ui_ux": [
     {
+      "review_id": "14510766011",
+      "source": "app_store",
+      "rating": 4,
+      "date": "2026-09-04T12:27:42-07:00",
+      "text": "Love the features, loves the tracking and historical data mapping. \n\nNow the bad stuff…. When accessing the iOS app a lot of the text is cut off and you can’t scroll over to see it or flip to landscape mode. Then there’s the constant marketing notifications. Needs work",
+      "subcategory_tags": [
+        "device_rendering_bugs",
+        "notification_community_issues"
+      ]
+    },
+    {
+      "review_id": "14509504779",
+      "source": "app_store",
+      "rating": 4,
+      "date": "2026-09-04T06:06:24-07:00",
+      "text": "Still trying to figure it all out however, the screen view is cut off on the sides preventing clear view of data. Changing phone settings screws up my entire phone. Please fix! Thanks!",
+      "subcategory_tags": [
+        "device_rendering_bugs"
+      ]
+    },
+    {
       "review_id": "51d2cfc1-cdb1-43dd-ab2f-ce47e29fddff",
       "source": "google_play",
       "rating": 2,
@@ -12439,30 +12487,6 @@
         "redesign_regression",
         "feature_ui_friction",
         "missing_metrics"
-      ]
-    },
-    {
-      "review_id": "4cfb7865-df34-4e61-813e-966459e8ac71",
-      "source": "google_play",
-      "rating": 2,
-      "date": "2026-07-29T15:57:08",
-      "text": "Most recent update broke notifications on the S26 Ultra",
-      "subcategory_tags": [
-        "notification_community_issues",
-        "update_failures"
-      ]
-    },
-    {
-      "review_id": "1a6e0142-c7da-49b4-8b80-2ef748251ed7",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2026-07-29T03:45:00",
-      "text": "relax practice not work without network connection, whoop simultaneously disconnected from app, activity auto-detection worx bad, stupid time input interface when filling out the journal — it's impossible to get to the right time (previous review magically deleted from store)",
-      "subcategory_tags": [
-        "data_sync_delays",
-        "ongoing_disconnects",
-        "activity_detection",
-        "feature_ui_friction"
       ]
     }
   ],
@@ -12819,6 +12843,27 @@
   ],
   "device_rendering_bugs": [
     {
+      "review_id": "14510766011",
+      "source": "app_store",
+      "rating": 4,
+      "date": "2026-09-04T12:27:42-07:00",
+      "text": "Love the features, loves the tracking and historical data mapping. \n\nNow the bad stuff…. When accessing the iOS app a lot of the text is cut off and you can’t scroll over to see it or flip to landscape mode. Then there’s the constant marketing notifications. Needs work",
+      "subcategory_tags": [
+        "device_rendering_bugs",
+        "notification_community_issues"
+      ]
+    },
+    {
+      "review_id": "14509504779",
+      "source": "app_store",
+      "rating": 4,
+      "date": "2026-09-04T06:06:24-07:00",
+      "text": "Still trying to figure it all out however, the screen view is cut off on the sides preventing clear view of data. Changing phone settings screws up my entire phone. Please fix! Thanks!",
+      "subcategory_tags": [
+        "device_rendering_bugs"
+      ]
+    },
+    {
       "review_id": "51d2cfc1-cdb1-43dd-ab2f-ce47e29fddff",
       "source": "google_play",
       "rating": 2,
@@ -13117,29 +13162,6 @@
         "update_failures",
         "notification_community_issues",
         "device_rendering_bugs"
-      ]
-    },
-    {
-      "review_id": "d629b9a8-6843-485b-9529-cc04e30081de",
-      "source": "google_play",
-      "rating": 5,
-      "date": "2025-05-20T23:46:34",
-      "text": "Great app. Please check Notes block in Journal is covered by open Keyboard.",
-      "subcategory_tags": [
-        "device_rendering_bugs"
-      ]
-    },
-    {
-      "review_id": "834a642c-514f-433f-a268-28888bd169d7",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2024-08-20T21:36:54",
-      "text": "THEY LOCK YOU INTO A YEAR EVEN IF YOU SWITCH TO MONTHLY PAYMENTS! The app appears buggy with parts of the Sleep planner completely cut off and not readable. This might be a deal-breaker for me in terms of paying for this service.",
-      "subcategory_tags": [
-        "plan_trial_structure",
-        "billing_disputes",
-        "device_rendering_bugs",
-        "price_value_perception"
       ]
     }
   ],
@@ -13490,6 +13512,17 @@
   ],
   "notification_community_issues": [
     {
+      "review_id": "14510766011",
+      "source": "app_store",
+      "rating": 4,
+      "date": "2026-09-04T12:27:42-07:00",
+      "text": "Love the features, loves the tracking and historical data mapping. \n\nNow the bad stuff…. When accessing the iOS app a lot of the text is cut off and you can’t scroll over to see it or flip to landscape mode. Then there’s the constant marketing notifications. Needs work",
+      "subcategory_tags": [
+        "device_rendering_bugs",
+        "notification_community_issues"
+      ]
+    },
+    {
       "review_id": "bb7c406c-f23d-40dc-aaba-deeae1e7d666",
       "source": "google_play",
       "rating": 3,
@@ -13808,17 +13841,6 @@
       "date": "2026-03-16T08:09:09",
       "text": "community chat doesn't work, can only see my own messages, half the time my own messages don't even send. I get chat message notifications but can't see anything when I load in.",
       "subcategory_tags": [
-        "notification_community_issues"
-      ]
-    },
-    {
-      "review_id": "a869d4ae-e03c-4c5a-a927-e7ddc01920a9",
-      "source": "google_play",
-      "rating": 3,
-      "date": "2026-03-09T13:02:57",
-      "text": "After update the whoop app crashes and closes when I click community. For the rest 5* but making lower review to attract dev attention",
-      "subcategory_tags": [
-        "crashes_freezes",
         "notification_community_issues"
       ]
     }
@@ -14840,6 +14862,16 @@
   ],
   "localization": [
     {
+      "review_id": "14509794189",
+      "source": "app_store",
+      "rating": 4,
+      "date": "2026-09-04T07:27:20-07:00",
+      "text": "We request that the company include Arabic among the available languages.",
+      "subcategory_tags": [
+        "missing_language_support"
+      ]
+    },
+    {
       "review_id": "14504693976",
       "source": "app_store",
       "rating": 1,
@@ -15137,19 +15169,19 @@
       "subcategory_tags": [
         "missing_language_support"
       ]
-    },
-    {
-      "review_id": "13521659130",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2025-12-16T14:22:27-07:00",
-      "text": "شوار ممتاز ولاكن مع الاسف لايدعم الغه العربيه",
-      "subcategory_tags": [
-        "missing_language_support"
-      ]
     }
   ],
   "missing_language_support": [
+    {
+      "review_id": "14509794189",
+      "source": "app_store",
+      "rating": 4,
+      "date": "2026-09-04T07:27:20-07:00",
+      "text": "We request that the company include Arabic among the available languages.",
+      "subcategory_tags": [
+        "missing_language_support"
+      ]
+    },
     {
       "review_id": "14504693976",
       "source": "app_store",
@@ -15444,16 +15476,6 @@
       "rating": 1,
       "date": "2025-12-16T14:22:27-07:00",
       "text": "شوار ممتاز ولاكن مع الاسف لايدعم الغه العربيه",
-      "subcategory_tags": [
-        "missing_language_support"
-      ]
-    },
-    {
-      "review_id": "13495559670",
-      "source": "app_store",
-      "rating": 4,
-      "date": "2025-12-09T16:48:34-07:00",
-      "text": "I’ve been a long-time WHOOP user and really love the recovery and training insights. However, the app still doesn’t support Chinese, which makes it hard for my family and many potential users to use it. Could you please share if there’s any plan or estimated timeline for adding Chinese language support? It would greatly improve the experience for a huge user base. Looking forward to it!",
       "subcategory_tags": [
         "missing_language_support"
       ]
@@ -15542,6 +15564,29 @@
     }
   ],
   "feature_requests": [
+    {
+      "review_id": "92e7e263-3ef5-4d26-91d8-9c5f7283a212",
+      "source": "google_play",
+      "rating": 3,
+      "date": "2026-09-04T20:03:32+00:00",
+      "text": "The software is very unrefined and often lags heavily. It either runs slowly or doesn't work at all. The AI leaves much to be desired: first, it makes mistakes, and second, it processes information very slowly. I am 60 years old with a specific medical history and health issues. Nevertheless, the app stubbornly requires me to reach a strain level of 18.6, even though I started using WHOOP only two weeks ago.",
+      "subcategory_tags": [
+        "crashes_freezes",
+        "ai_reliability_bugs",
+        "personalization_use_case_fit"
+      ]
+    },
+    {
+      "review_id": "14510169827",
+      "source": "app_store",
+      "rating": 5,
+      "date": "2026-09-04T09:14:30-07:00",
+      "text": "i just wish that is tracked naps and the amount of yards i swim.",
+      "subcategory_tags": [
+        "sleep_accuracy",
+        "missing_activity_types"
+      ]
+    },
     {
       "review_id": "ab76eae1-d1f1-463b-b838-6ed19e67f41c",
       "source": "google_play",
@@ -15856,34 +15901,20 @@
       "subcategory_tags": [
         "personalization_use_case_fit"
       ]
-    },
-    {
-      "review_id": "14367456315",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-07-30T11:04:09-07:00",
-      "text": "I do not recommend the Whoop band if you’re buying it for blood pressure monitoring.\n\nI purchased the lifetime membership because I have high blood pressure and wanted a device to help me track it. I was very disappointed to learn that Whoop does not measure or even estimate your blood pressure. Instead, it asks you to manually enter your blood pressure readings and then simply shows the average of the values you entered yourself.\n\nThere is no real blood pressure monitoring, no estimated readings, and no meaningful tracking beyond your own manual entries. If blood pressure is your main concern, this device will not meet your expectations. I believe this limitation should be made much clearer before customers purchase a membership.",
-      "subcategory_tags": [
-        "ecg_bp_feature_reliability",
-        "missing_metrics",
-        "price_value_perception"
-      ]
-    },
-    {
-      "review_id": "14367054341",
-      "source": "app_store",
-      "rating": 4,
-      "date": "2026-07-30T09:02:05-07:00",
-      "text": "I really like it’s workout feature and AI, hence I keep using it. The only problem I have is with App’s UX, it’s not easy on the eye and checking simple things like steps is a bit over complicated. It’s annoying to see flash cards every day and my ocd kicks in to clean them. You should not make things difficult for users, give options and suggestions to make it more widget based, where user can pick and choose way easy.",
-      "subcategory_tags": [
-        "ai_positive_reception",
-        "redesign_regression",
-        "feature_ui_friction",
-        "missing_metrics"
-      ]
     }
   ],
   "missing_activity_types": [
+    {
+      "review_id": "14510169827",
+      "source": "app_store",
+      "rating": 5,
+      "date": "2026-09-04T09:14:30-07:00",
+      "text": "i just wish that is tracked naps and the amount of yards i swim.",
+      "subcategory_tags": [
+        "sleep_accuracy",
+        "missing_activity_types"
+      ]
+    },
     {
       "review_id": "14442900365",
       "source": "app_store",
@@ -16204,18 +16235,6 @@
         "missing_activity_types",
         "third_party_integration",
         "ecg_bp_feature_reliability"
-      ]
-    },
-    {
-      "review_id": "a4602e36-cc21-4f97-a512-027c77442742",
-      "source": "google_play",
-      "rating": 3,
-      "date": "2025-11-17T14:27:58",
-      "text": "Promising health monitor BUT the app needs to be less disorganised. Insights are informative. The graphs and charts are not helpfully labelled on any of the axis and there is an overuse of weekly/monthly summarised statistics accompanied by a complete lack of daily graph data which could show details of heart rate, rhr, hrv etc. The stress monitor is excellent - we need more charts like this. For activities, just let the user add in manually - it's not necessary to try to list every one!",
-      "subcategory_tags": [
-        "redesign_regression",
-        "missing_metrics",
-        "missing_activity_types"
       ]
     }
   ],
@@ -16562,6 +16581,18 @@
   ],
   "personalization_use_case_fit": [
     {
+      "review_id": "92e7e263-3ef5-4d26-91d8-9c5f7283a212",
+      "source": "google_play",
+      "rating": 3,
+      "date": "2026-09-04T20:03:32+00:00",
+      "text": "The software is very unrefined and often lags heavily. It either runs slowly or doesn't work at all. The AI leaves much to be desired: first, it makes mistakes, and second, it processes information very slowly. I am 60 years old with a specific medical history and health issues. Nevertheless, the app stubbornly requires me to reach a strain level of 18.6, even though I started using WHOOP only two weeks ago.",
+      "subcategory_tags": [
+        "crashes_freezes",
+        "ai_reliability_bugs",
+        "personalization_use_case_fit"
+      ]
+    },
+    {
       "review_id": "97dd672a-ecc3-4f24-951f-9fbeb849a23b",
       "source": "google_play",
       "rating": 5,
@@ -16889,19 +16920,6 @@
         "redesign_regression",
         "upsell_pressure",
         "third_party_integration",
-        "personalization_use_case_fit"
-      ]
-    },
-    {
-      "review_id": "412e13a1-b8d6-4702-8962-41d20d9a4d7a",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2026-06-21T05:53:01",
-      "text": "Two years a loyal WHOOP user, loved it. But honestly, after all this time: it's useless if you don't sleep in one block. Nap or wake to drink water, and it chops your night into \"naps,\" crashing your sleep score and your recovery score with it. Body says fully recharged; app says red. Support has no fix for multiphase sleepers. Unless you sleep like a machine, the data will mislead you",
-      "subcategory_tags": [
-        "sleep_accuracy",
-        "metric_accuracy",
-        "support_resolution_quality",
         "personalization_use_case_fit"
       ]
     }
