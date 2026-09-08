@@ -1723,6 +1723,20 @@
   ],
   "sleep_tracking": [
     {
+      "review_id": "14519069277",
+      "source": "app_store",
+      "rating": 3,
+      "date": "2026-09-06T14:17:04-07:00",
+      "text": "I tried whoop for 6months. I found the actual hardware to be uncomfortable on my wrist. I found the sports band that was $50 to work, but it broke within the 6months. I initially like the tracking bout found that at least 20% of the time it was inaccurate - saying I only got 4hrs of sleep, then took a 3hr nap staring at 2am, or would cut off work outs. Then I would have to manually fix things. I ultimately think the app was pretty good, but combined with the cheap hardware I think this is 3 stars.",
+      "subcategory_tags": [
+        "comfort_fit",
+        "strap_clasp_durability",
+        "sleep_accuracy",
+        "activity_detection",
+        "build_quality_perception"
+      ]
+    },
+    {
       "review_id": "14517581952",
       "source": "app_store",
       "rating": 4,
@@ -2048,19 +2062,23 @@
         "ai_reliability_bugs",
         "price_value_perception"
       ]
-    },
-    {
-      "review_id": "14410841263",
-      "source": "app_store",
-      "rating": 5,
-      "date": "2026-08-10T07:56:55-07:00",
-      "text": "I ended up with a whoop through a research study in 2023 and have been addicted to the data ever since. The sleep recovery information is the most helpful. As a physician, I’ve been able to add about an hour to my sleep schedule just by understanding the trends and tendencies that I probably felt but hadn’t seen in big data form.",
-      "subcategory_tags": [
-        "sleep_satisfaction"
-      ]
     }
   ],
   "sleep_accuracy": [
+    {
+      "review_id": "14519069277",
+      "source": "app_store",
+      "rating": 3,
+      "date": "2026-09-06T14:17:04-07:00",
+      "text": "I tried whoop for 6months. I found the actual hardware to be uncomfortable on my wrist. I found the sports band that was $50 to work, but it broke within the 6months. I initially like the tracking bout found that at least 20% of the time it was inaccurate - saying I only got 4hrs of sleep, then took a 3hr nap staring at 2am, or would cut off work outs. Then I would have to manually fix things. I ultimately think the app was pretty good, but combined with the cheap hardware I think this is 3 stars.",
+      "subcategory_tags": [
+        "comfort_fit",
+        "strap_clasp_durability",
+        "sleep_accuracy",
+        "activity_detection",
+        "build_quality_perception"
+      ]
+    },
     {
       "review_id": "14517581952",
       "source": "app_store",
@@ -2397,18 +2415,6 @@
         "sleep_accuracy",
         "price_value_perception",
         "metric_accuracy"
-      ]
-    },
-    {
-      "review_id": "ff9da5ad-2cba-4278-9b58-ef41cbb32a0a",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2026-06-28T03:10:16",
-      "text": "after the last update it has stopped reviewing my sleep and recovery and didn't even update my lifespan. this definitely needs to be fixed",
-      "subcategory_tags": [
-        "update_failures",
-        "sleep_accuracy",
-        "data_sync_delays"
       ]
     }
   ],
@@ -3093,6 +3099,20 @@
   ],
   "hardware_wearability": [
     {
+      "review_id": "14519069277",
+      "source": "app_store",
+      "rating": 3,
+      "date": "2026-09-06T14:17:04-07:00",
+      "text": "I tried whoop for 6months. I found the actual hardware to be uncomfortable on my wrist. I found the sports band that was $50 to work, but it broke within the 6months. I initially like the tracking bout found that at least 20% of the time it was inaccurate - saying I only got 4hrs of sleep, then took a 3hr nap staring at 2am, or would cut off work outs. Then I would have to manually fix things. I ultimately think the app was pretty good, but combined with the cheap hardware I think this is 3 stars.",
+      "subcategory_tags": [
+        "comfort_fit",
+        "strap_clasp_durability",
+        "sleep_accuracy",
+        "activity_detection",
+        "build_quality_perception"
+      ]
+    },
+    {
       "review_id": "b1f75783-26f9-4335-b486-635dc4c25e1b",
       "source": "google_play",
       "rating": 1,
@@ -3423,20 +3443,23 @@
         "battery_life",
         "plan_trial_structure"
       ]
-    },
-    {
-      "review_id": "14216878250",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-06-23T07:19:14-07:00",
-      "text": "Customer service would rather insult you than actually solve their problem. Also, can’t stand the stupid sleep debt feature. Bands fade with minimal sunlight. Would not recommend to anyone!",
-      "subcategory_tags": [
-        "support_resolution_quality",
-        "comfort_fit"
-      ]
     }
   ],
   "strap_clasp_durability": [
+    {
+      "review_id": "14519069277",
+      "source": "app_store",
+      "rating": 3,
+      "date": "2026-09-06T14:17:04-07:00",
+      "text": "I tried whoop for 6months. I found the actual hardware to be uncomfortable on my wrist. I found the sports band that was $50 to work, but it broke within the 6months. I initially like the tracking bout found that at least 20% of the time it was inaccurate - saying I only got 4hrs of sleep, then took a 3hr nap staring at 2am, or would cut off work outs. Then I would have to manually fix things. I ultimately think the app was pretty good, but combined with the cheap hardware I think this is 3 stars.",
+      "subcategory_tags": [
+        "comfort_fit",
+        "strap_clasp_durability",
+        "sleep_accuracy",
+        "activity_detection",
+        "build_quality_perception"
+      ]
+    },
     {
       "review_id": "14493545320",
       "source": "app_store",
@@ -3777,21 +3800,23 @@
         "strap_clasp_durability",
         "billing_disputes"
       ]
-    },
-    {
-      "review_id": "6082a7a9-a812-4865-bf67-4eb008145ab4",
-      "source": "google_play",
-      "rating": 5,
-      "date": "2020-10-24T16:57:41",
-      "text": "Sleek and really low profile on your wrist. Customers service is absolutely amazing! They answered my emails within 5 minutes and were extremely helpful. The bicep sleeve is awesome I use during jui jitsu and it stays put the whole 60-90min session. No issues with using using the device in the pool (don't wear battery pack in water). Strap is good quality it's kept it's elasticity. Definitely would recommend!",
-      "subcategory_tags": [
-        "support_satisfaction",
-        "comfort_fit",
-        "strap_clasp_durability"
-      ]
     }
   ],
   "comfort_fit": [
+    {
+      "review_id": "14519069277",
+      "source": "app_store",
+      "rating": 3,
+      "date": "2026-09-06T14:17:04-07:00",
+      "text": "I tried whoop for 6months. I found the actual hardware to be uncomfortable on my wrist. I found the sports band that was $50 to work, but it broke within the 6months. I initially like the tracking bout found that at least 20% of the time it was inaccurate - saying I only got 4hrs of sleep, then took a 3hr nap staring at 2am, or would cut off work outs. Then I would have to manually fix things. I ultimately think the app was pretty good, but combined with the cheap hardware I think this is 3 stars.",
+      "subcategory_tags": [
+        "comfort_fit",
+        "strap_clasp_durability",
+        "sleep_accuracy",
+        "activity_detection",
+        "build_quality_perception"
+      ]
+    },
     {
       "review_id": "14509772320",
       "source": "app_store",
@@ -4119,19 +4144,6 @@
       "text": "not user friendly and the \"watch\" itches",
       "subcategory_tags": [
         "comfort_fit"
-      ]
-    },
-    {
-      "review_id": "72fb0d3b-7eea-420c-9599-164a7d40d33b",
-      "source": "google_play",
-      "rating": 2,
-      "date": "2025-06-03T05:55:02",
-      "text": "Constantly disconnects. The step counter for the new MG is garbage and useless. It uses an algorithm and it's never even close. Why even have it in there? New version is also way bigger and thicker. Not worth it.",
-      "subcategory_tags": [
-        "ongoing_disconnects",
-        "metric_accuracy",
-        "comfort_fit",
-        "price_value_perception"
       ]
     }
   ],
@@ -4480,6 +4492,20 @@
   ],
   "build_quality_perception": [
     {
+      "review_id": "14519069277",
+      "source": "app_store",
+      "rating": 3,
+      "date": "2026-09-06T14:17:04-07:00",
+      "text": "I tried whoop for 6months. I found the actual hardware to be uncomfortable on my wrist. I found the sports band that was $50 to work, but it broke within the 6months. I initially like the tracking bout found that at least 20% of the time it was inaccurate - saying I only got 4hrs of sleep, then took a 3hr nap staring at 2am, or would cut off work outs. Then I would have to manually fix things. I ultimately think the app was pretty good, but combined with the cheap hardware I think this is 3 stars.",
+      "subcategory_tags": [
+        "comfort_fit",
+        "strap_clasp_durability",
+        "sleep_accuracy",
+        "activity_detection",
+        "build_quality_perception"
+      ]
+    },
+    {
       "review_id": "b1f75783-26f9-4335-b486-635dc4c25e1b",
       "source": "google_play",
       "rating": 1,
@@ -4816,18 +4842,6 @@
       "subcategory_tags": [
         "billing_disputes",
         "price_value_perception",
-        "build_quality_perception"
-      ]
-    },
-    {
-      "review_id": "cebd21c2-d798-42b1-99f6-21f90810af44",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2025-04-02T11:46:36",
-      "text": "crashes, doesn't update, says \"not enough data\" after reading data for two hours, super buggy device and app",
-      "subcategory_tags": [
-        "crashes_freezes",
-        "data_sync_delays",
         "build_quality_perception"
       ]
     }
@@ -6191,6 +6205,20 @@
   ],
   "data_accuracy": [
     {
+      "review_id": "14519069277",
+      "source": "app_store",
+      "rating": 3,
+      "date": "2026-09-06T14:17:04-07:00",
+      "text": "I tried whoop for 6months. I found the actual hardware to be uncomfortable on my wrist. I found the sports band that was $50 to work, but it broke within the 6months. I initially like the tracking bout found that at least 20% of the time it was inaccurate - saying I only got 4hrs of sleep, then took a 3hr nap staring at 2am, or would cut off work outs. Then I would have to manually fix things. I ultimately think the app was pretty good, but combined with the cheap hardware I think this is 3 stars.",
+      "subcategory_tags": [
+        "comfort_fit",
+        "strap_clasp_durability",
+        "sleep_accuracy",
+        "activity_detection",
+        "build_quality_perception"
+      ]
+    },
+    {
       "review_id": "14517581952",
       "source": "app_store",
       "rating": 4,
@@ -6527,17 +6555,6 @@
       "subcategory_tags": [
         "metric_accuracy",
         "activity_detection"
-      ]
-    },
-    {
-      "review_id": "14386610513",
-      "source": "app_store",
-      "rating": 5,
-      "date": "2026-08-04T05:16:35-07:00",
-      "text": "The device has significantly helped me manage my sleep quality , along with using sleep hygiene and it has helped  me monitor my heart rate during jogging. I do recommend to it friends",
-      "subcategory_tags": [
-        "sleep_satisfaction",
-        "metric_accuracy"
       ]
     }
   ],
@@ -6892,6 +6909,20 @@
   ],
   "activity_detection": [
     {
+      "review_id": "14519069277",
+      "source": "app_store",
+      "rating": 3,
+      "date": "2026-09-06T14:17:04-07:00",
+      "text": "I tried whoop for 6months. I found the actual hardware to be uncomfortable on my wrist. I found the sports band that was $50 to work, but it broke within the 6months. I initially like the tracking bout found that at least 20% of the time it was inaccurate - saying I only got 4hrs of sleep, then took a 3hr nap staring at 2am, or would cut off work outs. Then I would have to manually fix things. I ultimately think the app was pretty good, but combined with the cheap hardware I think this is 3 stars.",
+      "subcategory_tags": [
+        "comfort_fit",
+        "strap_clasp_durability",
+        "sleep_accuracy",
+        "activity_detection",
+        "build_quality_perception"
+      ]
+    },
+    {
       "review_id": "14517581952",
       "source": "app_store",
       "rating": 4,
@@ -7237,20 +7268,6 @@
         "activity_detection",
         "sleep_accuracy",
         "metric_accuracy"
-      ]
-    },
-    {
-      "review_id": "53f1424d-0046-4682-8a95-cc691da3667a",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2026-06-11T11:47:18",
-      "text": "glitchy app, often fails to register activities or process manually tracked sleep at all (leading to no recovery or sleep score). rebooting, force closing, Bluetooth toggling, un/reinstallation all fail. shameful price and a model that holds the user hostage",
-      "subcategory_tags": [
-        "crashes_freezes",
-        "activity_detection",
-        "sleep_accuracy",
-        "price_value_perception",
-        "billing_disputes"
       ]
     }
   ],
@@ -7996,6 +8013,27 @@
   ],
   "ai_coach": [
     {
+      "review_id": "195be08d-984e-4686-8311-6ffe519fe847",
+      "source": "google_play",
+      "rating": 2,
+      "date": "2026-09-07T16:21:48+00:00",
+      "text": "loved this thing then the ai talking stopped working and the app is crashing. ive already Uninstaller and installed it multiple times",
+      "subcategory_tags": [
+        "ai_reliability_bugs",
+        "crashes_freezes"
+      ]
+    },
+    {
+      "review_id": "f34769f5-4bf6-4d90-beee-86db5db90ea9",
+      "source": "google_play",
+      "rating": 1,
+      "date": "2026-09-07T15:41:19+00:00",
+      "text": "AI stopped working this morning. not sure what the problem is. I've restarted the app and my phone and the app and firmware are up to date. Anyone else experiencing issues?",
+      "subcategory_tags": [
+        "ai_reliability_bugs"
+      ]
+    },
+    {
       "review_id": "14515985475",
       "source": "app_store",
       "rating": 1,
@@ -8309,35 +8347,30 @@
         "metric_accuracy",
         "ai_reliability_bugs"
       ]
-    },
-    {
-      "review_id": "14405356198",
-      "source": "app_store",
-      "rating": 3,
-      "date": "2026-08-08T21:56:04-07:00",
-      "text": "The piling on of AI “features” that I can’t turn off or opt out of is already irritating, but the tracking has also only been getting worse (it used to be on the nose about my main activity, now it is all over the place and regular automatically stops logging when I’ve barely even started, only to log showers as activities instead). It might just be coincidence but the decline coinciding with the increased AI integration, and my observations of every other AI tool I’ve been unable to avoid, do make me suspicious that these things are related, to Whoop’s detriment. A new low, it logged 4x as many steps as Apple Health today - I was on a road trip for 5.5 hours, Whoop is definitely the one that’s wrong about this. If they insist on burying themselves with AI, I just wish I could at least turn off the way it interacts with me. I don’t want an app talking to me in a creepy imitation of a person. Unfortunately, I bought a longer subscription at my last renewal. If the accuracy doesn’t come back by the time that expires, I just don’t think the high price will be worth it.",
-      "subcategory_tags": [
-        "ai_autonomy",
-        "activity_detection",
-        "metric_accuracy",
-        "price_value_perception"
-      ]
-    },
-    {
-      "review_id": "682c6f55-0c48-48a1-b8ce-4d9f630ce9a5",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2026-08-08T18:13:35+00:00",
-      "text": "The Whoop wristband is clingly. You can't take it off without it sending annoying messages about your wristband being off, so notifications have to be turned off entirely. Then Whoop processes your data through AI when opening pages and forces its AI slop without a way to opt out. After reaching out to customer service for the first time, I received a clueless AI-generated response. After that, I cancelled my subscription and threw my Whoop wristband in the trash.",
-      "subcategory_tags": [
-        "notification_community_issues",
-        "ai_autonomy",
-        "ai_only_support_channel",
-        "billing_disputes"
-      ]
     }
   ],
   "ai_reliability_bugs": [
+    {
+      "review_id": "195be08d-984e-4686-8311-6ffe519fe847",
+      "source": "google_play",
+      "rating": 2,
+      "date": "2026-09-07T16:21:48+00:00",
+      "text": "loved this thing then the ai talking stopped working and the app is crashing. ive already Uninstaller and installed it multiple times",
+      "subcategory_tags": [
+        "ai_reliability_bugs",
+        "crashes_freezes"
+      ]
+    },
+    {
+      "review_id": "f34769f5-4bf6-4d90-beee-86db5db90ea9",
+      "source": "google_play",
+      "rating": 1,
+      "date": "2026-09-07T15:41:19+00:00",
+      "text": "AI stopped working this morning. not sure what the problem is. I've restarted the app and my phone and the app and firmware are up to date. Anyone else experiencing issues?",
+      "subcategory_tags": [
+        "ai_reliability_bugs"
+      ]
+    },
     {
       "review_id": "14515985475",
       "source": "app_store",
@@ -8664,31 +8697,6 @@
       "text": "the AI feature for logging workout is not working anymore.",
       "subcategory_tags": [
         "ai_reliability_bugs"
-      ]
-    },
-    {
-      "review_id": "14285494669",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-07-10T03:06:20-07:00",
-      "text": "Been using Whoop for 4 months religiously and have had nothing but frustration with the faulty data and bad AI coaching.  Zero improvement in sleep and horrible workout plans with the strength trainer.  You’ll go for a run and 10 minutes later get a notification asking if you’re going to go for a run…it’s so frustrating.  I want my money back but I’m stuck with it.",
-      "subcategory_tags": [
-        "ai_reliability_bugs",
-        "activity_detection",
-        "billing_disputes",
-        "feature_ui_friction"
-      ]
-    },
-    {
-      "review_id": "14276249631",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-07-07T18:55:26-07:00",
-      "text": "Upgrade the ai features. Gpt 4 is dumb against the current age. Also it deleted my workout without warning. Truly upsetting. UI isn’t truly intuitive.",
-      "subcategory_tags": [
-        "ai_reliability_bugs",
-        "crashes_freezes",
-        "redesign_regression"
       ]
     }
   ],
@@ -11115,6 +11123,17 @@
   ],
   "app_stability": [
     {
+      "review_id": "195be08d-984e-4686-8311-6ffe519fe847",
+      "source": "google_play",
+      "rating": 2,
+      "date": "2026-09-07T16:21:48+00:00",
+      "text": "loved this thing then the ai talking stopped working and the app is crashing. ive already Uninstaller and installed it multiple times",
+      "subcategory_tags": [
+        "ai_reliability_bugs",
+        "crashes_freezes"
+      ]
+    },
+    {
       "review_id": "92e7e263-3ef5-4d26-91d8-9c5f7283a212",
       "source": "google_play",
       "rating": 3,
@@ -11441,19 +11460,20 @@
         "crashes_freezes",
         "update_failures"
       ]
-    },
-    {
-      "review_id": "cbd9b91e-d671-41d8-927c-36e728f781a7",
-      "source": "google_play",
-      "rating": 3,
-      "date": "2026-06-19T20:34:37",
-      "text": "my whoop app is not opening",
-      "subcategory_tags": [
-        "crashes_freezes"
-      ]
     }
   ],
   "crashes_freezes": [
+    {
+      "review_id": "195be08d-984e-4686-8311-6ffe519fe847",
+      "source": "google_play",
+      "rating": 2,
+      "date": "2026-09-07T16:21:48+00:00",
+      "text": "loved this thing then the ai talking stopped working and the app is crashing. ive already Uninstaller and installed it multiple times",
+      "subcategory_tags": [
+        "ai_reliability_bugs",
+        "crashes_freezes"
+      ]
+    },
     {
       "review_id": "92e7e263-3ef5-4d26-91d8-9c5f7283a212",
       "source": "google_play",
@@ -11783,17 +11803,6 @@
       "subcategory_tags": [
         "crashes_freezes",
         "price_value_perception"
-      ]
-    },
-    {
-      "review_id": "39fc8099-f680-4978-999e-781261d6ad2b",
-      "source": "google_play",
-      "rating": 3,
-      "date": "2026-06-04T18:25:12",
-      "text": "The idea is great, the implementation is mediocre. The app itself is bugged and unfinished. The data is questionable.",
-      "subcategory_tags": [
-        "crashes_freezes",
-        "metric_accuracy"
       ]
     }
   ],
@@ -12142,6 +12151,18 @@
   ],
   "ui_ux": [
     {
+      "review_id": "bcc09854-cb43-4abd-a580-1f829fcfac00",
+      "source": "google_play",
+      "rating": 3,
+      "date": "2026-09-06T18:18:27+00:00",
+      "text": "Neurodivergent here. App is not intuitive when adding behaviors and daily life activity to your journal. Data should be on a 5 pt scale for pain, mood, motivation etc. so that you can better track it. The Daylio app for tracking and journaling should be a model to use for improvement on this app, please integrate features from that app. Your list of behaviors is not in any order that makes sense, you can't personalize anything, menstrual cycle tracking is just clunky. It's all way too boring.",
+      "subcategory_tags": [
+        "personalization_use_case_fit",
+        "missing_metrics",
+        "feature_ui_friction"
+      ]
+    },
+    {
       "review_id": "14510766011",
       "source": "app_store",
       "rating": 4,
@@ -12464,19 +12485,6 @@
       "subcategory_tags": [
         "price_value_perception",
         "feature_ui_friction"
-      ]
-    },
-    {
-      "review_id": "14367054341",
-      "source": "app_store",
-      "rating": 4,
-      "date": "2026-07-30T09:02:05-07:00",
-      "text": "I really like it’s workout feature and AI, hence I keep using it. The only problem I have is with App’s UX, it’s not easy on the eye and checking simple things like steps is a bit over complicated. It’s annoying to see flash cards every day and my ocd kicks in to clean them. You should not make things difficult for users, give options and suggestions to make it more widget based, where user can pick and choose way easy.",
-      "subcategory_tags": [
-        "ai_positive_reception",
-        "redesign_regression",
-        "feature_ui_friction",
-        "missing_metrics"
       ]
     }
   ],
@@ -13157,6 +13165,18 @@
   ],
   "feature_ui_friction": [
     {
+      "review_id": "bcc09854-cb43-4abd-a580-1f829fcfac00",
+      "source": "google_play",
+      "rating": 3,
+      "date": "2026-09-06T18:18:27+00:00",
+      "text": "Neurodivergent here. App is not intuitive when adding behaviors and daily life activity to your journal. Data should be on a 5 pt scale for pain, mood, motivation etc. so that you can better track it. The Daylio app for tracking and journaling should be a model to use for improvement on this app, please integrate features from that app. Your list of behaviors is not in any order that makes sense, you can't personalize anything, menstrual cycle tracking is just clunky. It's all way too boring.",
+      "subcategory_tags": [
+        "personalization_use_case_fit",
+        "missing_metrics",
+        "feature_ui_friction"
+      ]
+    },
+    {
       "review_id": "ad4bbc81-07f9-4d20-af41-1448ab5eb456",
       "source": "google_play",
       "rating": 2,
@@ -13483,19 +13503,6 @@
       "date": "2026-06-11T09:09:57",
       "text": "you need to allow people to type numbers in for the time for the daily journal. your damn slider bars are irritating and they don't stay where you leave them. there's several annoying interface issues that you seem to be unaware of because they've been there for multiple versions now. do some damn uat",
       "subcategory_tags": [
-        "feature_ui_friction"
-      ]
-    },
-    {
-      "review_id": "14161739979",
-      "source": "app_store",
-      "rating": 4,
-      "date": "2026-06-09T03:54:18-07:00",
-      "text": "Adequate, but it’s hard to tell how accurate the heart rate data truly is. It’d be nice if you could mark when you’re taking a rest day, because it feels like it encourages you to over train to “reach your strain” on a lot of days, despite the fact that I’m a high level athlete, with an intentional training split. Another way it encourages you to over train is that it does not do a great job of accurately measuring intensity during track/speed workouts where the intensity is high, but the rest periods are longer. It’d be nice if you could put RPE in with each workout. It would also be nice if in the lifting/strength sections that it kept track of the weight you used to last time you did that movement when you’re doing a new strength workout. I do like tracking overall trends with my\nHRV/resting heart rate though.",
-      "subcategory_tags": [
-        "metric_accuracy",
-        "personalization_use_case_fit",
-        "missing_metrics",
         "feature_ui_friction"
       ]
     }
@@ -15555,6 +15562,18 @@
   ],
   "feature_requests": [
     {
+      "review_id": "bcc09854-cb43-4abd-a580-1f829fcfac00",
+      "source": "google_play",
+      "rating": 3,
+      "date": "2026-09-06T18:18:27+00:00",
+      "text": "Neurodivergent here. App is not intuitive when adding behaviors and daily life activity to your journal. Data should be on a 5 pt scale for pain, mood, motivation etc. so that you can better track it. The Daylio app for tracking and journaling should be a model to use for improvement on this app, please integrate features from that app. Your list of behaviors is not in any order that makes sense, you can't personalize anything, menstrual cycle tracking is just clunky. It's all way too boring.",
+      "subcategory_tags": [
+        "personalization_use_case_fit",
+        "missing_metrics",
+        "feature_ui_friction"
+      ]
+    },
+    {
       "review_id": "92e7e263-3ef5-4d26-91d8-9c5f7283a212",
       "source": "google_play",
       "rating": 3,
@@ -15880,16 +15899,6 @@
         "missing_metrics",
         "ai_reliability_bugs",
         "notification_community_issues"
-      ]
-    },
-    {
-      "review_id": "1a8d0a3b-14f7-4dec-8c02-a42e2969e073",
-      "source": "google_play",
-      "rating": 2,
-      "date": "2026-07-30T19:36:29",
-      "text": "Stopped using it after few months. it gives not relevant information",
-      "subcategory_tags": [
-        "personalization_use_case_fit"
       ]
     }
   ],
@@ -16230,6 +16239,18 @@
   ],
   "missing_metrics": [
     {
+      "review_id": "bcc09854-cb43-4abd-a580-1f829fcfac00",
+      "source": "google_play",
+      "rating": 3,
+      "date": "2026-09-06T18:18:27+00:00",
+      "text": "Neurodivergent here. App is not intuitive when adding behaviors and daily life activity to your journal. Data should be on a 5 pt scale for pain, mood, motivation etc. so that you can better track it. The Daylio app for tracking and journaling should be a model to use for improvement on this app, please integrate features from that app. Your list of behaviors is not in any order that makes sense, you can't personalize anything, menstrual cycle tracking is just clunky. It's all way too boring.",
+      "subcategory_tags": [
+        "personalization_use_case_fit",
+        "missing_metrics",
+        "feature_ui_friction"
+      ]
+    },
+    {
       "review_id": "ab76eae1-d1f1-463b-b838-6ed19e67f41c",
       "source": "google_play",
       "rating": 5,
@@ -16556,20 +16577,21 @@
       "subcategory_tags": [
         "missing_metrics"
       ]
-    },
-    {
-      "review_id": "14202622250",
-      "source": "app_store",
-      "rating": 3,
-      "date": "2026-06-19T13:23:54-07:00",
-      "text": "It would be better if it shared data with my iPhone health, and it would be nice if I could generate reports to share with my PCP.",
-      "subcategory_tags": [
-        "third_party_integration",
-        "missing_metrics"
-      ]
     }
   ],
   "personalization_use_case_fit": [
+    {
+      "review_id": "bcc09854-cb43-4abd-a580-1f829fcfac00",
+      "source": "google_play",
+      "rating": 3,
+      "date": "2026-09-06T18:18:27+00:00",
+      "text": "Neurodivergent here. App is not intuitive when adding behaviors and daily life activity to your journal. Data should be on a 5 pt scale for pain, mood, motivation etc. so that you can better track it. The Daylio app for tracking and journaling should be a model to use for improvement on this app, please integrate features from that app. Your list of behaviors is not in any order that makes sense, you can't personalize anything, menstrual cycle tracking is just clunky. It's all way too boring.",
+      "subcategory_tags": [
+        "personalization_use_case_fit",
+        "missing_metrics",
+        "feature_ui_friction"
+      ]
+    },
     {
       "review_id": "92e7e263-3ef5-4d26-91d8-9c5f7283a212",
       "source": "google_play",
@@ -16897,19 +16919,6 @@
       "text": "Between Msgs to go to sleep by 9 pm, and no matter what I do, my recovery never gets above 60% even though I wake rested and feel great.",
       "subcategory_tags": [
         "metric_accuracy",
-        "personalization_use_case_fit"
-      ]
-    },
-    {
-      "review_id": "1eebb76b-d4d3-44b1-9a98-d678a74f9ccd",
-      "source": "google_play",
-      "rating": 4,
-      "date": "2026-06-24T07:36:12",
-      "text": "The data depth is strong, but the UI is cumbersome with no way to personalize your view — surfacing what matters and hiding what doesn't. Product ads (clothing, hardware upgrades, bands) appear throughout the app, and the push toward their proprietary labs feature overshadows what would be more useful: importing or syncing physician-prescribed lab results.",
-      "subcategory_tags": [
-        "redesign_regression",
-        "upsell_pressure",
-        "third_party_integration",
         "personalization_use_case_fit"
       ]
     }
