@@ -1,6 +1,26 @@
 {
   "pricing_billing": [
     {
+      "review_id": "14522441204",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-09-07T11:36:57-07:00",
+      "text": "Scam! Make it impossible to cancel.",
+      "subcategory_tags": [
+        "billing_disputes"
+      ]
+    },
+    {
+      "review_id": "14521352093",
+      "source": "app_store",
+      "rating": 5,
+      "date": "2026-09-07T06:18:44-07:00",
+      "text": "I’ve had a few different fitness trackers over the years, and WHOOP is the best, for what it does. If you can afford to pay monthly, it’s really helpful on many fronts.",
+      "subcategory_tags": [
+        "price_value_perception"
+      ]
+    },
+    {
       "review_id": "b1f75783-26f9-4335-b486-635dc4c25e1b",
       "source": "google_play",
       "rating": 1,
@@ -316,33 +336,19 @@
         "metric_accuracy",
         "price_value_perception"
       ]
-    },
-    {
-      "review_id": "6f0bda1f-76a7-4117-8db4-a124e1713abb",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2026-08-16T06:29:51+00:00",
-      "text": "I decided to upgrade after a free trial with a borrowed device. I pushed the in-app upgrade button to find that no device will be sent, and I now don't have one as I returned my friends. Within 5-minutes, I email customer service who says we can cancel the subscription and order a new one with watch. Then they change their minds! I send a follow up email explaining my situation. They respond with a template AI email. Shows what they think about their customers.",
-      "subcategory_tags": [
-        "billing_disputes",
-        "ai_only_support_channel",
-        "support_resolution_quality"
-      ]
-    },
-    {
-      "review_id": "14431427631",
-      "source": "app_store",
-      "rating": 5,
-      "date": "2026-08-15T09:25:47-07:00",
-      "text": "Many people complain about the cost of Whoop, but I find that I get great data and insights from the app and the AI interface. It really helps me understand my recovery from exercise, how well I’m sleeping, how my eating patterns affect my sleep and recovery. It’s been really great.",
-      "subcategory_tags": [
-        "price_value_perception",
-        "ai_positive_reception",
-        "sleep_satisfaction"
-      ]
     }
   ],
   "price_value_perception": [
+    {
+      "review_id": "14521352093",
+      "source": "app_store",
+      "rating": 5,
+      "date": "2026-09-07T06:18:44-07:00",
+      "text": "I’ve had a few different fitness trackers over the years, and WHOOP is the best, for what it does. If you can afford to pay monthly, it’s really helpful on many fronts.",
+      "subcategory_tags": [
+        "price_value_perception"
+      ]
+    },
     {
       "review_id": "b1f75783-26f9-4335-b486-635dc4c25e1b",
       "source": "google_play",
@@ -675,19 +681,19 @@
         "ai_reliability_bugs",
         "price_value_perception"
       ]
-    },
-    {
-      "review_id": "14406824726",
-      "source": "app_store",
-      "rating": 5,
-      "date": "2026-08-09T07:29:00-07:00",
-      "text": "Love the watch and what it does for my daily life,work,sports.  Only complaint is the price upfront for the subscription",
-      "subcategory_tags": [
-        "price_value_perception"
-      ]
     }
   ],
   "billing_disputes": [
+    {
+      "review_id": "14522441204",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-09-07T11:36:57-07:00",
+      "text": "Scam! Make it impossible to cancel.",
+      "subcategory_tags": [
+        "billing_disputes"
+      ]
+    },
     {
       "review_id": "14515137454",
       "source": "app_store",
@@ -1017,17 +1023,6 @@
       "subcategory_tags": [
         "billing_disputes",
         "support_resolution_quality"
-      ]
-    },
-    {
-      "review_id": "5fa86c47-b3c1-445a-abf5-e221ba400a7e",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2026-06-25T14:49:50",
-      "text": "Took another years subscription from my bank account without any prior notification. And, just did a recommended update and it's now not working correctly FFS!!!",
-      "subcategory_tags": [
-        "billing_disputes",
-        "update_failures"
       ]
     }
   ],
@@ -3099,6 +3094,17 @@
   ],
   "hardware_wearability": [
     {
+      "review_id": "14521987861",
+      "source": "app_store",
+      "rating": 4,
+      "date": "2026-09-07T09:19:50-07:00",
+      "text": "The devices battery lasts forever, which is really really helpful. It provides a lot of great information. The one thing that it desperately needs is the ability to track and trend blood pressure. Without this, it really is an imperfect device. That said, that’s why I give it four stars instead of five.",
+      "subcategory_tags": [
+        "battery_life",
+        "missing_metrics"
+      ]
+    },
+    {
       "review_id": "14519069277",
       "source": "app_store",
       "rating": 3,
@@ -3431,17 +3437,6 @@
       "subcategory_tags": [
         "metric_accuracy",
         "battery_life"
-      ]
-    },
-    {
-      "review_id": "1edfe71a-0a41-4ca2-a070-238184aaaa8d",
-      "source": "google_play",
-      "rating": 4,
-      "date": "2026-06-25T02:07:09",
-      "text": "good battery life, experience is based on the subscription tier",
-      "subcategory_tags": [
-        "battery_life",
-        "plan_trial_structure"
       ]
     }
   ],
@@ -4149,6 +4144,17 @@
   ],
   "battery_life": [
     {
+      "review_id": "14521987861",
+      "source": "app_store",
+      "rating": 4,
+      "date": "2026-09-07T09:19:50-07:00",
+      "text": "The devices battery lasts forever, which is really really helpful. It provides a lot of great information. The one thing that it desperately needs is the ability to track and trend blood pressure. Without this, it really is an imperfect device. That said, that’s why I give it four stars instead of five.",
+      "subcategory_tags": [
+        "battery_life",
+        "missing_metrics"
+      ]
+    },
+    {
       "review_id": "14509772320",
       "source": "app_store",
       "rating": 1,
@@ -4475,17 +4481,6 @@
       "subcategory_tags": [
         "price_value_perception",
         "billing_disputes",
-        "battery_life"
-      ]
-    },
-    {
-      "review_id": "81a3aa57-d6af-4810-b0ed-f9a4b72fcde5",
-      "source": "google_play",
-      "rating": 3,
-      "date": "2025-08-18T10:34:55",
-      "text": "I don't know what's going on with the most recent versions of whoop but it is more often sluggish and a battery hog. earlier versions had a very responsive UI. I love my whoop and the data. the UI sluggishness is very off putting. responsiveness is a big deal in app development",
-      "subcategory_tags": [
-        "crashes_freezes",
         "battery_life"
       ]
     }
@@ -11123,6 +11118,16 @@
   ],
   "app_stability": [
     {
+      "review_id": "1de91fe4-0084-4a78-8148-81a2d53b4438",
+      "source": "google_play",
+      "rating": 4,
+      "date": "2026-09-08T15:36:50+00:00",
+      "text": "App has to get a lot of updates comparing to other similar band and it's app",
+      "subcategory_tags": [
+        "update_failures"
+      ]
+    },
+    {
       "review_id": "195be08d-984e-4686-8311-6ffe519fe847",
       "source": "google_play",
       "rating": 2,
@@ -11446,18 +11451,6 @@
       "text": "Took another years subscription from my bank account without any prior notification. And, just did a recommended update and it's now not working correctly FFS!!!",
       "subcategory_tags": [
         "billing_disputes",
-        "update_failures"
-      ]
-    },
-    {
-      "review_id": "c7a4167c-31b3-490d-a6bc-2cd6b8f1bae7",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2026-06-22T08:41:28",
-      "text": "since the last update is making issues, it didn't log sleep after a full night, also I by mistake discarded my workout in the middle and it lost the entire workout",
-      "subcategory_tags": [
-        "sleep_accuracy",
-        "crashes_freezes",
         "update_failures"
       ]
     }
@@ -11808,6 +11801,16 @@
   ],
   "update_failures": [
     {
+      "review_id": "1de91fe4-0084-4a78-8148-81a2d53b4438",
+      "source": "google_play",
+      "rating": 4,
+      "date": "2026-09-08T15:36:50+00:00",
+      "text": "App has to get a lot of updates comparing to other similar band and it's app",
+      "subcategory_tags": [
+        "update_failures"
+      ]
+    },
+    {
       "review_id": "14421809447",
       "source": "app_store",
       "rating": 1,
@@ -12135,17 +12138,6 @@
       "subcategory_tags": [
         "update_failures",
         "crashes_freezes"
-      ]
-    },
-    {
-      "review_id": "df250510-514d-44a6-b9a2-d1e66efc9ddf",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2025-12-22T03:55:31",
-      "text": "stopped syncing right after the last update",
-      "subcategory_tags": [
-        "data_sync_delays",
-        "update_failures"
       ]
     }
   ],
@@ -15562,6 +15554,27 @@
   ],
   "feature_requests": [
     {
+      "review_id": "14521987861",
+      "source": "app_store",
+      "rating": 4,
+      "date": "2026-09-07T09:19:50-07:00",
+      "text": "The devices battery lasts forever, which is really really helpful. It provides a lot of great information. The one thing that it desperately needs is the ability to track and trend blood pressure. Without this, it really is an imperfect device. That said, that’s why I give it four stars instead of five.",
+      "subcategory_tags": [
+        "battery_life",
+        "missing_metrics"
+      ]
+    },
+    {
+      "review_id": "14521116556",
+      "source": "app_store",
+      "rating": 3,
+      "date": "2026-09-07T05:02:42-07:00",
+      "text": "This is a wonderful idea and product. It offers great feedback, however, it is not designed for people over 60. There is a lot of room for improvement in that department. If I were 35 it would be five stars!",
+      "subcategory_tags": [
+        "personalization_use_case_fit"
+      ]
+    },
+    {
       "review_id": "bcc09854-cb43-4abd-a580-1f829fcfac00",
       "source": "google_play",
       "rating": 3,
@@ -15877,28 +15890,6 @@
       "subcategory_tags": [
         "ai_positive_reception",
         "missing_metrics"
-      ]
-    },
-    {
-      "review_id": "2d3d18fc-8984-4b1a-90c1-92a72ed02c02",
-      "source": "google_play",
-      "rating": 2,
-      "date": "2026-07-31T09:43:31",
-      "text": "does not integrate with other fitness or health apps.",
-      "subcategory_tags": [
-        "third_party_integration"
-      ]
-    },
-    {
-      "review_id": "14368511721",
-      "source": "app_store",
-      "rating": 5,
-      "date": "2026-07-30T17:26:11-07:00",
-      "text": "awesome app so far I am very appreciated of the things that I can see only thing is I wish it showed me some better ways to get healthier and improve my goals like some sort of article section or community chat would be great and for the AI to tell me some better ways too.  I wish it had a better calorie and macro tracker and I also wish that AI speak to it was quite a bit better it often cuts out randomly without like telling me and gets a lot of my words wrong, awesome app so far tho, just need a little bit of smoothing out.",
-      "subcategory_tags": [
-        "missing_metrics",
-        "ai_reliability_bugs",
-        "notification_community_issues"
       ]
     }
   ],
@@ -16239,6 +16230,17 @@
   ],
   "missing_metrics": [
     {
+      "review_id": "14521987861",
+      "source": "app_store",
+      "rating": 4,
+      "date": "2026-09-07T09:19:50-07:00",
+      "text": "The devices battery lasts forever, which is really really helpful. It provides a lot of great information. The one thing that it desperately needs is the ability to track and trend blood pressure. Without this, it really is an imperfect device. That said, that’s why I give it four stars instead of five.",
+      "subcategory_tags": [
+        "battery_life",
+        "missing_metrics"
+      ]
+    },
+    {
       "review_id": "bcc09854-cb43-4abd-a580-1f829fcfac00",
       "source": "google_play",
       "rating": 3,
@@ -16567,19 +16569,19 @@
         "third_party_integration",
         "missing_metrics"
       ]
-    },
-    {
-      "review_id": "14207092372",
-      "source": "app_store",
-      "rating": 4,
-      "date": "2026-06-20T17:03:08-07:00",
-      "text": "I love the app and the watch, but the app doesn’t have reviews for the accessories available. It’s helpful to hear others’ insight before purchasing a pricey item.",
-      "subcategory_tags": [
-        "missing_metrics"
-      ]
     }
   ],
   "personalization_use_case_fit": [
+    {
+      "review_id": "14521116556",
+      "source": "app_store",
+      "rating": 3,
+      "date": "2026-09-07T05:02:42-07:00",
+      "text": "This is a wonderful idea and product. It offers great feedback, however, it is not designed for people over 60. There is a lot of room for improvement in that department. If I were 35 it would be five stars!",
+      "subcategory_tags": [
+        "personalization_use_case_fit"
+      ]
+    },
     {
       "review_id": "bcc09854-cb43-4abd-a580-1f829fcfac00",
       "source": "google_play",
@@ -16909,17 +16911,6 @@
         "redesign_regression",
         "personalization_use_case_fit",
         "feature_ui_friction"
-      ]
-    },
-    {
-      "review_id": "14233682537",
-      "source": "app_store",
-      "rating": 3,
-      "date": "2026-06-27T10:46:26-07:00",
-      "text": "Between Msgs to go to sleep by 9 pm, and no matter what I do, my recovery never gets above 60% even though I wake rested and feel great.",
-      "subcategory_tags": [
-        "metric_accuracy",
-        "personalization_use_case_fit"
       ]
     }
   ],
