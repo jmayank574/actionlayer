@@ -1,6 +1,17 @@
 {
   "pricing_billing": [
     {
+      "review_id": "14528799839",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-09-09T04:32:43-07:00",
+      "text": "I continuously need to remove the app and add it back so it updates & allows me to see my daily results. Annoying for any app but one I pay over $300 for? The product and app are trash",
+      "subcategory_tags": [
+        "crashes_freezes",
+        "price_value_perception"
+      ]
+    },
+    {
       "review_id": "14522441204",
       "source": "app_store",
       "rating": 1,
@@ -325,20 +336,20 @@
         "billing_disputes",
         "price_value_perception"
       ]
-    },
-    {
-      "review_id": "14434639447",
-      "source": "app_store",
-      "rating": 2,
-      "date": "2026-08-16T05:45:21-07:00",
-      "text": "I got this, hoping that the extra data provided would allow me to gain insight onto how to deal with stress. The stress score is really don’t match with how my body feels either physically or mentally. I can have an extremely difficult day at work and it gives me a low stress score. I can have an easy day at work and have a hard workout it gives me a high stress score.\n\nThose two things are very different and how my body feels them. Additionally, the most stressful day at work can have a score of 4.2 and a 30 minute ride at 60% heart rate gives a 4.2 score. Those are extremely different issues. \n\nAlso, it is difficult to understand because the scores don’t really jibe or relate to how you’re feeling. It produces a lot of data, but I’m not sure if it’s actually reliable or accurate so it’s not worth the extra money or commitment to wearing it at night.",
-      "subcategory_tags": [
-        "metric_accuracy",
-        "price_value_perception"
-      ]
     }
   ],
   "price_value_perception": [
+    {
+      "review_id": "14528799839",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-09-09T04:32:43-07:00",
+      "text": "I continuously need to remove the app and add it back so it updates & allows me to see my daily results. Annoying for any app but one I pay over $300 for? The product and app are trash",
+      "subcategory_tags": [
+        "crashes_freezes",
+        "price_value_perception"
+      ]
+    },
     {
       "review_id": "14521352093",
       "source": "app_store",
@@ -667,18 +678,6 @@
       "date": "2026-08-11T06:10:44-07:00",
       "text": "Muchas fallas, muy caro para lo que otros ofrecen sin costo de licencia",
       "subcategory_tags": [
-        "price_value_perception"
-      ]
-    },
-    {
-      "review_id": "5bdb40c4-0c75-4c7a-b5f9-22177bb898c4",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2026-08-11T04:17:03+00:00",
-      "text": "poor accuracy measuring sleep. Really bad GenAi experiencie. The worse I have seen. it does not worth the money.",
-      "subcategory_tags": [
-        "sleep_accuracy",
-        "ai_reliability_bugs",
         "price_value_perception"
       ]
     }
@@ -1718,6 +1717,16 @@
   ],
   "sleep_tracking": [
     {
+      "review_id": "14528644288",
+      "source": "app_store",
+      "rating": 5,
+      "date": "2026-09-09T03:39:02-07:00",
+      "text": "The whoop is just a great tool to have if your an athlete but even if you just use it to track your sleep! I’d recommend it to anyone!",
+      "subcategory_tags": [
+        "sleep_satisfaction"
+      ]
+    },
+    {
       "review_id": "14519069277",
       "source": "app_store",
       "rating": 3,
@@ -2044,18 +2053,6 @@
       "subcategory_tags": [
         "sleep_satisfaction",
         "metric_accuracy"
-      ]
-    },
-    {
-      "review_id": "5bdb40c4-0c75-4c7a-b5f9-22177bb898c4",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2026-08-11T04:17:03+00:00",
-      "text": "poor accuracy measuring sleep. Really bad GenAi experiencie. The worse I have seen. it does not worth the money.",
-      "subcategory_tags": [
-        "sleep_accuracy",
-        "ai_reliability_bugs",
-        "price_value_perception"
       ]
     }
   ],
@@ -2415,6 +2412,16 @@
   ],
   "sleep_satisfaction": [
     {
+      "review_id": "14528644288",
+      "source": "app_store",
+      "rating": 5,
+      "date": "2026-09-09T03:39:02-07:00",
+      "text": "The whoop is just a great tool to have if your an athlete but even if you just use it to track your sleep! I’d recommend it to anyone!",
+      "subcategory_tags": [
+        "sleep_satisfaction"
+      ]
+    },
+    {
       "review_id": "14514166550",
       "source": "app_store",
       "rating": 5,
@@ -2726,18 +2733,6 @@
       "subcategory_tags": [
         "sleep_satisfaction",
         "personalization_use_case_fit"
-      ]
-    },
-    {
-      "review_id": "14350257084",
-      "source": "app_store",
-      "rating": 5,
-      "date": "2026-07-26T06:00:06-07:00",
-      "text": "Prior to using WHOOP my average hours sleep was just under 5.5 hrs down from prior  year of just under 6 hrs per night since using WHOOP, my average hours per night is over 7.5 hrs. It has educated and improved my health by bringing metrics like HRV and accurate RHR as well as many others. It has assisted in my training to improve cardiovascular and body comp to address recently diagnosed sarcoidosis. I am healthier for using it and better informed with information and questioning its AI.",
-      "subcategory_tags": [
-        "sleep_satisfaction",
-        "metric_accuracy",
-        "ai_positive_reception"
       ]
     }
   ],
@@ -6200,6 +6195,30 @@
   ],
   "data_accuracy": [
     {
+      "review_id": "a756b23f-b210-485a-9783-41ba3d433379",
+      "source": "google_play",
+      "rating": 3,
+      "date": "2026-09-09T11:57:52+00:00",
+      "text": "I really like whoop but the app keeps crashing. I messaged support and got no real solution to the crashes. I lose the gps data on runs which affects the vo2 data.",
+      "subcategory_tags": [
+        "crashes_freezes",
+        "support_resolution_quality",
+        "metric_accuracy"
+      ]
+    },
+    {
+      "review_id": "14528621274",
+      "source": "app_store",
+      "rating": 3,
+      "date": "2026-09-09T03:30:17-07:00",
+      "text": "This is a good app but really needs direct integrations to Claude and ChatGPT health.  \n\nAlso heart rate is definitely not accurate and often is far from being even remotely correct.\n\nLastly you cannot access the rest of the app while recording an activity",
+      "subcategory_tags": [
+        "third_party_integration",
+        "metric_accuracy",
+        "feature_ui_friction"
+      ]
+    },
+    {
       "review_id": "14519069277",
       "source": "app_store",
       "rating": 3,
@@ -6528,32 +6547,33 @@
         "feature_ui_friction",
         "support_responsiveness"
       ]
-    },
+    }
+  ],
+  "metric_accuracy": [
     {
-      "review_id": "14396240070",
-      "source": "app_store",
+      "review_id": "a756b23f-b210-485a-9783-41ba3d433379",
+      "source": "google_play",
       "rating": 3,
-      "date": "2026-08-06T12:57:59-07:00",
-      "text": "Here’s the thing I’m looking for this to provide me with information regarding blood pressure, heartbeat, sleep, etc. nothing overly complicated. They have four categories in the app 1000 advertisements. Every other thing on the app is trying to sell you a service or an add-on. to be clear I’m only giving my thoughts here on the app itself. This is overly convoluted. I’ll round back up to this after the first 30 days once I’ve opened Healthspan and compare the numbers to my Apple Watch. To be fair, I actually had a conversation with my cardiologist. Not familiar whoop nor do they have a feeling one way or the other about it. So they’re curious.. I’m not sure MG for medical grade necessarily means anything beyond Marketing. I’m cautiously optimistic.",
+      "date": "2026-09-09T11:57:52+00:00",
+      "text": "I really like whoop but the app keeps crashing. I messaged support and got no real solution to the crashes. I lose the gps data on runs which affects the vo2 data.",
       "subcategory_tags": [
-        "upsell_pressure",
-        "ecg_bp_feature_reliability",
+        "crashes_freezes",
+        "support_resolution_quality",
         "metric_accuracy"
       ]
     },
     {
-      "review_id": "4f9523d0-4d48-4251-bc81-9025f9ca8482",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2026-08-05T04:45:46",
-      "text": "useless. most of my activities don't show results because the sensor stops working. when it works, 1h intense runs shows less strain than 10 minute slow walk. uselss",
+      "review_id": "14528621274",
+      "source": "app_store",
+      "rating": 3,
+      "date": "2026-09-09T03:30:17-07:00",
+      "text": "This is a good app but really needs direct integrations to Claude and ChatGPT health.  \n\nAlso heart rate is definitely not accurate and often is far from being even remotely correct.\n\nLastly you cannot access the rest of the app while recording an activity",
       "subcategory_tags": [
+        "third_party_integration",
         "metric_accuracy",
-        "activity_detection"
+        "feature_ui_friction"
       ]
-    }
-  ],
-  "metric_accuracy": [
+    },
     {
       "review_id": "14509772320",
       "source": "app_store",
@@ -6878,27 +6898,6 @@
         "sleep_satisfaction",
         "metric_accuracy",
         "ai_positive_reception"
-      ]
-    },
-    {
-      "review_id": "1d514064-f4ef-4a21-9f9b-ec8b7747adfc",
-      "source": "google_play",
-      "rating": 4,
-      "date": "2026-07-20T10:54:02",
-      "text": "hoping they work on getting steps to be accurate. They are never as many as I am actually do. I use a pedometer to make up for it and a compare them. But everything else is amazing and has been invaluable to improving my health and workout logs.",
-      "subcategory_tags": [
-        "metric_accuracy"
-      ]
-    },
-    {
-      "review_id": "14318857599",
-      "source": "app_store",
-      "rating": 4,
-      "date": "2026-07-18T08:59:10-07:00",
-      "text": "I feel the data is ok and not always consistent. Will be moving to the Google fit air when the subscription ends. Once they lose me I won’t be back.",
-      "subcategory_tags": [
-        "metric_accuracy",
-        "price_value_perception"
       ]
     }
   ],
@@ -9341,6 +9340,18 @@
   ],
   "customer_support": [
     {
+      "review_id": "a756b23f-b210-485a-9783-41ba3d433379",
+      "source": "google_play",
+      "rating": 3,
+      "date": "2026-09-09T11:57:52+00:00",
+      "text": "I really like whoop but the app keeps crashing. I messaged support and got no real solution to the crashes. I lose the gps data on runs which affects the vo2 data.",
+      "subcategory_tags": [
+        "crashes_freezes",
+        "support_resolution_quality",
+        "metric_accuracy"
+      ]
+    },
+    {
       "review_id": "14515137454",
       "source": "app_store",
       "rating": 2,
@@ -9681,18 +9692,6 @@
         "onboarding_pairing",
         "support_resolution_quality",
         "data_sync_delays"
-      ]
-    },
-    {
-      "review_id": "14294587934",
-      "source": "app_store",
-      "rating": 4,
-      "date": "2026-07-12T08:43:44-07:00",
-      "text": "I find the whoop band and app really useful for helping work on my fitness. In the first couple months I have already made progress on some fitness goals because of this device. The app/membership have helped me think about my stress levels and work on some plans. \n\nI am not rating it five stars, as I’m not sure about long term use. The customer service was frustrating when I was having issues with a band. They did eventually replace it, but it was a multi step process. I’m not sure the full membership/subscription is worth its price point long term, unless they were providing updated devices on a regular schedule.",
-      "subcategory_tags": [
-        "support_responsiveness",
-        "support_resolution_quality",
-        "price_value_perception"
       ]
     }
   ],
@@ -10061,6 +10060,18 @@
   ],
   "support_resolution_quality": [
     {
+      "review_id": "a756b23f-b210-485a-9783-41ba3d433379",
+      "source": "google_play",
+      "rating": 3,
+      "date": "2026-09-09T11:57:52+00:00",
+      "text": "I really like whoop but the app keeps crashing. I messaged support and got no real solution to the crashes. I lose the gps data on runs which affects the vo2 data.",
+      "subcategory_tags": [
+        "crashes_freezes",
+        "support_resolution_quality",
+        "metric_accuracy"
+      ]
+    },
+    {
       "review_id": "14515137454",
       "source": "app_store",
       "rating": 2,
@@ -10400,19 +10411,6 @@
       "text": "Defective Clasp, Poor Warranty Support. New WHOOP member and very disappointed. The clasp/retention mechanism on my device failed during normal wear at an airport, causing the sensor to detach and become lost. I contacted WHOOP and explained that this was caused by defective hardware, not misuse or carelessness, but they refused to replace it and treated it as a simple lost item. For a premium subscription product, the warranty and customer support experience has been extremely disappointing.",
       "subcategory_tags": [
         "strap_clasp_durability",
-        "support_resolution_quality",
-        "price_value_perception"
-      ]
-    },
-    {
-      "review_id": "14200213765",
-      "source": "app_store",
-      "rating": 2,
-      "date": "2026-06-18T23:31:53-07:00",
-      "text": "For a premium price of 359 USD for 1 year I would expect it to measure steps properly. When it kept on giving me drastically different steps count for the same physical distance I questioned the validity of its results given they use that as a factor to calculate whoop age and pace of aging. In return I got their mediocre AI replying that Whoop isn’t good at it. Took me some effort to finally reach an actual person that too via email - but they also tried to put it on the user - asking how  and where am I wearing the band. I wear this thing at the same place every time and the least I expect is consistent and honest results. It is too overpriced to be feeding wrong data and not doing anything to improve it.",
-      "subcategory_tags": [
-        "metric_accuracy",
-        "ai_only_support_channel",
         "support_resolution_quality",
         "price_value_perception"
       ]
@@ -11118,6 +11116,29 @@
   ],
   "app_stability": [
     {
+      "review_id": "a756b23f-b210-485a-9783-41ba3d433379",
+      "source": "google_play",
+      "rating": 3,
+      "date": "2026-09-09T11:57:52+00:00",
+      "text": "I really like whoop but the app keeps crashing. I messaged support and got no real solution to the crashes. I lose the gps data on runs which affects the vo2 data.",
+      "subcategory_tags": [
+        "crashes_freezes",
+        "support_resolution_quality",
+        "metric_accuracy"
+      ]
+    },
+    {
+      "review_id": "14528799839",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-09-09T04:32:43-07:00",
+      "text": "I continuously need to remove the app and add it back so it updates & allows me to see my daily results. Annoying for any app but one I pay over $300 for? The product and app are trash",
+      "subcategory_tags": [
+        "crashes_freezes",
+        "price_value_perception"
+      ]
+    },
+    {
       "review_id": "1de91fe4-0084-4a78-8148-81a2d53b4438",
       "source": "google_play",
       "rating": 4,
@@ -11427,35 +11448,32 @@
         "crashes_freezes",
         "feature_ui_friction"
       ]
-    },
-    {
-      "review_id": "14231860837",
-      "source": "app_store",
-      "rating": 2,
-      "date": "2026-06-27T01:00:39-07:00",
-      "text": "WHOOP started out as an amazing product. The sensor is small, thin, comfortable, and easy to forget you’re even wearing it.\n\nUnfortunately, over the past two and a half years, the experience has steadily declined. I’ve had five sensor failures, worsening battery life, repeated connection issues with the app, and persistent software problems that support has been unable to resolve.\n\nFor a premium annual subscription, I expected premium hardware and customer support. Unfortunately, neither has met that expectation.\n\nIt’s a shame to see what Will Ahmed built come to this. I expected much more from WHOOP.",
-      "subcategory_tags": [
-        "build_quality_perception",
-        "battery_life",
-        "ongoing_disconnects",
-        "crashes_freezes",
-        "support_resolution_quality",
-        "price_value_perception"
-      ]
-    },
-    {
-      "review_id": "5fa86c47-b3c1-445a-abf5-e221ba400a7e",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2026-06-25T14:49:50",
-      "text": "Took another years subscription from my bank account without any prior notification. And, just did a recommended update and it's now not working correctly FFS!!!",
-      "subcategory_tags": [
-        "billing_disputes",
-        "update_failures"
-      ]
     }
   ],
   "crashes_freezes": [
+    {
+      "review_id": "a756b23f-b210-485a-9783-41ba3d433379",
+      "source": "google_play",
+      "rating": 3,
+      "date": "2026-09-09T11:57:52+00:00",
+      "text": "I really like whoop but the app keeps crashing. I messaged support and got no real solution to the crashes. I lose the gps data on runs which affects the vo2 data.",
+      "subcategory_tags": [
+        "crashes_freezes",
+        "support_resolution_quality",
+        "metric_accuracy"
+      ]
+    },
+    {
+      "review_id": "14528799839",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-09-09T04:32:43-07:00",
+      "text": "I continuously need to remove the app and add it back so it updates & allows me to see my daily results. Annoying for any app but one I pay over $300 for? The product and app are trash",
+      "subcategory_tags": [
+        "crashes_freezes",
+        "price_value_perception"
+      ]
+    },
     {
       "review_id": "195be08d-984e-4686-8311-6ffe519fe847",
       "source": "google_play",
@@ -11770,31 +11788,6 @@
         "crashes_freezes",
         "sleep_accuracy",
         "support_responsiveness",
-        "price_value_perception"
-      ]
-    },
-    {
-      "review_id": "53f1424d-0046-4682-8a95-cc691da3667a",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2026-06-11T11:47:18",
-      "text": "glitchy app, often fails to register activities or process manually tracked sleep at all (leading to no recovery or sleep score). rebooting, force closing, Bluetooth toggling, un/reinstallation all fail. shameful price and a model that holds the user hostage",
-      "subcategory_tags": [
-        "crashes_freezes",
-        "activity_detection",
-        "sleep_accuracy",
-        "price_value_perception",
-        "billing_disputes"
-      ]
-    },
-    {
-      "review_id": "14162385333",
-      "source": "app_store",
-      "rating": 2,
-      "date": "2026-06-09T07:22:09-07:00",
-      "text": "The app is very glitchy for how expensive this device is…",
-      "subcategory_tags": [
-        "crashes_freezes",
         "price_value_perception"
       ]
     }
@@ -12143,6 +12136,18 @@
   ],
   "ui_ux": [
     {
+      "review_id": "14528621274",
+      "source": "app_store",
+      "rating": 3,
+      "date": "2026-09-09T03:30:17-07:00",
+      "text": "This is a good app but really needs direct integrations to Claude and ChatGPT health.  \n\nAlso heart rate is definitely not accurate and often is far from being even remotely correct.\n\nLastly you cannot access the rest of the app while recording an activity",
+      "subcategory_tags": [
+        "third_party_integration",
+        "metric_accuracy",
+        "feature_ui_friction"
+      ]
+    },
+    {
       "review_id": "bcc09854-cb43-4abd-a580-1f829fcfac00",
       "source": "google_play",
       "rating": 3,
@@ -12466,17 +12471,6 @@
         "notification_community_issues",
         "feature_ui_friction",
         "price_value_perception"
-      ]
-    },
-    {
-      "review_id": "791c8c89-d7d6-4c48-94bf-8d52f87a7de7",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2026-07-30T20:22:32",
-      "text": "As expensive as this subscription is, you'd think the app would be perfect. well, I've complained directly, and it still hasn't been fixed. The journal, which seems pretty important to the functionality, has these godawful, heinous sliders to record time of day. Every freaking time I try to record a time, it will just slide right off my intended time by 30min. Want to record 9am? Too bad! You can only record 8:30 or 9:30. It makes me so ridiculously irritated every night when I try to journal.",
-      "subcategory_tags": [
-        "price_value_perception",
-        "feature_ui_friction"
       ]
     }
   ],
@@ -13157,6 +13151,18 @@
   ],
   "feature_ui_friction": [
     {
+      "review_id": "14528621274",
+      "source": "app_store",
+      "rating": 3,
+      "date": "2026-09-09T03:30:17-07:00",
+      "text": "This is a good app but really needs direct integrations to Claude and ChatGPT health.  \n\nAlso heart rate is definitely not accurate and often is far from being even remotely correct.\n\nLastly you cannot access the rest of the app while recording an activity",
+      "subcategory_tags": [
+        "third_party_integration",
+        "metric_accuracy",
+        "feature_ui_friction"
+      ]
+    },
+    {
       "review_id": "bcc09854-cb43-4abd-a580-1f829fcfac00",
       "source": "google_play",
       "rating": 3,
@@ -13486,16 +13492,6 @@
         "sleep_satisfaction",
         "feature_ui_friction",
         "price_value_perception"
-      ]
-    },
-    {
-      "review_id": "ad1971f2-abb3-4675-bcda-9fc3f93fa561",
-      "source": "google_play",
-      "rating": 3,
-      "date": "2026-06-11T09:09:57",
-      "text": "you need to allow people to type numbers in for the time for the daily journal. your damn slider bars are irritating and they don't stay where you leave them. there's several annoying interface issues that you seem to be unaware of because they've been there for multiple versions now. do some damn uat",
-      "subcategory_tags": [
-        "feature_ui_friction"
       ]
     }
   ],
@@ -15554,6 +15550,18 @@
   ],
   "feature_requests": [
     {
+      "review_id": "14528621274",
+      "source": "app_store",
+      "rating": 3,
+      "date": "2026-09-09T03:30:17-07:00",
+      "text": "This is a good app but really needs direct integrations to Claude and ChatGPT health.  \n\nAlso heart rate is definitely not accurate and often is far from being even remotely correct.\n\nLastly you cannot access the rest of the app while recording an activity",
+      "subcategory_tags": [
+        "third_party_integration",
+        "metric_accuracy",
+        "feature_ui_friction"
+      ]
+    },
+    {
       "review_id": "14521987861",
       "source": "app_store",
       "rating": 4,
@@ -15879,17 +15887,6 @@
       "subcategory_tags": [
         "ai_positive_reception",
         "personalization_use_case_fit"
-      ]
-    },
-    {
-      "review_id": "14370112701",
-      "source": "app_store",
-      "rating": 5,
-      "date": "2026-07-31T03:57:42-07:00",
-      "text": "I have use WHOOP for over seven years and I can’t imagine life without it. I’ve seen it developed into a tool that not only helps me with my workouts and recoveries but my every day life ! \n\nMy father became suddenly ill and I found myself 1300 miles away from home without my CrossFit classes for over two months and WHOOP instructed me daily how to stay fit while I was taking care of my dad with only a resistance band.\n\nI ask WHOOP questions from diet to exercise to rest and encouraged me to get my bio markers done !  It was simple to add previous blood test to my app. I’m glad I did. Not only did it tell me what they were but how to make them better. \n\nI don’t go anywhere without my WHOOP! I’ve worn it for over 2500 days and I plan to wear it to my grave. Let’s see how that works?! 😀",
-      "subcategory_tags": [
-        "ai_positive_reception",
-        "missing_metrics"
       ]
     }
   ],
@@ -16916,6 +16913,18 @@
   ],
   "third_party_integration": [
     {
+      "review_id": "14528621274",
+      "source": "app_store",
+      "rating": 3,
+      "date": "2026-09-09T03:30:17-07:00",
+      "text": "This is a good app but really needs direct integrations to Claude and ChatGPT health.  \n\nAlso heart rate is definitely not accurate and often is far from being even remotely correct.\n\nLastly you cannot access the rest of the app while recording an activity",
+      "subcategory_tags": [
+        "third_party_integration",
+        "metric_accuracy",
+        "feature_ui_friction"
+      ]
+    },
+    {
       "review_id": "14434533553",
       "source": "app_store",
       "rating": 3,
@@ -17241,16 +17250,6 @@
       "rating": 3,
       "date": "2026-01-15T10:33:35-07:00",
       "text": "can you please help whoop won’t write into my steps and calories on apple health app",
-      "subcategory_tags": [
-        "third_party_integration"
-      ]
-    },
-    {
-      "review_id": "e0baf59b-1ae6-4174-aa0d-58db88f27e2f",
-      "source": "google_play",
-      "rating": 5,
-      "date": "2026-01-10T17:00:51",
-      "text": "Just embarassing that there is no google fit/health connect integration.",
       "subcategory_tags": [
         "third_party_integration"
       ]
