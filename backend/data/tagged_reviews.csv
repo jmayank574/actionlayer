@@ -4044,3 +4044,9 @@ a756b23f-b210-485a-9783-41ba3d433379,google_play,3,2026-09-09T11:57:52+00:00,I r
 Also heart rate is definitely not accurate and often is far from being even remotely correct.
 
 Lastly you cannot access the rest of the app while recording an activity",feature_requests;data_accuracy;ui_ux,third_party_integration;metric_accuracy;feature_ui_friction,medium;high;high,3,OK
+606eb9e6-15e1-4b59-993e-4731cd3278d0,google_play,1,2026-09-10T10:59:50+00:00,freezing on Z fold 8,app_stability;ui_ux,crashes_freezes;device_rendering_bugs,high;medium,2,OK
+14532933529,app_store,5,2026-09-10T05:30:24-07:00,Game changer for managing your life and fitness and health.,,,,0,OK
+14532558182,app_store,5,2026-09-10T03:27:40-07:00,Whoop has helped me recover better. I didn’t realize I was over training. I have also been able to dial in my sleep schedule after years of poor sleep. Data guides change and shows the results of the changes,sleep_tracking,sleep_satisfaction,high,1,OK
+14530315996,app_store,2,2026-09-09T12:11:51-07:00,Been wearing since the beginning of this year and time and time again the whoop will advise me of needing more sleep (length),sleep_tracking,sleep_accuracy,medium,1,OK
+14530132905,app_store,5,2026-09-09T11:11:06-07:00,"My family purchased my Whoop for Father’s Day this year 26’ and I can honestly say I’ve been wearing it religiously every day/night. It definitely keep me on track and gives me daily, weekly, monthly goals to always keep me on a healthier path. Great product.",,,,0,OK
+14529226115,app_store,1,2026-09-09T06:40:53-07:00,Beware of subscription scam. Cool product if you love pissing away money. Customer service sucks.,pricing_billing;pricing_billing;customer_support,billing_disputes;price_value_perception;support_responsiveness,high;medium;medium,3,OK
