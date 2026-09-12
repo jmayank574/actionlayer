@@ -1,6 +1,20 @@
 {
   "pricing_billing": [
     {
+      "review_id": "14535272719",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-09-10T18:35:33-07:00",
+      "text": "This is my 2nd Whoop device and I’ve had nothing but issues from the start. I have the 4.0 and it constantly shows as off-body, no matter where I wear it. The firmware never updates successfully, no matter how hard I try. It never holds a charge. And all I’m ever offered when I talk to customer service is a free extra month or two. It’s gotten so bad that I’ve given up contacting them and now I just use the darn thing as an alarm clock. Useless and expensive for no good reason.",
+      "subcategory_tags": [
+        "data_sync_delays",
+        "update_failures",
+        "battery_life",
+        "support_resolution_quality",
+        "price_value_perception"
+      ]
+    },
+    {
       "review_id": "14529226115",
       "source": "app_store",
       "rating": 1,
@@ -325,19 +339,23 @@
         "metric_accuracy",
         "price_value_perception"
       ]
-    },
-    {
-      "review_id": "14442750449",
-      "source": "app_store",
-      "rating": 5,
-      "date": "2026-08-18T06:09:17-07:00",
-      "text": "Without membership just like garmin is better",
-      "subcategory_tags": [
-        "price_value_perception"
-      ]
     }
   ],
   "price_value_perception": [
+    {
+      "review_id": "14535272719",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-09-10T18:35:33-07:00",
+      "text": "This is my 2nd Whoop device and I’ve had nothing but issues from the start. I have the 4.0 and it constantly shows as off-body, no matter where I wear it. The firmware never updates successfully, no matter how hard I try. It never holds a charge. And all I’m ever offered when I talk to customer service is a free extra month or two. It’s gotten so bad that I’ve given up contacting them and now I just use the darn thing as an alarm clock. Useless and expensive for no good reason.",
+      "subcategory_tags": [
+        "data_sync_delays",
+        "update_failures",
+        "battery_life",
+        "support_resolution_quality",
+        "price_value_perception"
+      ]
+    },
     {
       "review_id": "14529226115",
       "source": "app_store",
@@ -669,16 +687,6 @@
       "subcategory_tags": [
         "ai_reliability_bugs",
         "sleep_accuracy",
-        "price_value_perception"
-      ]
-    },
-    {
-      "review_id": "5429b954-f058-4c5e-a9a6-212e3b2c6426",
-      "source": "google_play",
-      "rating": 5,
-      "date": "2026-08-12T11:31:35+00:00",
-      "text": "great for working out and tracking all kind sof metrics. this is for people who want to track exercise. there are other bands out there, but nothing like whoop. Hume doesnt track any real movement except steps, and whoop can do everything every other band does if ya just pay for it. and those who complain about paying every year, how do you expect the company to bring you more without capital. ill gladly pay 200 a year for the rest of my life for what ive gained in metrics.",
-      "subcategory_tags": [
         "price_value_perception"
       ]
     }
@@ -3087,6 +3095,20 @@
   ],
   "hardware_wearability": [
     {
+      "review_id": "14535272719",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-09-10T18:35:33-07:00",
+      "text": "This is my 2nd Whoop device and I’ve had nothing but issues from the start. I have the 4.0 and it constantly shows as off-body, no matter where I wear it. The firmware never updates successfully, no matter how hard I try. It never holds a charge. And all I’m ever offered when I talk to customer service is a free extra month or two. It’s gotten so bad that I’ve given up contacting them and now I just use the darn thing as an alarm clock. Useless and expensive for no good reason.",
+      "subcategory_tags": [
+        "data_sync_delays",
+        "update_failures",
+        "battery_life",
+        "support_resolution_quality",
+        "price_value_perception"
+      ]
+    },
+    {
       "review_id": "14521987861",
       "source": "app_store",
       "rating": 4,
@@ -3419,17 +3441,6 @@
       "subcategory_tags": [
         "redesign_regression",
         "comfort_fit"
-      ]
-    },
-    {
-      "review_id": "14227193547",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-06-25T21:23:04-07:00",
-      "text": "WHOOP is unable to keep track of consistent and accurate data.  Battery life is unreliable",
-      "subcategory_tags": [
-        "metric_accuracy",
-        "battery_life"
       ]
     }
   ],
@@ -4137,6 +4148,20 @@
   ],
   "battery_life": [
     {
+      "review_id": "14535272719",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-09-10T18:35:33-07:00",
+      "text": "This is my 2nd Whoop device and I’ve had nothing but issues from the start. I have the 4.0 and it constantly shows as off-body, no matter where I wear it. The firmware never updates successfully, no matter how hard I try. It never holds a charge. And all I’m ever offered when I talk to customer service is a free extra month or two. It’s gotten so bad that I’ve given up contacting them and now I just use the darn thing as an alarm clock. Useless and expensive for no good reason.",
+      "subcategory_tags": [
+        "data_sync_delays",
+        "update_failures",
+        "battery_life",
+        "support_resolution_quality",
+        "price_value_perception"
+      ]
+    },
+    {
       "review_id": "14521987861",
       "source": "app_store",
       "rating": 4,
@@ -4462,18 +4487,6 @@
       "text": "the application started not working properly since 14 August 2025 ! and since that time it logged out and when I try to log in its not responding? how to resolve this ? + tha battery is not lasting for 1 or 2 days , my device is just new I hot it April 2025 , is this normal WHOOP team ?",
       "subcategory_tags": [
         "crashes_freezes",
-        "battery_life"
-      ]
-    },
-    {
-      "review_id": "8165f5a6-38d6-4b2b-a8d7-05eed1ab0f27",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2025-08-20T03:55:04",
-      "text": "You don't really own your Whoop, you're really just paying for a subscription service and a device that is a brick without it. Sneaky auto renewal practices, a device that needs constant charging, and paying to access data that other devices offer without a subscription are a no go.",
-      "subcategory_tags": [
-        "price_value_perception",
-        "billing_disputes",
         "battery_life"
       ]
     }
@@ -4836,6 +4849,20 @@
   ],
   "sync_connectivity": [
     {
+      "review_id": "14535272719",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-09-10T18:35:33-07:00",
+      "text": "This is my 2nd Whoop device and I’ve had nothing but issues from the start. I have the 4.0 and it constantly shows as off-body, no matter where I wear it. The firmware never updates successfully, no matter how hard I try. It never holds a charge. And all I’m ever offered when I talk to customer service is a free extra month or two. It’s gotten so bad that I’ve given up contacting them and now I just use the darn thing as an alarm clock. Useless and expensive for no good reason.",
+      "subcategory_tags": [
+        "data_sync_delays",
+        "update_failures",
+        "battery_life",
+        "support_resolution_quality",
+        "price_value_perception"
+      ]
+    },
+    {
       "review_id": "14500034304",
       "source": "app_store",
       "rating": 1,
@@ -5160,17 +5187,6 @@
       "subcategory_tags": [
         "data_sync_delays",
         "price_value_perception"
-      ]
-    },
-    {
-      "review_id": "14190563977",
-      "source": "app_store",
-      "rating": 5,
-      "date": "2026-06-16T11:56:11-07:00",
-      "text": "This wearable and app has been a true game changer for me and my husband. It’s only been a month, but we are starting to see the patterns in our behavior and the impact they have on our strain, recovery and sleep. Being a mom of two young girls (infant and toddler), sleep has become my main focus, and my physical performance and mental clarity have been directly correlated to how effective my sleep is. Very happy with the detail of the metrics gathered, love that if my whoop has been worn but hasn’t synched because I didn’t have my phone nearby, all the data is saved and synced later. This has really improved my life, and I hope it does for yours too! Well worth the money! True investment in yourself!",
-      "subcategory_tags": [
-        "sleep_satisfaction",
-        "data_sync_delays"
       ]
     }
   ],
@@ -5841,6 +5857,20 @@
   ],
   "data_sync_delays": [
     {
+      "review_id": "14535272719",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-09-10T18:35:33-07:00",
+      "text": "This is my 2nd Whoop device and I’ve had nothing but issues from the start. I have the 4.0 and it constantly shows as off-body, no matter where I wear it. The firmware never updates successfully, no matter how hard I try. It never holds a charge. And all I’m ever offered when I talk to customer service is a free extra month or two. It’s gotten so bad that I’ve given up contacting them and now I just use the darn thing as an alarm clock. Useless and expensive for no good reason.",
+      "subcategory_tags": [
+        "data_sync_delays",
+        "update_failures",
+        "battery_life",
+        "support_resolution_quality",
+        "price_value_perception"
+      ]
+    },
+    {
       "review_id": "14500034304",
       "source": "app_store",
       "rating": 1,
@@ -6178,16 +6208,6 @@
         "data_sync_delays",
         "ai_only_support_channel",
         "support_resolution_quality"
-      ]
-    },
-    {
-      "review_id": "14007558814",
-      "source": "app_store",
-      "rating": 3,
-      "date": "2026-04-28T17:43:32-07:00",
-      "text": "It’s great when it works but every couple of months it randomly doesn’t sync up. Nearly impossible to fix. Today is April 28th and the app says it’s April 25th. I’ve unpaired. Rebooted, deleted, turned off, etc. and still says 25th. Honestly, just get an Apple watch.",
-      "subcategory_tags": [
-        "data_sync_delays"
       ]
     }
   ],
@@ -9338,6 +9358,20 @@
   ],
   "customer_support": [
     {
+      "review_id": "14535272719",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-09-10T18:35:33-07:00",
+      "text": "This is my 2nd Whoop device and I’ve had nothing but issues from the start. I have the 4.0 and it constantly shows as off-body, no matter where I wear it. The firmware never updates successfully, no matter how hard I try. It never holds a charge. And all I’m ever offered when I talk to customer service is a free extra month or two. It’s gotten so bad that I’ve given up contacting them and now I just use the darn thing as an alarm clock. Useless and expensive for no good reason.",
+      "subcategory_tags": [
+        "data_sync_delays",
+        "update_failures",
+        "battery_life",
+        "support_resolution_quality",
+        "price_value_perception"
+      ]
+    },
+    {
       "review_id": "14529226115",
       "source": "app_store",
       "rating": 1,
@@ -9679,17 +9713,6 @@
         "billing_disputes",
         "ai_only_support_channel",
         "support_resolution_quality"
-      ]
-    },
-    {
-      "review_id": "14315473549",
-      "source": "app_store",
-      "rating": 3,
-      "date": "2026-07-17T12:23:13-07:00",
-      "text": "I really want to like this, it looks like it checks my wish list of not needing to take off to charge. But during my membership for the last three months it failed to sync twice and it’s hard to resynce myself, also not straightforward on how to reach support easily.",
-      "subcategory_tags": [
-        "data_sync_delays",
-        "support_responsiveness"
       ]
     }
   ],
@@ -10059,6 +10082,20 @@
   ],
   "support_resolution_quality": [
     {
+      "review_id": "14535272719",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-09-10T18:35:33-07:00",
+      "text": "This is my 2nd Whoop device and I’ve had nothing but issues from the start. I have the 4.0 and it constantly shows as off-body, no matter where I wear it. The firmware never updates successfully, no matter how hard I try. It never holds a charge. And all I’m ever offered when I talk to customer service is a free extra month or two. It’s gotten so bad that I’ve given up contacting them and now I just use the darn thing as an alarm clock. Useless and expensive for no good reason.",
+      "subcategory_tags": [
+        "data_sync_delays",
+        "update_failures",
+        "battery_life",
+        "support_resolution_quality",
+        "price_value_perception"
+      ]
+    },
+    {
       "review_id": "a756b23f-b210-485a-9783-41ba3d433379",
       "source": "google_play",
       "rating": 3,
@@ -10400,18 +10437,6 @@
         "metric_accuracy",
         "activity_detection",
         "support_resolution_quality"
-      ]
-    },
-    {
-      "review_id": "cd8c772f-bb7e-4389-bd12-54abfede2c48",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2026-06-19T08:02:09",
-      "text": "Defective Clasp, Poor Warranty Support. New WHOOP member and very disappointed. The clasp/retention mechanism on my device failed during normal wear at an airport, causing the sensor to detach and become lost. I contacted WHOOP and explained that this was caused by defective hardware, not misuse or carelessness, but they refused to replace it and treated it as a simple lost item. For a premium subscription product, the warranty and customer support experience has been extremely disappointing.",
-      "subcategory_tags": [
-        "strap_clasp_durability",
-        "support_resolution_quality",
-        "price_value_perception"
       ]
     }
   ],
@@ -11115,6 +11140,20 @@
   ],
   "app_stability": [
     {
+      "review_id": "14535272719",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-09-10T18:35:33-07:00",
+      "text": "This is my 2nd Whoop device and I’ve had nothing but issues from the start. I have the 4.0 and it constantly shows as off-body, no matter where I wear it. The firmware never updates successfully, no matter how hard I try. It never holds a charge. And all I’m ever offered when I talk to customer service is a free extra month or two. It’s gotten so bad that I’ve given up contacting them and now I just use the darn thing as an alarm clock. Useless and expensive for no good reason.",
+      "subcategory_tags": [
+        "data_sync_delays",
+        "update_failures",
+        "battery_life",
+        "support_resolution_quality",
+        "price_value_perception"
+      ]
+    },
+    {
       "review_id": "606eb9e6-15e1-4b59-993e-4731cd3278d0",
       "source": "google_play",
       "rating": 1,
@@ -11434,18 +11473,6 @@
         "ai_reliability_bugs",
         "crashes_freezes",
         "redesign_regression"
-      ]
-    },
-    {
-      "review_id": "ff9da5ad-2cba-4278-9b58-ef41cbb32a0a",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2026-06-28T03:10:16",
-      "text": "after the last update it has stopped reviewing my sleep and recovery and didn't even update my lifespan. this definitely needs to be fixed",
-      "subcategory_tags": [
-        "update_failures",
-        "sleep_accuracy",
-        "data_sync_delays"
       ]
     }
   ],
@@ -11791,6 +11818,20 @@
   ],
   "update_failures": [
     {
+      "review_id": "14535272719",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-09-10T18:35:33-07:00",
+      "text": "This is my 2nd Whoop device and I’ve had nothing but issues from the start. I have the 4.0 and it constantly shows as off-body, no matter where I wear it. The firmware never updates successfully, no matter how hard I try. It never holds a charge. And all I’m ever offered when I talk to customer service is a free extra month or two. It’s gotten so bad that I’ve given up contacting them and now I just use the darn thing as an alarm clock. Useless and expensive for no good reason.",
+      "subcategory_tags": [
+        "data_sync_delays",
+        "update_failures",
+        "battery_life",
+        "support_resolution_quality",
+        "price_value_perception"
+      ]
+    },
+    {
       "review_id": "1de91fe4-0084-4a78-8148-81a2d53b4438",
       "source": "google_play",
       "rating": 4,
@@ -12117,17 +12158,6 @@
       "subcategory_tags": [
         "crashes_freezes",
         "update_failures"
-      ]
-    },
-    {
-      "review_id": "13670198100",
-      "source": "app_store",
-      "rating": 4,
-      "date": "2026-01-24T05:48:39-07:00",
-      "text": "Last update messed up the Journal opening in morning. I’ve done every fix they recommended. So frustrating.",
-      "subcategory_tags": [
-        "update_failures",
-        "crashes_freezes"
       ]
     }
   ],
