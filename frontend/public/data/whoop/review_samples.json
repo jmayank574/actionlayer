@@ -1,6 +1,19 @@
 {
   "pricing_billing": [
     {
+      "review_id": "b8a345fa-adab-4442-b03e-0f88fe0f844f",
+      "source": "google_play",
+      "rating": 1,
+      "date": "2026-09-13T12:17:36+00:00",
+      "text": "ridiculously bad app. the ai will constantly hallucinate, it cannot actually build upon itself and it often reads the metrics you have in incorrectly giving false advice. it also constantly sends notifications with almost no ability to tweak them without fully shutting them off. pretty much a waste, should definitely go with garmin. wish i could get my $250 refunded, cause this program is pretty bad.",
+      "subcategory_tags": [
+        "ai_reliability_bugs",
+        "notification_community_issues",
+        "price_value_perception",
+        "billing_disputes"
+      ]
+    },
+    {
       "review_id": "516d891d-f053-4a7d-81d8-fd67bbe135fd",
       "source": "google_play",
       "rating": 1,
@@ -320,20 +333,22 @@
         "price_value_perception",
         "billing_disputes"
       ]
-    },
-    {
-      "review_id": "c1784e8a-f45c-419d-b6f9-4374ae268aa5",
-      "source": "google_play",
-      "rating": 2,
-      "date": "2026-08-23T12:18:55+00:00",
-      "text": "Unsure what's been going on with the AI coach for the past week, but my God it's become unreliable. If you want to upload your workout for it to map to an activity, good luck - constant hallucinations, misreading text in one version but then reading it correctly when uploading the second time, glitchy memory, inconsistent analysis of what you upload. Really not impressed considering how much I pay for a Whoop subscription",
-      "subcategory_tags": [
-        "ai_reliability_bugs",
-        "price_value_perception"
-      ]
     }
   ],
   "price_value_perception": [
+    {
+      "review_id": "b8a345fa-adab-4442-b03e-0f88fe0f844f",
+      "source": "google_play",
+      "rating": 1,
+      "date": "2026-09-13T12:17:36+00:00",
+      "text": "ridiculously bad app. the ai will constantly hallucinate, it cannot actually build upon itself and it often reads the metrics you have in incorrectly giving false advice. it also constantly sends notifications with almost no ability to tweak them without fully shutting them off. pretty much a waste, should definitely go with garmin. wish i could get my $250 refunded, cause this program is pretty bad.",
+      "subcategory_tags": [
+        "ai_reliability_bugs",
+        "notification_community_issues",
+        "price_value_perception",
+        "billing_disputes"
+      ]
+    },
     {
       "review_id": "516d891d-f053-4a7d-81d8-fd67bbe135fd",
       "source": "google_play",
@@ -662,21 +677,22 @@
         "metric_accuracy",
         "price_value_perception"
       ]
-    },
-    {
-      "review_id": "14431427631",
-      "source": "app_store",
-      "rating": 5,
-      "date": "2026-08-15T09:25:47-07:00",
-      "text": "Many people complain about the cost of Whoop, but I find that I get great data and insights from the app and the AI interface. It really helps me understand my recovery from exercise, how well I’m sleeping, how my eating patterns affect my sleep and recovery. It’s been really great.",
-      "subcategory_tags": [
-        "price_value_perception",
-        "ai_positive_reception",
-        "sleep_satisfaction"
-      ]
     }
   ],
   "billing_disputes": [
+    {
+      "review_id": "b8a345fa-adab-4442-b03e-0f88fe0f844f",
+      "source": "google_play",
+      "rating": 1,
+      "date": "2026-09-13T12:17:36+00:00",
+      "text": "ridiculously bad app. the ai will constantly hallucinate, it cannot actually build upon itself and it often reads the metrics you have in incorrectly giving false advice. it also constantly sends notifications with almost no ability to tweak them without fully shutting them off. pretty much a waste, should definitely go with garmin. wish i could get my $250 refunded, cause this program is pretty bad.",
+      "subcategory_tags": [
+        "ai_reliability_bugs",
+        "notification_community_issues",
+        "price_value_perception",
+        "billing_disputes"
+      ]
+    },
     {
       "review_id": "516d891d-f053-4a7d-81d8-fd67bbe135fd",
       "source": "google_play",
@@ -1007,16 +1023,6 @@
         "activity_detection",
         "billing_disputes",
         "feature_ui_friction"
-      ]
-    },
-    {
-      "review_id": "14276315444",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-07-07T19:20:08-07:00",
-      "text": "When I extended they offered a free whoop 5, but without warning me that offer expired after 30 days. I was traveling that month so didn’t have a good window to order it. When I explained this, they told me I could extend into 2028 to get the upgrade. Ridiculous!",
-      "subcategory_tags": [
-        "billing_disputes"
       ]
     }
   ],
@@ -1712,6 +1718,17 @@
   ],
   "sleep_tracking": [
     {
+      "review_id": "14541419111",
+      "source": "app_store",
+      "rating": 4,
+      "date": "2026-09-12T08:19:12-07:00",
+      "text": "i love it but i wish it had a small clock on it and had a way to set more alarms",
+      "subcategory_tags": [
+        "missing_activity_types",
+        "sleep_alarm_ui"
+      ]
+    },
+    {
       "review_id": "05dbc152-92c0-4389-9e67-1a0218825825",
       "source": "google_play",
       "rating": 2,
@@ -2034,18 +2051,6 @@
         "ai_reliability_bugs",
         "sleep_accuracy",
         "price_value_perception"
-      ]
-    },
-    {
-      "review_id": "14426493523",
-      "source": "app_store",
-      "rating": 3,
-      "date": "2026-08-14T05:10:28-07:00",
-      "text": "Unsure why, but lost sleep tracking for 4 days..Took 45 minutes with helpful Customer Service rep to try to resolve…still trying to confirm I’m back connected",
-      "subcategory_tags": [
-        "sleep_accuracy",
-        "data_sync_delays",
-        "support_responsiveness"
       ]
     }
   ],
@@ -2726,6 +2731,17 @@
   ],
   "sleep_alarm_ui": [
     {
+      "review_id": "14541419111",
+      "source": "app_store",
+      "rating": 4,
+      "date": "2026-09-12T08:19:12-07:00",
+      "text": "i love it but i wish it had a small clock on it and had a way to set more alarms",
+      "subcategory_tags": [
+        "missing_activity_types",
+        "sleep_alarm_ui"
+      ]
+    },
+    {
       "review_id": "14348602662",
       "source": "app_store",
       "rating": 1,
@@ -3060,18 +3076,6 @@
       "text": "Whoop try this, hand your phone with the app open to anyone new. Ask them to turn on the alarm. I'd bet 0 out of 10 do it in under 3 minutes... even using the help. That pretty much sums up the user experience.",
       "subcategory_tags": [
         "sleep_alarm_ui"
-      ]
-    },
-    {
-      "review_id": "39b5d8c3-256e-40a2-a0b8-43804a52fdba",
-      "source": "google_play",
-      "rating": 3,
-      "date": "2024-01-19T15:39:36",
-      "text": "Buggy to pair, buggy to set the alarm. Was tedious to set up, had to reboot the app a couple of times.",
-      "subcategory_tags": [
-        "onboarding_pairing",
-        "sleep_alarm_ui",
-        "crashes_freezes"
       ]
     }
   ],
@@ -8006,6 +8010,19 @@
   ],
   "ai_coach": [
     {
+      "review_id": "b8a345fa-adab-4442-b03e-0f88fe0f844f",
+      "source": "google_play",
+      "rating": 1,
+      "date": "2026-09-13T12:17:36+00:00",
+      "text": "ridiculously bad app. the ai will constantly hallucinate, it cannot actually build upon itself and it often reads the metrics you have in incorrectly giving false advice. it also constantly sends notifications with almost no ability to tweak them without fully shutting them off. pretty much a waste, should definitely go with garmin. wish i could get my $250 refunded, cause this program is pretty bad.",
+      "subcategory_tags": [
+        "ai_reliability_bugs",
+        "notification_community_issues",
+        "price_value_perception",
+        "billing_disputes"
+      ]
+    },
+    {
       "review_id": "195be08d-984e-4686-8311-6ffe519fe847",
       "source": "google_play",
       "rating": 2,
@@ -8329,20 +8346,22 @@
         "ai_reliability_bugs",
         "price_value_perception"
       ]
-    },
-    {
-      "review_id": "14406833950",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-08-09T07:31:46-07:00",
-      "text": "The concept sounds amazing. Monitor your vitals and help you improve performance and health. Other than the strain monitor, the other metrics are questionable at best. And the AI Chatbot, which is supposed to give you advice is utterly useless.. You are way better off to just talk with Claude or ChatGPT then waste your time with Whoop.",
-      "subcategory_tags": [
-        "metric_accuracy",
-        "ai_reliability_bugs"
-      ]
     }
   ],
   "ai_reliability_bugs": [
+    {
+      "review_id": "b8a345fa-adab-4442-b03e-0f88fe0f844f",
+      "source": "google_play",
+      "rating": 1,
+      "date": "2026-09-13T12:17:36+00:00",
+      "text": "ridiculously bad app. the ai will constantly hallucinate, it cannot actually build upon itself and it often reads the metrics you have in incorrectly giving false advice. it also constantly sends notifications with almost no ability to tweak them without fully shutting them off. pretty much a waste, should definitely go with garmin. wish i could get my $250 refunded, cause this program is pretty bad.",
+      "subcategory_tags": [
+        "ai_reliability_bugs",
+        "notification_community_issues",
+        "price_value_perception",
+        "billing_disputes"
+      ]
+    },
     {
       "review_id": "195be08d-984e-4686-8311-6ffe519fe847",
       "source": "google_play",
@@ -8679,16 +8698,6 @@
       "text": "I like the metrics and insights, but the AI has significant limitations. It creates problems it cannot undo. It logged strength training as indoor cycling. It logged indoor rowing as outdoor rowing. And it’s on me to report the bugs. This is beta tech at best.",
       "subcategory_tags": [
         "activity_detection",
-        "ai_reliability_bugs"
-      ]
-    },
-    {
-      "review_id": "a782279f-5635-43bd-826b-7c70f92d876f",
-      "source": "google_play",
-      "rating": 4,
-      "date": "2026-07-13T07:59:32",
-      "text": "the AI feature for logging workout is not working anymore.",
-      "subcategory_tags": [
         "ai_reliability_bugs"
       ]
     }
@@ -12142,6 +12151,19 @@
   ],
   "ui_ux": [
     {
+      "review_id": "b8a345fa-adab-4442-b03e-0f88fe0f844f",
+      "source": "google_play",
+      "rating": 1,
+      "date": "2026-09-13T12:17:36+00:00",
+      "text": "ridiculously bad app. the ai will constantly hallucinate, it cannot actually build upon itself and it often reads the metrics you have in incorrectly giving false advice. it also constantly sends notifications with almost no ability to tweak them without fully shutting them off. pretty much a waste, should definitely go with garmin. wish i could get my $250 refunded, cause this program is pretty bad.",
+      "subcategory_tags": [
+        "ai_reliability_bugs",
+        "notification_community_issues",
+        "price_value_perception",
+        "billing_disputes"
+      ]
+    },
+    {
       "review_id": "606eb9e6-15e1-4b59-993e-4731cd3278d0",
       "source": "google_play",
       "rating": 1,
@@ -12463,18 +12485,6 @@
       "subcategory_tags": [
         "redesign_regression",
         "billing_disputes"
-      ]
-    },
-    {
-      "review_id": "14368511721",
-      "source": "app_store",
-      "rating": 5,
-      "date": "2026-07-30T17:26:11-07:00",
-      "text": "awesome app so far I am very appreciated of the things that I can see only thing is I wish it showed me some better ways to get healthier and improve my goals like some sort of article section or community chat would be great and for the AI to tell me some better ways too.  I wish it had a better calorie and macro tracker and I also wish that AI speak to it was quite a bit better it often cuts out randomly without like telling me and gets a lot of my words wrong, awesome app so far tho, just need a little bit of smoothing out.",
-      "subcategory_tags": [
-        "missing_metrics",
-        "ai_reliability_bugs",
-        "notification_community_issues"
       ]
     }
   ],
@@ -13500,6 +13510,19 @@
   ],
   "notification_community_issues": [
     {
+      "review_id": "b8a345fa-adab-4442-b03e-0f88fe0f844f",
+      "source": "google_play",
+      "rating": 1,
+      "date": "2026-09-13T12:17:36+00:00",
+      "text": "ridiculously bad app. the ai will constantly hallucinate, it cannot actually build upon itself and it often reads the metrics you have in incorrectly giving false advice. it also constantly sends notifications with almost no ability to tweak them without fully shutting them off. pretty much a waste, should definitely go with garmin. wish i could get my $250 refunded, cause this program is pretty bad.",
+      "subcategory_tags": [
+        "ai_reliability_bugs",
+        "notification_community_issues",
+        "price_value_perception",
+        "billing_disputes"
+      ]
+    },
+    {
       "review_id": "14510766011",
       "source": "app_store",
       "rating": 4,
@@ -13820,16 +13843,6 @@
       "subcategory_tags": [
         "notification_community_issues",
         "support_resolution_quality"
-      ]
-    },
-    {
-      "review_id": "1877d2a9-21fe-4ec0-b8f1-cbcbbcc2127e",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2026-03-16T08:09:09",
-      "text": "community chat doesn't work, can only see my own messages, half the time my own messages don't even send. I get chat message notifications but can't see anything when I load in.",
-      "subcategory_tags": [
-        "notification_community_issues"
       ]
     }
   ],
@@ -15553,6 +15566,17 @@
   ],
   "feature_requests": [
     {
+      "review_id": "14541419111",
+      "source": "app_store",
+      "rating": 4,
+      "date": "2026-09-12T08:19:12-07:00",
+      "text": "i love it but i wish it had a small clock on it and had a way to set more alarms",
+      "subcategory_tags": [
+        "missing_activity_types",
+        "sleep_alarm_ui"
+      ]
+    },
+    {
       "review_id": "d20107ed-a0dc-420d-894c-284346d61968",
       "source": "google_play",
       "rating": 1,
@@ -15880,20 +15904,20 @@
         "personalization_use_case_fit",
         "feature_ui_friction"
       ]
-    },
-    {
-      "review_id": "14371604318",
-      "source": "app_store",
-      "rating": 3,
-      "date": "2026-07-31T11:22:38-07:00",
-      "text": "The Whoop App has a lot of things but is still missing a lot of things.\n\nWhen logging an activity, it gives a bunch of options but certain things are missing. For instance there is an activity for “foam rolling”. In addition to foam rolling, we do a lot of trigger point rolling with a lacrosse ball. No option for that or to even add it.\n\nSame with logging supplements, medication, etc.\nThere is something for TRT but not for peptides.\n\nOverall the app is full of useful things but it’s minor details.",
-      "subcategory_tags": [
-        "missing_activity_types",
-        "missing_metrics"
-      ]
     }
   ],
   "missing_activity_types": [
+    {
+      "review_id": "14541419111",
+      "source": "app_store",
+      "rating": 4,
+      "date": "2026-09-12T08:19:12-07:00",
+      "text": "i love it but i wish it had a small clock on it and had a way to set more alarms",
+      "subcategory_tags": [
+        "missing_activity_types",
+        "sleep_alarm_ui"
+      ]
+    },
     {
       "review_id": "14510169827",
       "source": "app_store",
@@ -16212,19 +16236,6 @@
       "subcategory_tags": [
         "missing_activity_types",
         "feature_ui_friction"
-      ]
-    },
-    {
-      "review_id": "89593022-f6f2-49cd-b679-7155c27b24fd",
-      "source": "google_play",
-      "rating": 3,
-      "date": "2025-11-20T21:03:03",
-      "text": "overall app is an interesting way to keep track of various biomarkers. heart rate monitor during activities is unacceptable inaccurate (says i am at 140 when I am actually at 100, for example). can't log weightlifting exercises during the activity, so need to remember and log after the fact. does not import android health connect data reliably from Samsung health data and oxilife scale. actual ekg measures are correct and discern heart rhythms accurately. decent beginning, ready for improvement",
-      "subcategory_tags": [
-        "metric_accuracy",
-        "missing_activity_types",
-        "third_party_integration",
-        "ecg_bp_feature_reliability"
       ]
     }
   ],
