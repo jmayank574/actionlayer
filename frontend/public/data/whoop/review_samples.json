@@ -1,6 +1,16 @@
 {
   "pricing_billing": [
     {
+      "review_id": "bcd344e6-95ae-4d8f-bbe2-ea0c066b38e7",
+      "source": "google_play",
+      "rating": 1,
+      "date": "2026-09-14T16:08:25+00:00",
+      "text": "I have only negative experience with it. Doesn't even let you finish registration without a credit card. why is it mandatory for a fitness tracker?",
+      "subcategory_tags": [
+        "billing_disputes"
+      ]
+    },
+    {
       "review_id": "b8a345fa-adab-4442-b03e-0f88fe0f844f",
       "source": "google_play",
       "rating": 1,
@@ -319,18 +329,6 @@
       "date": "2026-08-24T09:58:31-07:00",
       "text": "Update: you can’t delete your payment information and you can’t delete your account. So now I have payment information out there that I can’t delete. Shady AF! Do not buy!!!",
       "subcategory_tags": [
-        "billing_disputes"
-      ]
-    },
-    {
-      "review_id": "14466799494",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-08-24T08:14:11-07:00",
-      "text": "Bought this hoping to gain some insights on my sleep habits. Nothing useful has come from it. It’s basically like my iPhone bedtime reminder and alarm, but for $400 a year. Not renewing my membership, especially after they wouldn’t honor the 30 day return policy.",
-      "subcategory_tags": [
-        "sleep_accuracy",
-        "price_value_perception",
         "billing_disputes"
       ]
     }
@@ -681,6 +679,16 @@
   ],
   "billing_disputes": [
     {
+      "review_id": "bcd344e6-95ae-4d8f-bbe2-ea0c066b38e7",
+      "source": "google_play",
+      "rating": 1,
+      "date": "2026-09-14T16:08:25+00:00",
+      "text": "I have only negative experience with it. Doesn't even let you finish registration without a credit card. why is it mandatory for a fitness tracker?",
+      "subcategory_tags": [
+        "billing_disputes"
+      ]
+    },
+    {
       "review_id": "b8a345fa-adab-4442-b03e-0f88fe0f844f",
       "source": "google_play",
       "rating": 1,
@@ -1010,19 +1018,6 @@
       "subcategory_tags": [
         "comfort_fit",
         "billing_disputes"
-      ]
-    },
-    {
-      "review_id": "14285494669",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-07-10T03:06:20-07:00",
-      "text": "Been using Whoop for 4 months religiously and have had nothing but frustration with the faulty data and bad AI coaching.  Zero improvement in sleep and horrible workout plans with the strength trainer.  You’ll go for a run and 10 minutes later get a notification asking if you’re going to go for a run…it’s so frustrating.  I want my money back but I’m stuck with it.",
-      "subcategory_tags": [
-        "ai_reliability_bugs",
-        "activity_detection",
-        "billing_disputes",
-        "feature_ui_friction"
       ]
     }
   ],
