@@ -11,6 +11,17 @@
       ]
     },
     {
+      "review_id": "14549425883",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-09-14T08:57:55-07:00",
+      "text": "We were supposed to get free upgrades - that’s why we paid monthly. But nope, you need to pay for a whole year for that suddenly.\n\nTo add to that, the app sends tons of notifications you can’t disable. I want them on so I can get low battery notifications but then they bombard you with notifications telling you when you go for a walk, workout, etc… yes I know I just walked thank you.\n\nHope the VC crunch eats you alive",
+      "subcategory_tags": [
+        "plan_trial_structure",
+        "notification_community_issues"
+      ]
+    },
+    {
       "review_id": "b8a345fa-adab-4442-b03e-0f88fe0f844f",
       "source": "google_play",
       "rating": 1,
@@ -320,16 +331,6 @@
         "billing_disputes",
         "support_responsiveness",
         "support_resolution_quality"
-      ]
-    },
-    {
-      "review_id": "14467140480",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-08-24T09:58:31-07:00",
-      "text": "Update: you can’t delete your payment information and you can’t delete your account. So now I have payment information out there that I can’t delete. Shady AF! Do not buy!!!",
-      "subcategory_tags": [
-        "billing_disputes"
       ]
     }
   ],
@@ -1023,6 +1024,17 @@
   ],
   "plan_trial_structure": [
     {
+      "review_id": "14549425883",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-09-14T08:57:55-07:00",
+      "text": "We were supposed to get free upgrades - that’s why we paid monthly. But nope, you need to pay for a whole year for that suddenly.\n\nTo add to that, the app sends tons of notifications you can’t disable. I want them on so I can get low battery notifications but then they bombard you with notifications telling you when you go for a walk, workout, etc… yes I know I just walked thank you.\n\nHope the VC crunch eats you alive",
+      "subcategory_tags": [
+        "plan_trial_structure",
+        "notification_community_issues"
+      ]
+    },
+    {
       "review_id": "14507801422",
       "source": "app_store",
       "rating": 1,
@@ -1350,19 +1362,6 @@
         "ongoing_disconnects",
         "plan_trial_structure",
         "price_value_perception"
-      ]
-    },
-    {
-      "review_id": "d019b37c-d9c0-44a9-b737-343f5cffc126",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2025-08-06T15:30:08",
-      "text": "I was sceptical about the Whoop app as I had placed order in for Whoop 4.0 but didn't realize that there was an ongoing subscription after free trial and smart band and my current subscription doesn't evaluate all my health data so the only way round it was to upgrade to highest tier. I think I will just keep to my current Smart Watch which was at a cost but subscription free which details all my Health data. I will be returning before next billing date on September 20. I will be returning.",
-      "subcategory_tags": [
-        "plan_trial_structure",
-        "upsell_pressure",
-        "price_value_perception",
-        "billing_disputes"
       ]
     }
   ],
@@ -1713,6 +1712,17 @@
   ],
   "sleep_tracking": [
     {
+      "review_id": "14551128552",
+      "source": "app_store",
+      "rating": 2,
+      "date": "2026-09-14T19:34:31-07:00",
+      "text": "The app can wake you up by setting an alarm and having the device vibrate at that time. Though this works well and Bluetooth shows it connected, you have to actually open the app almost every day to get it to sync. Seems to be intentional given the alarm system works and Bluetooth is connected. Annoying, impractical, and questionable purpose from the vendor.",
+      "subcategory_tags": [
+        "data_sync_delays",
+        "sleep_alarm_ui"
+      ]
+    },
+    {
       "review_id": "14541419111",
       "source": "app_store",
       "rating": 4,
@@ -2034,18 +2044,6 @@
         "battery_life",
         "sleep_satisfaction",
         "comfort_fit"
-      ]
-    },
-    {
-      "review_id": "14426558788",
-      "source": "app_store",
-      "rating": 4,
-      "date": "2026-08-14T05:30:37-07:00",
-      "text": "I’ve really enjoyed using WHOOP overall, but there are a few areas where I think it could be significantly better.\n\nWhat I love:\n\nThe UI/UX is excellent. The app feels modern, sleek, and very tech-forward. I genuinely enjoy going through it every morning because everything is intuitive, easy to understand, and presented in a way that feels premium. WHOOP does a great job taking a lot of health and fitness data and making it approachable without feeling overwhelming.\n\nI’ve also been impressed with the Recovery score. Most mornings, my recovery has lined up surprisingly well with how I actually feel when I wake up. That’s probably the feature I’ve found most valuable.\n\nWhere it falls short:\n\nThe WHOOP Coach/AI needs improvement. There have been times when its recommendations didn’t seem to match either my recovery data or how I was feeling. One morning I woke up feeling pretty run down with a 50% yellow recovery, yet WHOOP Coach essentially told me to train as usual. Bevel, using much of the same underlying health data, recommended that I take it easy and prioritize recovery. I followed Bevel’s recommendation, rested, and had a great recovery score the following day.\n\nObviously, one example doesn’t prove one recommendation was definitively better, but it made me much less confident in WHOOP Coach. For a product built so heavily around recovery, I’d like the AI to be more conservative and context-aware when recovery is mediocre and the user reports feeling poorly.\n\nSleep detection has also been disappointing compared with my Apple Watch. One night this past week, I was awake for roughly two hours in the middle of the night. My Apple Watch correctly detected that extended period of wakefulness, while WHOOP essentially treated it as a near-perfect night of sleep. That’s a pretty significant miss for a device where sleep is such an important part of the overall experience and Recovery score. For the amount of money Whoop costs you’d think the sleep detection would be on par with the Apple Watch. \n\nOverall, I really like WHOOP. The design, presentation of data, and Recovery experience are some of the best I’ve used. But for me, the AI coaching and sleep/wake detection need to catch up with the rest of the product. If WHOOP can improve those two areas, the overall experience would be much harder to beat. For the price I’d expect better quality. Especially since there are other apps that do similar things for less money.",
-      "subcategory_tags": [
-        "ai_reliability_bugs",
-        "sleep_accuracy",
-        "price_value_perception"
       ]
     }
   ],
@@ -2726,6 +2724,17 @@
   ],
   "sleep_alarm_ui": [
     {
+      "review_id": "14551128552",
+      "source": "app_store",
+      "rating": 2,
+      "date": "2026-09-14T19:34:31-07:00",
+      "text": "The app can wake you up by setting an alarm and having the device vibrate at that time. Though this works well and Bluetooth shows it connected, you have to actually open the app almost every day to get it to sync. Seems to be intentional given the alarm system works and Bluetooth is connected. Annoying, impractical, and questionable purpose from the vendor.",
+      "subcategory_tags": [
+        "data_sync_delays",
+        "sleep_alarm_ui"
+      ]
+    },
+    {
       "review_id": "14541419111",
       "source": "app_store",
       "rating": 4,
@@ -3061,16 +3070,6 @@
       "subcategory_tags": [
         "sleep_alarm_ui",
         "crashes_freezes"
-      ]
-    },
-    {
-      "review_id": "41d12f8e-f732-4eb6-b199-8e4f684dc6f4",
-      "source": "google_play",
-      "rating": 3,
-      "date": "2024-01-31T08:33:14",
-      "text": "Whoop try this, hand your phone with the app open to anyone new. Ask them to turn on the alarm. I'd bet 0 out of 10 do it in under 3 minutes... even using the help. That pretty much sums up the user experience.",
-      "subcategory_tags": [
-        "sleep_alarm_ui"
       ]
     }
   ],
@@ -4830,6 +4829,17 @@
   ],
   "sync_connectivity": [
     {
+      "review_id": "14551128552",
+      "source": "app_store",
+      "rating": 2,
+      "date": "2026-09-14T19:34:31-07:00",
+      "text": "The app can wake you up by setting an alarm and having the device vibrate at that time. Though this works well and Bluetooth shows it connected, you have to actually open the app almost every day to get it to sync. Seems to be intentional given the alarm system works and Bluetooth is connected. Annoying, impractical, and questionable purpose from the vendor.",
+      "subcategory_tags": [
+        "data_sync_delays",
+        "sleep_alarm_ui"
+      ]
+    },
+    {
       "review_id": "05dbc152-92c0-4389-9e67-1a0218825825",
       "source": "google_play",
       "rating": 2,
@@ -5153,21 +5163,6 @@
         "update_failures",
         "sleep_accuracy",
         "data_sync_delays"
-      ]
-    },
-    {
-      "review_id": "14231860837",
-      "source": "app_store",
-      "rating": 2,
-      "date": "2026-06-27T01:00:39-07:00",
-      "text": "WHOOP started out as an amazing product. The sensor is small, thin, comfortable, and easy to forget you’re even wearing it.\n\nUnfortunately, over the past two and a half years, the experience has steadily declined. I’ve had five sensor failures, worsening battery life, repeated connection issues with the app, and persistent software problems that support has been unable to resolve.\n\nFor a premium annual subscription, I expected premium hardware and customer support. Unfortunately, neither has met that expectation.\n\nIt’s a shame to see what Will Ahmed built come to this. I expected much more from WHOOP.",
-      "subcategory_tags": [
-        "build_quality_perception",
-        "battery_life",
-        "ongoing_disconnects",
-        "crashes_freezes",
-        "support_resolution_quality",
-        "price_value_perception"
       ]
     }
   ],
@@ -5838,6 +5833,17 @@
   ],
   "data_sync_delays": [
     {
+      "review_id": "14551128552",
+      "source": "app_store",
+      "rating": 2,
+      "date": "2026-09-14T19:34:31-07:00",
+      "text": "The app can wake you up by setting an alarm and having the device vibrate at that time. Though this works well and Bluetooth shows it connected, you have to actually open the app almost every day to get it to sync. Seems to be intentional given the alarm system works and Bluetooth is connected. Annoying, impractical, and questionable purpose from the vendor.",
+      "subcategory_tags": [
+        "data_sync_delays",
+        "sleep_alarm_ui"
+      ]
+    },
+    {
       "review_id": "05dbc152-92c0-4389-9e67-1a0218825825",
       "source": "google_play",
       "rating": 2,
@@ -6176,18 +6182,6 @@
         "crashes_freezes",
         "data_sync_delays",
         "support_resolution_quality"
-      ]
-    },
-    {
-      "review_id": "71cc55ff-a55a-4209-9128-8450b9d070a6",
-      "source": "google_play",
-      "rating": 2,
-      "date": "2026-05-10T14:02:01",
-      "text": "Buggy as hell. I don't think they tested it on Android before releasing. 1 the sleep planner can't be adjusted 2 can't edit a functional fitness workout you have to delete the whole thing and start over plus there is no reasonable way to adjust the start and end times other than to keep guessing until it looks right 3 overlapping text on the device settings page, no way to see when last synced",
-      "subcategory_tags": [
-        "android_specific_bugs",
-        "feature_ui_friction",
-        "data_sync_delays"
       ]
     }
   ],
@@ -8005,6 +7999,17 @@
   ],
   "ai_coach": [
     {
+      "review_id": "14550499817",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-09-14T15:17:32-07:00",
+      "text": "When the AI created a workout plan and started, I couldn’t see what to do: it just redirects to the default workout tracker. I do wanna make the most of the suggested workout plan, so please please fix this asap",
+      "subcategory_tags": [
+        "ai_reliability_bugs",
+        "feature_ui_friction"
+      ]
+    },
+    {
       "review_id": "b8a345fa-adab-4442-b03e-0f88fe0f844f",
       "source": "google_play",
       "rating": 1,
@@ -8329,21 +8334,20 @@
         "ai_reliability_bugs",
         "notification_community_issues"
       ]
-    },
-    {
-      "review_id": "5bdb40c4-0c75-4c7a-b5f9-22177bb898c4",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2026-08-11T04:17:03+00:00",
-      "text": "poor accuracy measuring sleep. Really bad GenAi experiencie. The worse I have seen. it does not worth the money.",
-      "subcategory_tags": [
-        "sleep_accuracy",
-        "ai_reliability_bugs",
-        "price_value_perception"
-      ]
     }
   ],
   "ai_reliability_bugs": [
+    {
+      "review_id": "14550499817",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-09-14T15:17:32-07:00",
+      "text": "When the AI created a workout plan and started, I couldn’t see what to do: it just redirects to the default workout tracker. I do wanna make the most of the suggested workout plan, so please please fix this asap",
+      "subcategory_tags": [
+        "ai_reliability_bugs",
+        "feature_ui_friction"
+      ]
+    },
     {
       "review_id": "b8a345fa-adab-4442-b03e-0f88fe0f844f",
       "source": "google_play",
@@ -8682,17 +8686,6 @@
       "subcategory_tags": [
         "price_value_perception",
         "redesign_regression",
-        "ai_reliability_bugs"
-      ]
-    },
-    {
-      "review_id": "14299075270",
-      "source": "app_store",
-      "rating": 3,
-      "date": "2026-07-13T11:18:57-07:00",
-      "text": "I like the metrics and insights, but the AI has significant limitations. It creates problems it cannot undo. It logged strength training as indoor cycling. It logged indoor rowing as outdoor rowing. And it’s on me to report the bugs. This is beta tech at best.",
-      "subcategory_tags": [
-        "activity_detection",
         "ai_reliability_bugs"
       ]
     }
@@ -12146,6 +12139,28 @@
   ],
   "ui_ux": [
     {
+      "review_id": "14550499817",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-09-14T15:17:32-07:00",
+      "text": "When the AI created a workout plan and started, I couldn’t see what to do: it just redirects to the default workout tracker. I do wanna make the most of the suggested workout plan, so please please fix this asap",
+      "subcategory_tags": [
+        "ai_reliability_bugs",
+        "feature_ui_friction"
+      ]
+    },
+    {
+      "review_id": "14549425883",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-09-14T08:57:55-07:00",
+      "text": "We were supposed to get free upgrades - that’s why we paid monthly. But nope, you need to pay for a whole year for that suddenly.\n\nTo add to that, the app sends tons of notifications you can’t disable. I want them on so I can get low battery notifications but then they bombard you with notifications telling you when you go for a walk, workout, etc… yes I know I just walked thank you.\n\nHope the VC crunch eats you alive",
+      "subcategory_tags": [
+        "plan_trial_structure",
+        "notification_community_issues"
+      ]
+    },
+    {
       "review_id": "b8a345fa-adab-4442-b03e-0f88fe0f844f",
       "source": "google_play",
       "rating": 1,
@@ -12457,29 +12472,6 @@
         "feature_ui_friction",
         "crashes_freezes",
         "notification_community_issues"
-      ]
-    },
-    {
-      "review_id": "f9993455-852d-4fc7-9eea-c81c93159837",
-      "source": "google_play",
-      "rating": 5,
-      "date": "2026-07-31T23:09:54",
-      "text": "Still awesome overall. My only feedback is adding real time heart rate to the main screen. The AI Strength Trainer is a great feature but it still has a few limitations. It doesn't recognise some basic equipment like ab machines and the workouts don't feel fully personalised even when you give it prompts.",
-      "subcategory_tags": [
-        "missing_activity_types",
-        "personalization_use_case_fit",
-        "feature_ui_friction"
-      ]
-    },
-    {
-      "review_id": "7c0f6222-c787-4923-88da-5c8c2414378b",
-      "source": "google_play",
-      "rating": 2,
-      "date": "2026-07-31T20:22:06",
-      "text": "Tracking is great, UI is confusing, nearly impossible to cancel a subscription.",
-      "subcategory_tags": [
-        "redesign_regression",
-        "billing_disputes"
       ]
     }
   ],
@@ -13159,6 +13151,17 @@
   ],
   "feature_ui_friction": [
     {
+      "review_id": "14550499817",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-09-14T15:17:32-07:00",
+      "text": "When the AI created a workout plan and started, I couldn’t see what to do: it just redirects to the default workout tracker. I do wanna make the most of the suggested workout plan, so please please fix this asap",
+      "subcategory_tags": [
+        "ai_reliability_bugs",
+        "feature_ui_friction"
+      ]
+    },
+    {
       "review_id": "14528621274",
       "source": "app_store",
       "rating": 3,
@@ -13489,21 +13492,20 @@
         "plan_trial_structure",
         "build_quality_perception"
       ]
-    },
-    {
-      "review_id": "14178294100",
-      "source": "app_store",
-      "rating": 5,
-      "date": "2026-06-13T08:38:20-07:00",
-      "text": "If you’re looking for a wearable that goes beyond counting steps and actually helps you understand your body, I can’t recommend WHOOP enough. I’ve been a member for over seven years, and throughout that entire time I’ve never experienced any major  issue. It has been one of the most reliable pieces of technology I’ve ever owned.\n\nWhat keeps me coming back year after year is the quality of the data. WHOOP doesn’t just collect information, it presents it in a way that helps you make better decisions. The recovery, sleep, strain, and health insights have become part of my daily routine and have genuinely helped me train smarter and recover better.\n\nOne of my favorite features is the Journal. Over the years, it has helped me identify patterns related to my sleep, recovery, diet, and daily habits that I never would have noticed otherwise. Being able to track behaviors and see how they impact my performance has made a huge difference in dialing in what works best for me personally.\n\nAs someone who spends a lot of time in the gym, another feature I absolutely love is the emphasis WHOOP has put on strength training and weightlifting. The Strength Trainer and muscular load tracking have been game changers. Instead of treating weightlifting like an afterthought, WHOOP actually measures the workload from sets, reps, and weight moved, giving a much more complete picture of training stress than traditional heart-rate-based trackers.  \n\nAfter seven years, I still wear my WHOOP every day. The hardware is comfortable, the data is incredibly actionable, and the platform continues to evolve in ways that benefit serious fitness enthusiasts. For anyone who wants to better understand their recovery, improve their sleep, optimize their training, and make data-driven decisions about their health, WHOOP has been worth every penny.",
-      "subcategory_tags": [
-        "sleep_satisfaction",
-        "feature_ui_friction",
-        "price_value_perception"
-      ]
     }
   ],
   "notification_community_issues": [
+    {
+      "review_id": "14549425883",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-09-14T08:57:55-07:00",
+      "text": "We were supposed to get free upgrades - that’s why we paid monthly. But nope, you need to pay for a whole year for that suddenly.\n\nTo add to that, the app sends tons of notifications you can’t disable. I want them on so I can get low battery notifications but then they bombard you with notifications telling you when you go for a walk, workout, etc… yes I know I just walked thank you.\n\nHope the VC crunch eats you alive",
+      "subcategory_tags": [
+        "plan_trial_structure",
+        "notification_community_issues"
+      ]
+    },
     {
       "review_id": "b8a345fa-adab-4442-b03e-0f88fe0f844f",
       "source": "google_play",
@@ -13827,17 +13829,6 @@
       "subcategory_tags": [
         "notification_community_issues",
         "android_specific_bugs"
-      ]
-    },
-    {
-      "review_id": "cfca9e0d-d6a7-43a5-8e17-6557e09d85d2",
-      "source": "google_play",
-      "rating": 2,
-      "date": "2026-03-16T21:12:39",
-      "text": "the data is accurate ( hopefully) but customer service sucks. ive joined communities with friends but i dont receive the messages sent. technical support is of no help either. all troubleshooting steps dont seem to work.",
-      "subcategory_tags": [
-        "notification_community_issues",
-        "support_resolution_quality"
       ]
     }
   ],
