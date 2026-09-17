@@ -1,6 +1,41 @@
 {
   "pricing_billing": [
     {
+      "review_id": "c67d4d27-c4f7-453d-88b8-8b7f67795dad",
+      "source": "google_play",
+      "rating": 2,
+      "date": "2026-09-16T07:21:17+00:00",
+      "text": "the app and watch has been so inconsistent in working i tried to return it however unfortunately due to some issues in my own personal life I missed the threshold for reimbursing my money for the 2 year payment. I have now attempted to use the watch again (as an athlete and performer, I thought it would aid my recovery and fitness/wellness) however unfortunately this second attempt has been just as inconsistent. alot of days there are hours of missing data and often no data is given at all.",
+      "subcategory_tags": [
+        "data_sync_delays",
+        "billing_disputes",
+        "price_value_perception"
+      ]
+    },
+    {
+      "review_id": "14554217779",
+      "source": "app_store",
+      "rating": 4,
+      "date": "2026-09-15T15:09:52-07:00",
+      "text": "I’ve been a a member of the Whoop community for over 2 years. This is my overall experience with it. I think it is overall great. Great in the sense that it tracks the information you need in order to understand your body better, and helps you understand your habits or lack of habits that one would need to implement in their lives to be a better version of themselves etc.. However, I believe with the amount the whoop costs, and I have the newest version, they should at least let you keep the data you pay for, or at least give you access to more things you don’t have to purchase on the side. PS! The silicone band gives you a rash over time. Be CAREFUL. 🤙🏾",
+      "subcategory_tags": [
+        "price_value_perception",
+        "comfort_fit"
+      ]
+    },
+    {
+      "review_id": "069823e4-51a9-4b45-91c9-b67feb586ca8",
+      "source": "google_play",
+      "rating": 3,
+      "date": "2026-09-15T18:44:38+00:00",
+      "text": "I've been using Whoop for a few years and love the usefulness of the data and strength trainer. The AI is unreliable in creating workouts in strength trainer. Most annoying though is the lack of attention to the user experience for Android. I had no issues with Apple, but on Android the button layout clearly has odd gaps, and I can't upload and view my own profile photo. it's these small things that make the app annoying and make you question why you are paying a premium.",
+      "subcategory_tags": [
+        "ai_reliability_bugs",
+        "android_specific_bugs",
+        "price_value_perception"
+      ]
+    },
+    {
       "review_id": "bcd344e6-95ae-4d8f-bbe2-ea0c066b38e7",
       "source": "google_play",
       "rating": 1,
@@ -298,43 +333,44 @@
         "price_value_perception",
         "missing_metrics"
       ]
-    },
-    {
-      "review_id": "c168f7e5-9c80-445b-9529-14e2c38df90f",
-      "source": "google_play",
-      "rating": 2,
-      "date": "2026-08-28T01:07:40+00:00",
-      "text": "has good info but they force all this garbage into the app promoting their paid services that most people don't want and definitely don't want to see in the app. the company is very focused on extracting every dollar from its base instead of focusing on the best user experience they can. I will not be renewing. their product is good but their model is severely flawed. stop forcing your garbage on us and allow to hide all of those services.",
-      "subcategory_tags": [
-        "upsell_pressure",
-        "price_value_perception"
-      ]
-    },
-    {
-      "review_id": "aa2b9bb7-594f-4a3b-ae34-b8cabeb744b5",
-      "source": "google_play",
-      "rating": 4,
-      "date": "2026-08-27T16:11:16+00:00",
-      "text": "Fix the wonky step counting for 5 stars. I walk the exact same path multiple times daily. Each time the step count will vary between 200 and 400 steps. Example, 2,800 steps v. 3,200 steps. In contrast, my Fitbit step counts are within 100 steps each walk. Makes me consider the Fitbit Air",
-      "subcategory_tags": [
-        "metric_accuracy",
-        "price_value_perception"
-      ]
-    },
-    {
-      "review_id": "14467695272",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-08-24T13:06:06-07:00",
-      "text": "Very disappointing customer service experience with WHOOP. I purchased a subscription as a gift for my girlfriend, and she only used it for one year. When I tried to cancel the subscription, I contacted customer service on two different occasions, but they were not able to help me.\n\nBoth times, I was simply referred to send an email instead of having the issue resolved directly. I expected much better customer service, especially when trying to cancel a subscription.\n\nI would not recommend this company based on my experience with their customer service.",
-      "subcategory_tags": [
-        "billing_disputes",
-        "support_responsiveness",
-        "support_resolution_quality"
-      ]
     }
   ],
   "price_value_perception": [
+    {
+      "review_id": "c67d4d27-c4f7-453d-88b8-8b7f67795dad",
+      "source": "google_play",
+      "rating": 2,
+      "date": "2026-09-16T07:21:17+00:00",
+      "text": "the app and watch has been so inconsistent in working i tried to return it however unfortunately due to some issues in my own personal life I missed the threshold for reimbursing my money for the 2 year payment. I have now attempted to use the watch again (as an athlete and performer, I thought it would aid my recovery and fitness/wellness) however unfortunately this second attempt has been just as inconsistent. alot of days there are hours of missing data and often no data is given at all.",
+      "subcategory_tags": [
+        "data_sync_delays",
+        "billing_disputes",
+        "price_value_perception"
+      ]
+    },
+    {
+      "review_id": "14554217779",
+      "source": "app_store",
+      "rating": 4,
+      "date": "2026-09-15T15:09:52-07:00",
+      "text": "I’ve been a a member of the Whoop community for over 2 years. This is my overall experience with it. I think it is overall great. Great in the sense that it tracks the information you need in order to understand your body better, and helps you understand your habits or lack of habits that one would need to implement in their lives to be a better version of themselves etc.. However, I believe with the amount the whoop costs, and I have the newest version, they should at least let you keep the data you pay for, or at least give you access to more things you don’t have to purchase on the side. PS! The silicone band gives you a rash over time. Be CAREFUL. 🤙🏾",
+      "subcategory_tags": [
+        "price_value_perception",
+        "comfort_fit"
+      ]
+    },
+    {
+      "review_id": "069823e4-51a9-4b45-91c9-b67feb586ca8",
+      "source": "google_play",
+      "rating": 3,
+      "date": "2026-09-15T18:44:38+00:00",
+      "text": "I've been using Whoop for a few years and love the usefulness of the data and strength trainer. The AI is unreliable in creating workouts in strength trainer. Most annoying though is the lack of attention to the user experience for Android. I had no issues with Apple, but on Android the button layout clearly has odd gaps, and I can't upload and view my own profile photo. it's these small things that make the app annoying and make you question why you are paying a premium.",
+      "subcategory_tags": [
+        "ai_reliability_bugs",
+        "android_specific_bugs",
+        "price_value_perception"
+      ]
+    },
     {
       "review_id": "b8a345fa-adab-4442-b03e-0f88fe0f844f",
       "source": "google_play",
@@ -642,43 +678,21 @@
         "metric_accuracy",
         "price_value_perception"
       ]
-    },
+    }
+  ],
+  "billing_disputes": [
     {
-      "review_id": "14442750449",
-      "source": "app_store",
-      "rating": 5,
-      "date": "2026-08-18T06:09:17-07:00",
-      "text": "Without membership just like garmin is better",
+      "review_id": "c67d4d27-c4f7-453d-88b8-8b7f67795dad",
+      "source": "google_play",
+      "rating": 2,
+      "date": "2026-09-16T07:21:17+00:00",
+      "text": "the app and watch has been so inconsistent in working i tried to return it however unfortunately due to some issues in my own personal life I missed the threshold for reimbursing my money for the 2 year payment. I have now attempted to use the watch again (as an athlete and performer, I thought it would aid my recovery and fitness/wellness) however unfortunately this second attempt has been just as inconsistent. alot of days there are hours of missing data and often no data is given at all.",
       "subcategory_tags": [
-        "price_value_perception"
-      ]
-    },
-    {
-      "review_id": "14442499498",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-08-18T04:52:00-07:00",
-      "text": "I loved it until I started to realize the data is inaccurate and misleading.  You get what it’s trying to teach you and after a while it can cause you to second guess yourself. I wanted a low tech “watch”that didn’t show notifications on my wrist. Which is this buuut the app bombards you with notifications and requested inputs. So it’s not really a low interaction device. \n\nI would have happily not reviewed this but the canceling process of your membership is predatory and motivated me to write this. \n\nThere are better cheaper competitors.",
-      "subcategory_tags": [
-        "metric_accuracy",
-        "notification_community_issues",
+        "data_sync_delays",
         "billing_disputes",
         "price_value_perception"
       ]
     },
-    {
-      "review_id": "14434639447",
-      "source": "app_store",
-      "rating": 2,
-      "date": "2026-08-16T05:45:21-07:00",
-      "text": "I got this, hoping that the extra data provided would allow me to gain insight onto how to deal with stress. The stress score is really don’t match with how my body feels either physically or mentally. I can have an extremely difficult day at work and it gives me a low stress score. I can have an easy day at work and have a hard workout it gives me a high stress score.\n\nThose two things are very different and how my body feels them. Additionally, the most stressful day at work can have a score of 4.2 and a 30 minute ride at 60% heart rate gives a 4.2 score. Those are extremely different issues. \n\nAlso, it is difficult to understand because the scores don’t really jibe or relate to how you’re feeling. It produces a lot of data, but I’m not sure if it’s actually reliable or accurate so it’s not worth the extra money or commitment to wearing it at night.",
-      "subcategory_tags": [
-        "metric_accuracy",
-        "price_value_perception"
-      ]
-    }
-  ],
-  "billing_disputes": [
     {
       "review_id": "bcd344e6-95ae-4d8f-bbe2-ea0c066b38e7",
       "source": "google_play",
@@ -1007,17 +1021,6 @@
       "date": "2026-07-16T16:01:28-07:00",
       "text": "Better make sure your credit card doesn’t change or you don’t want to update payments because whoop will throw you and your data out fast",
       "subcategory_tags": [
-        "billing_disputes"
-      ]
-    },
-    {
-      "review_id": "14302420471",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-07-14T07:56:56-07:00",
-      "text": "I received this free because of my credit card, but I’ve stopped using it after 2 months.  It’s annoying to take off every time I shower, wash my face, go in hot tub.  The band has started to smell.  I wear an Apple Watch as well and I don’t like the look of having a band on each wrist.  Now that I want to cancel, it’s impossible to cancel through the app.",
-      "subcategory_tags": [
-        "comfort_fit",
         "billing_disputes"
       ]
     }
@@ -3075,6 +3078,17 @@
   ],
   "hardware_wearability": [
     {
+      "review_id": "14554217779",
+      "source": "app_store",
+      "rating": 4,
+      "date": "2026-09-15T15:09:52-07:00",
+      "text": "I’ve been a a member of the Whoop community for over 2 years. This is my overall experience with it. I think it is overall great. Great in the sense that it tracks the information you need in order to understand your body better, and helps you understand your habits or lack of habits that one would need to implement in their lives to be a better version of themselves etc.. However, I believe with the amount the whoop costs, and I have the newest version, they should at least let you keep the data you pay for, or at least give you access to more things you don’t have to purchase on the side. PS! The silicone band gives you a rash over time. Be CAREFUL. 🤙🏾",
+      "subcategory_tags": [
+        "price_value_perception",
+        "comfort_fit"
+      ]
+    },
+    {
       "review_id": "14535272719",
       "source": "app_store",
       "rating": 1,
@@ -3410,17 +3424,6 @@
         "crashes_freezes",
         "support_resolution_quality",
         "price_value_perception"
-      ]
-    },
-    {
-      "review_id": "14228294012",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-06-26T04:43:56-07:00",
-      "text": "App design is horrible, just a data dump with no logic / guidance. sleeping in the band is very uncomfortable.",
-      "subcategory_tags": [
-        "redesign_regression",
-        "comfort_fit"
       ]
     }
   ],
@@ -3783,6 +3786,17 @@
   ],
   "comfort_fit": [
     {
+      "review_id": "14554217779",
+      "source": "app_store",
+      "rating": 4,
+      "date": "2026-09-15T15:09:52-07:00",
+      "text": "I’ve been a a member of the Whoop community for over 2 years. This is my overall experience with it. I think it is overall great. Great in the sense that it tracks the information you need in order to understand your body better, and helps you understand your habits or lack of habits that one would need to implement in their lives to be a better version of themselves etc.. However, I believe with the amount the whoop costs, and I have the newest version, they should at least let you keep the data you pay for, or at least give you access to more things you don’t have to purchase on the side. PS! The silicone band gives you a rash over time. Be CAREFUL. 🤙🏾",
+      "subcategory_tags": [
+        "price_value_perception",
+        "comfort_fit"
+      ]
+    },
+    {
       "review_id": "14519069277",
       "source": "app_store",
       "rating": 3,
@@ -4113,16 +4127,6 @@
         "sleep_accuracy",
         "comfort_fit",
         "data_sync_delays"
-      ]
-    },
-    {
-      "review_id": "65096e23-2e4c-4154-85ee-90a25f307316",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2025-08-11T09:35:50",
-      "text": "not user friendly and the \"watch\" itches",
-      "subcategory_tags": [
-        "comfort_fit"
       ]
     }
   ],
@@ -4829,6 +4833,18 @@
   ],
   "sync_connectivity": [
     {
+      "review_id": "c67d4d27-c4f7-453d-88b8-8b7f67795dad",
+      "source": "google_play",
+      "rating": 2,
+      "date": "2026-09-16T07:21:17+00:00",
+      "text": "the app and watch has been so inconsistent in working i tried to return it however unfortunately due to some issues in my own personal life I missed the threshold for reimbursing my money for the 2 year payment. I have now attempted to use the watch again (as an athlete and performer, I thought it would aid my recovery and fitness/wellness) however unfortunately this second attempt has been just as inconsistent. alot of days there are hours of missing data and often no data is given at all.",
+      "subcategory_tags": [
+        "data_sync_delays",
+        "billing_disputes",
+        "price_value_perception"
+      ]
+    },
+    {
       "review_id": "14551128552",
       "source": "app_store",
       "rating": 2,
@@ -5151,18 +5167,6 @@
         "data_sync_delays",
         "personalization_use_case_fit",
         "missing_metrics"
-      ]
-    },
-    {
-      "review_id": "ff9da5ad-2cba-4278-9b58-ef41cbb32a0a",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2026-06-28T03:10:16",
-      "text": "after the last update it has stopped reviewing my sleep and recovery and didn't even update my lifespan. this definitely needs to be fixed",
-      "subcategory_tags": [
-        "update_failures",
-        "sleep_accuracy",
-        "data_sync_delays"
       ]
     }
   ],
@@ -5833,6 +5837,18 @@
   ],
   "data_sync_delays": [
     {
+      "review_id": "c67d4d27-c4f7-453d-88b8-8b7f67795dad",
+      "source": "google_play",
+      "rating": 2,
+      "date": "2026-09-16T07:21:17+00:00",
+      "text": "the app and watch has been so inconsistent in working i tried to return it however unfortunately due to some issues in my own personal life I missed the threshold for reimbursing my money for the 2 year payment. I have now attempted to use the watch again (as an athlete and performer, I thought it would aid my recovery and fitness/wellness) however unfortunately this second attempt has been just as inconsistent. alot of days there are hours of missing data and often no data is given at all.",
+      "subcategory_tags": [
+        "data_sync_delays",
+        "billing_disputes",
+        "price_value_perception"
+      ]
+    },
+    {
       "review_id": "14551128552",
       "source": "app_store",
       "rating": 2,
@@ -6170,18 +6186,6 @@
         "data_sync_delays",
         "price_value_perception",
         "plan_trial_structure"
-      ]
-    },
-    {
-      "review_id": "6b7d5a7b-a32c-4919-a260-0acba9966143",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2026-05-16T09:33:48",
-      "text": "I am consistently experiencing freezing issues, and my Whoop device has not provided any readings for two weeks. The customer service experience has been disappointing, as I have followed the same troubleshooting steps with multiple representatives without a resolution. Android user",
-      "subcategory_tags": [
-        "crashes_freezes",
-        "data_sync_delays",
-        "support_resolution_quality"
       ]
     }
   ],
@@ -7999,6 +8003,18 @@
   ],
   "ai_coach": [
     {
+      "review_id": "069823e4-51a9-4b45-91c9-b67feb586ca8",
+      "source": "google_play",
+      "rating": 3,
+      "date": "2026-09-15T18:44:38+00:00",
+      "text": "I've been using Whoop for a few years and love the usefulness of the data and strength trainer. The AI is unreliable in creating workouts in strength trainer. Most annoying though is the lack of attention to the user experience for Android. I had no issues with Apple, but on Android the button layout clearly has odd gaps, and I can't upload and view my own profile photo. it's these small things that make the app annoying and make you question why you are paying a premium.",
+      "subcategory_tags": [
+        "ai_reliability_bugs",
+        "android_specific_bugs",
+        "price_value_perception"
+      ]
+    },
+    {
       "review_id": "14550499817",
       "source": "app_store",
       "rating": 1,
@@ -8323,20 +8339,21 @@
       "subcategory_tags": [
         "ai_autonomy"
       ]
-    },
-    {
-      "review_id": "a07c6d87-3a41-4769-97e2-a7a3355a474d",
-      "source": "google_play",
-      "rating": 4,
-      "date": "2026-08-11T07:17:04+00:00",
-      "text": "love the app. only issue is that the chat keeps on lagging ie sometimes when I open the app the chat does not load. I get the notifications from it but very inconsistent with it",
-      "subcategory_tags": [
-        "ai_reliability_bugs",
-        "notification_community_issues"
-      ]
     }
   ],
   "ai_reliability_bugs": [
+    {
+      "review_id": "069823e4-51a9-4b45-91c9-b67feb586ca8",
+      "source": "google_play",
+      "rating": 3,
+      "date": "2026-09-15T18:44:38+00:00",
+      "text": "I've been using Whoop for a few years and love the usefulness of the data and strength trainer. The AI is unreliable in creating workouts in strength trainer. Most annoying though is the lack of attention to the user experience for Android. I had no issues with Apple, but on Android the button layout clearly has odd gaps, and I can't upload and view my own profile photo. it's these small things that make the app annoying and make you question why you are paying a premium.",
+      "subcategory_tags": [
+        "ai_reliability_bugs",
+        "android_specific_bugs",
+        "price_value_perception"
+      ]
+    },
     {
       "review_id": "14550499817",
       "source": "app_store",
@@ -8674,18 +8691,6 @@
       "subcategory_tags": [
         "activity_detection",
         "sleep_accuracy",
-        "ai_reliability_bugs"
-      ]
-    },
-    {
-      "review_id": "e359e077-ff73-49b4-9965-f6daf3f082ae",
-      "source": "google_play",
-      "rating": 2,
-      "date": "2026-07-20T05:15:21",
-      "text": "Way too expensive. The UI is a dumpster fire; it looks like someone threw random design elements into a box and shook it. The AI is mostly useless. I can't take it off to shower without it freaking out. The band physically looks nice though, and the data it gathers can be interesting, if not useful.",
-      "subcategory_tags": [
-        "price_value_perception",
-        "redesign_regression",
         "ai_reliability_bugs"
       ]
     }
@@ -13834,6 +13839,18 @@
   ],
   "platform_parity": [
     {
+      "review_id": "069823e4-51a9-4b45-91c9-b67feb586ca8",
+      "source": "google_play",
+      "rating": 3,
+      "date": "2026-09-15T18:44:38+00:00",
+      "text": "I've been using Whoop for a few years and love the usefulness of the data and strength trainer. The AI is unreliable in creating workouts in strength trainer. Most annoying though is the lack of attention to the user experience for Android. I had no issues with Apple, but on Android the button layout clearly has odd gaps, and I can't upload and view my own profile photo. it's these small things that make the app annoying and make you question why you are paying a premium.",
+      "subcategory_tags": [
+        "ai_reliability_bugs",
+        "android_specific_bugs",
+        "price_value_perception"
+      ]
+    },
+    {
       "review_id": "b443c6db-8878-4033-855d-6c6856d1d2ea",
       "source": "google_play",
       "rating": 3,
@@ -14159,17 +14176,6 @@
       "text": "the latest update crashes and cannot run in the pixel 8 pro.",
       "subcategory_tags": [
         "update_failures",
-        "android_specific_bugs"
-      ]
-    },
-    {
-      "review_id": "fd11d927-1262-46e1-86ac-b649fc2fa448",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2025-08-09T02:43:46",
-      "text": "disconnects and never connects again... I don't think WHOOP developers know how android devices work.",
-      "subcategory_tags": [
-        "ongoing_disconnects",
         "android_specific_bugs"
       ]
     }
@@ -14502,6 +14508,18 @@
   ],
   "android_specific_bugs": [
     {
+      "review_id": "069823e4-51a9-4b45-91c9-b67feb586ca8",
+      "source": "google_play",
+      "rating": 3,
+      "date": "2026-09-15T18:44:38+00:00",
+      "text": "I've been using Whoop for a few years and love the usefulness of the data and strength trainer. The AI is unreliable in creating workouts in strength trainer. Most annoying though is the lack of attention to the user experience for Android. I had no issues with Apple, but on Android the button layout clearly has odd gaps, and I can't upload and view my own profile photo. it's these small things that make the app annoying and make you question why you are paying a premium.",
+      "subcategory_tags": [
+        "ai_reliability_bugs",
+        "android_specific_bugs",
+        "price_value_perception"
+      ]
+    },
+    {
       "review_id": "70da0325-4e30-4771-a1aa-c514b0b6d2cb",
       "source": "google_play",
       "rating": 1,
@@ -14832,18 +14850,6 @@
         "onboarding_pairing",
         "android_specific_bugs",
         "ai_only_support_channel"
-      ]
-    },
-    {
-      "review_id": "602e50a8-9d63-4c6d-8dd9-7400766d32ed",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2025-05-21T20:05:20",
-      "text": "changed from ios to android and the app here always has connectivity issues. is a nightmare that my data is always behind and I need to reboot or restart the devices",
-      "subcategory_tags": [
-        "ongoing_disconnects",
-        "data_sync_delays",
-        "android_specific_bugs"
       ]
     }
   ],
