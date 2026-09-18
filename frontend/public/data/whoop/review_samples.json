@@ -1715,6 +1715,16 @@
   ],
   "sleep_tracking": [
     {
+      "review_id": "14556553302",
+      "source": "app_store",
+      "rating": 5,
+      "date": "2026-09-16T06:34:32-07:00",
+      "text": "I love this for tracking my sleep! My sleep score went from 2-3 hours of restorative rest to 4-6hours after adding an air scrubber to my bedroom. Love being able to track my sleep and recovery using my whoop!",
+      "subcategory_tags": [
+        "sleep_satisfaction"
+      ]
+    },
+    {
       "review_id": "14551128552",
       "source": "app_store",
       "rating": 2,
@@ -2034,18 +2044,6 @@
       "subcategory_tags": [
         "redesign_regression",
         "sleep_accuracy",
-        "comfort_fit"
-      ]
-    },
-    {
-      "review_id": "14426595707",
-      "source": "app_store",
-      "rating": 5,
-      "date": "2026-08-14T05:41:49-07:00",
-      "text": "I have tried all the big name wearables over the years, but this is by far the best! The battery lasts a week or more. I put it on and forget I’m wearing it. It’s the most accurate and detailed recovery and sleep analysis I’ve ever had.  I also love that it helps me trend my blood pressure too.",
-      "subcategory_tags": [
-        "battery_life",
-        "sleep_satisfaction",
         "comfort_fit"
       ]
     }
@@ -2402,6 +2400,16 @@
   ],
   "sleep_satisfaction": [
     {
+      "review_id": "14556553302",
+      "source": "app_store",
+      "rating": 5,
+      "date": "2026-09-16T06:34:32-07:00",
+      "text": "I love this for tracking my sleep! My sleep score went from 2-3 hours of restorative rest to 4-6hours after adding an air scrubber to my bedroom. Love being able to track my sleep and recovery using my whoop!",
+      "subcategory_tags": [
+        "sleep_satisfaction"
+      ]
+    },
+    {
       "review_id": "14532558182",
       "source": "app_store",
       "rating": 5,
@@ -2711,17 +2719,6 @@
       "text": "I’ve had my whoop probably just over 8 years now through 2 pregnancies, different lifestyles and different experiences \nMy whoop helps me to track my progress and habits, I’ve correct some to better my sleep nutrition and performance \nHonestly best fitness lifestyle device on the market",
       "subcategory_tags": [
         "sleep_satisfaction"
-      ]
-    },
-    {
-      "review_id": "14362297405",
-      "source": "app_store",
-      "rating": 5,
-      "date": "2026-07-29T05:39:03-07:00",
-      "text": "I love my Whoop. Love it. I’ve influenced a few friends to buy it - but let me tell you who it works for, and who it doesn’t. I primarily bought it because I didn’t want a second screen. I don’t like to be on my phone, and I wanted a fitness tracker that could fade into the background. However, I also wanted something that was very accurate in terms of tracking my workouts and recovery. My primary form of athletic activity is lifting, and I really love the muscular strain feature of the whoop - especially now that it can automatically track muscular load. Lastly, I’m really enjoying the variety of bands. I think I have 7 at this point? They’re all very cute and I feel like I can wear them in very professional settings and it becomes sort of a statement piece / fashion statement and conversation starter vs. looking ugly. \n\nI would love for the next version to be even smaller!",
-      "subcategory_tags": [
-        "sleep_satisfaction",
-        "missing_activity_types"
       ]
     }
   ],
@@ -8003,6 +8000,16 @@
   ],
   "ai_coach": [
     {
+      "review_id": "14556573727",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-09-16T06:40:23-07:00",
+      "text": "The Whoop coach is constantly giving me incorrect data and then when I correct it says something along the lines of “my bad, I’ll stop making stuff up!” And then the next day it’s back to making stuff up. I can’t trust anything from the coach.",
+      "subcategory_tags": [
+        "ai_reliability_bugs"
+      ]
+    },
+    {
       "review_id": "069823e4-51a9-4b45-91c9-b67feb586ca8",
       "source": "google_play",
       "rating": 3,
@@ -8329,19 +8336,19 @@
         "ai_reliability_bugs",
         "ai_autonomy"
       ]
-    },
-    {
-      "review_id": "14414782430",
-      "source": "app_store",
-      "rating": 3,
-      "date": "2026-08-11T07:19:12-07:00",
-      "text": "It has ruined my experience with Whoop opened several cases asking how to get rid of it but I think the case is still open. I have turned off memory and deleted all chats and memory except health info. It’s better now as long as I never but never respond to Whoop Coach just look at the summary understanding it may not be accurate but never respond and it’s workable",
-      "subcategory_tags": [
-        "ai_autonomy"
-      ]
     }
   ],
   "ai_reliability_bugs": [
+    {
+      "review_id": "14556573727",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-09-16T06:40:23-07:00",
+      "text": "The Whoop coach is constantly giving me incorrect data and then when I correct it says something along the lines of “my bad, I’ll stop making stuff up!” And then the next day it’s back to making stuff up. I can’t trust anything from the coach.",
+      "subcategory_tags": [
+        "ai_reliability_bugs"
+      ]
+    },
     {
       "review_id": "069823e4-51a9-4b45-91c9-b67feb586ca8",
       "source": "google_play",
@@ -8680,18 +8687,6 @@
         "personalization_use_case_fit",
         "price_value_perception",
         "billing_disputes"
-      ]
-    },
-    {
-      "review_id": "14330101752",
-      "source": "app_store",
-      "rating": 2,
-      "date": "2026-07-21T05:16:06-07:00",
-      "text": "Misses workouts, messes up sleep! The AI brain is the size of an acorn that’s been flattened by a 18 wheeler truck!",
-      "subcategory_tags": [
-        "activity_detection",
-        "sleep_accuracy",
-        "ai_reliability_bugs"
       ]
     }
   ],
@@ -12144,6 +12139,16 @@
   ],
   "ui_ux": [
     {
+      "review_id": "4786d9cf-1bf6-4cb7-9488-c722d5b4b641",
+      "source": "google_play",
+      "rating": 1,
+      "date": "2026-09-17T15:32:08+00:00",
+      "text": "none customisable ui overly complex",
+      "subcategory_tags": [
+        "redesign_regression"
+      ]
+    },
+    {
       "review_id": "14550499817",
       "source": "app_store",
       "rating": 1,
@@ -12466,21 +12471,19 @@
         "redesign_regression",
         "personalization_use_case_fit"
       ]
-    },
-    {
-      "review_id": "45d54263-92f7-4249-aa6e-85d24be3cc50",
-      "source": "google_play",
-      "rating": 5,
-      "date": "2026-08-01T07:25:19",
-      "text": "Latest bug with Strength Trainer resetting current set when the app goes to background - awful. Also, the small convenient notification widget now disappeared and replaced with a useless \"Workout in progress\" notification when running in the background. Please fix this vibecode.",
-      "subcategory_tags": [
-        "feature_ui_friction",
-        "crashes_freezes",
-        "notification_community_issues"
-      ]
     }
   ],
   "redesign_regression": [
+    {
+      "review_id": "4786d9cf-1bf6-4cb7-9488-c722d5b4b641",
+      "source": "google_play",
+      "rating": 1,
+      "date": "2026-09-17T15:32:08+00:00",
+      "text": "none customisable ui overly complex",
+      "subcategory_tags": [
+        "redesign_regression"
+      ]
+    },
     {
       "review_id": "b59257e7-d38a-4526-ae5d-602f781b7578",
       "source": "google_play",
@@ -12815,18 +12818,6 @@
       "text": "The app or device is very inaccurate and the app is overall fairly cluttered and over explained.",
       "subcategory_tags": [
         "metric_accuracy",
-        "redesign_regression"
-      ]
-    },
-    {
-      "review_id": "13935389095",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-04-08T04:35:08-07:00",
-      "text": "This company makes it very hard to cancel and things are not clear. Won’t remove your information or have clear policies. AVOID AVOID AVOID. Much better and cheaper options out there. App very hard to navigate as well",
-      "subcategory_tags": [
-        "billing_disputes",
-        "price_value_perception",
         "redesign_regression"
       ]
     }
