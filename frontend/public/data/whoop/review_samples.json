@@ -1,6 +1,16 @@
 {
   "pricing_billing": [
     {
+      "review_id": "a0ac51be-efe1-4690-a895-055b108f91cd",
+      "source": "google_play",
+      "rating": 5,
+      "date": "2026-09-18T07:38:44+00:00",
+      "text": "It's super expensive for it. There are better options at a similar level. Or if you're lucky to get it at a very good discounted price; perfect.",
+      "subcategory_tags": [
+        "price_value_perception"
+      ]
+    },
+    {
       "review_id": "c67d4d27-c4f7-453d-88b8-8b7f67795dad",
       "source": "google_play",
       "rating": 2,
@@ -322,20 +332,19 @@
         "sleep_accuracy",
         "price_value_perception"
       ]
-    },
-    {
-      "review_id": "1db8e294-c1b7-459d-ae38-06d53b7cb88a",
-      "source": "google_play",
-      "rating": 5,
-      "date": "2026-08-30T05:39:43+00:00",
-      "text": "it's good, however Whoop is expensive, they will have to offer more given the competitors which are cheaper and also good. I'd like to see a dynamic calorie deficit number adjusted to your weight goal, Huawei watches offer it with a native app called \"Stay fit\" and I love it, if Whoop offers it I won't have a need to wear a watch anymore",
-      "subcategory_tags": [
-        "price_value_perception",
-        "missing_metrics"
-      ]
     }
   ],
   "price_value_perception": [
+    {
+      "review_id": "a0ac51be-efe1-4690-a895-055b108f91cd",
+      "source": "google_play",
+      "rating": 5,
+      "date": "2026-09-18T07:38:44+00:00",
+      "text": "It's super expensive for it. There are better options at a similar level. Or if you're lucky to get it at a very good discounted price; perfect.",
+      "subcategory_tags": [
+        "price_value_perception"
+      ]
+    },
     {
       "review_id": "c67d4d27-c4f7-453d-88b8-8b7f67795dad",
       "source": "google_play",
@@ -662,20 +671,6 @@
       "text": "I think the only thing that really stands out with this tracker is the aging/health span info. There are lots of other devices with screens that could give you some of the same information. Granted, this one is less distracting, and the accuracy is probably better. The AI generated daily outlooks have been incredibly inaccurate lately. I will probably use the device for the remainder of the year and break away before I have to re-up my subscription.",
       "subcategory_tags": [
         "ai_reliability_bugs",
-        "price_value_perception"
-      ]
-    },
-    {
-      "review_id": "14449428710",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-08-19T21:33:08-07:00",
-      "text": "This app used to detect activities, naps, and helped me track my period after years of tracking it on other apps. Now none of those things happen, weight and periods are not recorded same with activities and naps. The metrics aren’t even correct. Don’t waste you’re money it’s all marketing and a scam",
-      "subcategory_tags": [
-        "activity_detection",
-        "sleep_accuracy",
-        "missing_metrics",
-        "metric_accuracy",
         "price_value_perception"
       ]
     }
@@ -1715,6 +1710,29 @@
   ],
   "sleep_tracking": [
     {
+      "review_id": "14563984011",
+      "source": "app_store",
+      "rating": 5,
+      "date": "2026-09-18T04:59:30-07:00",
+      "text": "Whoop is so great in so many ways. From telling me that my body needs more rest, to telling me my body is fighting off a sickness because my recovery is low and I have had adequate and not overstrained myself, but to sleep and to take it easy. \n\nIt lows my regular menstrual cycles and will start telling me up to five days ahead that it is coming and usually in day two before it arrives, it tells me that my body’s symptoms and they are usually perfectly on point. \n\nI love that it tells me what I my strain should be and if I surpass what the goal was for the day, it tells me keep pushing to hit a certain number to give it an all out day.",
+      "subcategory_tags": [
+        "sleep_satisfaction",
+        "personalization_use_case_fit"
+      ]
+    },
+    {
+      "review_id": "515f1ebe-8d99-44b6-a405-917474dc49ec",
+      "source": "google_play",
+      "rating": 2,
+      "date": "2026-09-18T04:09:46+00:00",
+      "text": "Very inaccurate tracking and frequent synchronization issues I’m quite disappointed with the OP app. The activity and health tracking is frequently inaccurate. While I’m driving, the app sometimes records the activity as yoga or exercise, which makes the activity data unreliable. The sleep tracking is also inaccurate. For example, if I actually sleep at around 12 AM, the app may record my sleep as starting at 11 PM. Sleep duration is sometimes overstated, and naps are not detected or recorded",
+      "subcategory_tags": [
+        "activity_detection",
+        "sleep_accuracy",
+        "data_sync_delays"
+      ]
+    },
+    {
       "review_id": "14556553302",
       "source": "app_store",
       "rating": 5,
@@ -2022,33 +2040,21 @@
       "subcategory_tags": [
         "sleep_accuracy"
       ]
-    },
-    {
-      "review_id": "14431427631",
-      "source": "app_store",
-      "rating": 5,
-      "date": "2026-08-15T09:25:47-07:00",
-      "text": "Many people complain about the cost of Whoop, but I find that I get great data and insights from the app and the AI interface. It really helps me understand my recovery from exercise, how well I’m sleeping, how my eating patterns affect my sleep and recovery. It’s been really great.",
-      "subcategory_tags": [
-        "price_value_perception",
-        "ai_positive_reception",
-        "sleep_satisfaction"
-      ]
-    },
-    {
-      "review_id": "1e56220a-53e4-41bc-b57e-fa14540b782a",
-      "source": "google_play",
-      "rating": 2,
-      "date": "2026-08-14T20:43:10+00:00",
-      "text": "I really wanted to like this, but the overall experience feels confusing and overwhelming. The app throws too much information and too many articles at you, and it’s often unclear what’s clickable. The sleep tracking has also made me more anxious, as I constantly check my sleep and recovery numbers. I dislike the strap mechanism—it’s awkward to adjust and gets uncomfortably wet in the shower, yet is difficult to dry. Overall, I’d prefer a much simpler, clearer experience.",
-      "subcategory_tags": [
-        "redesign_regression",
-        "sleep_accuracy",
-        "comfort_fit"
-      ]
     }
   ],
   "sleep_accuracy": [
+    {
+      "review_id": "515f1ebe-8d99-44b6-a405-917474dc49ec",
+      "source": "google_play",
+      "rating": 2,
+      "date": "2026-09-18T04:09:46+00:00",
+      "text": "Very inaccurate tracking and frequent synchronization issues I’m quite disappointed with the OP app. The activity and health tracking is frequently inaccurate. While I’m driving, the app sometimes records the activity as yoga or exercise, which makes the activity data unreliable. The sleep tracking is also inaccurate. For example, if I actually sleep at around 12 AM, the app may record my sleep as starting at 11 PM. Sleep duration is sometimes overstated, and naps are not detected or recorded",
+      "subcategory_tags": [
+        "activity_detection",
+        "sleep_accuracy",
+        "data_sync_delays"
+      ]
+    },
     {
       "review_id": "05dbc152-92c0-4389-9e67-1a0218825825",
       "source": "google_play",
@@ -2386,19 +2392,20 @@
         "sleep_accuracy",
         "support_resolution_quality"
       ]
-    },
-    {
-      "review_id": "14244828637",
-      "source": "app_store",
-      "rating": 4,
-      "date": "2026-06-30T05:06:56-07:00",
-      "text": "I have the whoop 4.0 and it is really helpful in recovery and life. The only complaint I have is that every once in a while the numbers are off for sleep score.",
-      "subcategory_tags": [
-        "sleep_accuracy"
-      ]
     }
   ],
   "sleep_satisfaction": [
+    {
+      "review_id": "14563984011",
+      "source": "app_store",
+      "rating": 5,
+      "date": "2026-09-18T04:59:30-07:00",
+      "text": "Whoop is so great in so many ways. From telling me that my body needs more rest, to telling me my body is fighting off a sickness because my recovery is low and I have had adequate and not overstrained myself, but to sleep and to take it easy. \n\nIt lows my regular menstrual cycles and will start telling me up to five days ahead that it is coming and usually in day two before it arrives, it tells me that my body’s symptoms and they are usually perfectly on point. \n\nI love that it tells me what I my strain should be and if I surpass what the goal was for the day, it tells me keep pushing to hit a certain number to give it an all out day.",
+      "subcategory_tags": [
+        "sleep_satisfaction",
+        "personalization_use_case_fit"
+      ]
+    },
     {
       "review_id": "14556553302",
       "source": "app_store",
@@ -2709,16 +2716,6 @@
         "battery_life",
         "sleep_satisfaction",
         "missing_metrics"
-      ]
-    },
-    {
-      "review_id": "14374082016",
-      "source": "app_store",
-      "rating": 5,
-      "date": "2026-08-01T03:12:10-07:00",
-      "text": "I’ve had my whoop probably just over 8 years now through 2 pregnancies, different lifestyles and different experiences \nMy whoop helps me to track my progress and habits, I’ve correct some to better my sleep nutrition and performance \nHonestly best fitness lifestyle device on the market",
-      "subcategory_tags": [
-        "sleep_satisfaction"
       ]
     }
   ],
@@ -4830,6 +4827,18 @@
   ],
   "sync_connectivity": [
     {
+      "review_id": "515f1ebe-8d99-44b6-a405-917474dc49ec",
+      "source": "google_play",
+      "rating": 2,
+      "date": "2026-09-18T04:09:46+00:00",
+      "text": "Very inaccurate tracking and frequent synchronization issues I’m quite disappointed with the OP app. The activity and health tracking is frequently inaccurate. While I’m driving, the app sometimes records the activity as yoga or exercise, which makes the activity data unreliable. The sleep tracking is also inaccurate. For example, if I actually sleep at around 12 AM, the app may record my sleep as starting at 11 PM. Sleep duration is sometimes overstated, and naps are not detected or recorded",
+      "subcategory_tags": [
+        "activity_detection",
+        "sleep_accuracy",
+        "data_sync_delays"
+      ]
+    },
+    {
       "review_id": "c67d4d27-c4f7-453d-88b8-8b7f67795dad",
       "source": "google_play",
       "rating": 2,
@@ -5152,18 +5161,6 @@
         "support_responsiveness",
         "support_resolution_quality",
         "ongoing_disconnects"
-      ]
-    },
-    {
-      "review_id": "14269590906",
-      "source": "app_store",
-      "rating": 2,
-      "date": "2026-07-06T04:22:56-07:00",
-      "text": "Data in the screen is delayed when exercising. ‘Hormonal insight’ has no value at all for women in menopause. Also, blood pressure should be a feature to explore for Whoop",
-      "subcategory_tags": [
-        "data_sync_delays",
-        "personalization_use_case_fit",
-        "missing_metrics"
       ]
     }
   ],
@@ -5834,6 +5831,18 @@
   ],
   "data_sync_delays": [
     {
+      "review_id": "515f1ebe-8d99-44b6-a405-917474dc49ec",
+      "source": "google_play",
+      "rating": 2,
+      "date": "2026-09-18T04:09:46+00:00",
+      "text": "Very inaccurate tracking and frequent synchronization issues I’m quite disappointed with the OP app. The activity and health tracking is frequently inaccurate. While I’m driving, the app sometimes records the activity as yoga or exercise, which makes the activity data unreliable. The sleep tracking is also inaccurate. For example, if I actually sleep at around 12 AM, the app may record my sleep as starting at 11 PM. Sleep duration is sometimes overstated, and naps are not detected or recorded",
+      "subcategory_tags": [
+        "activity_detection",
+        "sleep_accuracy",
+        "data_sync_delays"
+      ]
+    },
+    {
       "review_id": "c67d4d27-c4f7-453d-88b8-8b7f67795dad",
       "source": "google_play",
       "rating": 2,
@@ -6172,21 +6181,31 @@
         "data_sync_delays",
         "price_value_perception"
       ]
-    },
-    {
-      "review_id": "4728e391-0cec-4e46-871c-550c237eaebe",
-      "source": "google_play",
-      "rating": 2,
-      "date": "2026-05-18T06:07:21",
-      "text": "still getting to know it. I believe you need to enter pretty much everything it will know about you. steps take 10 minutes or longer to calculate consistency. so its super slow that way. not all that impressed at the moment. wish I would have opted for the trial. I may not own it.",
-      "subcategory_tags": [
-        "data_sync_delays",
-        "price_value_perception",
-        "plan_trial_structure"
-      ]
     }
   ],
   "data_accuracy": [
+    {
+      "review_id": "515f1ebe-8d99-44b6-a405-917474dc49ec",
+      "source": "google_play",
+      "rating": 2,
+      "date": "2026-09-18T04:09:46+00:00",
+      "text": "Very inaccurate tracking and frequent synchronization issues I’m quite disappointed with the OP app. The activity and health tracking is frequently inaccurate. While I’m driving, the app sometimes records the activity as yoga or exercise, which makes the activity data unreliable. The sleep tracking is also inaccurate. For example, if I actually sleep at around 12 AM, the app may record my sleep as starting at 11 PM. Sleep duration is sometimes overstated, and naps are not detected or recorded",
+      "subcategory_tags": [
+        "activity_detection",
+        "sleep_accuracy",
+        "data_sync_delays"
+      ]
+    },
+    {
+      "review_id": "14560755413",
+      "source": "app_store",
+      "rating": 3,
+      "date": "2026-09-17T08:12:07-07:00",
+      "text": "Some scores given are way too high and others way too low",
+      "subcategory_tags": [
+        "metric_accuracy"
+      ]
+    },
     {
       "review_id": "a756b23f-b210-485a-9783-41ba3d433379",
       "source": "google_play",
@@ -6516,33 +6535,19 @@
         "metric_accuracy",
         "price_value_perception"
       ]
-    },
-    {
-      "review_id": "14405269913",
-      "source": "app_store",
-      "rating": 3,
-      "date": "2026-08-08T21:16:51-07:00",
-      "text": "Somtimes the app dosent recognize the nap ,timing your workout and counting steps",
-      "subcategory_tags": [
-        "sleep_accuracy",
-        "activity_detection",
-        "metric_accuracy"
-      ]
-    },
-    {
-      "review_id": "14403057110",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-08-08T07:38:04-07:00",
-      "text": "Doesn’t count steps correctly from the 4.0-5.0 version.  Strain doesn’t register the same way on the 5.0\nAll the extra features on the top tier are hard to figure out.  No customer service",
-      "subcategory_tags": [
-        "metric_accuracy",
-        "feature_ui_friction",
-        "support_responsiveness"
-      ]
     }
   ],
   "metric_accuracy": [
+    {
+      "review_id": "14560755413",
+      "source": "app_store",
+      "rating": 3,
+      "date": "2026-09-17T08:12:07-07:00",
+      "text": "Some scores given are way too high and others way too low",
+      "subcategory_tags": [
+        "metric_accuracy"
+      ]
+    },
     {
       "review_id": "a756b23f-b210-485a-9783-41ba3d433379",
       "source": "google_play",
@@ -6880,21 +6885,21 @@
       "subcategory_tags": [
         "metric_accuracy"
       ]
-    },
-    {
-      "review_id": "14350257084",
-      "source": "app_store",
-      "rating": 5,
-      "date": "2026-07-26T06:00:06-07:00",
-      "text": "Prior to using WHOOP my average hours sleep was just under 5.5 hrs down from prior  year of just under 6 hrs per night since using WHOOP, my average hours per night is over 7.5 hrs. It has educated and improved my health by bringing metrics like HRV and accurate RHR as well as many others. It has assisted in my training to improve cardiovascular and body comp to address recently diagnosed sarcoidosis. I am healthier for using it and better informed with information and questioning its AI.",
-      "subcategory_tags": [
-        "sleep_satisfaction",
-        "metric_accuracy",
-        "ai_positive_reception"
-      ]
     }
   ],
   "activity_detection": [
+    {
+      "review_id": "515f1ebe-8d99-44b6-a405-917474dc49ec",
+      "source": "google_play",
+      "rating": 2,
+      "date": "2026-09-18T04:09:46+00:00",
+      "text": "Very inaccurate tracking and frequent synchronization issues I’m quite disappointed with the OP app. The activity and health tracking is frequently inaccurate. While I’m driving, the app sometimes records the activity as yoga or exercise, which makes the activity data unreliable. The sleep tracking is also inaccurate. For example, if I actually sleep at around 12 AM, the app may record my sleep as starting at 11 PM. Sleep duration is sometimes overstated, and naps are not detected or recorded",
+      "subcategory_tags": [
+        "activity_detection",
+        "sleep_accuracy",
+        "data_sync_delays"
+      ]
+    },
     {
       "review_id": "14519069277",
       "source": "app_store",
@@ -7243,18 +7248,6 @@
       "subcategory_tags": [
         "metric_accuracy",
         "activity_detection"
-      ]
-    },
-    {
-      "review_id": "14177837071",
-      "source": "app_store",
-      "rating": 3,
-      "date": "2026-06-13T06:24:28-07:00",
-      "text": "En mi caso es una falta de exactitud lo que le falta al whoop, muchas veces hago ejercicio y no se da cuenta, o  estoy enferma y tampoco se da cuenta, interrupciones del sueño que no nota  , en otras plataformas hasta te ayudan con la alimentación siendo súper más exactas . Creo que deben ajustar estos detalles para ser competitivos con todo lo que está saliendo",
-      "subcategory_tags": [
-        "activity_detection",
-        "sleep_accuracy",
-        "metric_accuracy"
       ]
     }
   ],
@@ -15549,6 +15542,17 @@
   ],
   "feature_requests": [
     {
+      "review_id": "14563984011",
+      "source": "app_store",
+      "rating": 5,
+      "date": "2026-09-18T04:59:30-07:00",
+      "text": "Whoop is so great in so many ways. From telling me that my body needs more rest, to telling me my body is fighting off a sickness because my recovery is low and I have had adequate and not overstrained myself, but to sleep and to take it easy. \n\nIt lows my regular menstrual cycles and will start telling me up to five days ahead that it is coming and usually in day two before it arrives, it tells me that my body’s symptoms and they are usually perfectly on point. \n\nI love that it tells me what I my strain should be and if I surpass what the goal was for the day, it tells me keep pushing to hit a certain number to give it an all out day.",
+      "subcategory_tags": [
+        "sleep_satisfaction",
+        "personalization_use_case_fit"
+      ]
+    },
+    {
       "review_id": "14541419111",
       "source": "app_store",
       "rating": 4,
@@ -15874,18 +15878,6 @@
       "subcategory_tags": [
         "redesign_regression",
         "personalization_use_case_fit"
-      ]
-    },
-    {
-      "review_id": "f9993455-852d-4fc7-9eea-c81c93159837",
-      "source": "google_play",
-      "rating": 5,
-      "date": "2026-07-31T23:09:54",
-      "text": "Still awesome overall. My only feedback is adding real time heart rate to the main screen. The AI Strength Trainer is a great feature but it still has a few limitations. It doesn't recognise some basic equipment like ab machines and the workouts don't feel fully personalised even when you give it prompts.",
-      "subcategory_tags": [
-        "missing_activity_types",
-        "personalization_use_case_fit",
-        "feature_ui_friction"
       ]
     }
   ],
@@ -16567,6 +16559,17 @@
   ],
   "personalization_use_case_fit": [
     {
+      "review_id": "14563984011",
+      "source": "app_store",
+      "rating": 5,
+      "date": "2026-09-18T04:59:30-07:00",
+      "text": "Whoop is so great in so many ways. From telling me that my body needs more rest, to telling me my body is fighting off a sickness because my recovery is low and I have had adequate and not overstrained myself, but to sleep and to take it easy. \n\nIt lows my regular menstrual cycles and will start telling me up to five days ahead that it is coming and usually in day two before it arrives, it tells me that my body’s symptoms and they are usually perfectly on point. \n\nI love that it tells me what I my strain should be and if I surpass what the goal was for the day, it tells me keep pushing to hit a certain number to give it an all out day.",
+      "subcategory_tags": [
+        "sleep_satisfaction",
+        "personalization_use_case_fit"
+      ]
+    },
+    {
       "review_id": "14521116556",
       "source": "app_store",
       "rating": 3,
@@ -16893,18 +16896,6 @@
       "text": "useless unless your an athlete 😅",
       "subcategory_tags": [
         "personalization_use_case_fit"
-      ]
-    },
-    {
-      "review_id": "2de32e67-826f-4834-a180-b8c3e9ae43ba",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2026-06-30T12:07:44",
-      "text": "I had been wanting a whoop band for a while and finally got one since they were on sale for the life one which is the one I wanted. I used mine for only a few hours and returned it to Amazon. the app is absolutely terrible. no heart rate on the main screen and it was so concerned with my bedtime I thought I was 6 years old again and there is no way to remove the sleep tile from the home screen. The app has zero customization. It just showed a bunch of stuff I didn't care about.",
-      "subcategory_tags": [
-        "redesign_regression",
-        "personalization_use_case_fit",
-        "feature_ui_friction"
       ]
     }
   ],
