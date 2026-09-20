@@ -1,6 +1,26 @@
 {
   "pricing_billing": [
     {
+      "review_id": "694d2cfc-310c-42ee-bcde-5cb3b410f90a",
+      "source": "google_play",
+      "rating": 4,
+      "date": "2026-09-19T08:11:52+00:00",
+      "text": "Soweit alles gut, ein bisschen teuer vielleicht - falls jemand neu einsteigt: Mit 5571C038 ein Monat frei für uns beide.",
+      "subcategory_tags": [
+        "price_value_perception"
+      ]
+    },
+    {
+      "review_id": "62f44061-3417-45f2-af50-5234011683e2",
+      "source": "google_play",
+      "rating": 3,
+      "date": "2026-09-19T08:04:14+00:00",
+      "text": "Renewal fee is exorbitantly high when compared with equivalent bands.",
+      "subcategory_tags": [
+        "price_value_perception"
+      ]
+    },
+    {
       "review_id": "a0ac51be-efe1-4690-a895-055b108f91cd",
       "source": "google_play",
       "rating": 5,
@@ -311,30 +331,29 @@
       "subcategory_tags": [
         "price_value_perception"
       ]
-    },
-    {
-      "review_id": "ba13f413-e505-4615-a0d6-cdffbc6325da",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2026-09-02T12:58:00+00:00",
-      "text": "As a paid member, this app is FULL of ads. They most care about milking every cent from you.",
-      "subcategory_tags": [
-        "upsell_pressure"
-      ]
-    },
-    {
-      "review_id": "14499681422",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-09-01T16:30:44-07:00",
-      "text": "I bought a WHOOP because I wanted good sleep detection, but they’ve updated the algorithm a couple of times and completely messed up the sleep detection at this point. The rest of the functions are no different than what you get on a much cheaper Fitbit or any other tracker. I would strongly recommend against buying WHOOP. Likewise, the support has been terrible.",
-      "subcategory_tags": [
-        "sleep_accuracy",
-        "price_value_perception"
-      ]
     }
   ],
   "price_value_perception": [
+    {
+      "review_id": "694d2cfc-310c-42ee-bcde-5cb3b410f90a",
+      "source": "google_play",
+      "rating": 4,
+      "date": "2026-09-19T08:11:52+00:00",
+      "text": "Soweit alles gut, ein bisschen teuer vielleicht - falls jemand neu einsteigt: Mit 5571C038 ein Monat frei für uns beide.",
+      "subcategory_tags": [
+        "price_value_perception"
+      ]
+    },
+    {
+      "review_id": "62f44061-3417-45f2-af50-5234011683e2",
+      "source": "google_play",
+      "rating": 3,
+      "date": "2026-09-19T08:04:14+00:00",
+      "text": "Renewal fee is exorbitantly high when compared with equivalent bands.",
+      "subcategory_tags": [
+        "price_value_perception"
+      ]
+    },
     {
       "review_id": "a0ac51be-efe1-4690-a895-055b108f91cd",
       "source": "google_play",
@@ -645,30 +664,6 @@
       "rating": 2,
       "date": "2026-08-23T12:18:55+00:00",
       "text": "Unsure what's been going on with the AI coach for the past week, but my God it's become unreliable. If you want to upload your workout for it to map to an activity, good luck - constant hallucinations, misreading text in one version but then reading it correctly when uploading the second time, glitchy memory, inconsistent analysis of what you upload. Really not impressed considering how much I pay for a Whoop subscription",
-      "subcategory_tags": [
-        "ai_reliability_bugs",
-        "price_value_perception"
-      ]
-    },
-    {
-      "review_id": "3b2df189-fe72-4d0c-bfd7-9e7dd77b91e7",
-      "source": "google_play",
-      "rating": 3,
-      "date": "2026-08-21T22:50:47+00:00",
-      "text": "I've used WHOOP for nearly 3 months and have been frustrated with it more than a few times. Like other users, I’ve had to manually add sleep records because WHOOP fails to auto detect it. The AI uses inconsistent and sometimes contradictory language and observations. I'm paying a subscription fee for this product and expect higher data accuracy and analysis than I'm getting. I'm undecided if I'll renew my subscription.",
-      "subcategory_tags": [
-        "sleep_accuracy",
-        "ai_reliability_bugs",
-        "metric_accuracy",
-        "price_value_perception"
-      ]
-    },
-    {
-      "review_id": "14450516919",
-      "source": "app_store",
-      "rating": 2,
-      "date": "2026-08-20T04:50:29-07:00",
-      "text": "I think the only thing that really stands out with this tracker is the aging/health span info. There are lots of other devices with screens that could give you some of the same information. Granted, this one is less distracting, and the accuracy is probably better. The AI generated daily outlooks have been incredibly inaccurate lately. I will probably use the device for the remainder of the year and break away before I have to re-up my subscription.",
       "subcategory_tags": [
         "ai_reliability_bugs",
         "price_value_perception"
@@ -1710,6 +1705,17 @@
   ],
   "sleep_tracking": [
     {
+      "review_id": "14566965178",
+      "source": "app_store",
+      "rating": 4,
+      "date": "2026-09-18T22:10:00-07:00",
+      "text": "Review:\n\n“As a busy manager, the insights WHOOP provides are life-changing. I love the recovery and sleep tracking. HOWEVER, I had a terrible experience recently: I lost my phone, and upon re-installing the app on a new device, ALL my historical data was gone. Losing that long-term analysis is a dealbreaker. If this cloud sync/data migration issue gets fixed, it’s easily a 5-star app. Please improve your data retention and account syncing policy so users don’t lose their hard-earned progress.”",
+      "subcategory_tags": [
+        "sleep_satisfaction",
+        "data_sync_delays"
+      ]
+    },
+    {
       "review_id": "14563984011",
       "source": "app_store",
       "rating": 5,
@@ -2029,16 +2035,6 @@
       "subcategory_tags": [
         "sleep_satisfaction",
         "ai_positive_reception"
-      ]
-    },
-    {
-      "review_id": "14432553049",
-      "source": "app_store",
-      "rating": 2,
-      "date": "2026-08-15T15:54:25-07:00",
-      "text": "If you set the alarm to wake up at 7am, It’s not smart to detect when you go back to sleep at 10am to 11 am. It won’t add the extra hour to your total sleep hours for the day.",
-      "subcategory_tags": [
-        "sleep_accuracy"
       ]
     }
   ],
@@ -2396,6 +2392,17 @@
   ],
   "sleep_satisfaction": [
     {
+      "review_id": "14566965178",
+      "source": "app_store",
+      "rating": 4,
+      "date": "2026-09-18T22:10:00-07:00",
+      "text": "Review:\n\n“As a busy manager, the insights WHOOP provides are life-changing. I love the recovery and sleep tracking. HOWEVER, I had a terrible experience recently: I lost my phone, and upon re-installing the app on a new device, ALL my historical data was gone. Losing that long-term analysis is a dealbreaker. If this cloud sync/data migration issue gets fixed, it’s easily a 5-star app. Please improve your data retention and account syncing policy so users don’t lose their hard-earned progress.”",
+      "subcategory_tags": [
+        "sleep_satisfaction",
+        "data_sync_delays"
+      ]
+    },
+    {
       "review_id": "14563984011",
       "source": "app_store",
       "rating": 5,
@@ -2704,18 +2711,6 @@
         "activity_detection",
         "support_responsiveness",
         "crashes_freezes"
-      ]
-    },
-    {
-      "review_id": "8fd13b4b-f9bb-4d94-813e-8725f36c1871",
-      "source": "google_play",
-      "rating": 5,
-      "date": "2026-08-01T14:58:13",
-      "text": "I've never heard of this product. I was gifted this device for my birthday and I absolutely love it. The battery life is amazing and I love how it tracks my sleep, recovery, strain, stress and body temp, it helps keep me accountable and informed of whats happening withIN me. The more I use this the more I believe it can benefit from improvement. 1) It would be nice to have access to our dashboard while still recording our activity. I cant list anymore bc ive ran out of characters for this review",
-      "subcategory_tags": [
-        "battery_life",
-        "sleep_satisfaction",
-        "missing_metrics"
       ]
     }
   ],
@@ -4827,6 +4822,29 @@
   ],
   "sync_connectivity": [
     {
+      "review_id": "14568178046",
+      "source": "app_store",
+      "rating": 2,
+      "date": "2026-09-19T05:52:13-07:00",
+      "text": "I’ve been using WHOOP, but after switching to a new iPhone, I was unable to access my existing account through the iOS app. The app keeps showing a blank “ERROR” message.\n\nMy credentials are correct, and I can successfully log into the same account through the WHOOP website and see my membership and payment history. I also reset my password, reinstalled the app, and followed the recommended troubleshooting steps, but the issue remains.\n\nI contacted WHOOP Support and opened a support case, but I still cannot access my account through the app.\n\nIt’s extremely frustrating to have an active membership and working account but be unable to use the app after switching phones. I hope WHOOP addresses this issue quickly and improves the login experience.\n\nI would not expect this kind of issue from a paid service.",
+      "subcategory_tags": [
+        "ongoing_disconnects",
+        "crashes_freezes",
+        "support_responsiveness"
+      ]
+    },
+    {
+      "review_id": "14566965178",
+      "source": "app_store",
+      "rating": 4,
+      "date": "2026-09-18T22:10:00-07:00",
+      "text": "Review:\n\n“As a busy manager, the insights WHOOP provides are life-changing. I love the recovery and sleep tracking. HOWEVER, I had a terrible experience recently: I lost my phone, and upon re-installing the app on a new device, ALL my historical data was gone. Losing that long-term analysis is a dealbreaker. If this cloud sync/data migration issue gets fixed, it’s easily a 5-star app. Please improve your data retention and account syncing policy so users don’t lose their hard-earned progress.”",
+      "subcategory_tags": [
+        "sleep_satisfaction",
+        "data_sync_delays"
+      ]
+    },
+    {
       "review_id": "515f1ebe-8d99-44b6-a405-917474dc49ec",
       "source": "google_play",
       "rating": 2,
@@ -5139,28 +5157,6 @@
       "subcategory_tags": [
         "data_sync_delays",
         "battery_life"
-      ]
-    },
-    {
-      "review_id": "14307354118",
-      "source": "app_store",
-      "rating": 4,
-      "date": "2026-07-15T12:20:42-07:00",
-      "text": "Whoop is fully charged and positioned on wrist close to skin and it goes long periods without tracking!",
-      "subcategory_tags": [
-        "data_sync_delays"
-      ]
-    },
-    {
-      "review_id": "47bd6b0e-f217-4429-8d9d-10d5a5ce64c2",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2026-07-09T20:13:22",
-      "text": "terrible customer service. the device \"rejected\" my phone and trying to rectify that has been terrible. even finding a way to log on on the app is ridiculous. After digging around several hours for help, I did what the app suggested and used the email address the APP GAVE and still working on it with \"Albert\" and had to provide my receipt (understandable) and after providing had to respond in email with all of the information I just provided in the damn receipt. on week 2 with no resolution",
-      "subcategory_tags": [
-        "support_responsiveness",
-        "support_resolution_quality",
-        "ongoing_disconnects"
       ]
     }
   ],
@@ -5496,6 +5492,18 @@
   ],
   "ongoing_disconnects": [
     {
+      "review_id": "14568178046",
+      "source": "app_store",
+      "rating": 2,
+      "date": "2026-09-19T05:52:13-07:00",
+      "text": "I’ve been using WHOOP, but after switching to a new iPhone, I was unable to access my existing account through the iOS app. The app keeps showing a blank “ERROR” message.\n\nMy credentials are correct, and I can successfully log into the same account through the WHOOP website and see my membership and payment history. I also reset my password, reinstalled the app, and followed the recommended troubleshooting steps, but the issue remains.\n\nI contacted WHOOP Support and opened a support case, but I still cannot access my account through the app.\n\nIt’s extremely frustrating to have an active membership and working account but be unable to use the app after switching phones. I hope WHOOP addresses this issue quickly and improves the login experience.\n\nI would not expect this kind of issue from a paid service.",
+      "subcategory_tags": [
+        "ongoing_disconnects",
+        "crashes_freezes",
+        "support_responsiveness"
+      ]
+    },
+    {
       "review_id": "14493545320",
       "source": "app_store",
       "rating": 2,
@@ -5817,19 +5825,20 @@
       "subcategory_tags": [
         "ongoing_disconnects"
       ]
-    },
-    {
-      "review_id": "544b0a7b-51a0-43b8-9918-fc54d782e341",
-      "source": "google_play",
-      "rating": 2,
-      "date": "2025-10-12T16:14:00",
-      "text": "since 2-3 weeks, impossible to sychronize the band after a while, and each time I need to restart my phone to be able to synchronize it again.",
-      "subcategory_tags": [
-        "ongoing_disconnects"
-      ]
     }
   ],
   "data_sync_delays": [
+    {
+      "review_id": "14566965178",
+      "source": "app_store",
+      "rating": 4,
+      "date": "2026-09-18T22:10:00-07:00",
+      "text": "Review:\n\n“As a busy manager, the insights WHOOP provides are life-changing. I love the recovery and sleep tracking. HOWEVER, I had a terrible experience recently: I lost my phone, and upon re-installing the app on a new device, ALL my historical data was gone. Losing that long-term analysis is a dealbreaker. If this cloud sync/data migration issue gets fixed, it’s easily a 5-star app. Please improve your data retention and account syncing policy so users don’t lose their hard-earned progress.”",
+      "subcategory_tags": [
+        "sleep_satisfaction",
+        "data_sync_delays"
+      ]
+    },
     {
       "review_id": "515f1ebe-8d99-44b6-a405-917474dc49ec",
       "source": "google_play",
@@ -6167,18 +6176,6 @@
         "crashes_freezes",
         "support_responsiveness",
         "billing_disputes",
-        "price_value_perception"
-      ]
-    },
-    {
-      "review_id": "706e1992-1196-48d6-b3b3-2dcc37501d2c",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2026-05-24T02:42:32",
-      "text": "customer service is terrible! when the device has issues collecting data and it will occasionally. they reply is you wear it wrong. according to whoop in the 3 years ive had the service i wear my device incorrectly randomly causing it to not work for days. the product is overpriced for a company that does zero to fix issues on their end. Id give the device when working a 5 star whoops customer service is so bad id like to give it negative stars.",
-      "subcategory_tags": [
-        "support_resolution_quality",
-        "data_sync_delays",
         "price_value_perception"
       ]
     }
@@ -9329,6 +9326,18 @@
   ],
   "customer_support": [
     {
+      "review_id": "14568178046",
+      "source": "app_store",
+      "rating": 2,
+      "date": "2026-09-19T05:52:13-07:00",
+      "text": "I’ve been using WHOOP, but after switching to a new iPhone, I was unable to access my existing account through the iOS app. The app keeps showing a blank “ERROR” message.\n\nMy credentials are correct, and I can successfully log into the same account through the WHOOP website and see my membership and payment history. I also reset my password, reinstalled the app, and followed the recommended troubleshooting steps, but the issue remains.\n\nI contacted WHOOP Support and opened a support case, but I still cannot access my account through the app.\n\nIt’s extremely frustrating to have an active membership and working account but be unable to use the app after switching phones. I hope WHOOP addresses this issue quickly and improves the login experience.\n\nI would not expect this kind of issue from a paid service.",
+      "subcategory_tags": [
+        "ongoing_disconnects",
+        "crashes_freezes",
+        "support_responsiveness"
+      ]
+    },
+    {
       "review_id": "d20107ed-a0dc-420d-894c-284346d61968",
       "source": "google_play",
       "rating": 1,
@@ -9674,19 +9683,21 @@
         "ai_only_support_channel",
         "support_resolution_quality"
       ]
-    },
-    {
-      "review_id": "b7d842b9-6717-4a2f-9aee-e7e1a55aa29d",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2026-07-20T21:37:25",
-      "text": "Pray you dont need to deal with customer support.",
-      "subcategory_tags": [
-        "support_responsiveness"
-      ]
     }
   ],
   "support_responsiveness": [
+    {
+      "review_id": "14568178046",
+      "source": "app_store",
+      "rating": 2,
+      "date": "2026-09-19T05:52:13-07:00",
+      "text": "I’ve been using WHOOP, but after switching to a new iPhone, I was unable to access my existing account through the iOS app. The app keeps showing a blank “ERROR” message.\n\nMy credentials are correct, and I can successfully log into the same account through the WHOOP website and see my membership and payment history. I also reset my password, reinstalled the app, and followed the recommended troubleshooting steps, but the issue remains.\n\nI contacted WHOOP Support and opened a support case, but I still cannot access my account through the app.\n\nIt’s extremely frustrating to have an active membership and working account but be unable to use the app after switching phones. I hope WHOOP addresses this issue quickly and improves the login experience.\n\nI would not expect this kind of issue from a paid service.",
+      "subcategory_tags": [
+        "ongoing_disconnects",
+        "crashes_freezes",
+        "support_responsiveness"
+      ]
+    },
     {
       "review_id": "14529226115",
       "source": "app_store",
@@ -10036,17 +10047,6 @@
         "billing_disputes",
         "support_responsiveness",
         "ai_only_support_channel"
-      ]
-    },
-    {
-      "review_id": "54d16c28-1439-4c56-9c1e-b88c2446b1f3",
-      "source": "google_play",
-      "rating": 4,
-      "date": "2026-04-01T04:07:46",
-      "text": "device is cheap but app is very strong. Customer service is very challenging.",
-      "subcategory_tags": [
-        "build_quality_perception",
-        "support_responsiveness"
       ]
     }
   ],
@@ -11109,6 +11109,18 @@
   ],
   "app_stability": [
     {
+      "review_id": "14568178046",
+      "source": "app_store",
+      "rating": 2,
+      "date": "2026-09-19T05:52:13-07:00",
+      "text": "I’ve been using WHOOP, but after switching to a new iPhone, I was unable to access my existing account through the iOS app. The app keeps showing a blank “ERROR” message.\n\nMy credentials are correct, and I can successfully log into the same account through the WHOOP website and see my membership and payment history. I also reset my password, reinstalled the app, and followed the recommended troubleshooting steps, but the issue remains.\n\nI contacted WHOOP Support and opened a support case, but I still cannot access my account through the app.\n\nIt’s extremely frustrating to have an active membership and working account but be unable to use the app after switching phones. I hope WHOOP addresses this issue quickly and improves the login experience.\n\nI would not expect this kind of issue from a paid service.",
+      "subcategory_tags": [
+        "ongoing_disconnects",
+        "crashes_freezes",
+        "support_responsiveness"
+      ]
+    },
+    {
       "review_id": "14535272719",
       "source": "app_store",
       "rating": 1,
@@ -11431,21 +11443,21 @@
         "crashes_freezes",
         "update_failures"
       ]
-    },
-    {
-      "review_id": "14276249631",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-07-07T18:55:26-07:00",
-      "text": "Upgrade the ai features. Gpt 4 is dumb against the current age. Also it deleted my workout without warning. Truly upsetting. UI isn’t truly intuitive.",
-      "subcategory_tags": [
-        "ai_reliability_bugs",
-        "crashes_freezes",
-        "redesign_regression"
-      ]
     }
   ],
   "crashes_freezes": [
+    {
+      "review_id": "14568178046",
+      "source": "app_store",
+      "rating": 2,
+      "date": "2026-09-19T05:52:13-07:00",
+      "text": "I’ve been using WHOOP, but after switching to a new iPhone, I was unable to access my existing account through the iOS app. The app keeps showing a blank “ERROR” message.\n\nMy credentials are correct, and I can successfully log into the same account through the WHOOP website and see my membership and payment history. I also reset my password, reinstalled the app, and followed the recommended troubleshooting steps, but the issue remains.\n\nI contacted WHOOP Support and opened a support case, but I still cannot access my account through the app.\n\nIt’s extremely frustrating to have an active membership and working account but be unable to use the app after switching phones. I hope WHOOP addresses this issue quickly and improves the login experience.\n\nI would not expect this kind of issue from a paid service.",
+      "subcategory_tags": [
+        "ongoing_disconnects",
+        "crashes_freezes",
+        "support_responsiveness"
+      ]
+    },
     {
       "review_id": "606eb9e6-15e1-4b59-993e-4731cd3278d0",
       "source": "google_play",
@@ -11772,16 +11784,6 @@
         "sleep_accuracy",
         "crashes_freezes",
         "update_failures"
-      ]
-    },
-    {
-      "review_id": "cbd9b91e-d671-41d8-927c-36e728f781a7",
-      "source": "google_play",
-      "rating": 3,
-      "date": "2026-06-19T20:34:37",
-      "text": "my whoop app is not opening",
-      "subcategory_tags": [
-        "crashes_freezes"
       ]
     }
   ],
@@ -15542,6 +15544,16 @@
   ],
   "feature_requests": [
     {
+      "review_id": "14565667400",
+      "source": "app_store",
+      "rating": 4,
+      "date": "2026-09-18T13:38:29-07:00",
+      "text": "The device is accurate and the app is full of insights.  I just hate the fact that it’s impossible to import activities recorded on other devices.  I just don’t want to wear my whoop to BJJ class. You should make it easy to import activities.  You know it’s the right thing to do.",
+      "subcategory_tags": [
+        "third_party_integration"
+      ]
+    },
+    {
       "review_id": "14563984011",
       "source": "app_store",
       "rating": 5,
@@ -15867,17 +15879,6 @@
         "battery_life",
         "sleep_satisfaction",
         "missing_metrics"
-      ]
-    },
-    {
-      "review_id": "d063a147-6a35-4c75-a10e-a5500eeee655",
-      "source": "google_play",
-      "rating": 2,
-      "date": "2026-08-01T12:53:15",
-      "text": "Interesting device, but it's too complicated to manage. There are too many settings to get something useful. It should have simple defaults unless someone wants more insights",
-      "subcategory_tags": [
-        "redesign_regression",
-        "personalization_use_case_fit"
       ]
     }
   ],
@@ -16901,6 +16902,16 @@
   ],
   "third_party_integration": [
     {
+      "review_id": "14565667400",
+      "source": "app_store",
+      "rating": 4,
+      "date": "2026-09-18T13:38:29-07:00",
+      "text": "The device is accurate and the app is full of insights.  I just hate the fact that it’s impossible to import activities recorded on other devices.  I just don’t want to wear my whoop to BJJ class. You should make it easy to import activities.  You know it’s the right thing to do.",
+      "subcategory_tags": [
+        "third_party_integration"
+      ]
+    },
+    {
       "review_id": "14528621274",
       "source": "app_store",
       "rating": 3,
@@ -17230,16 +17241,6 @@
       "subcategory_tags": [
         "third_party_integration",
         "price_value_perception"
-      ]
-    },
-    {
-      "review_id": "13637089214",
-      "source": "app_store",
-      "rating": 3,
-      "date": "2026-01-15T10:33:35-07:00",
-      "text": "can you please help whoop won’t write into my steps and calories on apple health app",
-      "subcategory_tags": [
-        "third_party_integration"
       ]
     }
   ]
