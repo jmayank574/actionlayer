@@ -1705,6 +1705,17 @@
   ],
   "sleep_tracking": [
     {
+      "review_id": "49d094da-58cd-4626-bd1d-cb62063741d4",
+      "source": "google_play",
+      "rating": 1,
+      "date": "2026-09-20T17:10:16+00:00",
+      "text": "full of bad ux and incorrect suggestions. naps still don't work 100 percent.",
+      "subcategory_tags": [
+        "redesign_regression",
+        "sleep_accuracy"
+      ]
+    },
+    {
       "review_id": "14566965178",
       "source": "app_store",
       "rating": 4,
@@ -2025,20 +2036,20 @@
         "missing_activity_types",
         "sleep_satisfaction"
       ]
-    },
-    {
-      "review_id": "14442444743",
-      "source": "app_store",
-      "rating": 5,
-      "date": "2026-08-18T04:33:59-07:00",
-      "text": "Love this app and device. I have the base level newest model. It’s awesome for tracking my fitness, sleep, and recovery. I primarily use the strength trainer with the AI coach and my results are awesome.",
-      "subcategory_tags": [
-        "sleep_satisfaction",
-        "ai_positive_reception"
-      ]
     }
   ],
   "sleep_accuracy": [
+    {
+      "review_id": "49d094da-58cd-4626-bd1d-cb62063741d4",
+      "source": "google_play",
+      "rating": 1,
+      "date": "2026-09-20T17:10:16+00:00",
+      "text": "full of bad ux and incorrect suggestions. naps still don't work 100 percent.",
+      "subcategory_tags": [
+        "redesign_regression",
+        "sleep_accuracy"
+      ]
+    },
     {
       "review_id": "515f1ebe-8d99-44b6-a405-917474dc49ec",
       "source": "google_play",
@@ -2376,17 +2387,6 @@
         "activity_detection",
         "ecg_bp_feature_reliability",
         "price_value_perception"
-      ]
-    },
-    {
-      "review_id": "14258955730",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-07-03T11:09:24-07:00",
-      "text": "The awake time is give me to much time. I went to sleep at 12 and woke up at 10 and it said I had an 1 and 28 mins of awake time. Awful. Returning now because all the workers can’t ever fix anything",
-      "subcategory_tags": [
-        "sleep_accuracy",
-        "support_resolution_quality"
       ]
     }
   ],
@@ -12134,6 +12134,17 @@
   ],
   "ui_ux": [
     {
+      "review_id": "49d094da-58cd-4626-bd1d-cb62063741d4",
+      "source": "google_play",
+      "rating": 1,
+      "date": "2026-09-20T17:10:16+00:00",
+      "text": "full of bad ux and incorrect suggestions. naps still don't work 100 percent.",
+      "subcategory_tags": [
+        "redesign_regression",
+        "sleep_accuracy"
+      ]
+    },
+    {
       "review_id": "4786d9cf-1bf6-4cb7-9488-c722d5b4b641",
       "source": "google_play",
       "rating": 1,
@@ -12455,20 +12466,20 @@
         "metric_accuracy",
         "redesign_regression"
       ]
-    },
-    {
-      "review_id": "d063a147-6a35-4c75-a10e-a5500eeee655",
-      "source": "google_play",
-      "rating": 2,
-      "date": "2026-08-01T12:53:15",
-      "text": "Interesting device, but it's too complicated to manage. There are too many settings to get something useful. It should have simple defaults unless someone wants more insights",
-      "subcategory_tags": [
-        "redesign_regression",
-        "personalization_use_case_fit"
-      ]
     }
   ],
   "redesign_regression": [
+    {
+      "review_id": "49d094da-58cd-4626-bd1d-cb62063741d4",
+      "source": "google_play",
+      "rating": 1,
+      "date": "2026-09-20T17:10:16+00:00",
+      "text": "full of bad ux and incorrect suggestions. naps still don't work 100 percent.",
+      "subcategory_tags": [
+        "redesign_regression",
+        "sleep_accuracy"
+      ]
+    },
     {
       "review_id": "4786d9cf-1bf6-4cb7-9488-c722d5b4b641",
       "source": "google_play",
@@ -12803,17 +12814,6 @@
         "sleep_satisfaction",
         "redesign_regression",
         "ai_positive_reception"
-      ]
-    },
-    {
-      "review_id": "e24279ea-a8a7-43ad-ab98-8de4198b7c2d",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2026-04-22T22:58:55",
-      "text": "The app or device is very inaccurate and the app is overall fairly cluttered and over explained.",
-      "subcategory_tags": [
-        "metric_accuracy",
-        "redesign_regression"
       ]
     }
   ],
