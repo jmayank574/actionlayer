@@ -4822,6 +4822,18 @@
   ],
   "sync_connectivity": [
     {
+      "review_id": "58d253dc-12e8-4390-9704-97f9212abf1d",
+      "source": "google_play",
+      "rating": 2,
+      "date": "2026-09-21T05:02:54+00:00",
+      "text": "Recent app issues. App disconnects from my whoop device since the most recent update, won't reconnect until I restart my phone. also the sliders for times are difficult to use. Pixel 10 Pro XL",
+      "subcategory_tags": [
+        "ongoing_disconnects",
+        "update_failures",
+        "feature_ui_friction"
+      ]
+    },
+    {
       "review_id": "14568178046",
       "source": "app_store",
       "rating": 2,
@@ -5146,17 +5158,6 @@
         "onboarding_pairing",
         "support_resolution_quality",
         "data_sync_delays"
-      ]
-    },
-    {
-      "review_id": "14309865765",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-07-16T04:44:11-07:00",
-      "text": "Data is constantly delayed when syncing. Not reliable. Battery life ok. But the syncing is the issue. I need something that is reliable. This isn’t it!",
-      "subcategory_tags": [
-        "data_sync_delays",
-        "battery_life"
       ]
     }
   ],
@@ -5492,6 +5493,18 @@
   ],
   "ongoing_disconnects": [
     {
+      "review_id": "58d253dc-12e8-4390-9704-97f9212abf1d",
+      "source": "google_play",
+      "rating": 2,
+      "date": "2026-09-21T05:02:54+00:00",
+      "text": "Recent app issues. App disconnects from my whoop device since the most recent update, won't reconnect until I restart my phone. also the sliders for times are difficult to use. Pixel 10 Pro XL",
+      "subcategory_tags": [
+        "ongoing_disconnects",
+        "update_failures",
+        "feature_ui_friction"
+      ]
+    },
+    {
       "review_id": "14568178046",
       "source": "app_store",
       "rating": 2,
@@ -5814,16 +5827,6 @@
       "subcategory_tags": [
         "ongoing_disconnects",
         "update_failures"
-      ]
-    },
-    {
-      "review_id": "c3d17332-8d28-474f-a196-4a11a821381e",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2025-11-04T19:24:13",
-      "text": "terrible, my whoop constantly disconnects and then wont reconnect no matter what i do",
-      "subcategory_tags": [
-        "ongoing_disconnects"
       ]
     }
   ],
@@ -6182,6 +6185,16 @@
   ],
   "data_accuracy": [
     {
+      "review_id": "bcc42fa3-ff47-4327-b94d-bd443164ddaf",
+      "source": "google_play",
+      "rating": 3,
+      "date": "2026-09-21T10:47:50+00:00",
+      "text": "Apparently it wants me to die in order to reach zone 4-5????? I've done STRENUOUS exercise and it still doesn't register",
+      "subcategory_tags": [
+        "metric_accuracy"
+      ]
+    },
+    {
       "review_id": "515f1ebe-8d99-44b6-a405-917474dc49ec",
       "source": "google_play",
       "rating": 2,
@@ -6519,22 +6532,19 @@
         "metric_accuracy",
         "ai_reliability_bugs"
       ]
-    },
-    {
-      "review_id": "14405356198",
-      "source": "app_store",
-      "rating": 3,
-      "date": "2026-08-08T21:56:04-07:00",
-      "text": "The piling on of AI “features” that I can’t turn off or opt out of is already irritating, but the tracking has also only been getting worse (it used to be on the nose about my main activity, now it is all over the place and regular automatically stops logging when I’ve barely even started, only to log showers as activities instead). It might just be coincidence but the decline coinciding with the increased AI integration, and my observations of every other AI tool I’ve been unable to avoid, do make me suspicious that these things are related, to Whoop’s detriment. A new low, it logged 4x as many steps as Apple Health today - I was on a road trip for 5.5 hours, Whoop is definitely the one that’s wrong about this. If they insist on burying themselves with AI, I just wish I could at least turn off the way it interacts with me. I don’t want an app talking to me in a creepy imitation of a person. Unfortunately, I bought a longer subscription at my last renewal. If the accuracy doesn’t come back by the time that expires, I just don’t think the high price will be worth it.",
-      "subcategory_tags": [
-        "ai_autonomy",
-        "activity_detection",
-        "metric_accuracy",
-        "price_value_perception"
-      ]
     }
   ],
   "metric_accuracy": [
+    {
+      "review_id": "bcc42fa3-ff47-4327-b94d-bd443164ddaf",
+      "source": "google_play",
+      "rating": 3,
+      "date": "2026-09-21T10:47:50+00:00",
+      "text": "Apparently it wants me to die in order to reach zone 4-5????? I've done STRENUOUS exercise and it still doesn't register",
+      "subcategory_tags": [
+        "metric_accuracy"
+      ]
+    },
     {
       "review_id": "14560755413",
       "source": "app_store",
@@ -6871,16 +6881,6 @@
         "metric_accuracy",
         "data_sync_delays",
         "activity_detection"
-      ]
-    },
-    {
-      "review_id": "14354339008",
-      "source": "app_store",
-      "rating": 5,
-      "date": "2026-07-27T06:32:06-07:00",
-      "text": "Many companies can copy them, but nobody will ever beat whoop in my opinion. HRV is actually something very important after I learned about it. I love how it’s so accurate on whoop.",
-      "subcategory_tags": [
-        "metric_accuracy"
       ]
     }
   ],
@@ -11109,6 +11109,18 @@
   ],
   "app_stability": [
     {
+      "review_id": "58d253dc-12e8-4390-9704-97f9212abf1d",
+      "source": "google_play",
+      "rating": 2,
+      "date": "2026-09-21T05:02:54+00:00",
+      "text": "Recent app issues. App disconnects from my whoop device since the most recent update, won't reconnect until I restart my phone. also the sliders for times are difficult to use. Pixel 10 Pro XL",
+      "subcategory_tags": [
+        "ongoing_disconnects",
+        "update_failures",
+        "feature_ui_friction"
+      ]
+    },
+    {
       "review_id": "14568178046",
       "source": "app_store",
       "rating": 2,
@@ -11431,17 +11443,6 @@
       "text": "I love your product. I love your app. But it crashes on me almost every time if I have the app open longer than 2 minutes.",
       "subcategory_tags": [
         "crashes_freezes"
-      ]
-    },
-    {
-      "review_id": "14290900505",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-07-11T10:09:34-07:00",
-      "text": "Love this app, but now it won’t open and won’t update.",
-      "subcategory_tags": [
-        "crashes_freezes",
-        "update_failures"
       ]
     }
   ],
@@ -11789,6 +11790,18 @@
   ],
   "update_failures": [
     {
+      "review_id": "58d253dc-12e8-4390-9704-97f9212abf1d",
+      "source": "google_play",
+      "rating": 2,
+      "date": "2026-09-21T05:02:54+00:00",
+      "text": "Recent app issues. App disconnects from my whoop device since the most recent update, won't reconnect until I restart my phone. also the sliders for times are difficult to use. Pixel 10 Pro XL",
+      "subcategory_tags": [
+        "ongoing_disconnects",
+        "update_failures",
+        "feature_ui_friction"
+      ]
+    },
+    {
       "review_id": "14535272719",
       "source": "app_store",
       "rating": 1,
@@ -12119,20 +12132,21 @@
         "sleep_alarm_ui",
         "update_failures"
       ]
-    },
-    {
-      "review_id": "665cb50e-70ab-4c28-bec5-796f3b385df4",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2026-01-26T14:06:31",
-      "text": "last update makes app unstable keeps crashing and killing my battery",
-      "subcategory_tags": [
-        "crashes_freezes",
-        "update_failures"
-      ]
     }
   ],
   "ui_ux": [
+    {
+      "review_id": "58d253dc-12e8-4390-9704-97f9212abf1d",
+      "source": "google_play",
+      "rating": 2,
+      "date": "2026-09-21T05:02:54+00:00",
+      "text": "Recent app issues. App disconnects from my whoop device since the most recent update, won't reconnect until I restart my phone. also the sliders for times are difficult to use. Pixel 10 Pro XL",
+      "subcategory_tags": [
+        "ongoing_disconnects",
+        "update_failures",
+        "feature_ui_friction"
+      ]
+    },
     {
       "review_id": "49d094da-58cd-4626-bd1d-cb62063741d4",
       "source": "google_play",
@@ -12454,17 +12468,6 @@
       "text": "I just got the whoop but i dont always have the app opened and i usually closed all my apps if I’m not using them, and the constant “open your whoop” notifications are really annoying me. If this keeps up, I’m gonna get rid of this.",
       "subcategory_tags": [
         "notification_community_issues"
-      ]
-    },
-    {
-      "review_id": "d6d90ade-0d34-4338-be72-31fc5b024692",
-      "source": "google_play",
-      "rating": 2,
-      "date": "2026-08-02T23:47:20",
-      "text": "I have an uneasy feeling the heart readings are inaccurate. The UI is suboptimal for many functions where reading details on the screen is difficult",
-      "subcategory_tags": [
-        "metric_accuracy",
-        "redesign_regression"
       ]
     }
   ],
@@ -13142,6 +13145,18 @@
   ],
   "feature_ui_friction": [
     {
+      "review_id": "58d253dc-12e8-4390-9704-97f9212abf1d",
+      "source": "google_play",
+      "rating": 2,
+      "date": "2026-09-21T05:02:54+00:00",
+      "text": "Recent app issues. App disconnects from my whoop device since the most recent update, won't reconnect until I restart my phone. also the sliders for times are difficult to use. Pixel 10 Pro XL",
+      "subcategory_tags": [
+        "ongoing_disconnects",
+        "update_failures",
+        "feature_ui_friction"
+      ]
+    },
+    {
       "review_id": "14550499817",
       "source": "app_store",
       "rating": 1,
@@ -13469,19 +13484,6 @@
       "text": "apps are good for the most part. but when you are using the journal and want to put the time you did a specific activity at 1:30, it will either jump back to 1 or 2... you can't do anything in between.",
       "subcategory_tags": [
         "feature_ui_friction"
-      ]
-    },
-    {
-      "review_id": "14190040621",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-06-16T09:11:56-07:00",
-      "text": "Dear WHOOP, the world doesn’t need another running wearable!!! \n\nI have been a WHOOP user for a long time. After I got deeply frustrated with the 5.0, I cancelled my membership. About a year and a half later, I decided to sign up for a month hoping they did some major updates to the strength trainer section…NOPE.\n\nThe WHOOP was the first/only wearable that I found to track my strain/HRV in the weight room. I started with gen 2 and have used every version except the WHOOP Life. I have the 5.0 MG, and all throughout my use of the WHOOP, I have been hoping for updates to the strength trainer section of the app. I provide tons of feedback anytime I get a survey. They have never improved the UI of the strength trainer section, and it’s THE ONLY THING that sets this expensive wearable apart from my Garmin. Well, not anymore now that Garmin tracks strength training. Additionally, one of the key elements of the expense was that you would never have to pay for upgrades. You paid ~$450/year, so you get them. Not with the 5.0! The band is minutely smaller, so I have to get all new accessories because all the others don’t fit anymore; the charger won’t fit from my 4.0; the WHOOP 5.0 (not even considering the life/MG) is a costly “one-time” charge; and the strength training section still isn’t upgraded! I’m glad I paid for a month because it helped make my decision to stop using it feel more solid. It’s a shame, man, it feels like WHOOP wasted the one thing that set them apart.",
-      "subcategory_tags": [
-        "feature_ui_friction",
-        "price_value_perception",
-        "plan_trial_structure",
-        "build_quality_perception"
       ]
     }
   ],
