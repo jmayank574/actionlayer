@@ -1,23 +1,23 @@
 # WHOOP review dataset
 
-Generated 2026-09-21T18:33:10.068562
+Generated 2026-09-22T17:34:04.367042
 
 Every row below came from a live Google Play or Apple App Store response — nothing in this dataset is model-generated, inferred, or backfilled. Counts reflect exactly what each source returned.
 
 ## Since last pull
 
-- New reviews: **2**
-- Edited since last seen: 2
-- Returned again, unchanged: 3366
-- Carried over from a prior pull (not returned this time, e.g. aged out of Apple's ~500-review RSS window): 215
+- New reviews: **3**
+- Edited since last seen: 0
+- Returned again, unchanged: 2925
+- Carried over from a prior pull (not returned this time, e.g. aged out of Apple's ~500-review RSS window): 660
 
 ## By source
 
 ### google_play
 
-- Total reviews: **2930**
-- Date range: 2017-08-25T20:34:31 to 2026-09-20T17:10:16
-- Rating distribution: 1★: 1111 | 2★: 368 | 3★: 324 | 4★: 279 | 5★: 848
+- Total reviews: **2933**
+- Date range: 2017-08-25T20:34:31 to 2026-09-21T10:47:50
+- Rating distribution: 1★: 1111 | 2★: 369 | 3★: 325 | 4★: 279 | 5★: 849
 - Average review length: 37.8 words
 
 ### app_store
@@ -29,17 +29,17 @@ Every row below came from a live Google Play or Apple App Store response — not
 
 ## Combined
 
-- Total reviews: **3585**
-- Date range: 2017-08-25T20:34:31 to 2026-09-20T17:10:16
-- Rating distribution: 1★: 1304 | 2★: 426 | 3★: 386 | 4★: 345 | 5★: 1124
-- Average review length: 40.8 words
+- Total reviews: **3588**
+- Date range: 2017-08-25T20:34:31 to 2026-09-21T10:47:50
+- Rating distribution: 1★: 1304 | 2★: 427 | 3★: 387 | 4★: 345 | 5★: 1125
+- Average review length: 40.7 words
 
 ## Filtering applied
 
-- Dropped as empty/near-empty (<5 words): 476
+- Dropped as empty/near-empty (<5 words): 421
 - Dropped as duplicates (same review_id + text): 0
 - No filtering by rating, sentiment, or topic — this is the full unfiltered distribution, 5-star reviews included.
 
 ## Rate-limiting / access issues hit during this pull
 
-- App Store: hit Apple's 10-page RSS cap (~500 reviews) — this is a limit of Apple's public feed, not a failure of the pull. Apple does not expose full review history through any public endpoint.
+- App Store: page 1 returned 0 entries (HTTP 200) -- likely a transient per-storefront throttle from Apple, not a real empty feed. No reviews collected this pull; prior data was left untouched by the upsert.
