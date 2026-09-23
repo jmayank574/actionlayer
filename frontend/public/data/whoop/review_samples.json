@@ -1,6 +1,17 @@
 {
   "pricing_billing": [
     {
+      "review_id": "4ac7e56a-1b5a-46aa-bfb2-2c15fa2c02c4",
+      "source": "google_play",
+      "rating": 4,
+      "date": "2026-09-22T17:38:33+00:00",
+      "text": "Nice b-day gift, wife started me off with the Life membership but too many features and information, expensive, and unnecessary so i switched to $200 One membership. Still high priced. 4 stars because I like watching my numbers. Zone 0-5 feature is very helpful. For the price I'm paying customer service should be a lot better easier to get a hold of.",
+      "subcategory_tags": [
+        "price_value_perception",
+        "support_responsiveness"
+      ]
+    },
+    {
       "review_id": "694d2cfc-310c-42ee-bcde-5cb3b410f90a",
       "source": "google_play",
       "rating": 4,
@@ -321,19 +332,20 @@
         "metric_accuracy",
         "price_value_perception"
       ]
-    },
-    {
-      "review_id": "1c0e8872-d2fe-4fd5-b7b1-dde9f93e8a74",
-      "source": "google_play",
-      "rating": 5,
-      "date": "2026-09-02T15:27:46+00:00",
-      "text": "it's good but it's a bit expensive",
-      "subcategory_tags": [
-        "price_value_perception"
-      ]
     }
   ],
   "price_value_perception": [
+    {
+      "review_id": "4ac7e56a-1b5a-46aa-bfb2-2c15fa2c02c4",
+      "source": "google_play",
+      "rating": 4,
+      "date": "2026-09-22T17:38:33+00:00",
+      "text": "Nice b-day gift, wife started me off with the Life membership but too many features and information, expensive, and unnecessary so i switched to $200 One membership. Still high priced. 4 stars because I like watching my numbers. Zone 0-5 feature is very helpful. For the price I'm paying customer service should be a lot better easier to get a hold of.",
+      "subcategory_tags": [
+        "price_value_perception",
+        "support_responsiveness"
+      ]
+    },
     {
       "review_id": "694d2cfc-310c-42ee-bcde-5cb3b410f90a",
       "source": "google_play",
@@ -656,17 +668,6 @@
         "sleep_accuracy",
         "price_value_perception",
         "billing_disputes"
-      ]
-    },
-    {
-      "review_id": "c1784e8a-f45c-419d-b6f9-4374ae268aa5",
-      "source": "google_play",
-      "rating": 2,
-      "date": "2026-08-23T12:18:55+00:00",
-      "text": "Unsure what's been going on with the AI coach for the past week, but my God it's become unreliable. If you want to upload your workout for it to map to an activity, good luck - constant hallucinations, misreading text in one version but then reading it correctly when uploading the second time, glitchy memory, inconsistent analysis of what you upload. Really not impressed considering how much I pay for a Whoop subscription",
-      "subcategory_tags": [
-        "ai_reliability_bugs",
-        "price_value_perception"
       ]
     }
   ],
@@ -9326,6 +9327,17 @@
   ],
   "customer_support": [
     {
+      "review_id": "4ac7e56a-1b5a-46aa-bfb2-2c15fa2c02c4",
+      "source": "google_play",
+      "rating": 4,
+      "date": "2026-09-22T17:38:33+00:00",
+      "text": "Nice b-day gift, wife started me off with the Life membership but too many features and information, expensive, and unnecessary so i switched to $200 One membership. Still high priced. 4 stars because I like watching my numbers. Zone 0-5 feature is very helpful. For the price I'm paying customer service should be a lot better easier to get a hold of.",
+      "subcategory_tags": [
+        "price_value_perception",
+        "support_responsiveness"
+      ]
+    },
+    {
       "review_id": "14568178046",
       "source": "app_store",
       "rating": 2,
@@ -9671,21 +9683,20 @@
         "support_resolution_quality",
         "build_quality_perception"
       ]
-    },
-    {
-      "review_id": "14346948790",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-07-25T08:53:44-07:00",
-      "text": "The AI advice is terrible.  Customer support is god awful if you even get a response from them it’s the same script each time leading me to believe you’re not even speaking to a human.  They don’t read the emails you send and do nothing to help you with any issues you have.\n\nThey’re great at giving you instructions on how to wear the stupid thing though.",
-      "subcategory_tags": [
-        "ai_reliability_bugs",
-        "ai_only_support_channel",
-        "support_resolution_quality"
-      ]
     }
   ],
   "support_responsiveness": [
+    {
+      "review_id": "4ac7e56a-1b5a-46aa-bfb2-2c15fa2c02c4",
+      "source": "google_play",
+      "rating": 4,
+      "date": "2026-09-22T17:38:33+00:00",
+      "text": "Nice b-day gift, wife started me off with the Life membership but too many features and information, expensive, and unnecessary so i switched to $200 One membership. Still high priced. 4 stars because I like watching my numbers. Zone 0-5 feature is very helpful. For the price I'm paying customer service should be a lot better easier to get a hold of.",
+      "subcategory_tags": [
+        "price_value_perception",
+        "support_responsiveness"
+      ]
+    },
     {
       "review_id": "14568178046",
       "source": "app_store",
@@ -10035,18 +10046,6 @@
       "subcategory_tags": [
         "support_responsiveness",
         "activity_detection"
-      ]
-    },
-    {
-      "review_id": "13921831640",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-04-04T07:47:08-07:00",
-      "text": "No refunds locked in 12 month contract 0 customer care support. This company lacks integrity. Avoid it.",
-      "subcategory_tags": [
-        "billing_disputes",
-        "support_responsiveness",
-        "ai_only_support_channel"
       ]
     }
   ],
@@ -11109,6 +11108,17 @@
   ],
   "app_stability": [
     {
+      "review_id": "a82f171e-f630-4ad2-a792-b3257b5ae797",
+      "source": "google_play",
+      "rating": 3,
+      "date": "2026-09-22T11:16:04+00:00",
+      "text": "started having issues with last update. As of 9/22/26, sliders for daily journal entries slides too slow to the right and jumps to the left when trying to set the time. time will also often move 30 minutes when you let go of the slider. makes it a pain to fill out the daily journal.",
+      "subcategory_tags": [
+        "update_failures",
+        "feature_ui_friction"
+      ]
+    },
+    {
       "review_id": "58d253dc-12e8-4390-9704-97f9212abf1d",
       "source": "google_play",
       "rating": 2,
@@ -11433,16 +11443,6 @@
       "subcategory_tags": [
         "crashes_freezes",
         "android_specific_bugs"
-      ]
-    },
-    {
-      "review_id": "14328610401",
-      "source": "app_store",
-      "rating": 4,
-      "date": "2026-07-20T19:21:05-07:00",
-      "text": "I love your product. I love your app. But it crashes on me almost every time if I have the app open longer than 2 minutes.",
-      "subcategory_tags": [
-        "crashes_freezes"
       ]
     }
   ],
@@ -11790,6 +11790,17 @@
   ],
   "update_failures": [
     {
+      "review_id": "a82f171e-f630-4ad2-a792-b3257b5ae797",
+      "source": "google_play",
+      "rating": 3,
+      "date": "2026-09-22T11:16:04+00:00",
+      "text": "started having issues with last update. As of 9/22/26, sliders for daily journal entries slides too slow to the right and jumps to the left when trying to set the time. time will also often move 30 minutes when you let go of the slider. makes it a pain to fill out the daily journal.",
+      "subcategory_tags": [
+        "update_failures",
+        "feature_ui_friction"
+      ]
+    },
+    {
       "review_id": "58d253dc-12e8-4390-9704-97f9212abf1d",
       "source": "google_play",
       "rating": 2,
@@ -12121,20 +12132,20 @@
         "crashes_freezes",
         "update_failures"
       ]
-    },
-    {
-      "review_id": "13688132726",
-      "source": "app_store",
-      "rating": 3,
-      "date": "2026-01-28T23:12:35-07:00",
-      "text": "The alarm is no longer visible in the app after the most recent app update. This makes it impossible to adjust sleep duration to match need.",
-      "subcategory_tags": [
-        "sleep_alarm_ui",
-        "update_failures"
-      ]
     }
   ],
   "ui_ux": [
+    {
+      "review_id": "a82f171e-f630-4ad2-a792-b3257b5ae797",
+      "source": "google_play",
+      "rating": 3,
+      "date": "2026-09-22T11:16:04+00:00",
+      "text": "started having issues with last update. As of 9/22/26, sliders for daily journal entries slides too slow to the right and jumps to the left when trying to set the time. time will also often move 30 minutes when you let go of the slider. makes it a pain to fill out the daily journal.",
+      "subcategory_tags": [
+        "update_failures",
+        "feature_ui_friction"
+      ]
+    },
     {
       "review_id": "58d253dc-12e8-4390-9704-97f9212abf1d",
       "source": "google_play",
@@ -12458,16 +12469,6 @@
         "redesign_regression",
         "upsell_pressure",
         "price_value_perception"
-      ]
-    },
-    {
-      "review_id": "14391905316",
-      "source": "app_store",
-      "rating": 3,
-      "date": "2026-08-05T11:07:34-07:00",
-      "text": "I just got the whoop but i dont always have the app opened and i usually closed all my apps if I’m not using them, and the constant “open your whoop” notifications are really annoying me. If this keeps up, I’m gonna get rid of this.",
-      "subcategory_tags": [
-        "notification_community_issues"
       ]
     }
   ],
@@ -13145,6 +13146,17 @@
   ],
   "feature_ui_friction": [
     {
+      "review_id": "a82f171e-f630-4ad2-a792-b3257b5ae797",
+      "source": "google_play",
+      "rating": 3,
+      "date": "2026-09-22T11:16:04+00:00",
+      "text": "started having issues with last update. As of 9/22/26, sliders for daily journal entries slides too slow to the right and jumps to the left when trying to set the time. time will also often move 30 minutes when you let go of the slider. makes it a pain to fill out the daily journal.",
+      "subcategory_tags": [
+        "update_failures",
+        "feature_ui_friction"
+      ]
+    },
+    {
       "review_id": "58d253dc-12e8-4390-9704-97f9212abf1d",
       "source": "google_play",
       "rating": 2,
@@ -13474,16 +13486,6 @@
       "subcategory_tags": [
         "feature_ui_friction",
         "price_value_perception"
-      ]
-    },
-    {
-      "review_id": "30749da0-e8a0-46f2-b651-61e995b07f06",
-      "source": "google_play",
-      "rating": 3,
-      "date": "2026-06-20T16:03:57",
-      "text": "apps are good for the most part. but when you are using the journal and want to put the time you did a specific activity at 1:30, it will either jump back to 1 or 2... you can't do anything in between.",
-      "subcategory_tags": [
-        "feature_ui_friction"
       ]
     }
   ],
