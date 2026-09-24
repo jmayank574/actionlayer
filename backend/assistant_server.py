@@ -33,9 +33,14 @@ app = FastAPI()
 # itself (CORS only restricts browser fetches, not curl/scripts hitting the
 # API directly) -- the rate limiter below is the actual cost guardrail.
 _allowed_origins = os.getenv("ALLOWED_ORIGINS", "http://localhost:5173").split(",")
+# Vercel gives one project several live URLs (the production alias plus a
+# per-deployment one), so an exact-match list breaks on whichever one isn't
+# listed. This pattern covers this project's Vercel domains by default.
+_allowed_origin_regex = os.getenv("ALLOWED_ORIGIN_REGEX", r"https://actionlayer[a-z0-9-]*\.vercel\.app")
 app.add_middleware(
     CORSMiddleware,
     allow_origins=[o.strip() for o in _allowed_origins if o.strip()],
+    allow_origin_regex=_allowed_origin_regex,
     allow_methods=["POST"],
     allow_headers=["*"],
 )
