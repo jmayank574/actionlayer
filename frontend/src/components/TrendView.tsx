@@ -1,14 +1,8 @@
-import { useMemo, useState } from 'react'
+import { useMemo } from 'react'
 import TrendBadge from './TrendBadge'
 import TrendChart from './TrendChart'
 import { findVerdict, statusFor } from '../lib/trends'
 import type { TrendScope, TrendVerdict, TrendsTimeseriesFile } from '../types'
-
-const SCOPE_LABEL: Record<TrendScope, string> = {
-  google_play: 'Google Play (9-year baseline)',
-  app_store: 'App Store (~9-month history)',
-  combined_overlap: 'Combined (Nov 2025 onward only)',
-}
 
 function VerdictRow({
   v,
@@ -34,6 +28,17 @@ function VerdictRow({
             watch
           </span>
         )}
+        {v.recent_pct_positive != null && (
+          <span className="block text-[11px] font-normal text-stone-400 mt-0.5">
+            {v.recent_pct_positive}% positive
+            {v.sentiment_delta != null && (
+              <span className={v.sentiment_delta >= 0 ? 'text-sage-600' : 'text-rust-600'}>
+                {' '}({v.sentiment_delta >= 0 ? '+' : ''}
+                {v.sentiment_delta}pp)
+              </span>
+            )}
+          </span>
+        )}
       </span>
       <span className="text-xs text-stone-400">{v.level}</span>
       <span
@@ -54,18 +59,18 @@ function VerdictRow({
 export default function TrendView({
   verdicts,
   timeseries,
+  scope,
   focusedCategory,
   onFocusCategory,
   onSelectCategory,
 }: {
   verdicts: TrendVerdict[]
   timeseries: TrendsTimeseriesFile
+  scope: TrendScope
   focusedCategory: string | null
   onFocusCategory: (categoryId: string) => void
   onSelectCategory: (categoryId: string) => void
 }) {
-  const [scope, setScope] = useState<TrendScope>('google_play')
-
   const scoped = useMemo(() => verdicts.filter((v) => v.scope === scope), [verdicts, scope])
   const rising = useMemo(
     () => scoped.filter((v) => v.flagged_spike).sort((a, b) => (b.pp_delta ?? 0) - (a.pp_delta ?? 0)),
@@ -83,19 +88,8 @@ export default function TrendView({
 
   return (
     <div className="rounded-2xl border border-stone-200 bg-white">
-      <div className="flex items-center justify-between border-b border-stone-100 px-6 py-3.5">
+      <div className="border-b border-stone-100 px-6 py-3.5">
         <h3 className="font-serif text-base font-medium text-stone-900">Trend view</h3>
-        <select
-          value={scope}
-          onChange={(e) => setScope(e.target.value as TrendScope)}
-          className="rounded border border-stone-200 bg-white px-2 py-1 text-sm text-stone-700"
-        >
-          {(Object.keys(SCOPE_LABEL) as TrendScope[]).map((s) => (
-            <option key={s} value={s}>
-              {SCOPE_LABEL[s]}
-            </option>
-          ))}
-        </select>
       </div>
 
       {scope === 'combined_overlap' && (
@@ -161,6 +155,22 @@ export default function TrendView({
             <p className="mb-3 text-xs text-stone-500">
               Not flagged as rising or falling this period — shown because it was selected from
               the breakdown, not because it moved. Large, steady categories matter too.
+            </p>
+          )}
+          {activeVerdict?.recent_pct_positive != null && (
+            <p className="mb-3 text-xs text-stone-500">
+              <span className="font-medium text-sage-600">{activeVerdict.recent_pct_positive}% positive</span>
+              {' · '}
+              <span className="font-medium text-rust-600">{activeVerdict.recent_pct_negative}% negative</span>
+              {' — 4-5★ vs. 1-2★ of reviews mentioning this, recent window'}
+              {activeVerdict.sentiment_delta != null && (
+                <>
+                  {', '}
+                  {activeVerdict.sentiment_delta >= 0 ? 'up' : 'down'} {Math.abs(activeVerdict.sentiment_delta)}pp
+                  positive vs. baseline
+                </>
+              )}
+              {'. Whole-review rating, not specific to this one topic.'}
             </p>
           )}
           <TrendChart data={chartData} status={activeStatus} />

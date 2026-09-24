@@ -89,8 +89,8 @@ def build_snapshot(tagged: pd.DataFrame, taxonomy: dict, meta: dict) -> dict:
 
 def build_trends_timeseries(trends: pd.DataFrame, meta: dict) -> dict:
     """Nested by scope -> category_id -> [ {period, rate_pct, tag_count, total_reviews,
-    period_type, adequate_volume, is_current_partial, in_recent_window, flagged_spike,
-    flagged_decline}, ... ]
+    period_type, adequate_volume, is_current_partial, pct_positive, pct_negative,
+    in_recent_window, flagged_spike, flagged_decline}, ... ]
     ordered chronologically. scope here is the source column (google_play/app_store) --
     combined_overlap isn't in the descriptive series, only in the verdicts (see trend_verdicts.json)."""
     trends = trends.sort_values("period_start")
@@ -105,6 +105,8 @@ def build_trends_timeseries(trends: pd.DataFrame, meta: dict) -> dict:
             "tag_count": int(r["tag_count"]), "total_reviews": int(r["total_reviews"]),
             "adequate_volume": bool(r["adequate_volume"]),
             "is_current_partial": bool(r["is_current_partial"]),
+            "pct_positive": None if pd.isna(r["pct_positive"]) else r["pct_positive"],
+            "pct_negative": None if pd.isna(r["pct_negative"]) else r["pct_negative"],
             "in_recent_window": bool(r["in_recent_window"]),
             "flagged_spike": bool(r["flagged_spike"]),
             "flagged_decline": bool(r["flagged_decline"]),
@@ -126,6 +128,15 @@ def build_trend_verdicts(verdicts: pd.DataFrame, meta: dict) -> list[dict]:
             "baseline_rate_pct": None if pd.isna(r["baseline_rate_pct"]) else r["baseline_rate_pct"],
             "pp_delta": None if pd.isna(r["pp_delta"]) else r["pp_delta"],
             "ratio": None if pd.isna(r["ratio"]) else r["ratio"],
+            # Sentiment proxy from star rating (4-5=positive, 1-2=negative, not
+            # AI-inferred, not aspect-tied) -- see analyze_trends.py's
+            # _sentiment_pcts. Answers "is this rate change good or bad news,"
+            # which the rate/pp_delta alone can't.
+            "recent_pct_positive": None if pd.isna(r["recent_pct_positive"]) else r["recent_pct_positive"],
+            "recent_pct_negative": None if pd.isna(r["recent_pct_negative"]) else r["recent_pct_negative"],
+            "baseline_pct_positive": None if pd.isna(r["baseline_pct_positive"]) else r["baseline_pct_positive"],
+            "baseline_pct_negative": None if pd.isna(r["baseline_pct_negative"]) else r["baseline_pct_negative"],
+            "sentiment_delta": None if pd.isna(r["sentiment_delta"]) else r["sentiment_delta"],
             "verdict": r["verdict"],
             "flagged_spike": bool(r["flagged_spike"]), "flagged_decline": bool(r["flagged_decline"]),
             "emerging": bool(r["emerging"]),
@@ -154,6 +165,28 @@ def build_review_samples(tagged: pd.DataFrame, all_category_ids: list[str]) -> d
             for _, row in rows.iterrows()
         ]
     return samples
+
+
+def build_all_reviews(tagged: pd.DataFrame) -> list[dict]:
+    """Every tagged review, uncapped and unfiltered (unlike review_samples.json,
+    which is capped at REVIEW_SAMPLE_CAP per category and only reachable by
+    category). This is the full corpus a free-text search needs to run against
+    client-side -- no live backend required, same static-JSON model as
+    everything else here."""
+    tagged = tagged.copy()
+    tagged["date_parsed"] = pd.to_datetime(tagged["date"], format="mixed", utc=True)
+    tagged = tagged.sort_values("date_parsed", ascending=False)
+
+    return [
+        {
+            "review_id": row["review_id"], "source": row["source"],
+            "rating": int(row["rating"]) if pd.notna(row["rating"]) else None,
+            "date": row["date"], "text": row["text"],
+            "parent_category_tags": [t for t in str(row["parent_category_tags"] or "").split(";") if t],
+            "subcategory_tags": [t for t in str(row["subcategory_tags"] or "").split(";") if t],
+        }
+        for _, row in tagged.iterrows()
+    ]
 
 
 MIN_QUOTE_WORDS = 12
@@ -267,7 +300,8 @@ def card_title(name: str, status: str, ratio: float | None, recent_rate: float |
 
 
 def card_narrative(name: str, status: str, recent_rate: float, baseline_rate: float, ratio: float | None,
-                    recent_count: int, window_label: str, top_sub_name: str | None, top_sub_pp: float | None) -> str:
+                    recent_count: int, window_label: str, top_sub_name: str | None, top_sub_pp: float | None,
+                    recent_pct_positive: float | None = None) -> str:
     # Kept to 1-2 plain sentences, matching the reference card style -- the
     # multi-label reconciliation note, watch-category stakes, and subcategory
     # driver breakdown are deliberately NOT folded in here anymore; they live
@@ -285,7 +319,14 @@ def card_narrative(name: str, status: str, recent_rate: float, baseline_rate: fl
     ]
     if top_sub_name:
         parts.append(f", primarily driven by {top_sub_name} ({top_sub_pp:+.1f}pp)")
-    return "".join(parts) + "."
+    sentence = "".join(parts) + "."
+    # One plain, factual clause -- a rate change alone doesn't say whether
+    # that's good or bad news (a category can carry both praise and complaint
+    # subcategories at once). Star rating, not AI-inferred, not aspect-tied --
+    # stated as a fact, not editorialized as "trending positive/negative".
+    if recent_pct_positive is not None:
+        sentence += f" {recent_pct_positive:.0f}% of these reviews are rated 4-5 stars."
+    return sentence
 
 
 def build_insight_feed(tagged: pd.DataFrame, verdicts: pd.DataFrame, trends: pd.DataFrame, meta: dict,
@@ -368,6 +409,9 @@ def build_insight_feed(tagged: pd.DataFrame, verdicts: pd.DataFrame, trends: pd.
         ratio = None if pd.isna(prow["ratio"]) else prow["ratio"]
         pp_delta_val = None if pd.isna(prow["pp_delta"]) else round(prow["pp_delta"], 3)
         recent_count_val = int(prow["recent_count"])
+        recent_pct_positive = None if pd.isna(prow["recent_pct_positive"]) else prow["recent_pct_positive"]
+        recent_pct_negative = None if pd.isna(prow["recent_pct_negative"]) else prow["recent_pct_negative"]
+        sentiment_delta_val = None if pd.isna(prow["sentiment_delta"]) else prow["sentiment_delta"]
 
         cards.append({
             "category_id": pid,
@@ -379,10 +423,17 @@ def build_insight_feed(tagged: pd.DataFrame, verdicts: pd.DataFrame, trends: pd.
             "narrative": card_narrative(
                 meta[pid]["name"], status, recent_rate, baseline_rate, ratio,
                 recent_count_val, window_label, top_sub_name, top_sub_pp,
+                recent_pct_positive,
             ),
             "recent_rate_pct": round(recent_rate, 3), "baseline_rate_pct": round(baseline_rate, 3),
             "pp_delta": pp_delta_val,
             "ratio": None if ratio is None else round(ratio, 3),
+            # Star-rating sentiment proxy (4-5=positive, 1-2=negative), NOT
+            # AI-inferred, NOT aspect-tied to just this category -- resolves
+            # exactly the ambiguity the badge alone can't: a rising mention
+            # rate says nothing about whether that's good or bad news.
+            "recent_pct_positive": recent_pct_positive, "recent_pct_negative": recent_pct_negative,
+            "sentiment_delta": sentiment_delta_val,
             "recent_count": recent_count_val, "recent_total": int(prow["recent_total"]),
             "baseline_count": int(prow["baseline_count"]), "baseline_total": int(prow["baseline_total"]),
             "subcategory_contribution_sum_pct": round(sub_sum, 3),
@@ -459,6 +510,10 @@ def main():
     total_sample_reviews = sum(len(v) for v in samples.values())
     print(f"Wrote review_samples.json ({total_sample_reviews} review entries across "
           f"{len(samples)} categories, capped at {REVIEW_SAMPLE_CAP}/category)")
+
+    all_reviews = build_all_reviews(tagged)
+    (OUT_DIR / "all_reviews.json").write_text(json.dumps(all_reviews, indent=2, ensure_ascii=False), encoding="utf-8")
+    print(f"Wrote all_reviews.json ({len(all_reviews)} reviews, uncapped -- powers search)")
 
     # category metadata (names, watch flags, parent/child structure) -- small, standalone,
     # so the frontend doesn't have to re-derive it from snapshot.json alone

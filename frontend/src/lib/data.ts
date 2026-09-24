@@ -3,6 +3,7 @@
 // Simple in-memory cache per URL so navigating between pages doesn't re-fetch.
 
 import type {
+  AllReviewsFile,
   CategoryMetaFile,
   InsightFeedFile,
   ProductsFile,
@@ -53,6 +54,12 @@ export function loadCategoryMeta(dataSource: string): Promise<CategoryMetaFile> 
 
 export function loadInsightFeed(dataSource: string): Promise<InsightFeedFile> {
   return getJSON<InsightFeedFile>(`/data/${dataSource}/insight_feed.json`)
+}
+
+// Only fetched when the user actually opens the search box -- no reason to
+// pull ~1.9MB of review text on every dashboard load.
+export function loadAllReviews(dataSource: string): Promise<AllReviewsFile> {
+  return getJSON<AllReviewsFile>(`/data/${dataSource}/all_reviews.json`)
 }
 
 // Groups products by category, deriving the Category -> Product tree from

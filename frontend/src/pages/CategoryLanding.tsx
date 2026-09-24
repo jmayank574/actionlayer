@@ -20,13 +20,7 @@ export default function CategoryLanding() {
   return (
     <div>
       <h1 className="font-serif text-3xl font-medium text-stone-900 mb-2">Categories</h1>
-      <p className="text-stone-500 mb-10 max-w-xl">
-        One category tracked today. Adding another product or category is additive to{' '}
-        <code className="rounded bg-stone-100 px-1.5 py-0.5 text-[13px]">
-          public/data/products.json
-        </code>{' '}
-        — no schema change.
-      </p>
+      <p className="text-stone-500 mb-10 max-w-xl">Choose a category to see what customers are saying.</p>
       <div className="grid grid-cols-1 sm:grid-cols-2 gap-5">
         {groups.map((g) => (
           <Link

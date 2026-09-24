@@ -24,6 +24,16 @@ def _has_tag(tags_field: str, category_id: str) -> bool:
     return category_id in (tags_field or "").split(";")
 
 
+def _num(value):
+    """NaN -> None. Bare NaN survives pandas round-trips silently (a CSV cell
+    written as empty comes back as float('nan'), not None) and Starlette's
+    JSONResponse rejects it outright (allow_nan=False) -- so any row missing
+    baseline/recent data crashed the whole /api/ask response with a 500,
+    not just that one field. Every numeric field pulled from a DataFrame row
+    in this module must go through this."""
+    return None if pd.isna(value) else value
+
+
 class AssistantData:
     def __init__(self):
         self.tagged = pd.read_csv(DATA_DIR / "tagged_reviews.csv")
@@ -101,9 +111,15 @@ class AssistantData:
                 "category_id": r["category_id"],
                 "category_name": self.category_names.get(r["category_id"], r["category_id"]),
                 "level": r["level"], "scope": r["scope"],
-                "recent_rate_pct": r["recent_rate_pct"], "baseline_rate_pct": r["baseline_rate_pct"],
-                "pp_delta": r["pp_delta"], "ratio": r["ratio"],
+                "recent_rate_pct": _num(r["recent_rate_pct"]), "baseline_rate_pct": _num(r["baseline_rate_pct"]),
+                "pp_delta": _num(r["pp_delta"]), "ratio": _num(r["ratio"]),
                 "recent_count": int(r["recent_count"]), "baseline_count": int(r["baseline_count"]),
+                # Sentiment proxy from star rating (4-5=positive, 1-2=negative,
+                # NOT AI-inferred, NOT aspect-tied to just this category) -- lets
+                # the Assistant say whether a rate change is good or bad news.
+                "recent_pct_positive": _num(r["recent_pct_positive"]), "recent_pct_negative": _num(r["recent_pct_negative"]),
+                "baseline_pct_positive": _num(r["baseline_pct_positive"]), "baseline_pct_negative": _num(r["baseline_pct_negative"]),
+                "sentiment_delta": _num(r["sentiment_delta"]),
                 "verdict": r["verdict"], "flagged_spike": bool(r["flagged_spike"]),
                 "flagged_decline": bool(r["flagged_decline"]),
             })
@@ -117,10 +133,11 @@ class AssistantData:
             out.append({
                 "period": r["period"], "period_type": r["period_type"],
                 "period_start": r["period_start"], "period_end": r["period_end"],
-                "rate_pct": r["rate_pct"], "tag_count": int(r["tag_count"]),
+                "rate_pct": _num(r["rate_pct"]), "tag_count": int(r["tag_count"]),
                 "total_reviews": int(r["total_reviews"]),
                 "adequate_volume": bool(r["adequate_volume"]),
                 "is_current_partial": bool(r["is_current_partial"]),
+                "pct_positive": _num(r["pct_positive"]), "pct_negative": _num(r["pct_negative"]),
                 "in_recent_window": bool(r["in_recent_window"]),
                 "flagged_spike": bool(r["flagged_spike"]), "flagged_decline": bool(r["flagged_decline"]),
             })

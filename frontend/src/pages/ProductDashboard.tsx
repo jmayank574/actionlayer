@@ -16,12 +16,15 @@ import TrendView from '../components/TrendView'
 import WatchCategoryPanel from '../components/WatchCategoryPanel'
 import ReviewDrawer from '../components/ReviewDrawer'
 import InsightFeed from '../components/InsightFeed'
+import ReviewSearch from '../components/ReviewSearch'
+import { SCOPE_SELECTOR_LABEL } from '../lib/trends'
 import type {
   CategoryMetaFile,
   InsightFeedFile,
   ProductConfig,
   ReviewSamplesFile,
   SnapshotFile,
+  TrendScope,
   TrendsTimeseriesFile,
   TrendVerdictsFile,
 } from '../types'
@@ -40,6 +43,8 @@ export default function ProductDashboard() {
   const [drawerCategory, setDrawerCategory] = useState<string | null>(null)
   const [focusedTrendCategory, setFocusedTrendCategory] = useState<string | null>(null)
   const [tab, setTab] = useState<Tab>('insights')
+  const [exploreScope, setExploreScope] = useState<TrendScope>('google_play')
+  const [searchActive, setSearchActive] = useState(false)
 
   useEffect(() => {
     loadCategoryTree().then((groups) => {
@@ -84,7 +89,7 @@ export default function ProductDashboard() {
             ← {product.category}
           </Link>
           <h1 className="font-serif text-[28px] font-semibold text-stone-900 mt-1">
-            {tab === 'insights' ? `Insights found by ${product.product}` : `${product.product}: all categories`}
+            {tab === 'insights' ? `${product.product}: Priority Insights` : `${product.product}: All Categories`}
           </h1>
         </div>
         {!loading && (
@@ -121,6 +126,28 @@ export default function ProductDashboard() {
 
       {!loading && tab === 'explore' && (
         <div className="space-y-8">
+          <ReviewSearch dataSource={product.data_source} meta={meta!} onQueryActiveChange={setSearchActive} />
+
+          {!searchActive && (
+            <>
+          <div className="flex items-center justify-between">
+            <p className="text-xs text-stone-500">
+              Trend badges and rising/falling below use one shared scope — change it here and every
+              section updates together.
+            </p>
+            <select
+              value={exploreScope}
+              onChange={(e) => setExploreScope(e.target.value as TrendScope)}
+              className="rounded border border-stone-200 bg-white px-2 py-1 text-sm text-stone-700"
+            >
+              {(Object.keys(SCOPE_SELECTOR_LABEL) as TrendScope[]).map((s) => (
+                <option key={s} value={s}>
+                  {SCOPE_SELECTOR_LABEL[s]}
+                </option>
+              ))}
+            </select>
+          </div>
+
           <BrokenBasicsCallout parents={snapshot!.parents} onSelectCategory={setDrawerCategory} />
 
           <section>
@@ -132,6 +159,7 @@ export default function ProductDashboard() {
               otherUngrouped={snapshot!.other_ungrouped}
               totalReviews={snapshot!.total_reviews}
               verdicts={verdicts!}
+              scope={exploreScope}
               onSelectCategory={setDrawerCategory}
               onFocusTrend={focusTrend}
             />
@@ -155,11 +183,14 @@ export default function ProductDashboard() {
             <TrendView
               verdicts={verdicts!}
               timeseries={timeseries!}
+              scope={exploreScope}
               focusedCategory={focusedTrendCategory}
               onFocusCategory={setFocusedTrendCategory}
               onSelectCategory={setDrawerCategory}
             />
           </section>
+            </>
+          )}
         </div>
       )}
 

@@ -36,10 +36,16 @@ export default function TrendChart({
   data,
   status = 'unknown',
   compact = false,
+  hideCaption = false,
 }: {
   data: TrendPoint[]
   status?: TrendStatus
   compact?: boolean
+  // Suppresses the low-volume/in-progress-month footnote -- for tight spaces
+  // (e.g. insight cards) where the hollow dot itself is enough of a tell and
+  // a full sentence of methodology footnote would be clutter. The fuller
+  // Explore view keeps the caption since it's the place for that detail.
+  hideCaption?: boolean
 }) {
   const line = LINE_COLOR[status]
   const bar = BAR_COLOR[status]
@@ -86,7 +92,7 @@ export default function TrendChart({
           />
         </ComposedChart>
       </ResponsiveContainer>
-      {!compact && (hasLowVolume || hasCurrentPartial) && (
+      {!compact && !hideCaption && (hasLowVolume || hasCurrentPartial) && (
         <p className="mt-1 text-[11px] text-stone-400">
           {hasCurrentPartial && hasLowVolume
             ? 'Hollow points mark months with fewer than 30 reviews, and the current month (still in progress) — read those as directional, not precise.'

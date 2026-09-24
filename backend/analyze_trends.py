@@ -42,6 +42,26 @@ DECLINE_ABSOLUTE_PP = 2.0   # AND at least -2 percentage points
 RECENT_WINDOW_MONTHS = 3
 BASELINE_WINDOW_MONTHS = 12
 
+# Sentiment proxy, not AI-inferred sentiment: star rating of the whole review,
+# not aspect-tied to just this one category. Stated explicitly and surfaced in
+# the UI so it's never mistaken for something it isn't -- accuracy and
+# interpretability are the whole point of adding this.
+POSITIVE_RATING_MIN = 4   # 4-5 stars counts as positive
+NEGATIVE_RATING_MAX = 2   # 1-2 stars counts as negative (3 stars is neutral -- excluded from both)
+
+
+def _sentiment_pcts(ratings: pd.Series) -> tuple[float | None, float | None]:
+    """(pct_positive, pct_negative) for a set of ratings, or (None, None) if empty.
+    Denominator is every non-null rating in the set -- neutral (3-star) reviews
+    count toward the denominator but not the positive or negative numerator, so
+    the two percentages don't have to sum to 100."""
+    rated = ratings.dropna()
+    if len(rated) == 0:
+        return None, None
+    pct_positive = (rated >= POSITIVE_RATING_MIN).sum() / len(rated) * 100
+    pct_negative = (rated <= NEGATIVE_RATING_MAX).sum() / len(rated) * 100
+    return round(pct_positive, 1), round(pct_negative, 1)
+
 
 def load_reviews() -> pd.DataFrame:
     df = pd.read_csv(TAGGED_PATH)
@@ -53,17 +73,26 @@ def load_reviews() -> pd.DataFrame:
 
 
 def explode_tags(df: pd.DataFrame) -> pd.DataFrame:
-    """One row per (review_id, category_id, level)."""
+    """One row per (review_id, category_id, level). Carries the review's star
+    rating along so downstream aggregation can compute avg_rating per category
+    -- a category's mention *rate* rising says nothing about whether that's
+    good or bad news; a category can carry both praise and complaint
+    subcategories at once (e.g. ai_coach has both ai_positive_reception and
+    ai_reliability_bugs), and the parent-level rate blends them into one
+    number. Average rating is a universal sentiment proxy that works for
+    every category, not just ones with an explicit positive/negative split."""
     rows = []
     for _, r in df.iterrows():
         parents = [p for p in r["parent_category_tags"].split(";") if p]
         subs = [s for s in r["subcategory_tags"].split(";") if s]
         for p in set(parents):
             rows.append({"review_id": r["review_id"], "source": r["source"], "month": r["month"],
-                         "date_parsed": r["date_parsed"], "level": "parent", "category_id": p})
+                         "date_parsed": r["date_parsed"], "level": "parent", "category_id": p,
+                         "rating": r["rating"]})
         for s in set(subs):
             rows.append({"review_id": r["review_id"], "source": r["source"], "month": r["month"],
-                         "date_parsed": r["date_parsed"], "level": "subcategory", "category_id": s})
+                         "date_parsed": r["date_parsed"], "level": "subcategory", "category_id": s,
+                         "rating": r["rating"]})
     return pd.DataFrame(rows)
 
 
@@ -143,30 +172,37 @@ def compute_descriptive_series(exploded: pd.DataFrame, all_reviews: pd.DataFrame
             bucket_total = int(monthly_totals[monthly_totals.index.isin(month_set)].sum())
             bucket_exploded = scope_exploded[scope_exploded["month"].isin(month_set)]
             counts = bucket_exploded.groupby("category_id")["review_id"].nunique()
+            sentiment_by_cat = bucket_exploded.groupby("category_id")["rating"].apply(_sentiment_pcts)
 
             for cat in categories:
                 tag_count = int(counts.get(cat, 0))
                 rate = (tag_count / bucket_total * 100) if bucket_total else float("nan")
+                pct_pos, pct_neg = sentiment_by_cat.get(cat, (None, None))
                 rows.append({
                     "period": b["label"], "period_type": b["period_type"],
                     "period_start": str(min(b["months"])), "period_end": str(max(b["months"])),
                     "source": scope_name, "category_id": cat,
                     "tag_count": tag_count, "total_reviews": bucket_total,
                     "rate_pct": round(rate, 3) if bucket_total else None,
+                    "pct_positive": pct_pos, "pct_negative": pct_neg,
                     "adequate_volume": bucket_total >= MIN_BUCKET_VOLUME,
                     "is_current_partial": is_current_partial,
                 })
     return pd.DataFrame(rows)
 
 
-def window_rate(exploded: pd.DataFrame, all_reviews: pd.DataFrame, source_filter, start, end, cat: str) -> tuple[int, int, float]:
-    """source_filter: a boolean mask column value list, e.g. ['google_play'] or ['google_play','app_store']."""
+def window_rate(exploded: pd.DataFrame, all_reviews: pd.DataFrame, source_filter, start, end, cat: str) -> tuple[int, int, float, float | None, float | None]:
+    """source_filter: a boolean mask column value list, e.g. ['google_play'] or ['google_play','app_store'].
+    Returns (count, total, rate_pct, pct_positive, pct_negative) -- the sentiment
+    pair is over reviews carrying this tag in the window (see _sentiment_pcts)."""
     mask_all = all_reviews["source"].isin(source_filter) & (all_reviews["date_parsed"] >= start) & (all_reviews["date_parsed"] < end)
     total = int(mask_all.sum())
     mask_exp = exploded["source"].isin(source_filter) & (exploded["date_parsed"] >= start) & (exploded["date_parsed"] < end) & (exploded["category_id"] == cat)
-    count = int(exploded.loc[mask_exp, "review_id"].nunique())
+    matched = exploded.loc[mask_exp]
+    count = int(matched["review_id"].nunique())
     rate = (count / total * 100) if total else float("nan")
-    return count, total, rate
+    pct_positive, pct_negative = _sentiment_pcts(matched["rating"])
+    return count, total, rate, pct_positive, pct_negative
 
 
 def classify(recent_count, recent_total, recent_rate, base_count, base_total, base_rate) -> dict:
@@ -257,8 +293,8 @@ def main():
     verdicts = []
     for scope_name, s in scopes.items():
         for cat in all_categories:
-            rc, rt, rr = window_rate(exploded_complete, df_complete, s["sources"], recent_start, recent_end, cat)
-            bc, bt, br = window_rate(exploded_complete, df_complete, s["sources"], s["baseline_start"], s["baseline_end"], cat)
+            rc, rt, rr, r_pos, r_neg = window_rate(exploded_complete, df_complete, s["sources"], recent_start, recent_end, cat)
+            bc, bt, br, b_pos, b_neg = window_rate(exploded_complete, df_complete, s["sources"], s["baseline_start"], s["baseline_end"], cat)
             v = classify(rc, rt, rr, bc, bt, br)
             level = "parent" if cat in all_parents else "subcategory"
             verdicts.append({
@@ -267,6 +303,15 @@ def main():
                 "baseline_count": bc, "baseline_total": bt, "baseline_rate_pct": round(br, 3) if bt else None,
                 "pp_delta": round(rr - br, 3) if rt and bt and pd.notna(rr) and pd.notna(br) else None,
                 "ratio": round(rr / br, 2) if bt and br and rt else None,
+                # Sentiment proxy (star rating of the whole review, not
+                # aspect-tied) -- a category's mention RATE rising says nothing
+                # about whether that's good or bad news; a category can hold
+                # both praise and complaint subcategories at once. pct_positive
+                # gives every category the same signal, not just the few with
+                # an explicit positive-subcategory split.
+                "recent_pct_positive": r_pos, "recent_pct_negative": r_neg,
+                "baseline_pct_positive": b_pos, "baseline_pct_negative": b_neg,
+                "sentiment_delta": round(r_pos - b_pos, 1) if r_pos is not None and b_pos is not None else None,
                 **v,
             })
     verdicts_df = pd.DataFrame(verdicts)

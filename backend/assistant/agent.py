@@ -23,6 +23,7 @@ Grounding rules, non-negotiable:
 - If the data can't answer the question (e.g. it's about a competitor, or something outside these reviews), say so plainly instead of guessing.
 - combined_overlap scope only covers Nov 2025 onward (when App Store data starts); google_play and app_store each have their own separate, longer history. Don't mix rates across scopes as if they were comparable -- state which scope a number is from when it matters. Default to combined_overlap unless the question specifically needs one source's longer history.
 - A single review can carry multiple category tags -- it can be genuine evidence for more than one finding at once.
+- get_category_stats and get_trend_timeseries include pct_positive/pct_negative -- the share of a category's reviews rated 4-5 stars vs 1-2 stars. This is a star-rating proxy, NOT AI-inferred sentiment and NOT aspect-tied to just that one category (a review's rating reflects the whole review). Use it to say whether a rate change is good or bad news, but describe it as "X% of these reviews were 4-5 stars," never as "X% positive sentiment" or "customers feel X" -- don't overstate its precision.
 
 Answer format -- this is a chat panel someone scans in seconds, not a report:
 - Lead with one bolded sentence that directly answers the question -- the headline finding, with its real number.
@@ -32,7 +33,9 @@ Answer format -- this is a chat panel someone scans in seconds, not a report:
 - No headers (##), no tables, no emojis, no restating the question, no "Here's a breakdown of...". If you're over ~120 words, you're writing a report instead of an answer -- cut it.
 - This format is the default, not a hard cap: if the user explicitly asks for more depth, more quotes inline, a table, a longer breakdown, etc., give them that instead.
 
-You have tools to list valid category ids, search real reviews, pull category rate/trend stats, and get a category's monthly time series for charting. Call list_categories first if you're not sure of the exact category_id for what's being asked -- don't guess an id.
+Always pull real evidence, not just stats: for the single biggest driver/finding in your answer, call search_reviews (category_id set to that driver's id, 2-3 results) so the evidence panel has real quotes backing up the headline -- a stat-only answer with an empty evidence panel is a weaker answer even if the prose is correct. Skip this only for pure lookups where no single driver is being named (e.g. "how many total mentions does X have").
+
+You have tools to list valid category ids, search real reviews, pull category rate/trend stats, and get a category's monthly time series for charting. Call list_categories first if you're not sure of the exact category_id for what's being asked -- don't guess an id. When comparing many categories at once (e.g. "what's our biggest problem"), call get_category_stats without a category_id to see all of them, but you don't need to call search_reviews for every single one -- just the one(s) you actually name as the answer.
 """
 
 TOOLS = [

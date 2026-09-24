@@ -1,4 +1,4 @@
-import type { TrendVerdict } from '../types'
+import type { TrendScope, TrendVerdict } from '../types'
 
 export function findVerdict(
   verdicts: TrendVerdict[],
@@ -34,4 +34,15 @@ export const SCOPE_LABEL: Record<string, string> = {
   google_play: 'Google Play',
   app_store: 'App Store',
   combined_overlap: 'Combined · Nov 2025+',
+}
+
+// Longer form for an explicit scope-picker control (vs. the compact badge
+// label above) -- used by the one shared selector that drives every
+// scope-dependent view on the Explore tab (trend badges, rising/falling,
+// the trend chart), so there's a single visible control instead of each
+// section silently assuming its own scope.
+export const SCOPE_SELECTOR_LABEL: Record<TrendScope, string> = {
+  google_play: 'Google Play (9-year baseline)',
+  app_store: 'App Store (~9-month history)',
+  combined_overlap: 'Combined (Nov 2025 onward only)',
 }

@@ -55,6 +55,16 @@ export default function WatchZone({
                   {sign}
                   {card.pp_delta?.toFixed(1) ?? '–'}pp
                 </span>
+                {card.recent_pct_positive != null && (
+                  <span
+                    className="hidden lg:inline w-24 text-right text-[11px] tabular-nums text-stone-400"
+                    title="Share of reviews mentioning this rated 4-5 stars vs. 1-2 stars (whole review, not this topic specifically)"
+                  >
+                    <span className="text-sage-600 font-medium">{card.recent_pct_positive}%</span>
+                    {' / '}
+                    <span className="text-rust-600 font-medium">{card.recent_pct_negative}%</span>
+                  </span>
+                )}
               </li>
             )
           })}

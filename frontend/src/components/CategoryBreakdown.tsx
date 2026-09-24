@@ -1,7 +1,7 @@
 import { useState } from 'react'
 import TrendBadge from './TrendBadge'
 import { findVerdict, statusFor } from '../lib/trends'
-import type { ParentSnapshot, TrendVerdict } from '../types'
+import type { ParentSnapshot, TrendScope, TrendVerdict } from '../types'
 
 function WatchBadge() {
   return (
@@ -39,6 +39,7 @@ export default function CategoryBreakdown({
   otherUngrouped,
   totalReviews,
   verdicts,
+  scope,
   onSelectCategory,
   onFocusTrend,
 }: {
@@ -46,6 +47,7 @@ export default function CategoryBreakdown({
   otherUngrouped: { count: number; rate_pct: number | null }
   totalReviews: number
   verdicts: TrendVerdict[]
+  scope: TrendScope
   onSelectCategory: (categoryId: string) => void
   onFocusTrend: (categoryId: string) => void
 }) {
@@ -65,10 +67,14 @@ export default function CategoryBreakdown({
       <div className="border-b border-stone-100 bg-stone-50/70 px-6 py-3 text-sm text-stone-500">
         {totalReviews.toLocaleString()} reviews tagged · {otherUngrouped.count.toLocaleString()}{' '}
         ({otherUngrouped.rate_pct?.toFixed(1)}%) Other/Ungrouped
+        <p className="mt-0.5 text-xs text-stone-400">
+          Percentages are all-time, both sources combined. The trend badge is separate — it's this
+          category's recent-vs-baseline movement within the scope selected above.
+        </p>
       </div>
       <ul className="divide-y divide-stone-100">
         {sorted.map((p) => {
-          const verdict = findVerdict(verdicts, 'google_play', p.id)
+          const verdict = findVerdict(verdicts, scope, p.id)
           const status = statusFor(verdict)
           return (
             <li key={p.id}>
@@ -108,7 +114,7 @@ export default function CategoryBreakdown({
                   {[...p.subcategories]
                     .sort((a, b) => (b.rate_pct ?? 0) - (a.rate_pct ?? 0))
                     .map((s) => {
-                      const subVerdict = findVerdict(verdicts, 'google_play', s.id)
+                      const subVerdict = findVerdict(verdicts, scope, s.id)
                       const subStatus = statusFor(subVerdict)
                       return (
                         <li key={s.id} className="flex items-center gap-3 py-2">

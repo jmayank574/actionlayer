@@ -51,6 +51,10 @@ export interface TrendPoint {
   // The current calendar month, still in progress -- real data, shown as its
   // own point, but excluded from spike/decline verdicts until complete.
   is_current_partial: boolean
+  // Star-rating sentiment proxy (4-5=positive, 1-2=negative), NOT AI-inferred,
+  // NOT aspect-tied to just this category -- see analyze_trends.py.
+  pct_positive: number | null
+  pct_negative: number | null
   in_recent_window: boolean
   flagged_spike: boolean
   flagged_decline: boolean
@@ -75,6 +79,13 @@ export interface TrendVerdict {
   baseline_rate_pct: number | null
   pp_delta: number | null
   ratio: number | null
+  // Star-rating sentiment proxy (4-5=positive, 1-2=negative), NOT AI-inferred,
+  // NOT aspect-tied to just this category -- see analyze_trends.py.
+  recent_pct_positive: number | null
+  recent_pct_negative: number | null
+  baseline_pct_positive: number | null
+  baseline_pct_negative: number | null
+  sentiment_delta: number | null
   verdict:
     | 'spike'
     | 'decline'
@@ -100,6 +111,19 @@ export interface ReviewSample {
 
 // category_id -> up to REVIEW_SAMPLE_CAP most-recent reviews
 export type ReviewSamplesFile = Record<string, ReviewSample[]>
+
+export interface AllReviewsEntry {
+  review_id: string
+  source: 'google_play' | 'app_store'
+  rating: number | null
+  date: string
+  text: string
+  parent_category_tags: string[]
+  subcategory_tags: string[]
+}
+
+// Every tagged review, uncapped -- powers client-side search on the Explore tab.
+export type AllReviewsFile = AllReviewsEntry[]
 
 export interface InsightQuote {
   review_id: string
@@ -133,6 +157,11 @@ export interface InsightCard {
   baseline_rate_pct: number
   pp_delta: number | null
   ratio: number | null
+  // Star-rating sentiment proxy (4-5=positive, 1-2=negative), NOT AI-inferred,
+  // NOT aspect-tied to just this category -- see analyze_trends.py.
+  recent_pct_positive: number | null
+  recent_pct_negative: number | null
+  sentiment_delta: number | null
   recent_count: number
   recent_total: number
   baseline_count: number
