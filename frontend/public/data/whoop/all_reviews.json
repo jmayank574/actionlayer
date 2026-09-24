@@ -1,5 +1,63 @@
 [
   {
+    "review_id": "14583327441",
+    "source": "app_store",
+    "rating": 5,
+    "date": "2026-09-23T02:49:13-07:00",
+    "text": "Whoop will keep you honest if you follow your plan you've agreed upon. You'll get the feedback needed to keep pushing forward, but in a way that excites you. I love it!!",
+    "parent_category_tags": [
+      "nan"
+    ],
+    "subcategory_tags": [
+      "nan"
+    ]
+  },
+  {
+    "review_id": "14582627849",
+    "source": "app_store",
+    "rating": 1,
+    "date": "2026-09-22T21:28:09-07:00",
+    "text": "I’ve used WHOOP 4.0 for 1600 days consecutively and then recently switched to WHOOP 5.0. I used WHOOP specifically to track my caloric expenditure relative to my daily caloric intake using MyFitnessPal. This method worked very well and was very accurate and allowed me to achieve my weight loss goals consistently based on maintaining a daily caloric deficit of 400 cal when I was cutting. Fast forward to August 25 when I switched from 4.0 to WHOOP 5.0 and all of a sudden with no meaningful change in my routine, my caloric expenditure according to WHOOP 5.0 dropped by about 1000 cal per day. Now, even as my weight is flat, WHOOP 5.0 is showing about 1000 cal per day surplus. Very disappointing. I can no longer use WHOOP as an accurate gauge of my daily caloric expenditure.",
+    "parent_category_tags": [
+      "data_accuracy",
+      "feature_requests"
+    ],
+    "subcategory_tags": [
+      "metric_accuracy",
+      "third_party_integration"
+    ]
+  },
+  {
+    "review_id": "14582168880",
+    "source": "app_store",
+    "rating": 1,
+    "date": "2026-09-22T18:22:11-07:00",
+    "text": "WHO makes a sport app only functional connected to the internet",
+    "parent_category_tags": [
+      "sync_connectivity"
+    ],
+    "subcategory_tags": [
+      "data_sync_delays"
+    ]
+  },
+  {
+    "review_id": "ed88b181-e688-4a2b-a23c-e1f2868267f1",
+    "source": "google_play",
+    "rating": 2,
+    "date": "2026-09-22T21:34:25+00:00",
+    "text": "very cluttered app. I get multiple notifications that are difficult to find with so many different \"badges\" or cards. I just don't find the app very intuitive. still trying to make sense of how it's going to help me personally.",
+    "parent_category_tags": [
+      "ui_ux",
+      "ui_ux",
+      "feature_requests"
+    ],
+    "subcategory_tags": [
+      "redesign_regression",
+      "notification_community_issues",
+      "personalization_use_case_fit"
+    ]
+  },
+  {
     "review_id": "4ac7e56a-1b5a-46aa-bfb2-2c15fa2c02c4",
     "source": "google_play",
     "rating": 4,
@@ -40,6 +98,79 @@
     ],
     "subcategory_tags": [
       "nan"
+    ]
+  },
+  {
+    "review_id": "14577020084",
+    "source": "app_store",
+    "rating": 5,
+    "date": "2026-09-21T10:29:33-07:00",
+    "text": "Ha sido lo más wow que he experimentado. Me ayuda a mi rendimiento, a entender mi cuerpo, a absolutamente TODO.",
+    "parent_category_tags": [
+      "nan"
+    ],
+    "subcategory_tags": [
+      "nan"
+    ]
+  },
+  {
+    "review_id": "14576408227",
+    "source": "app_store",
+    "rating": 5,
+    "date": "2026-09-21T07:26:10-07:00",
+    "text": "I really love this. Im a geek for health stats and I just love being in tune with my body. Pretty accurate. The only bad thing was that my whoop would randomly turn off at night if it wasn’t fully charged. It could be at 50% and it would turn off idk why. Maybe cuz I would take it to the sauna. But other than that I love it. I love how it auto tracks my random activity’s like soccer, yoga, swimming.",
+    "parent_category_tags": [
+      "hardware_wearability",
+      "data_accuracy"
+    ],
+    "subcategory_tags": [
+      "battery_life",
+      "activity_detection"
+    ]
+  },
+  {
+    "review_id": "14576383074",
+    "source": "app_store",
+    "rating": 2,
+    "date": "2026-09-21T07:18:47-07:00",
+    "text": "disabling the dumb AI chatbot is not possible and Strava integration never worked for me",
+    "parent_category_tags": [
+      "ai_coach",
+      "feature_requests"
+    ],
+    "subcategory_tags": [
+      "ai_autonomy",
+      "third_party_integration"
+    ]
+  },
+  {
+    "review_id": "14576374822",
+    "source": "app_store",
+    "rating": 2,
+    "date": "2026-09-21T07:16:24-07:00",
+    "text": "For something that you cannot dial in for your specific lifestyle it’s awfully expensive. I work nights, my workouts are not always the at the same time (sometimes it’s mornings and some sometimes it’s afternoons) it depends on he’s that I work vs sleep. I had an otlrigin whoop years ago and I loved it so I thought I’d buy the new updated version. I wish I had waited for the new Apple Ultra 3 to come out.",
+    "parent_category_tags": [
+      "feature_requests",
+      "pricing_billing"
+    ],
+    "subcategory_tags": [
+      "personalization_use_case_fit",
+      "price_value_perception"
+    ]
+  },
+  {
+    "review_id": "14576341015",
+    "source": "app_store",
+    "rating": 1,
+    "date": "2026-09-21T07:06:27-07:00",
+    "text": "Somehow whoops ability to detect and analyze sleep continues to get worse.  It doesnt detect wake-ups; it misreads non-sleep hours as rest and greatly overstates directional indicators and analysis like a cable news commentator.  Feel like product improvements have been a bell curve over last couple years.  Appreciate the battery life and lack of 'smart watch' type functionality but its missing the target on tracking key metrics.",
+    "parent_category_tags": [
+      "sleep_tracking",
+      "data_accuracy"
+    ],
+    "subcategory_tags": [
+      "sleep_accuracy",
+      "metric_accuracy"
     ]
   },
   {
@@ -98,6 +229,19 @@
     "subcategory_tags": [
       "redesign_regression",
       "sleep_accuracy"
+    ]
+  },
+  {
+    "review_id": "14572428792",
+    "source": "app_store",
+    "rating": 5,
+    "date": "2026-09-20T07:09:29-07:00",
+    "text": "Whoop is my coach not just my tracker",
+    "parent_category_tags": [
+      "nan"
+    ],
+    "subcategory_tags": [
+      "nan"
     ]
   },
   {
