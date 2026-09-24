@@ -1,0 +1,26 @@
+# Render deployment for the Assistant backend only -- everything else in
+# this repo is static JSON served by the frontend's own host (Vercel).
+# Connect this repo in Render and it reads this file automatically.
+#
+# After first deploy, set these in the Render dashboard (Environment tab)
+# rather than here, since they're secrets/deployment-specific:
+#   ANTHROPIC_API_KEY   -- required, the only paid-API credential this needs
+#   ALLOWED_ORIGINS      -- your deployed Vercel URL, e.g. https://actionlayer.vercel.app
+#                            (comma-separated if more than one; defaults to
+#                            localhost:5173 only if unset, which blocks the
+#                            deployed frontend from calling this)
+
+services:
+  - type: web
+    name: actionlayer-assistant
+    runtime: python
+    plan: free
+    rootDir: backend
+    buildCommand: pip install -r requirements.txt
+    startCommand: uvicorn assistant_server:app --host 0.0.0.0 --port $PORT
+    healthCheckPath: /api/health
+    envVars:
+      - key: PER_IP_HOURLY_LIMIT
+        value: "15"
+      - key: GLOBAL_DAILY_LIMIT
+        value: "150"

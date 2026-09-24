@@ -1,10 +1,12 @@
 import type { TrendPoint } from '../types'
 
 // The Assistant is the one live-backend feature in this app -- everything
-// else reads static JSON. Local-dev-only for now: run
-// `uvicorn assistant_server:app --reload --port 8001` in backend/ alongside
-// `npm run dev`. See CLAUDE.md.
-const ASSISTANT_API_URL = 'http://localhost:8001'
+// else reads static JSON. Locally: run `uvicorn assistant_server:app
+// --reload --port 8001` in backend/ alongside `npm run dev`. Deployed: set
+// VITE_ASSISTANT_API_URL (e.g. in Vercel's project env vars) to the deployed
+// backend's URL -- baked in at build time like any other Vite env var, so it
+// has to be set before the build runs, not after. See CLAUDE.md.
+const ASSISTANT_API_URL = import.meta.env.VITE_ASSISTANT_API_URL ?? 'http://localhost:8001'
 
 export interface ChatMessage {
   role: 'user' | 'assistant'
