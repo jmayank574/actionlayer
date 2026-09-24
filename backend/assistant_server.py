@@ -109,6 +109,10 @@ def ask(req: AskRequest, request: Request):
     return run_conversation(_data, _client, messages)
 
 
-@app.get("/api/health")
+# GET and HEAD: uptime monitors (e.g. UptimeRobot's free tier) probe with HEAD
+# by default, and FastAPI doesn't add HEAD to a GET route on its own -- it
+# would 405 and read as "down." This endpoint is also what keeps a free-tier
+# host awake, so it deliberately does no model calls and costs nothing.
+@app.api_route("/api/health", methods=["GET", "HEAD"])
 def health():
     return {"status": "ok", "reviews_loaded": len(_data.tagged)}
