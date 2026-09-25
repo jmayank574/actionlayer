@@ -15543,6 +15543,16 @@
   ],
   "feature_requests": [
     {
+      "review_id": "cb78b56f-5833-45d4-8fdf-64d5b5dc6899",
+      "source": "google_play",
+      "rating": 4,
+      "date": "2026-09-24T01:31:06+00:00",
+      "text": "Why no heart rate widget?",
+      "subcategory_tags": [
+        "missing_metrics"
+      ]
+    },
+    {
       "review_id": "14582627849",
       "source": "app_store",
       "rating": 1,
@@ -15867,18 +15877,6 @@
         "sleep_satisfaction",
         "personalization_use_case_fit",
         "battery_life"
-      ]
-    },
-    {
-      "review_id": "14419311797",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-08-12T09:33:40-07:00",
-      "text": "I’m a very active middle aged person who adopted Whoop to track my multitude of activities. I’ve encountered a major problem: Whoop doesn’t accurately measure where most of us live our lives: in HR zones 0-2. For a 5 mile walk in 85*F heat, whoop recorded 150 calories. Why? ‘I wasn’t working hard enough.’ The AI agent was condescending, passive aggressive and deflective. So, if you aren’t regularly pushing yourself often at HR zones 4-5, Whoop is basically useless for you.",
-      "subcategory_tags": [
-        "metric_accuracy",
-        "personalization_use_case_fit",
-        "support_resolution_quality"
       ]
     }
   ],
@@ -16217,6 +16215,16 @@
   ],
   "missing_metrics": [
     {
+      "review_id": "cb78b56f-5833-45d4-8fdf-64d5b5dc6899",
+      "source": "google_play",
+      "rating": 4,
+      "date": "2026-09-24T01:31:06+00:00",
+      "text": "Why no heart rate widget?",
+      "subcategory_tags": [
+        "missing_metrics"
+      ]
+    },
+    {
       "review_id": "d20107ed-a0dc-420d-894c-284346d61968",
       "source": "google_play",
       "rating": 1,
@@ -16543,17 +16551,6 @@
       "subcategory_tags": [
         "support_responsiveness",
         "support_resolution_quality",
-        "missing_metrics"
-      ]
-    },
-    {
-      "review_id": "bdefedcd-388b-408b-8446-84a666206555",
-      "source": "google_play",
-      "rating": 2,
-      "date": "2026-06-28T22:53:11",
-      "text": "need more widget options and live updates for Android.",
-      "subcategory_tags": [
-        "android_feature_gaps",
         "missing_metrics"
       ]
     }
