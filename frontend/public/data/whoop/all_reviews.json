@@ -1,5 +1,74 @@
 [
   {
+    "review_id": "4a2cc4dc-ba82-4c1b-85d5-fe498c447b7f",
+    "source": "google_play",
+    "rating": 1,
+    "date": "2026-09-25T15:20:47+00:00",
+    "text": "I'm glad my subscription ends next year. The quality of the app declined over time. The sliders in the journal are especially jumping all around, barely usable. At the price point of the subscription, this is just unacceptable.",
+    "parent_category_tags": [
+      "ui_ux",
+      "pricing_billing"
+    ],
+    "subcategory_tags": [
+      "feature_ui_friction",
+      "price_value_perception"
+    ]
+  },
+  {
+    "review_id": "a6fa8505-c48d-4f4b-acea-1948bc7cedf8",
+    "source": "google_play",
+    "rating": 5,
+    "date": "2026-09-25T11:03:01+00:00",
+    "text": "Amazing app & system. Really helpful app. Has helped, especially with good habit-building & sometimes reminders. Insights are great & very accurate readings. Smooth & amazing.",
+    "parent_category_tags": [
+      "nan"
+    ],
+    "subcategory_tags": [
+      "nan"
+    ]
+  },
+  {
+    "review_id": "14591196944",
+    "source": "app_store",
+    "rating": 5,
+    "date": "2026-09-25T03:45:50-07:00",
+    "text": "Whether I need a rest day, a low impact day or an all out effort, Whoop ensures I have the right picture to decide. And, it’s rarely incorrect.",
+    "parent_category_tags": [
+      "nan"
+    ],
+    "subcategory_tags": [
+      "nan"
+    ]
+  },
+  {
+    "review_id": "9b45be40-697d-4e0d-8284-624b282a4192",
+    "source": "google_play",
+    "rating": 5,
+    "date": "2026-09-25T05:38:08+00:00",
+    "text": "It's life changing. To have live and ongoing feedback on your health and AI generated training plans has really given me a new motivation for health and exercise",
+    "parent_category_tags": [
+      "ai_coach"
+    ],
+    "subcategory_tags": [
+      "ai_positive_reception"
+    ]
+  },
+  {
+    "review_id": "14588800177",
+    "source": "app_store",
+    "rating": 1,
+    "date": "2026-09-24T11:32:22-07:00",
+    "text": "It shows connected buy the app will not stay synced and will take a lot of time to update.  Sometimes it will miss days of syncing.  I upgraded whoops to the 5.0 and I have done all the troubleshooting without resolution.",
+    "parent_category_tags": [
+      "sync_connectivity",
+      "sync_connectivity"
+    ],
+    "subcategory_tags": [
+      "data_sync_delays",
+      "ongoing_disconnects"
+    ]
+  },
+  {
     "review_id": "14586612256",
     "source": "app_store",
     "rating": 5,

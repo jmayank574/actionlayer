@@ -1,6 +1,17 @@
 {
   "pricing_billing": [
     {
+      "review_id": "4a2cc4dc-ba82-4c1b-85d5-fe498c447b7f",
+      "source": "google_play",
+      "rating": 1,
+      "date": "2026-09-25T15:20:47+00:00",
+      "text": "I'm glad my subscription ends next year. The quality of the app declined over time. The sliders in the journal are especially jumping all around, barely usable. At the price point of the subscription, this is just unacceptable.",
+      "subcategory_tags": [
+        "feature_ui_friction",
+        "price_value_perception"
+      ]
+    },
+    {
       "review_id": "4ac7e56a-1b5a-46aa-bfb2-2c15fa2c02c4",
       "source": "google_play",
       "rating": 4,
@@ -320,21 +331,20 @@
         "billing_disputes",
         "plan_trial_structure"
       ]
-    },
-    {
-      "review_id": "b59257e7-d38a-4526-ae5d-602f781b7578",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2026-09-03T13:33:31+00:00",
-      "text": "difficult to use the app doesn't offer a lot of functionality in terms of figuring out where things are but it does have ai that you can ask questions I use it to tell me how I slept probably not worth the money",
-      "subcategory_tags": [
-        "redesign_regression",
-        "price_value_perception",
-        "sleep_satisfaction"
-      ]
     }
   ],
   "price_value_perception": [
+    {
+      "review_id": "4a2cc4dc-ba82-4c1b-85d5-fe498c447b7f",
+      "source": "google_play",
+      "rating": 1,
+      "date": "2026-09-25T15:20:47+00:00",
+      "text": "I'm glad my subscription ends next year. The quality of the app declined over time. The sliders in the journal are especially jumping all around, barely usable. At the price point of the subscription, this is just unacceptable.",
+      "subcategory_tags": [
+        "feature_ui_friction",
+        "price_value_perception"
+      ]
+    },
     {
       "review_id": "4ac7e56a-1b5a-46aa-bfb2-2c15fa2c02c4",
       "source": "google_play",
@@ -655,17 +665,6 @@
       "text": "has good info but they force all this garbage into the app promoting their paid services that most people don't want and definitely don't want to see in the app. the company is very focused on extracting every dollar from its base instead of focusing on the best user experience they can. I will not be renewing. their product is good but their model is severely flawed. stop forcing your garbage on us and allow to hide all of those services.",
       "subcategory_tags": [
         "upsell_pressure",
-        "price_value_perception"
-      ]
-    },
-    {
-      "review_id": "aa2b9bb7-594f-4a3b-ae34-b8cabeb744b5",
-      "source": "google_play",
-      "rating": 4,
-      "date": "2026-08-27T16:11:16+00:00",
-      "text": "Fix the wonky step counting for 5 stars. I walk the exact same path multiple times daily. Each time the step count will vary between 200 and 400 steps. Example, 2,800 steps v. 3,200 steps. In contrast, my Fitbit step counts are within 100 steps each walk. Makes me consider the Fitbit Air",
-      "subcategory_tags": [
-        "metric_accuracy",
         "price_value_perception"
       ]
     }
@@ -4814,6 +4813,17 @@
   ],
   "sync_connectivity": [
     {
+      "review_id": "14588800177",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-09-24T11:32:22-07:00",
+      "text": "It shows connected buy the app will not stay synced and will take a lot of time to update.  Sometimes it will miss days of syncing.  I upgraded whoops to the 5.0 and I have done all the troubleshooting without resolution.",
+      "subcategory_tags": [
+        "data_sync_delays",
+        "ongoing_disconnects"
+      ]
+    },
+    {
       "review_id": "14582168880",
       "source": "app_store",
       "rating": 1,
@@ -5137,17 +5147,6 @@
       "text": "My Whoop keeps stopping, losing data, I keep it on and charged, wrote in and got some direction, nothing worked and no one seemed to care.",
       "subcategory_tags": [
         "data_sync_delays"
-      ]
-    },
-    {
-      "review_id": "14315473549",
-      "source": "app_store",
-      "rating": 3,
-      "date": "2026-07-17T12:23:13-07:00",
-      "text": "I really want to like this, it looks like it checks my wish list of not needing to take off to charge. But during my membership for the last three months it failed to sync twice and it’s hard to resynce myself, also not straightforward on how to reach support easily.",
-      "subcategory_tags": [
-        "data_sync_delays",
-        "support_responsiveness"
       ]
     }
   ],
@@ -5483,6 +5482,17 @@
   ],
   "ongoing_disconnects": [
     {
+      "review_id": "14588800177",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-09-24T11:32:22-07:00",
+      "text": "It shows connected buy the app will not stay synced and will take a lot of time to update.  Sometimes it will miss days of syncing.  I upgraded whoops to the 5.0 and I have done all the troubleshooting without resolution.",
+      "subcategory_tags": [
+        "data_sync_delays",
+        "ongoing_disconnects"
+      ]
+    },
+    {
       "review_id": "58d253dc-12e8-4390-9704-97f9212abf1d",
       "source": "google_play",
       "rating": 2,
@@ -5807,20 +5817,20 @@
         "sleep_satisfaction",
         "ongoing_disconnects"
       ]
-    },
-    {
-      "review_id": "7b1d134d-acfd-4c94-9704-e9f1e1a7d3b3",
-      "source": "google_play",
-      "rating": 4,
-      "date": "2025-11-16T00:33:16",
-      "text": "whoop 5.0 disconnects after every recharge and only reconnects after a phone restart. Annoying bug that I reported months ago but is still not fixed yet.",
-      "subcategory_tags": [
-        "ongoing_disconnects",
-        "update_failures"
-      ]
     }
   ],
   "data_sync_delays": [
+    {
+      "review_id": "14588800177",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-09-24T11:32:22-07:00",
+      "text": "It shows connected buy the app will not stay synced and will take a lot of time to update.  Sometimes it will miss days of syncing.  I upgraded whoops to the 5.0 and I have done all the troubleshooting without resolution.",
+      "subcategory_tags": [
+        "data_sync_delays",
+        "ongoing_disconnects"
+      ]
+    },
     {
       "review_id": "14582168880",
       "source": "app_store",
@@ -6153,19 +6163,6 @@
         "data_sync_delays",
         "support_responsiveness",
         "price_value_perception"
-      ]
-    },
-    {
-      "review_id": "10b12d2a-87ba-4852-9146-3c3aed580da2",
-      "source": "google_play",
-      "rating": 3,
-      "date": "2026-06-01T07:40:29",
-      "text": "Sleep and step syncing is perpetually delayed despite all troubleshooting. It's spotty enough that all my data is off and my whoop age is +2 yrs. Samsung health and Google fit only logged 1100 of the 26000 steps from Saturday. It's thrown off my carb and calorie tracker. I don't need to the net gains/losses days after I drop out of ketosis. Also, the app looks like it was organized by a hoarder with untreated Schizophrenia and ADHD. Convoluted, disorganized, and random. Make it allcustomizable!",
-      "subcategory_tags": [
-        "data_sync_delays",
-        "metric_accuracy",
-        "third_party_integration",
-        "redesign_regression"
       ]
     }
   ],
@@ -7974,6 +7971,16 @@
   ],
   "ai_coach": [
     {
+      "review_id": "9b45be40-697d-4e0d-8284-624b282a4192",
+      "source": "google_play",
+      "rating": 5,
+      "date": "2026-09-25T05:38:08+00:00",
+      "text": "It's life changing. To have live and ongoing feedback on your health and AI generated training plans has really given me a new motivation for health and exercise",
+      "subcategory_tags": [
+        "ai_positive_reception"
+      ]
+    },
+    {
       "review_id": "14576383074",
       "source": "app_store",
       "rating": 2,
@@ -8297,18 +8304,6 @@
         "support_satisfaction",
         "ai_positive_reception",
         "personalization_use_case_fit"
-      ]
-    },
-    {
-      "review_id": "14426558788",
-      "source": "app_store",
-      "rating": 4,
-      "date": "2026-08-14T05:30:37-07:00",
-      "text": "I’ve really enjoyed using WHOOP overall, but there are a few areas where I think it could be significantly better.\n\nWhat I love:\n\nThe UI/UX is excellent. The app feels modern, sleek, and very tech-forward. I genuinely enjoy going through it every morning because everything is intuitive, easy to understand, and presented in a way that feels premium. WHOOP does a great job taking a lot of health and fitness data and making it approachable without feeling overwhelming.\n\nI’ve also been impressed with the Recovery score. Most mornings, my recovery has lined up surprisingly well with how I actually feel when I wake up. That’s probably the feature I’ve found most valuable.\n\nWhere it falls short:\n\nThe WHOOP Coach/AI needs improvement. There have been times when its recommendations didn’t seem to match either my recovery data or how I was feeling. One morning I woke up feeling pretty run down with a 50% yellow recovery, yet WHOOP Coach essentially told me to train as usual. Bevel, using much of the same underlying health data, recommended that I take it easy and prioritize recovery. I followed Bevel’s recommendation, rested, and had a great recovery score the following day.\n\nObviously, one example doesn’t prove one recommendation was definitively better, but it made me much less confident in WHOOP Coach. For a product built so heavily around recovery, I’d like the AI to be more conservative and context-aware when recovery is mediocre and the user reports feeling poorly.\n\nSleep detection has also been disappointing compared with my Apple Watch. One night this past week, I was awake for roughly two hours in the middle of the night. My Apple Watch correctly detected that extended period of wakefulness, while WHOOP essentially treated it as a near-perfect night of sleep. That’s a pretty significant miss for a device where sleep is such an important part of the overall experience and Recovery score. For the amount of money Whoop costs you’d think the sleep detection would be on par with the Apple Watch. \n\nOverall, I really like WHOOP. The design, presentation of data, and Recovery experience are some of the best I’ve used. But for me, the AI coaching and sleep/wake detection need to catch up with the rest of the product. If WHOOP can improve those two areas, the overall experience would be much harder to beat. For the price I’d expect better quality. Especially since there are other apps that do similar things for less money.",
-      "subcategory_tags": [
-        "ai_reliability_bugs",
-        "sleep_accuracy",
-        "price_value_perception"
       ]
     }
   ],
@@ -8992,6 +8987,16 @@
   ],
   "ai_positive_reception": [
     {
+      "review_id": "9b45be40-697d-4e0d-8284-624b282a4192",
+      "source": "google_play",
+      "rating": 5,
+      "date": "2026-09-25T05:38:08+00:00",
+      "text": "It's life changing. To have live and ongoing feedback on your health and AI generated training plans has really given me a new motivation for health and exercise",
+      "subcategory_tags": [
+        "ai_positive_reception"
+      ]
+    },
+    {
       "review_id": "14505542508",
       "source": "app_store",
       "rating": 5,
@@ -9304,17 +9309,6 @@
       "date": "2026-06-19T06:33:27-07:00",
       "text": "I’m a nerd when it comes to my health and the data I get from whoop is the best. They keep surprising me too with new features including Whoop AI, which is basically my best friend at this point.",
       "subcategory_tags": [
-        "ai_positive_reception"
-      ]
-    },
-    {
-      "review_id": "14197901752",
-      "source": "app_store",
-      "rating": 5,
-      "date": "2026-06-18T09:07:28-07:00",
-      "text": "This app and device have actually improved my life. I’m sleeping better and have been significantly more disciplined about my training, and it helps me with macro tracking as well. The built-in coach is fantastic, and I’m really impressed at the ability to upload pictures and files that help it maintain behavior. It seems to only get better with every update.",
-      "subcategory_tags": [
-        "sleep_satisfaction",
         "ai_positive_reception"
       ]
     }
@@ -12130,6 +12124,17 @@
   ],
   "ui_ux": [
     {
+      "review_id": "4a2cc4dc-ba82-4c1b-85d5-fe498c447b7f",
+      "source": "google_play",
+      "rating": 1,
+      "date": "2026-09-25T15:20:47+00:00",
+      "text": "I'm glad my subscription ends next year. The quality of the app declined over time. The sliders in the journal are especially jumping all around, barely usable. At the price point of the subscription, this is just unacceptable.",
+      "subcategory_tags": [
+        "feature_ui_friction",
+        "price_value_perception"
+      ]
+    },
+    {
       "review_id": "ed88b181-e688-4a2b-a23c-e1f2868267f1",
       "source": "google_play",
       "rating": 2,
@@ -12451,18 +12456,6 @@
         "ai_autonomy",
         "ai_only_support_channel",
         "billing_disputes"
-      ]
-    },
-    {
-      "review_id": "14403057110",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-08-08T07:38:04-07:00",
-      "text": "Doesn’t count steps correctly from the 4.0-5.0 version.  Strain doesn’t register the same way on the 5.0\nAll the extra features on the top tier are hard to figure out.  No customer service",
-      "subcategory_tags": [
-        "metric_accuracy",
-        "feature_ui_friction",
-        "support_responsiveness"
       ]
     }
   ],
@@ -13140,6 +13133,17 @@
   ],
   "feature_ui_friction": [
     {
+      "review_id": "4a2cc4dc-ba82-4c1b-85d5-fe498c447b7f",
+      "source": "google_play",
+      "rating": 1,
+      "date": "2026-09-25T15:20:47+00:00",
+      "text": "I'm glad my subscription ends next year. The quality of the app declined over time. The sliders in the journal are especially jumping all around, barely usable. At the price point of the subscription, this is just unacceptable.",
+      "subcategory_tags": [
+        "feature_ui_friction",
+        "price_value_perception"
+      ]
+    },
+    {
       "review_id": "a82f171e-f630-4ad2-a792-b3257b5ae797",
       "source": "google_play",
       "rating": 3,
@@ -13469,17 +13473,6 @@
       "subcategory_tags": [
         "redesign_regression",
         "feature_ui_friction"
-      ]
-    },
-    {
-      "review_id": "4a6774b9-f4a6-4caf-9191-a5d23e33ccc4",
-      "source": "google_play",
-      "rating": 3,
-      "date": "2026-06-23T21:43:49",
-      "text": "Journal UI/UX and strength trainer must be better at a product of this price. The current way is too manual and clunky. Also some exercises dont have pictures???",
-      "subcategory_tags": [
-        "feature_ui_friction",
-        "price_value_perception"
       ]
     }
   ],
