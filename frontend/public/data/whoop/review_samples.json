@@ -1,6 +1,17 @@
 {
   "pricing_billing": [
     {
+      "review_id": "14595044390",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-09-26T03:17:11-07:00",
+      "text": "You can't remove all the ridiculous banner ads, and I can't just look at my heartbeat continually, on demand. Terrible app. I through by brand new device in the trash. \nIntrusive banners you can't hide: \n- “First Week with WHOOP” - no way to hide banner \n- Refer & Earn banners (multiple) \n- Share a Free Trial banners (I'm not marketing your stupid app) \n- Shop / Shop All Accessories\n- Gift a Membership (I'm not your marketing department)\n- Extend Membership (I already paid for a year)\n- Stress Monitor - can't disable and I could care less about a meaningless made up score",
+      "subcategory_tags": [
+        "upsell_pressure",
+        "missing_metrics"
+      ]
+    },
+    {
       "review_id": "4a2cc4dc-ba82-4c1b-85d5-fe498c447b7f",
       "source": "google_play",
       "rating": 1,
@@ -319,17 +330,6 @@
       "text": "My only complaint is the subscription model. Instead of forcing an annual subscription, Whoop should offer a one-time purchase price. A clear, fixed price would make people much more comfortable buying it, instead of being put off by the idea of paying every year forever.",
       "subcategory_tags": [
         "price_value_perception"
-      ]
-    },
-    {
-      "review_id": "14507801422",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-09-03T18:40:49-07:00",
-      "text": "Will advertise free but wont let you continue without payment. Scammers should be sued for wrongfully collecting my sensitive information",
-      "subcategory_tags": [
-        "billing_disputes",
-        "plan_trial_structure"
       ]
     }
   ],
@@ -1359,6 +1359,17 @@
   ],
   "upsell_pressure": [
     {
+      "review_id": "14595044390",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-09-26T03:17:11-07:00",
+      "text": "You can't remove all the ridiculous banner ads, and I can't just look at my heartbeat continually, on demand. Terrible app. I through by brand new device in the trash. \nIntrusive banners you can't hide: \n- “First Week with WHOOP” - no way to hide banner \n- Refer & Earn banners (multiple) \n- Share a Free Trial banners (I'm not marketing your stupid app) \n- Shop / Shop All Accessories\n- Gift a Membership (I'm not your marketing department)\n- Extend Membership (I already paid for a year)\n- Stress Monitor - can't disable and I could care less about a meaningless made up score",
+      "subcategory_tags": [
+        "upsell_pressure",
+        "missing_metrics"
+      ]
+    },
+    {
       "review_id": "ba13f413-e505-4615-a0d6-cdffbc6325da",
       "source": "google_play",
       "rating": 1,
@@ -1688,17 +1699,6 @@
       "subcategory_tags": [
         "upsell_pressure",
         "price_value_perception"
-      ]
-    },
-    {
-      "review_id": "108aac40-0d68-4a4c-8100-86223269d222",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2026-01-07T00:01:21",
-      "text": "got a whoop recently. the whoop AI assistant button is always on bottom right, covering most of the NUX journies effectively ruining the experience",
-      "subcategory_tags": [
-        "upsell_pressure",
-        "feature_ui_friction"
       ]
     }
   ],
@@ -15536,6 +15536,17 @@
   ],
   "feature_requests": [
     {
+      "review_id": "14595044390",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-09-26T03:17:11-07:00",
+      "text": "You can't remove all the ridiculous banner ads, and I can't just look at my heartbeat continually, on demand. Terrible app. I through by brand new device in the trash. \nIntrusive banners you can't hide: \n- “First Week with WHOOP” - no way to hide banner \n- Refer & Earn banners (multiple) \n- Share a Free Trial banners (I'm not marketing your stupid app) \n- Shop / Shop All Accessories\n- Gift a Membership (I'm not your marketing department)\n- Extend Membership (I already paid for a year)\n- Stress Monitor - can't disable and I could care less about a meaningless made up score",
+      "subcategory_tags": [
+        "upsell_pressure",
+        "missing_metrics"
+      ]
+    },
+    {
       "review_id": "cb78b56f-5833-45d4-8fdf-64d5b5dc6899",
       "source": "google_play",
       "rating": 4,
@@ -15858,18 +15869,6 @@
         "support_satisfaction",
         "ai_positive_reception",
         "personalization_use_case_fit"
-      ]
-    },
-    {
-      "review_id": "14423078152",
-      "source": "app_store",
-      "rating": 5,
-      "date": "2026-08-13T08:10:52-07:00",
-      "text": "I was someone who was mildly impressed with the Apple Watch and I really didn’t find it functional. I also struggled to charge it and put it back on and there were significant gaps in my data in the day time. Also, tracking sleep was something that was important to me and if I’m wearing my watch in the day and I have to charge it at night, I’m losing all the data. Tracking my menstrual cycle was something that I also wanted to do and when I was gifted WHOOP for my birthday from my boyfriend I put it on and committed incredibly. I now have over 400 days of consistent data. I have been working to decrease my health age while also tracking my cycles with great detail and I will be enrolling in advanced labs in the next year to get my bio markers for any health concerns.",
-      "subcategory_tags": [
-        "sleep_satisfaction",
-        "personalization_use_case_fit",
-        "battery_life"
       ]
     }
   ],
@@ -16208,6 +16207,17 @@
   ],
   "missing_metrics": [
     {
+      "review_id": "14595044390",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-09-26T03:17:11-07:00",
+      "text": "You can't remove all the ridiculous banner ads, and I can't just look at my heartbeat continually, on demand. Terrible app. I through by brand new device in the trash. \nIntrusive banners you can't hide: \n- “First Week with WHOOP” - no way to hide banner \n- Refer & Earn banners (multiple) \n- Share a Free Trial banners (I'm not marketing your stupid app) \n- Shop / Shop All Accessories\n- Gift a Membership (I'm not your marketing department)\n- Extend Membership (I already paid for a year)\n- Stress Monitor - can't disable and I could care less about a meaningless made up score",
+      "subcategory_tags": [
+        "upsell_pressure",
+        "missing_metrics"
+      ]
+    },
+    {
       "review_id": "cb78b56f-5833-45d4-8fdf-64d5b5dc6899",
       "source": "google_play",
       "rating": 4,
@@ -16532,18 +16542,6 @@
       "subcategory_tags": [
         "data_sync_delays",
         "personalization_use_case_fit",
-        "missing_metrics"
-      ]
-    },
-    {
-      "review_id": "14267468364",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-07-05T14:03:09-07:00",
-      "text": "I have been a loyal WHOOP member for over six years and have recommended the product to countless friends, family members, athletes, and business colleagues. Unfortunately, my experience with their customer support has completely destroyed the trust I had in the company.\n\nMy account was deleted, resulting in the loss of approximately six years of health, recovery, training, and biometric data. For a company whose entire value proposition revolves around collecting and analyzing long-term personal health data, this is an unacceptable failure.\n\nWhat made the situation even worse was the customer support experience. It took nearly two months of repeated emails and messages just to get meaningful responses and traction on the issue. The support process felt fragmented, slow, and heavily outsourced, with little ownership of the problem and no sense of urgency despite the severity of losing years of irreplaceable data.\n\nAfter months of frustration, the resolution offered was two free months of service. To be clear, six years of personal health history cannot be replaced by two months of membership credit.\n\nThe most disappointing part is that I wasn’t a casual customer. I genuinely believed in WHOOP, paid for the service for years, and actively promoted it to others. Losing my data was devastating. Feeling ignored for two months while trying to get help was even worse.\n\nThe hardware and insights may be good when everything works, but a company’s true character is revealed when something goes wrong. Based on my experience, WHOOP’s customer support and account recovery processes fell far short of what customers should expect from a premium subscription service.\n\nI sincerely hope WHOOP improves its support systems, data protection practices, and escalation procedures so that no other long-term member has to go through what I experienced.",
-      "subcategory_tags": [
-        "support_responsiveness",
-        "support_resolution_quality",
         "missing_metrics"
       ]
     }
