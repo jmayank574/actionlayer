@@ -1,5 +1,104 @@
 [
   {
+    "review_id": "14599386541",
+    "source": "app_store",
+    "rating": 5,
+    "date": "2026-09-27T05:40:31-07:00",
+    "text": "I have had my Whoop band for now over a month and it is amazing, some tracking my sleep to my recovery and my blood pressure. This device is elevated above the rest in the market. I strongly recommend it.",
+    "parent_category_tags": [
+      "sleep_tracking",
+      "health_signal_reliability"
+    ],
+    "subcategory_tags": [
+      "sleep_satisfaction",
+      "ecg_bp_feature_reliability"
+    ]
+  },
+  {
+    "review_id": "14597874996",
+    "source": "app_store",
+    "rating": 1,
+    "date": "2026-09-26T19:28:26-07:00",
+    "text": "As a daily user in Saudi Arabia, I highly request adding the Arabic language to the WHOOP app",
+    "parent_category_tags": [
+      "localization"
+    ],
+    "subcategory_tags": [
+      "missing_language_support"
+    ]
+  },
+  {
+    "review_id": "14597673368",
+    "source": "app_store",
+    "rating": 5,
+    "date": "2026-09-26T18:10:00-07:00",
+    "text": "I’ve been using Whoop since early 2021.  That January I had decided I was going to do Andy Frisella’s 75 Hard program, and with the twice daily workouts I was concerned about overtraining.  I figured I would use Whoop for a few months, get a handle on my strain and recovery, and then move on.  But Whoop is just too good and they keep improving and adding additional functionality.  Now with the Advanced Labs component, and the intensive bloodwork that one can have completed and analyzed, I’m not sure I’ll ever leave.  In addition, the Healthspan feature is fantastic as it provides the right motivations to create the best lifestyle behaviors for a long and healthy life.  I know I am still under-utilizing Whoop and I look forward to incorporating more and more of its features and functionality into my life.",
+    "parent_category_tags": [
+      "nan"
+    ],
+    "subcategory_tags": [
+      "nan"
+    ]
+  },
+  {
+    "review_id": "0576d094-b523-4712-95ce-f7ec8ce62315",
+    "source": "google_play",
+    "rating": 2,
+    "date": "2026-09-26T22:42:39+00:00",
+    "text": "A bit crazy that for the current price you don't get a heartrate graph where you can see your Heathrow from today and the previous days.",
+    "parent_category_tags": [
+      "pricing_billing",
+      "feature_requests"
+    ],
+    "subcategory_tags": [
+      "price_value_perception",
+      "missing_metrics"
+    ]
+  },
+  {
+    "review_id": "b87f5045-28e5-4050-8cf0-7b5f774856d2",
+    "source": "google_play",
+    "rating": 5,
+    "date": "2026-09-26T21:59:22+00:00",
+    "text": "super helpful and insightful! assists me with greater versatility in tracking my days!",
+    "parent_category_tags": [
+      "nan"
+    ],
+    "subcategory_tags": [
+      "nan"
+    ]
+  },
+  {
+    "review_id": "d9c5f50f-c2a2-4641-834b-557abdf7b933",
+    "source": "google_play",
+    "rating": 5,
+    "date": "2026-09-26T17:56:52+00:00",
+    "text": "brilliant if you can afford the best. keep developing to stay the high end product in style, prestige and performance",
+    "parent_category_tags": [
+      "nan"
+    ],
+    "subcategory_tags": [
+      "nan"
+    ]
+  },
+  {
+    "review_id": "14596508840",
+    "source": "app_store",
+    "rating": 3,
+    "date": "2026-09-26T10:50:21-07:00",
+    "text": "Sleep is really what Whoop is mostly about in my opinion.  It’s very good at that. However, I’ve found a major bug in its use.  It doesn’t have a “select all” capability to capture whatever you’ve been chatting about with its AI.  It only has “save to clipboard” which only allows one paragraph at a time to be copied which is brutally tedious and slow.  Their work around is the go into “Coach” which has the history of previous chats and capture it that way except that has been removed from the app.  We’ll see how their Support fixes this issue or not.",
+    "parent_category_tags": [
+      "sleep_tracking",
+      "ai_coach",
+      "customer_support"
+    ],
+    "subcategory_tags": [
+      "sleep_satisfaction",
+      "ai_reliability_bugs",
+      "support_responsiveness"
+    ]
+  },
+  {
     "review_id": "14595044390",
     "source": "app_store",
     "rating": 1,

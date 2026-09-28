@@ -1,6 +1,17 @@
 {
   "pricing_billing": [
     {
+      "review_id": "0576d094-b523-4712-95ce-f7ec8ce62315",
+      "source": "google_play",
+      "rating": 2,
+      "date": "2026-09-26T22:42:39+00:00",
+      "text": "A bit crazy that for the current price you don't get a heartrate graph where you can see your Heathrow from today and the previous days.",
+      "subcategory_tags": [
+        "price_value_perception",
+        "missing_metrics"
+      ]
+    },
+    {
       "review_id": "14595044390",
       "source": "app_store",
       "rating": 1,
@@ -321,19 +332,20 @@
         "activity_detection",
         "price_value_perception"
       ]
-    },
-    {
-      "review_id": "14508533933",
-      "source": "app_store",
-      "rating": 5,
-      "date": "2026-09-04T00:06:31-07:00",
-      "text": "My only complaint is the subscription model. Instead of forcing an annual subscription, Whoop should offer a one-time purchase price. A clear, fixed price would make people much more comfortable buying it, instead of being put off by the idea of paying every year forever.",
-      "subcategory_tags": [
-        "price_value_perception"
-      ]
     }
   ],
   "price_value_perception": [
+    {
+      "review_id": "0576d094-b523-4712-95ce-f7ec8ce62315",
+      "source": "google_play",
+      "rating": 2,
+      "date": "2026-09-26T22:42:39+00:00",
+      "text": "A bit crazy that for the current price you don't get a heartrate graph where you can see your Heathrow from today and the previous days.",
+      "subcategory_tags": [
+        "price_value_perception",
+        "missing_metrics"
+      ]
+    },
     {
       "review_id": "4a2cc4dc-ba82-4c1b-85d5-fe498c447b7f",
       "source": "google_play",
@@ -655,17 +667,6 @@
       "subcategory_tags": [
         "price_value_perception",
         "missing_metrics"
-      ]
-    },
-    {
-      "review_id": "c168f7e5-9c80-445b-9529-14e2c38df90f",
-      "source": "google_play",
-      "rating": 2,
-      "date": "2026-08-28T01:07:40+00:00",
-      "text": "has good info but they force all this garbage into the app promoting their paid services that most people don't want and definitely don't want to see in the app. the company is very focused on extracting every dollar from its base instead of focusing on the best user experience they can. I will not be renewing. their product is good but their model is severely flawed. stop forcing your garbage on us and allow to hide all of those services.",
-      "subcategory_tags": [
-        "upsell_pressure",
-        "price_value_perception"
       ]
     }
   ],
@@ -1704,6 +1705,29 @@
   ],
   "sleep_tracking": [
     {
+      "review_id": "14599386541",
+      "source": "app_store",
+      "rating": 5,
+      "date": "2026-09-27T05:40:31-07:00",
+      "text": "I have had my Whoop band for now over a month and it is amazing, some tracking my sleep to my recovery and my blood pressure. This device is elevated above the rest in the market. I strongly recommend it.",
+      "subcategory_tags": [
+        "sleep_satisfaction",
+        "ecg_bp_feature_reliability"
+      ]
+    },
+    {
+      "review_id": "14596508840",
+      "source": "app_store",
+      "rating": 3,
+      "date": "2026-09-26T10:50:21-07:00",
+      "text": "Sleep is really what Whoop is mostly about in my opinion.  It’s very good at that. However, I’ve found a major bug in its use.  It doesn’t have a “select all” capability to capture whatever you’ve been chatting about with its AI.  It only has “save to clipboard” which only allows one paragraph at a time to be copied which is brutally tedious and slow.  Their work around is the go into “Coach” which has the history of previous chats and capture it that way except that has been removed from the app.  We’ll see how their Support fixes this issue or not.",
+      "subcategory_tags": [
+        "sleep_satisfaction",
+        "ai_reliability_bugs",
+        "support_responsiveness"
+      ]
+    },
+    {
       "review_id": "14576341015",
       "source": "app_store",
       "rating": 1,
@@ -2007,30 +2031,6 @@
       "rating": 5,
       "date": "2026-08-20T13:57:59+00:00",
       "text": "It is an accurate sleep/activity tracker.",
-      "subcategory_tags": [
-        "sleep_satisfaction"
-      ]
-    },
-    {
-      "review_id": "14449428710",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-08-19T21:33:08-07:00",
-      "text": "This app used to detect activities, naps, and helped me track my period after years of tracking it on other apps. Now none of those things happen, weight and periods are not recorded same with activities and naps. The metrics aren’t even correct. Don’t waste you’re money it’s all marketing and a scam",
-      "subcategory_tags": [
-        "activity_detection",
-        "sleep_accuracy",
-        "missing_metrics",
-        "metric_accuracy",
-        "price_value_perception"
-      ]
-    },
-    {
-      "review_id": "77663841-e4ab-411e-898e-571103747761",
-      "source": "google_play",
-      "rating": 5,
-      "date": "2026-08-18T17:09:14+00:00",
-      "text": "Fabulous. The data is deep and has made such a difference in my ability to track and understand my sleep, work out, and stress patterns and see how they interact with each other.",
       "subcategory_tags": [
         "sleep_satisfaction"
       ]
@@ -2387,6 +2387,29 @@
   ],
   "sleep_satisfaction": [
     {
+      "review_id": "14599386541",
+      "source": "app_store",
+      "rating": 5,
+      "date": "2026-09-27T05:40:31-07:00",
+      "text": "I have had my Whoop band for now over a month and it is amazing, some tracking my sleep to my recovery and my blood pressure. This device is elevated above the rest in the market. I strongly recommend it.",
+      "subcategory_tags": [
+        "sleep_satisfaction",
+        "ecg_bp_feature_reliability"
+      ]
+    },
+    {
+      "review_id": "14596508840",
+      "source": "app_store",
+      "rating": 3,
+      "date": "2026-09-26T10:50:21-07:00",
+      "text": "Sleep is really what Whoop is mostly about in my opinion.  It’s very good at that. However, I’ve found a major bug in its use.  It doesn’t have a “select all” capability to capture whatever you’ve been chatting about with its AI.  It only has “save to clipboard” which only allows one paragraph at a time to be copied which is brutally tedious and slow.  Their work around is the go into “Coach” which has the history of previous chats and capture it that way except that has been removed from the app.  We’ll see how their Support fixes this issue or not.",
+      "subcategory_tags": [
+        "sleep_satisfaction",
+        "ai_reliability_bugs",
+        "support_responsiveness"
+      ]
+    },
+    {
       "review_id": "14566965178",
       "source": "app_store",
       "rating": 4,
@@ -2680,32 +2703,6 @@
       "text": "I bought the whoop band 5.0 peak to start learning about my sleep patterns and fitness habits (or lack of them). It has been a great acquisition, every day I learn more of the features on the app to improve also my workouts in a way that guides me to do it better and to have a better understanding on recovery and sleep needs. It is very cool.",
       "subcategory_tags": [
         "sleep_satisfaction"
-      ]
-    },
-    {
-      "review_id": "14386610513",
-      "source": "app_store",
-      "rating": 5,
-      "date": "2026-08-04T05:16:35-07:00",
-      "text": "The device has significantly helped me manage my sleep quality , along with using sleep hygiene and it has helped  me monitor my heart rate during jogging. I do recommend to it friends",
-      "subcategory_tags": [
-        "sleep_satisfaction",
-        "metric_accuracy"
-      ]
-    },
-    {
-      "review_id": "abc20aac-c89c-4824-9d67-43c978fcbc3e",
-      "source": "google_play",
-      "rating": 4,
-      "date": "2026-08-02T16:08:49",
-      "text": "Monitoring of sleep and recovery ,HRV ,are very good. But many rooms of improvement for the expensive cost of memberships. Ai advice are mainly push you to more exercise and sleep. And data collections , diary are time consuming. It cannot detect activities uncless you log in. customer service are slow. Multiple lag time and hang of app requiring forced close and restore. Ai advice of activities are not medical advice , but its act like one. So I use it just baseline daily monitor.",
-      "subcategory_tags": [
-        "sleep_satisfaction",
-        "price_value_perception",
-        "ai_reliability_bugs",
-        "activity_detection",
-        "support_responsiveness",
-        "crashes_freezes"
       ]
     }
   ],
@@ -7231,6 +7228,17 @@
   ],
   "health_signal_reliability": [
     {
+      "review_id": "14599386541",
+      "source": "app_store",
+      "rating": 5,
+      "date": "2026-09-27T05:40:31-07:00",
+      "text": "I have had my Whoop band for now over a month and it is amazing, some tracking my sleep to my recovery and my blood pressure. This device is elevated above the rest in the market. I strongly recommend it.",
+      "subcategory_tags": [
+        "sleep_satisfaction",
+        "ecg_bp_feature_reliability"
+      ]
+    },
+    {
       "review_id": "14410836225",
       "source": "app_store",
       "rating": 4,
@@ -7563,19 +7571,6 @@
       "text": "I have been using Whoop from 2024 and i have never been facing issues with it. Mainly i use it for My sleep, strain and stress and this has been accurate compared to the other smatwatches. Was using life and then updated to peak which is very good with ecg checks and all...i simply love it and happy with it",
       "subcategory_tags": [
         "sleep_satisfaction",
-        "ecg_bp_feature_reliability"
-      ]
-    },
-    {
-      "review_id": "5c831123-7af8-4a47-b9ec-eb9ed21b4422",
-      "source": "google_play",
-      "rating": 2,
-      "date": "2025-09-19T23:34:45",
-      "text": "I've been a member for a year now. half with the 4.0 and now with the 5.0 MG. honestly, the only difference is the battery. I have atrial fibrillation and it has detected zero incidents. which is not believable, because I follow up with my doctor and take certain medicine. so it's basically useless. and even doesn't detect my 1+ hour naps... it's actually making me more frustrated! and paid a lot for the MG membership and I do not see any benefits. I even have to put my blood pressure data. lol",
-      "subcategory_tags": [
-        "cardiac_detection_trust",
-        "sleep_accuracy",
-        "price_value_perception",
         "ecg_bp_feature_reliability"
       ]
     }
@@ -7618,6 +7613,17 @@
   ],
   "ecg_bp_feature_reliability": [
     {
+      "review_id": "14599386541",
+      "source": "app_store",
+      "rating": 5,
+      "date": "2026-09-27T05:40:31-07:00",
+      "text": "I have had my Whoop band for now over a month and it is amazing, some tracking my sleep to my recovery and my blood pressure. This device is elevated above the rest in the market. I strongly recommend it.",
+      "subcategory_tags": [
+        "sleep_satisfaction",
+        "ecg_bp_feature_reliability"
+      ]
+    },
+    {
       "review_id": "14410836225",
       "source": "app_store",
       "rating": 4,
@@ -7955,21 +7961,21 @@
         "price_value_perception",
         "ecg_bp_feature_reliability"
       ]
-    },
-    {
-      "review_id": "67c357a5-6d51-402f-a2a8-c775a1d64941",
-      "source": "google_play",
-      "rating": 3,
-      "date": "2025-08-31T12:23:23",
-      "text": "app is ok customer service needs improvement The EKG function works well. I have MCAS, H-Pots see my heart beat, BP in real time helps me know when I need to get to ER protocol. My Whoop EKG and ERs ekg were virtually identical. Reporting HR 100 times over my usual. The BP function is slightly off. whoop estimate often significantly lower than my cuff. AI for this money is not acceptable. you can never reach a human. that is why 3 stars vs 4",
-      "subcategory_tags": [
-        "ecg_bp_feature_reliability",
-        "ai_only_support_channel",
-        "price_value_perception"
-      ]
     }
   ],
   "ai_coach": [
+    {
+      "review_id": "14596508840",
+      "source": "app_store",
+      "rating": 3,
+      "date": "2026-09-26T10:50:21-07:00",
+      "text": "Sleep is really what Whoop is mostly about in my opinion.  It’s very good at that. However, I’ve found a major bug in its use.  It doesn’t have a “select all” capability to capture whatever you’ve been chatting about with its AI.  It only has “save to clipboard” which only allows one paragraph at a time to be copied which is brutally tedious and slow.  Their work around is the go into “Coach” which has the history of previous chats and capture it that way except that has been removed from the app.  We’ll see how their Support fixes this issue or not.",
+      "subcategory_tags": [
+        "sleep_satisfaction",
+        "ai_reliability_bugs",
+        "support_responsiveness"
+      ]
+    },
     {
       "review_id": "9b45be40-697d-4e0d-8284-624b282a4192",
       "source": "google_play",
@@ -8290,24 +8296,21 @@
         "ai_positive_reception",
         "sleep_satisfaction"
       ]
-    },
-    {
-      "review_id": "14426655685",
-      "source": "app_store",
-      "rating": 3,
-      "date": "2026-08-14T05:59:49-07:00",
-      "text": "I love my Whoop band! It helps me to stay motivated and gives me clear insights into my health. The AI is getting better and they are putting a lot of effort into developing the product/app more.\n\nMy main issues are is that I feel like there are multiple features that you would think are basic features for a health device that are missing. For example, I have to track activities twice. Once in the actual activity section and then another time in my daily journal. It seems like the activity section should automatically update the Journal so you don’t have to repeat efforts speaking of the activity section, there are times where it misses the activity that I’m doing, especially low strength, activities like blah, blah blah, remember there are times when I’m sitting on the couch and open my app to 15 potential activity spotted messages. Also, the app doesn’t track basic things like blood oxygen levels throughout the day. Want to see the average lifespan of your battery? Sorry, can’t see that. Wanna ask the AI the average length of your dog walks, running, or other physical activity? Sorry, even though it attracts the data attracts your route, you are unable to see this either. Lastly, all the replacement bands are $100 or more. My band that I have now, which is my original band that I came with, desperately needs to be replaced, but because there are no cost-effective replacement I have yet to pull the trigger.\n\nIt’s not all doom and gloom, though. I love the band, which is fairly comfortable and looks good, the WHOOP support team are very responsive and efficient, who is amazing at giving you daily strained targets that feel accurate and attainable, but still push you for training, and the app does genuinely encourage me to look at it each day, which helps with me staying consistent with my daily goals. I do really like the way. The AI is developing as well, being more responsive and being able to help with setting goals and adjusting goals as necessary based on what’s going on in life. \n\nWell, there are a lot of things that need to be developed or fixed, I would still highly recommend the WHOOP to anybody looking for a Fitness device. The speed at which WHOOP developing their app and product gives me hope that the things that I’m asking for will one day soon be features and overall I really do love my WHOOP band. I would probably recommend it best for those who are already moderately active and looking to bring their fitness to the next level, those looking to track and maintain daily habits, or those who generally want more insights into their health. I do still think that other brands might be better for women looking to track their cycles in fertility, or for those who don’t want to wait for the features that I mentioned above.",
-      "subcategory_tags": [
-        "activity_detection",
-        "missing_metrics",
-        "price_value_perception",
-        "support_satisfaction",
-        "ai_positive_reception",
-        "personalization_use_case_fit"
-      ]
     }
   ],
   "ai_reliability_bugs": [
+    {
+      "review_id": "14596508840",
+      "source": "app_store",
+      "rating": 3,
+      "date": "2026-09-26T10:50:21-07:00",
+      "text": "Sleep is really what Whoop is mostly about in my opinion.  It’s very good at that. However, I’ve found a major bug in its use.  It doesn’t have a “select all” capability to capture whatever you’ve been chatting about with its AI.  It only has “save to clipboard” which only allows one paragraph at a time to be copied which is brutally tedious and slow.  Their work around is the go into “Coach” which has the history of previous chats and capture it that way except that has been removed from the app.  We’ll see how their Support fixes this issue or not.",
+      "subcategory_tags": [
+        "sleep_satisfaction",
+        "ai_reliability_bugs",
+        "support_responsiveness"
+      ]
+    },
     {
       "review_id": "14556573727",
       "source": "app_store",
@@ -8643,19 +8646,6 @@
       "subcategory_tags": [
         "ai_reliability_bugs",
         "personalization_use_case_fit"
-      ]
-    },
-    {
-      "review_id": "14334223660",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-07-22T05:43:14-07:00",
-      "text": "Don’t waste you money or time. I got this because my son thinks, or thought it was a good thing. I think the chatty nature of the whole application is pure nonsense. It just repeats itself no matter what you may ask. I have challenged the AI and it doesn’t even come back with anything instructive or educational to improve. It’s says “if you don’t like my style then I’ll give you the basics”. Well then, if it’s basics why even get this?  You want a critic of your sleep patterns? This is it. Based on studies dating back to 2003, the app doesn’t not fit the customization you will need. It wants to bunch you up into the group of people who apparently need to sleep 9 hours to feel “healthy”. It says I’m aging quickly (10 years older). 😂 yet I feel like an ox. I’m intense in my workouts, I’m intense in my work, I don’t need a nap, and I’m extremely productive with 5-6 hours sleep and age 64. Whoop needs to offer a refund option if not happy once you’ve signed up. 50 days into this venture and I definitely feel I wasted my time and money. In one word:  garbage",
-      "subcategory_tags": [
-        "ai_reliability_bugs",
-        "personalization_use_case_fit",
-        "price_value_perception",
-        "billing_disputes"
       ]
     }
   ],
@@ -9315,6 +9305,18 @@
   ],
   "customer_support": [
     {
+      "review_id": "14596508840",
+      "source": "app_store",
+      "rating": 3,
+      "date": "2026-09-26T10:50:21-07:00",
+      "text": "Sleep is really what Whoop is mostly about in my opinion.  It’s very good at that. However, I’ve found a major bug in its use.  It doesn’t have a “select all” capability to capture whatever you’ve been chatting about with its AI.  It only has “save to clipboard” which only allows one paragraph at a time to be copied which is brutally tedious and slow.  Their work around is the go into “Coach” which has the history of previous chats and capture it that way except that has been removed from the app.  We’ll see how their Support fixes this issue or not.",
+      "subcategory_tags": [
+        "sleep_satisfaction",
+        "ai_reliability_bugs",
+        "support_responsiveness"
+      ]
+    },
+    {
       "review_id": "4ac7e56a-1b5a-46aa-bfb2-2c15fa2c02c4",
       "source": "google_play",
       "rating": 4,
@@ -9660,20 +9662,21 @@
         "ai_only_support_channel",
         "price_value_perception"
       ]
-    },
-    {
-      "review_id": "14371430897",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-07-31T10:27:18-07:00",
-      "text": "My whoop sensor has been defective for the last week. Instead of replacing it whoop has been making me jump through one hoop after another and wasting my time",
-      "subcategory_tags": [
-        "support_resolution_quality",
-        "build_quality_perception"
-      ]
     }
   ],
   "support_responsiveness": [
+    {
+      "review_id": "14596508840",
+      "source": "app_store",
+      "rating": 3,
+      "date": "2026-09-26T10:50:21-07:00",
+      "text": "Sleep is really what Whoop is mostly about in my opinion.  It’s very good at that. However, I’ve found a major bug in its use.  It doesn’t have a “select all” capability to capture whatever you’ve been chatting about with its AI.  It only has “save to clipboard” which only allows one paragraph at a time to be copied which is brutally tedious and slow.  Their work around is the go into “Coach” which has the history of previous chats and capture it that way except that has been removed from the app.  We’ll see how their Support fixes this issue or not.",
+      "subcategory_tags": [
+        "sleep_satisfaction",
+        "ai_reliability_bugs",
+        "support_responsiveness"
+      ]
+    },
     {
       "review_id": "4ac7e56a-1b5a-46aa-bfb2-2c15fa2c02c4",
       "source": "google_play",
@@ -10023,17 +10026,6 @@
         "support_resolution_quality",
         "data_sync_delays",
         "redesign_regression"
-      ]
-    },
-    {
-      "review_id": "c3101cbf-377d-4970-80d7-848c5d6cf9a7",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2026-04-06T07:34:27",
-      "text": "customer support doesn't work. you open a ticket and it takes ages. The whoop itself looks like it has a glitch not capturing events",
-      "subcategory_tags": [
-        "support_responsiveness",
-        "activity_detection"
       ]
     }
   ],
@@ -14833,6 +14825,16 @@
   ],
   "localization": [
     {
+      "review_id": "14597874996",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-09-26T19:28:26-07:00",
+      "text": "As a daily user in Saudi Arabia, I highly request adding the Arabic language to the WHOOP app",
+      "subcategory_tags": [
+        "missing_language_support"
+      ]
+    },
+    {
       "review_id": "14514418986",
       "source": "app_store",
       "rating": 3,
@@ -15130,19 +15132,19 @@
       "subcategory_tags": [
         "missing_language_support"
       ]
-    },
-    {
-      "review_id": "13708485320",
-      "source": "app_store",
-      "rating": 5,
-      "date": "2026-02-03T06:38:02-07:00",
-      "text": "Разработчики, пожалуйста, добавьте русский язык в приложение!!!",
-      "subcategory_tags": [
-        "missing_language_support"
-      ]
     }
   ],
   "missing_language_support": [
+    {
+      "review_id": "14597874996",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-09-26T19:28:26-07:00",
+      "text": "As a daily user in Saudi Arabia, I highly request adding the Arabic language to the WHOOP app",
+      "subcategory_tags": [
+        "missing_language_support"
+      ]
+    },
     {
       "review_id": "14514418986",
       "source": "app_store",
@@ -15437,16 +15439,6 @@
       "rating": 5,
       "date": "2026-02-03T06:38:02-07:00",
       "text": "Разработчики, пожалуйста, добавьте русский язык в приложение!!!",
-      "subcategory_tags": [
-        "missing_language_support"
-      ]
-    },
-    {
-      "review_id": "13531978432",
-      "source": "app_store",
-      "rating": 5,
-      "date": "2025-12-19T10:30:57-07:00",
-      "text": "We wish you continued success.\nWe respectfully request that you consider adding the Arabic language, as a large number of users of this application are Arabic speakers. Including Arabic would greatly facilitate proper understanding of the program and enhance user engagement. We kindly ask you to give this matter your serious consideration",
       "subcategory_tags": [
         "missing_language_support"
       ]
@@ -15535,6 +15527,17 @@
     }
   ],
   "feature_requests": [
+    {
+      "review_id": "0576d094-b523-4712-95ce-f7ec8ce62315",
+      "source": "google_play",
+      "rating": 2,
+      "date": "2026-09-26T22:42:39+00:00",
+      "text": "A bit crazy that for the current price you don't get a heartrate graph where you can see your Heathrow from today and the previous days.",
+      "subcategory_tags": [
+        "price_value_perception",
+        "missing_metrics"
+      ]
+    },
     {
       "review_id": "14595044390",
       "source": "app_store",
@@ -15854,21 +15857,6 @@
       "subcategory_tags": [
         "android_feature_gaps",
         "third_party_integration"
-      ]
-    },
-    {
-      "review_id": "14426655685",
-      "source": "app_store",
-      "rating": 3,
-      "date": "2026-08-14T05:59:49-07:00",
-      "text": "I love my Whoop band! It helps me to stay motivated and gives me clear insights into my health. The AI is getting better and they are putting a lot of effort into developing the product/app more.\n\nMy main issues are is that I feel like there are multiple features that you would think are basic features for a health device that are missing. For example, I have to track activities twice. Once in the actual activity section and then another time in my daily journal. It seems like the activity section should automatically update the Journal so you don’t have to repeat efforts speaking of the activity section, there are times where it misses the activity that I’m doing, especially low strength, activities like blah, blah blah, remember there are times when I’m sitting on the couch and open my app to 15 potential activity spotted messages. Also, the app doesn’t track basic things like blood oxygen levels throughout the day. Want to see the average lifespan of your battery? Sorry, can’t see that. Wanna ask the AI the average length of your dog walks, running, or other physical activity? Sorry, even though it attracts the data attracts your route, you are unable to see this either. Lastly, all the replacement bands are $100 or more. My band that I have now, which is my original band that I came with, desperately needs to be replaced, but because there are no cost-effective replacement I have yet to pull the trigger.\n\nIt’s not all doom and gloom, though. I love the band, which is fairly comfortable and looks good, the WHOOP support team are very responsive and efficient, who is amazing at giving you daily strained targets that feel accurate and attainable, but still push you for training, and the app does genuinely encourage me to look at it each day, which helps with me staying consistent with my daily goals. I do really like the way. The AI is developing as well, being more responsive and being able to help with setting goals and adjusting goals as necessary based on what’s going on in life. \n\nWell, there are a lot of things that need to be developed or fixed, I would still highly recommend the WHOOP to anybody looking for a Fitness device. The speed at which WHOOP developing their app and product gives me hope that the things that I’m asking for will one day soon be features and overall I really do love my WHOOP band. I would probably recommend it best for those who are already moderately active and looking to bring their fitness to the next level, those looking to track and maintain daily habits, or those who generally want more insights into their health. I do still think that other brands might be better for women looking to track their cycles in fertility, or for those who don’t want to wait for the features that I mentioned above.",
-      "subcategory_tags": [
-        "activity_detection",
-        "missing_metrics",
-        "price_value_perception",
-        "support_satisfaction",
-        "ai_positive_reception",
-        "personalization_use_case_fit"
       ]
     }
   ],
@@ -16207,6 +16195,17 @@
   ],
   "missing_metrics": [
     {
+      "review_id": "0576d094-b523-4712-95ce-f7ec8ce62315",
+      "source": "google_play",
+      "rating": 2,
+      "date": "2026-09-26T22:42:39+00:00",
+      "text": "A bit crazy that for the current price you don't get a heartrate graph where you can see your Heathrow from today and the previous days.",
+      "subcategory_tags": [
+        "price_value_perception",
+        "missing_metrics"
+      ]
+    },
+    {
       "review_id": "14595044390",
       "source": "app_store",
       "rating": 1,
@@ -16530,18 +16529,6 @@
       "date": "2026-07-09T06:52:29-07:00",
       "text": "It will be nice if I can change my birthday on this app because I’m only 13 and I’ve had this thing going on two years now",
       "subcategory_tags": [
-        "missing_metrics"
-      ]
-    },
-    {
-      "review_id": "14269590906",
-      "source": "app_store",
-      "rating": 2,
-      "date": "2026-07-06T04:22:56-07:00",
-      "text": "Data in the screen is delayed when exercising. ‘Hormonal insight’ has no value at all for women in menopause. Also, blood pressure should be a feature to explore for Whoop",
-      "subcategory_tags": [
-        "data_sync_delays",
-        "personalization_use_case_fit",
         "missing_metrics"
       ]
     }
