@@ -1,5 +1,39 @@
 [
   {
+    "review_id": "eb62480e-0807-4c65-bc57-813c0288bd1b",
+    "source": "google_play",
+    "rating": 3,
+    "date": "2026-09-28T05:09:58+00:00",
+    "text": "There Is an issue with the app - sometimes its stuck on some screen ( for example on referring a friends) and everytime you open the app it goes to this screen first so I need to press back to go to main menu. Tried to reinstall, clear data and so on but no success",
+    "parent_category_tags": [
+      "app_stability"
+    ],
+    "subcategory_tags": [
+      "crashes_freezes"
+    ]
+  },
+  {
+    "review_id": "2f4e903c-4631-4609-b7e5-c3c4add428ac",
+    "source": "google_play",
+    "rating": 1,
+    "date": "2026-09-27T23:02:27+00:00",
+    "text": "problematic tracking, constant off body errors, have been back and forth with customer service for days on two occasions with no resolution found, they will not provide any further assistance and I am now paying another 8 months of subscription for nothing but a paper weight, extremely disappointed with this company especially how big they are.",
+    "parent_category_tags": [
+      "data_accuracy",
+      "sync_connectivity",
+      "customer_support",
+      "customer_support",
+      "pricing_billing"
+    ],
+    "subcategory_tags": [
+      "metric_accuracy",
+      "data_sync_delays",
+      "support_responsiveness",
+      "support_resolution_quality",
+      "billing_disputes"
+    ]
+  },
+  {
     "review_id": "14599386541",
     "source": "app_store",
     "rating": 5,

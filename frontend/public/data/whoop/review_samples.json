@@ -1,6 +1,20 @@
 {
   "pricing_billing": [
     {
+      "review_id": "2f4e903c-4631-4609-b7e5-c3c4add428ac",
+      "source": "google_play",
+      "rating": 1,
+      "date": "2026-09-27T23:02:27+00:00",
+      "text": "problematic tracking, constant off body errors, have been back and forth with customer service for days on two occasions with no resolution found, they will not provide any further assistance and I am now paying another 8 months of subscription for nothing but a paper weight, extremely disappointed with this company especially how big they are.",
+      "subcategory_tags": [
+        "metric_accuracy",
+        "data_sync_delays",
+        "support_responsiveness",
+        "support_resolution_quality",
+        "billing_disputes"
+      ]
+    },
+    {
       "review_id": "0576d094-b523-4712-95ce-f7ec8ce62315",
       "source": "google_play",
       "rating": 2,
@@ -318,18 +332,6 @@
         "battery_life",
         "comfort_fit",
         "billing_disputes",
-        "price_value_perception"
-      ]
-    },
-    {
-      "review_id": "14509084380",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-09-04T03:55:19-07:00",
-      "text": "Never consistent!! Depending on where it is worn and what activity you are doing. Picks up false stain and activity. Don’t waste your time or money on this device. Garmin is tried and true !!",
-      "subcategory_tags": [
-        "metric_accuracy",
-        "activity_detection",
         "price_value_perception"
       ]
     }
@@ -672,6 +674,20 @@
   ],
   "billing_disputes": [
     {
+      "review_id": "2f4e903c-4631-4609-b7e5-c3c4add428ac",
+      "source": "google_play",
+      "rating": 1,
+      "date": "2026-09-27T23:02:27+00:00",
+      "text": "problematic tracking, constant off body errors, have been back and forth with customer service for days on two occasions with no resolution found, they will not provide any further assistance and I am now paying another 8 months of subscription for nothing but a paper weight, extremely disappointed with this company especially how big they are.",
+      "subcategory_tags": [
+        "metric_accuracy",
+        "data_sync_delays",
+        "support_responsiveness",
+        "support_resolution_quality",
+        "billing_disputes"
+      ]
+    },
+    {
       "review_id": "c67d4d27-c4f7-453d-88b8-8b7f67795dad",
       "source": "google_play",
       "rating": 2,
@@ -1002,16 +1018,6 @@
         "billing_disputes",
         "ai_only_support_channel",
         "support_resolution_quality"
-      ]
-    },
-    {
-      "review_id": "14311977739",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-07-16T16:01:28-07:00",
-      "text": "Better make sure your credit card doesn’t change or you don’t want to update payments because whoop will throw you and your data out fast",
-      "subcategory_tags": [
-        "billing_disputes"
       ]
     }
   ],
@@ -4810,6 +4816,20 @@
   ],
   "sync_connectivity": [
     {
+      "review_id": "2f4e903c-4631-4609-b7e5-c3c4add428ac",
+      "source": "google_play",
+      "rating": 1,
+      "date": "2026-09-27T23:02:27+00:00",
+      "text": "problematic tracking, constant off body errors, have been back and forth with customer service for days on two occasions with no resolution found, they will not provide any further assistance and I am now paying another 8 months of subscription for nothing but a paper weight, extremely disappointed with this company especially how big they are.",
+      "subcategory_tags": [
+        "metric_accuracy",
+        "data_sync_delays",
+        "support_responsiveness",
+        "support_resolution_quality",
+        "billing_disputes"
+      ]
+    },
+    {
       "review_id": "14588800177",
       "source": "app_store",
       "rating": 1,
@@ -5133,16 +5153,6 @@
       "text": "frustrating seems to take more than 30 minutes to process sleep 2 or 3 times a week. WHOOP : invest in more server capacity !",
       "subcategory_tags": [
         "sleep_accuracy",
-        "data_sync_delays"
-      ]
-    },
-    {
-      "review_id": "14322543713",
-      "source": "app_store",
-      "rating": 3,
-      "date": "2026-07-19T07:18:21-07:00",
-      "text": "My Whoop keeps stopping, losing data, I keep it on and charged, wrote in and got some direction, nothing worked and no one seemed to care.",
-      "subcategory_tags": [
         "data_sync_delays"
       ]
     }
@@ -5818,6 +5828,20 @@
   ],
   "data_sync_delays": [
     {
+      "review_id": "2f4e903c-4631-4609-b7e5-c3c4add428ac",
+      "source": "google_play",
+      "rating": 1,
+      "date": "2026-09-27T23:02:27+00:00",
+      "text": "problematic tracking, constant off body errors, have been back and forth with customer service for days on two occasions with no resolution found, they will not provide any further assistance and I am now paying another 8 months of subscription for nothing but a paper weight, extremely disappointed with this company especially how big they are.",
+      "subcategory_tags": [
+        "metric_accuracy",
+        "data_sync_delays",
+        "support_responsiveness",
+        "support_resolution_quality",
+        "billing_disputes"
+      ]
+    },
+    {
       "review_id": "14588800177",
       "source": "app_store",
       "rating": 1,
@@ -6148,22 +6172,23 @@
         "metric_accuracy",
         "price_value_perception"
       ]
-    },
-    {
-      "review_id": "039a86e5-41cf-4c94-bd2b-1d4bad82b5a6",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2026-06-02T03:36:25",
-      "text": "Had the device for 50+ days .. the latest update is full of bugs. says it has synced then shows me no stats and keeps merging days on my activity log can't seem to reset it and there's no place to notify the company of these issues so I have to resort to giving a bad review. $400 buyers remorse",
-      "subcategory_tags": [
-        "update_failures",
-        "data_sync_delays",
-        "support_responsiveness",
-        "price_value_perception"
-      ]
     }
   ],
   "data_accuracy": [
+    {
+      "review_id": "2f4e903c-4631-4609-b7e5-c3c4add428ac",
+      "source": "google_play",
+      "rating": 1,
+      "date": "2026-09-27T23:02:27+00:00",
+      "text": "problematic tracking, constant off body errors, have been back and forth with customer service for days on two occasions with no resolution found, they will not provide any further assistance and I am now paying another 8 months of subscription for nothing but a paper weight, extremely disappointed with this company especially how big they are.",
+      "subcategory_tags": [
+        "metric_accuracy",
+        "data_sync_delays",
+        "support_responsiveness",
+        "support_resolution_quality",
+        "billing_disputes"
+      ]
+    },
     {
       "review_id": "14582627849",
       "source": "app_store",
@@ -6500,20 +6525,23 @@
         "ai_positive_reception",
         "personalization_use_case_fit"
       ]
-    },
-    {
-      "review_id": "79f09b21-9c9f-452a-85f9-1a1156a346fd",
-      "source": "google_play",
-      "rating": 3,
-      "date": "2026-08-12T19:42:12+00:00",
-      "text": "Since upgrading to the new WHOOP, the changes to the algorithm have made my Strain and calorie data feel completely inaccurate. My calories burned are now around 30% lower than before. Walks sometimes register no Strain, and even after an intense weightlifting session plus 15–20k steps, my calories barely show above BMR. It’s incredibly frustrating and affects my confidence in the overall health data. I really hope WHOOP fixes this soon.",
-      "subcategory_tags": [
-        "metric_accuracy",
-        "activity_detection"
-      ]
     }
   ],
   "metric_accuracy": [
+    {
+      "review_id": "2f4e903c-4631-4609-b7e5-c3c4add428ac",
+      "source": "google_play",
+      "rating": 1,
+      "date": "2026-09-27T23:02:27+00:00",
+      "text": "problematic tracking, constant off body errors, have been back and forth with customer service for days on two occasions with no resolution found, they will not provide any further assistance and I am now paying another 8 months of subscription for nothing but a paper weight, extremely disappointed with this company especially how big they are.",
+      "subcategory_tags": [
+        "metric_accuracy",
+        "data_sync_delays",
+        "support_responsiveness",
+        "support_resolution_quality",
+        "billing_disputes"
+      ]
+    },
     {
       "review_id": "14582627849",
       "source": "app_store",
@@ -6847,18 +6875,6 @@
       "subcategory_tags": [
         "sleep_accuracy",
         "metric_accuracy"
-      ]
-    },
-    {
-      "review_id": "81d55955-d3d9-4fd2-8ac3-8e3334e8bd6f",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2026-08-03T09:37:15",
-      "text": "Steps which are a core metric of my day are extremely inaccurate. The ai defends a clearly flawed product. The price for subscription is far too high for a product that is still in development. Overall I can't trust anything this device says. I wasted my money so you don't have to. Be warned the Whoop MG is a joke. One that I am stuck with for a year now.",
-      "subcategory_tags": [
-        "metric_accuracy",
-        "ai_reliability_bugs",
-        "price_value_perception"
       ]
     }
   ],
@@ -9305,6 +9321,20 @@
   ],
   "customer_support": [
     {
+      "review_id": "2f4e903c-4631-4609-b7e5-c3c4add428ac",
+      "source": "google_play",
+      "rating": 1,
+      "date": "2026-09-27T23:02:27+00:00",
+      "text": "problematic tracking, constant off body errors, have been back and forth with customer service for days on two occasions with no resolution found, they will not provide any further assistance and I am now paying another 8 months of subscription for nothing but a paper weight, extremely disappointed with this company especially how big they are.",
+      "subcategory_tags": [
+        "metric_accuracy",
+        "data_sync_delays",
+        "support_responsiveness",
+        "support_resolution_quality",
+        "billing_disputes"
+      ]
+    },
+    {
       "review_id": "14596508840",
       "source": "app_store",
       "rating": 3,
@@ -9650,21 +9680,23 @@
         "support_responsiveness",
         "crashes_freezes"
       ]
-    },
-    {
-      "review_id": "14376933635",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-08-01T19:15:32-07:00",
-      "text": "Dirty people that steal your money during a free charge. No support at all just ai bots. Absolute junk don’t waste your time or money",
-      "subcategory_tags": [
-        "billing_disputes",
-        "ai_only_support_channel",
-        "price_value_perception"
-      ]
     }
   ],
   "support_responsiveness": [
+    {
+      "review_id": "2f4e903c-4631-4609-b7e5-c3c4add428ac",
+      "source": "google_play",
+      "rating": 1,
+      "date": "2026-09-27T23:02:27+00:00",
+      "text": "problematic tracking, constant off body errors, have been back and forth with customer service for days on two occasions with no resolution found, they will not provide any further assistance and I am now paying another 8 months of subscription for nothing but a paper weight, extremely disappointed with this company especially how big they are.",
+      "subcategory_tags": [
+        "metric_accuracy",
+        "data_sync_delays",
+        "support_responsiveness",
+        "support_resolution_quality",
+        "billing_disputes"
+      ]
+    },
     {
       "review_id": "14596508840",
       "source": "app_store",
@@ -10011,25 +10043,23 @@
         "ai_only_support_channel",
         "support_responsiveness"
       ]
-    },
-    {
-      "review_id": "13933122512",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-04-07T11:40:13-07:00",
-      "text": "Update: whoop, who if you look at the recent reviews, backs ups my experience on the tee is now suing Bevel a “competitor” who does not sell hardware and app actually functions and does not freeze. Whoop also just raised a round of funding so it is obvious they need to make more money to satisfy their shareholder which means the consumer is now on the bottom of their list to support. Stay away!!\n\nWhere to start…\nI started with the Whoop 3.0 and liked it’s features and easy to use. Bought 18 month subscription and $200 in straps and batteries. 45 days later 4.0 comes out and is free and all gear I bought is obsolete! No notice. No refund. \n\n1. Whoop also double dips. Charge $30/ month for service then sells our info “anonymously” for more profit!! Why so expensive then!\n2. Constant hardware issues. Battery doesn’t fully charge Whoop and could not get a spare battery for 8+ months. Battery updates have come out with no resolve so proves there is a known issue. \n3. Customer service is horrible and wants to just replace unit for every issue but only complimentary first time. Also takes time to respond but then wants to close ticket within 24 hours if you don’t respond asap. \n4. If you are serious about using this to work out, real time data is important. In version 4.0 constant data sync issues. I wake up and takes 1-2 hours for info to update. How can I know where my body is at and plan my day/ workout with that? I’m paying for this info too at a premium. \n5. App AI is confusing to navigate and overwhelming. Once you figure it out another update comes out and you start all over again. \n\nBottom line, Whoop started off strong and great info for athletes. As of late it’s about profits and growing it’s wearables line but app and hardware have dropped wayside. I’m not renewing subscription and sad to see such a great source of info fail slowly.",
-      "subcategory_tags": [
-        "price_value_perception",
-        "billing_disputes",
-        "battery_life",
-        "support_responsiveness",
-        "support_resolution_quality",
-        "data_sync_delays",
-        "redesign_regression"
-      ]
     }
   ],
   "support_resolution_quality": [
+    {
+      "review_id": "2f4e903c-4631-4609-b7e5-c3c4add428ac",
+      "source": "google_play",
+      "rating": 1,
+      "date": "2026-09-27T23:02:27+00:00",
+      "text": "problematic tracking, constant off body errors, have been back and forth with customer service for days on two occasions with no resolution found, they will not provide any further assistance and I am now paying another 8 months of subscription for nothing but a paper weight, extremely disappointed with this company especially how big they are.",
+      "subcategory_tags": [
+        "metric_accuracy",
+        "data_sync_delays",
+        "support_responsiveness",
+        "support_resolution_quality",
+        "billing_disputes"
+      ]
+    },
     {
       "review_id": "14535272719",
       "source": "app_store",
@@ -10373,19 +10403,6 @@
         "metric_accuracy",
         "support_resolution_quality",
         "personalization_use_case_fit"
-      ]
-    },
-    {
-      "review_id": "14200570056",
-      "source": "app_store",
-      "rating": 3,
-      "date": "2026-06-19T02:12:14-07:00",
-      "text": "I have worn a Whoop almost everyday for 9 years and it has guided my training. Sadly, the experience has gotten much worse. The AI is glitchy, the data is inconstant , the auto recognition or activities has changed from 20 minutes to 10 and it is reading even when I turn it off, the customer service which used to be amazing is terrible.  I hope it gets better or I will be looking for an alternative. :-(",
-      "subcategory_tags": [
-        "ai_reliability_bugs",
-        "metric_accuracy",
-        "activity_detection",
-        "support_resolution_quality"
       ]
     }
   ],
@@ -11088,6 +11105,16 @@
   ],
   "app_stability": [
     {
+      "review_id": "eb62480e-0807-4c65-bc57-813c0288bd1b",
+      "source": "google_play",
+      "rating": 3,
+      "date": "2026-09-28T05:09:58+00:00",
+      "text": "There Is an issue with the app - sometimes its stuck on some screen ( for example on referring a friends) and everytime you open the app it goes to this screen first so I need to press back to go to main menu. Tried to reinstall, clear data and so on but no success",
+      "subcategory_tags": [
+        "crashes_freezes"
+      ]
+    },
+    {
       "review_id": "a82f171e-f630-4ad2-a792-b3257b5ae797",
       "source": "google_play",
       "rating": 3,
@@ -11413,20 +11440,19 @@
         "update_failures",
         "crashes_freezes"
       ]
-    },
-    {
-      "review_id": "70da0325-4e30-4771-a1aa-c514b0b6d2cb",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2026-07-23T02:28:44",
-      "text": "The android app is really bad. How do you manage to make the app more and more laggy with every update? The app is almost unusable at this point. All the screens are lagging like crazy. Anything related to navigation doesn't work properly. The app crashes just from simple usage and moving between screens. It feels like none of the WHOOP team members have an Android phone... Absolutely terrible...",
-      "subcategory_tags": [
-        "crashes_freezes",
-        "android_specific_bugs"
-      ]
     }
   ],
   "crashes_freezes": [
+    {
+      "review_id": "eb62480e-0807-4c65-bc57-813c0288bd1b",
+      "source": "google_play",
+      "rating": 3,
+      "date": "2026-09-28T05:09:58+00:00",
+      "text": "There Is an issue with the app - sometimes its stuck on some screen ( for example on referring a friends) and everytime you open the app it goes to this screen first so I need to press back to go to main menu. Tried to reinstall, clear data and so on but no success",
+      "subcategory_tags": [
+        "crashes_freezes"
+      ]
+    },
     {
       "review_id": "14568178046",
       "source": "app_store",
@@ -11753,18 +11779,6 @@
         "crashes_freezes",
         "support_resolution_quality",
         "price_value_perception"
-      ]
-    },
-    {
-      "review_id": "c7a4167c-31b3-490d-a6bc-2cd6b8f1bae7",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2026-06-22T08:41:28",
-      "text": "since the last update is making issues, it didn't log sleep after a full night, also I by mistake discarded my workout in the middle and it lost the entire workout",
-      "subcategory_tags": [
-        "sleep_accuracy",
-        "crashes_freezes",
-        "update_failures"
       ]
     }
   ],
