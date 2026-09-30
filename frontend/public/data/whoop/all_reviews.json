@@ -1,5 +1,20 @@
 [
   {
+    "review_id": "e8a22be5-93c7-40a2-8434-44d47cf3dee1",
+    "source": "google_play",
+    "rating": 2,
+    "date": "2026-09-29T10:08:50+00:00",
+    "text": "The AI feature is not a learning AI so it makes many wrong assumptions. As someone who travels many time zones the sleep score is way off.",
+    "parent_category_tags": [
+      "ai_coach",
+      "sleep_tracking"
+    ],
+    "subcategory_tags": [
+      "ai_reliability_bugs",
+      "sleep_accuracy"
+    ]
+  },
+  {
     "review_id": "eb62480e-0807-4c65-bc57-813c0288bd1b",
     "source": "google_play",
     "rating": 3,

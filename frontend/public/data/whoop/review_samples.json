@@ -1711,6 +1711,17 @@
   ],
   "sleep_tracking": [
     {
+      "review_id": "e8a22be5-93c7-40a2-8434-44d47cf3dee1",
+      "source": "google_play",
+      "rating": 2,
+      "date": "2026-09-29T10:08:50+00:00",
+      "text": "The AI feature is not a learning AI so it makes many wrong assumptions. As someone who travels many time zones the sleep score is way off.",
+      "subcategory_tags": [
+        "ai_reliability_bugs",
+        "sleep_accuracy"
+      ]
+    },
+    {
       "review_id": "14599386541",
       "source": "app_store",
       "rating": 5,
@@ -2030,19 +2041,20 @@
         "metric_accuracy",
         "price_value_perception"
       ]
-    },
-    {
-      "review_id": "07e26a71-bc63-4305-a540-bba4395eec96",
-      "source": "google_play",
-      "rating": 5,
-      "date": "2026-08-20T13:57:59+00:00",
-      "text": "It is an accurate sleep/activity tracker.",
-      "subcategory_tags": [
-        "sleep_satisfaction"
-      ]
     }
   ],
   "sleep_accuracy": [
+    {
+      "review_id": "e8a22be5-93c7-40a2-8434-44d47cf3dee1",
+      "source": "google_play",
+      "rating": 2,
+      "date": "2026-09-29T10:08:50+00:00",
+      "text": "The AI feature is not a learning AI so it makes many wrong assumptions. As someone who travels many time zones the sleep score is way off.",
+      "subcategory_tags": [
+        "ai_reliability_bugs",
+        "sleep_accuracy"
+      ]
+    },
     {
       "review_id": "14576341015",
       "source": "app_store",
@@ -2375,19 +2387,6 @@
       "subcategory_tags": [
         "sleep_accuracy",
         "price_value_perception"
-      ]
-    },
-    {
-      "review_id": "992e472e-3f9f-494f-858e-adb0495c9864",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2026-07-15T17:03:30",
-      "text": "inaccurate & should do better research on women, I replaced the 1st whoop as big difference in counting steps, sleeping time & quality, and detecting me was taking a nap while I was having dinner with my family. the replacement doesn't seem to work well with me also. The app has no function for the women to switch between taking birth control pills and not. when you off the birth control pills, the past data all changed to off birth control pills. and birth control pills have 21 pills & 24 pills",
-      "subcategory_tags": [
-        "metric_accuracy",
-        "sleep_accuracy",
-        "personalization_use_case_fit",
-        "missing_metrics"
       ]
     }
   ],
@@ -7981,6 +7980,17 @@
   ],
   "ai_coach": [
     {
+      "review_id": "e8a22be5-93c7-40a2-8434-44d47cf3dee1",
+      "source": "google_play",
+      "rating": 2,
+      "date": "2026-09-29T10:08:50+00:00",
+      "text": "The AI feature is not a learning AI so it makes many wrong assumptions. As someone who travels many time zones the sleep score is way off.",
+      "subcategory_tags": [
+        "ai_reliability_bugs",
+        "sleep_accuracy"
+      ]
+    },
+    {
       "review_id": "14596508840",
       "source": "app_store",
       "rating": 3,
@@ -8300,21 +8310,20 @@
         "feature_ui_friction",
         "ai_autonomy"
       ]
-    },
-    {
-      "review_id": "14431427631",
-      "source": "app_store",
-      "rating": 5,
-      "date": "2026-08-15T09:25:47-07:00",
-      "text": "Many people complain about the cost of Whoop, but I find that I get great data and insights from the app and the AI interface. It really helps me understand my recovery from exercise, how well I’m sleeping, how my eating patterns affect my sleep and recovery. It’s been really great.",
-      "subcategory_tags": [
-        "price_value_perception",
-        "ai_positive_reception",
-        "sleep_satisfaction"
-      ]
     }
   ],
   "ai_reliability_bugs": [
+    {
+      "review_id": "e8a22be5-93c7-40a2-8434-44d47cf3dee1",
+      "source": "google_play",
+      "rating": 2,
+      "date": "2026-09-29T10:08:50+00:00",
+      "text": "The AI feature is not a learning AI so it makes many wrong assumptions. As someone who travels many time zones the sleep score is way off.",
+      "subcategory_tags": [
+        "ai_reliability_bugs",
+        "sleep_accuracy"
+      ]
+    },
     {
       "review_id": "14596508840",
       "source": "app_store",
@@ -8651,17 +8660,6 @@
         "ai_reliability_bugs",
         "ai_only_support_channel",
         "support_resolution_quality"
-      ]
-    },
-    {
-      "review_id": "6fbe5271-092f-4a3f-a305-9e6b2e5d2bd3",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2026-07-23T10:05:58",
-      "text": "I don't like the new AI - it used to be data-driven, focused on facts. Now the \"coach\" is routinely berating me for not doing enough, not being perfect, not sleeping better, not even acknowledging improvements or context (e.g. disease keeping me awake). I told the AI several times but it remains critical and berates on a daily basis. This is seriously making me consider abandoning Whoop for another wearable. This may be great for professional athletes but normal people need leeway not perfection",
-      "subcategory_tags": [
-        "ai_reliability_bugs",
-        "personalization_use_case_fit"
       ]
     }
   ],
