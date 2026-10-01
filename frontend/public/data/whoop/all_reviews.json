@@ -1,5 +1,63 @@
 [
   {
+    "review_id": "a13e334e-5854-4753-8dab-1e61cf2bd879",
+    "source": "google_play",
+    "rating": 5,
+    "date": "2026-09-30T13:16:34+00:00",
+    "text": "Love all comprehensive stats, it really helps me to understand my body and overall health.",
+    "parent_category_tags": [
+      "nan"
+    ],
+    "subcategory_tags": [
+      "nan"
+    ]
+  },
+  {
+    "review_id": "fb26315c-3f17-48ba-978d-99012156ce8b",
+    "source": "google_play",
+    "rating": 3,
+    "date": "2026-09-30T09:06:15+00:00",
+    "text": "happy with the product and services. But the subscription is expensive. Given the other similar products available, Whoop needs to revise the price and services.",
+    "parent_category_tags": [
+      "pricing_billing"
+    ],
+    "subcategory_tags": [
+      "price_value_perception"
+    ]
+  },
+  {
+    "review_id": "14610218540",
+    "source": "app_store",
+    "rating": 3,
+    "date": "2026-09-30T02:02:26-07:00",
+    "text": "The AI manager is incredibly inconsistent and comes from too many locations on the app some days. It tells me to do one thing on Tuesday. It tells me to do another sometimes they get mixed messages from all the sites. It’s as if there’s 15 brains and one doesn’t know what the other one saying also beats per minute can be very erratic while you’re exercising and I think sometimes it under plays how much zone work you’ve actually done. Certainly a lot of bugs need to be fixed before I could give this four or five stars.",
+    "parent_category_tags": [
+      "ai_coach",
+      "data_accuracy"
+    ],
+    "subcategory_tags": [
+      "ai_reliability_bugs",
+      "metric_accuracy"
+    ]
+  },
+  {
+    "review_id": "14609970255",
+    "source": "app_store",
+    "rating": 1,
+    "date": "2026-09-30T00:06:32-07:00",
+    "text": "OK for what it is but overpriced, constant upsell, locking your own biometric data into their ecosystem. Looking into the alternative band without a sub subscription. I don’t recommend this one, especially with their dark patterns and practices.",
+    "parent_category_tags": [
+      "pricing_billing",
+      "pricing_billing",
+      "pricing_billing"
+    ],
+    "subcategory_tags": [
+      "price_value_perception",
+      "upsell_pressure",
+      "billing_disputes"
+    ]
+  },
+  {
     "review_id": "e8a22be5-93c7-40a2-8434-44d47cf3dee1",
     "source": "google_play",
     "rating": 2,
@@ -12,6 +70,34 @@
     "subcategory_tags": [
       "ai_reliability_bugs",
       "sleep_accuracy"
+    ]
+  },
+  {
+    "review_id": "14604102201",
+    "source": "app_store",
+    "rating": 1,
+    "date": "2026-09-28T10:06:50-07:00",
+    "text": "I’ve used WHOOP for multiple nights, and unfortunately, I’m finding the sleep data to be very inaccurate—especially when I actually have a very poor night of sleep.\n\nOn several occasions, WHOOP has reported that I slept great or had a good-quality night, while I personally experienced the opposite. One night in particular was terrible, yet the data didn’t reflect that at all. I’ve now had multiple days where the sleep metrics simply don’t match my actual experience.\n\nFor someone who has significant sleep problems, this is a major issue. If the device is consistently telling me that I slept well when I know I didn’t, it makes the sleep scores difficult to trust or use meaningfully.\n\nIt may work well for people with relatively normal sleep patterns, but based on my experience, I wouldn’t rely on WHOOP for accurately tracking poor or disrupted sleep.",
+    "parent_category_tags": [
+      "sleep_tracking",
+      "feature_requests"
+    ],
+    "subcategory_tags": [
+      "sleep_accuracy",
+      "personalization_use_case_fit"
+    ]
+  },
+  {
+    "review_id": "14603615259",
+    "source": "app_store",
+    "rating": 5,
+    "date": "2026-09-28T07:37:41-07:00",
+    "text": "Since using Whoop I have significantly improved my health and fitness. It’s a real game changer for me.",
+    "parent_category_tags": [
+      "nan"
+    ],
+    "subcategory_tags": [
+      "nan"
     ]
   },
   {
