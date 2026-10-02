@@ -1,5 +1,63 @@
 [
   {
+    "review_id": "14613483028",
+    "source": "app_store",
+    "rating": 5,
+    "date": "2026-09-30T21:02:55-07:00",
+    "text": "Great for the 1st year",
+    "parent_category_tags": [
+      "nan"
+    ],
+    "subcategory_tags": [
+      "nan"
+    ]
+  },
+  {
+    "review_id": "eab5d2e2-c36b-4a96-9498-d5753bc351e0",
+    "source": "google_play",
+    "rating": 3,
+    "date": "2026-10-01T00:31:13+00:00",
+    "text": "half the app is ads, too many linking issues",
+    "parent_category_tags": [
+      "pricing_billing",
+      "sync_connectivity"
+    ],
+    "subcategory_tags": [
+      "upsell_pressure",
+      "ongoing_disconnects"
+    ]
+  },
+  {
+    "review_id": "14611968535",
+    "source": "app_store",
+    "rating": 3,
+    "date": "2026-09-30T11:27:25-07:00",
+    "text": "My band didn’t hold up well. Also, the app has begun giving me inaccurate activity readings (i.e., dancing while simply combing my hair)",
+    "parent_category_tags": [
+      "hardware_wearability",
+      "data_accuracy"
+    ],
+    "subcategory_tags": [
+      "strap_clasp_durability",
+      "activity_detection"
+    ]
+  },
+  {
+    "review_id": "14611844435",
+    "source": "app_store",
+    "rating": 4,
+    "date": "2026-09-30T10:46:57-07:00",
+    "text": "I've enjoyed this product, you barely feel it on you until you bounced off something by accident then you realize it's even there. It has helped me tremendously with staying disciplined and motivated. My sleep has improved because I've noticed exactly what wasn't going on with my body. And the habits, I recommend this to everyone whether you're old or young.",
+    "parent_category_tags": [
+      "hardware_wearability",
+      "sleep_tracking"
+    ],
+    "subcategory_tags": [
+      "comfort_fit",
+      "sleep_satisfaction"
+    ]
+  },
+  {
     "review_id": "a13e334e-5854-4753-8dab-1e61cf2bd879",
     "source": "google_play",
     "rating": 5,

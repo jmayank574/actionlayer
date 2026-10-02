@@ -1,6 +1,17 @@
 {
   "pricing_billing": [
     {
+      "review_id": "eab5d2e2-c36b-4a96-9498-d5753bc351e0",
+      "source": "google_play",
+      "rating": 3,
+      "date": "2026-10-01T00:31:13+00:00",
+      "text": "half the app is ads, too many linking issues",
+      "subcategory_tags": [
+        "upsell_pressure",
+        "ongoing_disconnects"
+      ]
+    },
+    {
       "review_id": "fb26315c-3f17-48ba-978d-99012156ce8b",
       "source": "google_play",
       "rating": 3,
@@ -318,17 +329,6 @@
       "date": "2026-09-05T10:09:40-07:00",
       "text": "I really do enjoy the bracelet but I doubt I will keep it when my year is up.   Way too expensive for a membership.  In all honestly once you buy this thing it should just work.  Lord knows we don’t need another monthly bill.",
       "subcategory_tags": [
-        "price_value_perception"
-      ]
-    },
-    {
-      "review_id": "14513233118",
-      "source": "app_store",
-      "rating": 3,
-      "date": "2026-09-05T04:40:29-07:00",
-      "text": "Doesn’t sense and pick up my workout unless I manually start an activity. Other products are more sensitive and do this for you. Not very user friendly making me remember to start an activity and then I have to tend to end the activity and if I forget I get these 23 hour workouts. For the price point this feature shouldn’t be so faulty. Unless fixed I won’t be renewing next year.",
-      "subcategory_tags": [
-        "activity_detection",
         "price_value_perception"
       ]
     }
@@ -1363,6 +1363,17 @@
   ],
   "upsell_pressure": [
     {
+      "review_id": "eab5d2e2-c36b-4a96-9498-d5753bc351e0",
+      "source": "google_play",
+      "rating": 3,
+      "date": "2026-10-01T00:31:13+00:00",
+      "text": "half the app is ads, too many linking issues",
+      "subcategory_tags": [
+        "upsell_pressure",
+        "ongoing_disconnects"
+      ]
+    },
+    {
       "review_id": "14609970255",
       "source": "app_store",
       "rating": 1,
@@ -1694,20 +1705,20 @@
         "support_resolution_quality",
         "redesign_regression"
       ]
-    },
-    {
-      "review_id": "df02c6e9-f631-4a24-8053-3f565613c808",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2026-01-21T14:36:30",
-      "text": "Most recent update placed the stupid AI button DIRECTLY OVER the \"start activity/start set\" button. This is no doubt intentional, and incredibly unethical. If this is not removed in the next update, I will not be renewing my subscription.",
-      "subcategory_tags": [
-        "upsell_pressure",
-        "feature_ui_friction"
-      ]
     }
   ],
   "sleep_tracking": [
+    {
+      "review_id": "14611844435",
+      "source": "app_store",
+      "rating": 4,
+      "date": "2026-09-30T10:46:57-07:00",
+      "text": "I've enjoyed this product, you barely feel it on you until you bounced off something by accident then you realize it's even there. It has helped me tremendously with staying disciplined and motivated. My sleep has improved because I've noticed exactly what wasn't going on with my body. And the habits, I recommend this to everyone whether you're old or young.",
+      "subcategory_tags": [
+        "comfort_fit",
+        "sleep_satisfaction"
+      ]
+    },
     {
       "review_id": "e8a22be5-93c7-40a2-8434-44d47cf3dee1",
       "source": "google_play",
@@ -2024,18 +2035,6 @@
       "text": "I’ve been using WHOOP for a while now, and it has completely changed the way I understand my body and approach my daily routine. I love being able to see how my sleep, recovery, stress, and training all connect.\n\nWhat I appreciate most is that it’s not just about tracking workouts—it helps me make smarter decisions about when to push harder and when my body needs more recovery. The insights have made me much more intentional with my habits, sleep, and overall performance.\n\nIf you’re someone who is serious about improving your fitness, recovery, and overall lifestyle, WHOOP is absolutely worth it. It has become part of my everyday routine, and I genuinely love having real data to help me understand my progress.\n\nHighly recommend! ⭐️⭐️⭐️⭐️⭐️",
       "subcategory_tags": [
         "sleep_satisfaction"
-      ]
-    },
-    {
-      "review_id": "14466799494",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-08-24T08:14:11-07:00",
-      "text": "Bought this hoping to gain some insights on my sleep habits. Nothing useful has come from it. It’s basically like my iPhone bedtime reminder and alarm, but for $400 a year. Not renewing my membership, especially after they wouldn’t honor the 30 day return policy.",
-      "subcategory_tags": [
-        "sleep_accuracy",
-        "price_value_perception",
-        "billing_disputes"
       ]
     }
   ],
@@ -2388,6 +2387,17 @@
   ],
   "sleep_satisfaction": [
     {
+      "review_id": "14611844435",
+      "source": "app_store",
+      "rating": 4,
+      "date": "2026-09-30T10:46:57-07:00",
+      "text": "I've enjoyed this product, you barely feel it on you until you bounced off something by accident then you realize it's even there. It has helped me tremendously with staying disciplined and motivated. My sleep has improved because I've noticed exactly what wasn't going on with my body. And the habits, I recommend this to everyone whether you're old or young.",
+      "subcategory_tags": [
+        "comfort_fit",
+        "sleep_satisfaction"
+      ]
+    },
+    {
       "review_id": "14599386541",
       "source": "app_store",
       "rating": 5,
@@ -2692,16 +2702,6 @@
       "rating": 4,
       "date": "2026-08-05T07:07:38-07:00",
       "text": "Whoop has helped me realize sleep quality, HRV, and overall stress (physical and non physical) as well as the associated impacts to each. I now fully understand what alcohol, and mental stress will do to my overall help and can track and take steps to avoid/improve my sleep.",
-      "subcategory_tags": [
-        "sleep_satisfaction"
-      ]
-    },
-    {
-      "review_id": "14387543807",
-      "source": "app_store",
-      "rating": 5,
-      "date": "2026-08-04T09:43:26-07:00",
-      "text": "I bought the whoop band 5.0 peak to start learning about my sleep patterns and fitness habits (or lack of them). It has been a great acquisition, every day I learn more of the features on the app to improve also my workouts in a way that guides me to do it better and to have a better understanding on recovery and sleep needs. It is very cool.",
       "subcategory_tags": [
         "sleep_satisfaction"
       ]
@@ -3060,6 +3060,28 @@
   ],
   "hardware_wearability": [
     {
+      "review_id": "14611968535",
+      "source": "app_store",
+      "rating": 3,
+      "date": "2026-09-30T11:27:25-07:00",
+      "text": "My band didn’t hold up well. Also, the app has begun giving me inaccurate activity readings (i.e., dancing while simply combing my hair)",
+      "subcategory_tags": [
+        "strap_clasp_durability",
+        "activity_detection"
+      ]
+    },
+    {
+      "review_id": "14611844435",
+      "source": "app_store",
+      "rating": 4,
+      "date": "2026-09-30T10:46:57-07:00",
+      "text": "I've enjoyed this product, you barely feel it on you until you bounced off something by accident then you realize it's even there. It has helped me tremendously with staying disciplined and motivated. My sleep has improved because I've noticed exactly what wasn't going on with my body. And the habits, I recommend this to everyone whether you're old or young.",
+      "subcategory_tags": [
+        "comfort_fit",
+        "sleep_satisfaction"
+      ]
+    },
+    {
       "review_id": "14576408227",
       "source": "app_store",
       "rating": 5,
@@ -3383,29 +3405,20 @@
         "comfort_fit",
         "support_responsiveness"
       ]
-    },
-    {
-      "review_id": "14249419496",
-      "source": "app_store",
-      "rating": 5,
-      "date": "2026-07-01T06:08:53-07:00",
-      "text": "This app is great and the extended battery life of the whoop has been a game changer for my consistency.",
-      "subcategory_tags": [
-        "battery_life"
-      ]
-    },
-    {
-      "review_id": "14249280717",
-      "source": "app_store",
-      "rating": 5,
-      "date": "2026-07-01T05:29:18-07:00",
-      "text": "I’ve have worn my whoop for over 1200 consecutive days and the information I’ve collected over time has really helped me SEE, and better understand how my reacts and recovers to events, whether it’s physical activity, illness, rest days, diet and work. The data I have helps me make better and intentional life decisions. Wearing the device on my wrist or other parts of my body makes gives me flexibility to have it on me all the time regardless of the activities that I do and the battery life is amazing so I’m not constantly having to remember to recharge the device. I’m planning on wearing my whoop for ever into my retirement to track all of the indicators that will help me identify trends early and give me time to adjust habits to stay fit and healthy.",
-      "subcategory_tags": [
-        "battery_life"
-      ]
     }
   ],
   "strap_clasp_durability": [
+    {
+      "review_id": "14611968535",
+      "source": "app_store",
+      "rating": 3,
+      "date": "2026-09-30T11:27:25-07:00",
+      "text": "My band didn’t hold up well. Also, the app has begun giving me inaccurate activity readings (i.e., dancing while simply combing my hair)",
+      "subcategory_tags": [
+        "strap_clasp_durability",
+        "activity_detection"
+      ]
+    },
     {
       "review_id": "14519069277",
       "source": "app_store",
@@ -3749,20 +3762,20 @@
         "strap_clasp_durability",
         "support_resolution_quality"
       ]
-    },
-    {
-      "review_id": "3bf0db9f-c72e-4d0d-8ee5-62f40260a2af",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2021-06-27T12:39:50",
-      "text": "This service is a scam. Their strap stopped working after 1 week of use, and I've been refused a refund for their broken product",
-      "subcategory_tags": [
-        "strap_clasp_durability",
-        "billing_disputes"
-      ]
     }
   ],
   "comfort_fit": [
+    {
+      "review_id": "14611844435",
+      "source": "app_store",
+      "rating": 4,
+      "date": "2026-09-30T10:46:57-07:00",
+      "text": "I've enjoyed this product, you barely feel it on you until you bounced off something by accident then you realize it's even there. It has helped me tremendously with staying disciplined and motivated. My sleep has improved because I've noticed exactly what wasn't going on with my body. And the habits, I recommend this to everyone whether you're old or young.",
+      "subcategory_tags": [
+        "comfort_fit",
+        "sleep_satisfaction"
+      ]
+    },
     {
       "review_id": "14554217779",
       "source": "app_store",
@@ -4092,19 +4105,6 @@
       "text": "the straps are the worst, wayer hogging. the only thing one wants against their skin all day is metal",
       "subcategory_tags": [
         "comfort_fit"
-      ]
-    },
-    {
-      "review_id": "66013b33-cc7f-42ad-b0c8-d24c26452bb4",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2025-12-05T01:01:20",
-      "text": "I'm not sure yet if I will keep it. I found it very inaccurate. The resting heart rate is good, but everything else is not. Sleep detection is disappointing, with a lot of false activity detected. It record a rate of 160 bpm during a short walks. An offline option for the basics would be nice. Additionally, the app is currently experiencing issues with servers, even though it shows as \"operational\" in the status. Also, the Whoop is bigger than expected and not comfortable at all.",
-      "subcategory_tags": [
-        "metric_accuracy",
-        "sleep_accuracy",
-        "comfort_fit",
-        "data_sync_delays"
       ]
     }
   ],
@@ -4811,6 +4811,17 @@
   ],
   "sync_connectivity": [
     {
+      "review_id": "eab5d2e2-c36b-4a96-9498-d5753bc351e0",
+      "source": "google_play",
+      "rating": 3,
+      "date": "2026-10-01T00:31:13+00:00",
+      "text": "half the app is ads, too many linking issues",
+      "subcategory_tags": [
+        "upsell_pressure",
+        "ongoing_disconnects"
+      ]
+    },
+    {
       "review_id": "2f4e903c-4631-4609-b7e5-c3c4add428ac",
       "source": "google_play",
       "rating": 1,
@@ -5137,17 +5148,6 @@
       "text": "I generally like my whoop. I bought one of the leather bands so it looks a  lot cuter with everyday clothes, but it has a hard time staying connected. I take it off to shower and the occasional pool or beach days in the summer and even though I follow all the steps to make sure it’s connected it’s not. I’ve gotten a few incorrect or missing readings. Which isn’t the end of the world but begs the question why wear it?",
       "subcategory_tags": [
         "ongoing_disconnects",
-        "data_sync_delays"
-      ]
-    },
-    {
-      "review_id": "f92d0be2-d5b2-43dc-9fa9-9968e42d581d",
-      "source": "google_play",
-      "rating": 3,
-      "date": "2026-07-21T06:25:33",
-      "text": "frustrating seems to take more than 30 minutes to process sleep 2 or 3 times a week. WHOOP : invest in more server capacity !",
-      "subcategory_tags": [
-        "sleep_accuracy",
         "data_sync_delays"
       ]
     }
@@ -5484,6 +5484,17 @@
   ],
   "ongoing_disconnects": [
     {
+      "review_id": "eab5d2e2-c36b-4a96-9498-d5753bc351e0",
+      "source": "google_play",
+      "rating": 3,
+      "date": "2026-10-01T00:31:13+00:00",
+      "text": "half the app is ads, too many linking issues",
+      "subcategory_tags": [
+        "upsell_pressure",
+        "ongoing_disconnects"
+      ]
+    },
+    {
       "review_id": "14588800177",
       "source": "app_store",
       "rating": 1,
@@ -5807,17 +5818,6 @@
       "subcategory_tags": [
         "ongoing_disconnects",
         "support_resolution_quality"
-      ]
-    },
-    {
-      "review_id": "8395164a-4084-44d6-b1f7-906cdc14e6dd",
-      "source": "google_play",
-      "rating": 5,
-      "date": "2025-11-28T11:07:54",
-      "text": "I love this app! I am able to get so much insight on my sleep and it is very detailed. The only problem I have had is that my WHOOP wrist band keeps disconnecting. IDK how to fix it. Somebody please tell me!",
-      "subcategory_tags": [
-        "sleep_satisfaction",
-        "ongoing_disconnects"
       ]
     }
   ],
@@ -6171,6 +6171,17 @@
   ],
   "data_accuracy": [
     {
+      "review_id": "14611968535",
+      "source": "app_store",
+      "rating": 3,
+      "date": "2026-09-30T11:27:25-07:00",
+      "text": "My band didn’t hold up well. Also, the app has begun giving me inaccurate activity readings (i.e., dancing while simply combing my hair)",
+      "subcategory_tags": [
+        "strap_clasp_durability",
+        "activity_detection"
+      ]
+    },
+    {
       "review_id": "14610218540",
       "source": "app_store",
       "rating": 3,
@@ -6505,16 +6516,6 @@
       "subcategory_tags": [
         "metric_accuracy",
         "price_value_perception"
-      ]
-    },
-    {
-      "review_id": "14429516194",
-      "source": "app_store",
-      "rating": 3,
-      "date": "2026-08-14T22:23:45-07:00",
-      "text": "During this time, I haven’t been satisfied with the step counter or strain data. There were days when I hadn’t even gotten out of bed yet, but it had already recorded 1,600 steps.",
-      "subcategory_tags": [
-        "metric_accuracy"
       ]
     }
   ],
@@ -6871,6 +6872,17 @@
   ],
   "activity_detection": [
     {
+      "review_id": "14611968535",
+      "source": "app_store",
+      "rating": 3,
+      "date": "2026-09-30T11:27:25-07:00",
+      "text": "My band didn’t hold up well. Also, the app has begun giving me inaccurate activity readings (i.e., dancing while simply combing my hair)",
+      "subcategory_tags": [
+        "strap_clasp_durability",
+        "activity_detection"
+      ]
+    },
+    {
       "review_id": "14576408227",
       "source": "app_store",
       "rating": 5,
@@ -7219,17 +7231,6 @@
         "metric_accuracy",
         "activity_detection",
         "support_resolution_quality"
-      ]
-    },
-    {
-      "review_id": "14193818380",
-      "source": "app_store",
-      "rating": 5,
-      "date": "2026-06-17T08:18:36-07:00",
-      "text": "Whoop app is great. Only problems have to do with activity recognition and sometimes sleep tracking (but only because I often have to wake up in the middle of the night and get to work- then come back home to sleep) five stars after 3 years",
-      "subcategory_tags": [
-        "activity_detection",
-        "sleep_accuracy"
       ]
     }
   ],

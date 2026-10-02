@@ -1,8 +1,8 @@
 {
   "scope": "combined_overlap",
-  "window_label": "Jun 2026–Aug 2026",
-  "window_start": "2026-06-01",
-  "window_end": "2026-08-31",
+  "window_label": "Jul 2026–Sep 2026",
+  "window_start": "2026-07-01",
+  "window_end": "2026-09-30",
   "priority_score_formula": "priority_score = recent_count * abs(pp_delta) -- rewards both real volume and real movement together. A 10pp swing on 5 reviews (score 50) ranks below a 3pp swing on 40 reviews (score 120), matching the product intuition that a moderate move backed by a lot of real signal deserves more attention than a dramatic move on a handful of reviews. Tunable: swap in recent_count**0.5 * abs(pp_delta) to dampen volume's influence, or multiply by baseline_total if categories with a thin baseline should also be discounted.",
   "zone_a_min_volume": 15,
   "zone_a_min_volume_reasoning": "15 recent mentions -- well above the 5-mention floor used elsewhere just to judge whether a rate is measurable at all; this feed is answering 'what should someone act on this week,' which needs real confidence in the number, not just statistical measurability.",
@@ -14,42 +14,42 @@
       "watch_reason": "Only ~1.1% of the sample by volume (2 of 180), but this is where an inaccurate or delayed signal has the highest real-world stakes of anything in this taxonomy — a missed cardiac irregularity detection is a different category of consequence than a wrong step count. Frequency rank should not determine how visible this category is downstream.",
       "status": "watching",
       "title": "Health-Signal Reliability & Medical-Adjacent Trust: mentions down this period",
-      "narrative": "Health-Signal Reliability & Medical-Adjacent Trust fell from 2.4% to 1.7% of reviews over Jun 2026–Aug 2026 — 0.7x baseline. 10 reviews now reference this, primarily driven by ECG / Blood Pressure Feature Reliability (-0.9pp). 40% of these reviews are rated 4-5 stars.",
-      "recent_rate_pct": 1.692,
-      "baseline_rate_pct": 2.449,
-      "pp_delta": -0.757,
-      "ratio": 0.69,
-      "recent_pct_positive": 40.0,
-      "recent_pct_negative": 50.0,
-      "sentiment_delta": 23.3,
-      "recent_count": 10,
-      "recent_total": 591,
-      "baseline_count": 18,
-      "baseline_total": 735,
-      "subcategory_contribution_sum_pct": 1.692,
+      "narrative": "Health-Signal Reliability & Medical-Adjacent Trust fell from 2.2% to 1.6% of reviews over Jul 2026–Sep 2026 — 0.7x baseline. 9 reviews now reference this, primarily driven by ECG / Blood Pressure Feature Reliability (-0.7pp). 44% of these reviews are rated 4-5 stars.",
+      "recent_rate_pct": 1.616,
+      "baseline_rate_pct": 2.172,
+      "pp_delta": -0.556,
+      "ratio": 0.74,
+      "recent_pct_positive": 44.4,
+      "recent_pct_negative": 44.4,
+      "sentiment_delta": 24.4,
+      "recent_count": 9,
+      "recent_total": 557,
+      "baseline_count": 20,
+      "baseline_total": 921,
+      "subcategory_contribution_sum_pct": 1.616,
       "multi_label_note": null,
       "top_drivers": [
         {
           "category_id": "ecg_bp_feature_reliability",
           "name": "ECG / Blood Pressure Feature Reliability",
-          "recent_rate_pct": 1.523,
-          "baseline_rate_pct": 2.449,
-          "pp_delta": -0.926,
+          "recent_rate_pct": 1.436,
+          "baseline_rate_pct": 2.172,
+          "pp_delta": -0.735,
           "verdict": "stable",
           "quote": {
-            "review_id": "14257757203",
+            "review_id": "14599386541",
             "source": "app_store",
             "rating": 5,
-            "date": "2026-07-03T05:31:35-07:00",
-            "text": "So impressed with Whoop.  Recommended workouts, rest, blood pressure, EKG & blood analysis right in app with AI analysis & recommendations…I’m using information from Whoop to build a Health Review I share with my Physician.  Really powerful future of Health."
+            "date": "2026-09-27T05:40:31-07:00",
+            "text": "I have had my Whoop band for now over a month and it is amazing, some tracking my sleep to my recovery and my blood pressure. This device is elevated above the rest in the market. I strongly recommend it."
           }
         },
         {
           "category_id": "cardiac_detection_trust",
           "name": "Cardiac / Irregularity Detection Trust",
-          "recent_rate_pct": 0.169,
+          "recent_rate_pct": 0.18,
           "baseline_rate_pct": 0.0,
-          "pp_delta": 0.169,
+          "pp_delta": 0.18,
           "verdict": "insufficient_recent_occurrences",
           "quote": {
             "review_id": "14382402484",
@@ -62,21 +62,21 @@
       ],
       "quotes": [
         {
+          "review_id": "14599386541",
+          "source": "app_store",
+          "rating": 5,
+          "date": "2026-09-27T05:40:31-07:00",
+          "text": "I have had my Whoop band for now over a month and it is amazing, some tracking my sleep to my recovery and my blood pressure. This device is elevated above the rest in the market. I strongly recommend it."
+        },
+        {
           "review_id": "14257757203",
           "source": "app_store",
           "rating": 5,
           "date": "2026-07-03T05:31:35-07:00",
           "text": "So impressed with Whoop.  Recommended workouts, rest, blood pressure, EKG & blood analysis right in app with AI analysis & recommendations…I’m using information from Whoop to build a Health Review I share with my Physician.  Really powerful future of Health."
-        },
-        {
-          "review_id": "14205248971",
-          "source": "app_store",
-          "rating": 1,
-          "date": "2026-06-20T06:32:19-07:00",
-          "text": "Paid for annual whoop labs blood testing for 4 times per year. When showing up to Quest they attempted to charge $441 when Whoop said no payment is required."
         }
       ],
-      "priority_score": 7.57
+      "priority_score": 5.0
     },
     "ai_coach": {
       "category_id": "ai_coach",
@@ -85,84 +85,84 @@
       "watch_reason": "~5.6% of sample volume for the parent overall, but ai_autonomy specifically — the sharpest complaint shape (\"I can't turn this off\") — is extremely thin: a full-dataset keyword check (see taxonomy_changelog.md, v2 Fix 1) found exactly one review in all 3,295 describing a user disabling the AI Coach and having it silently re-enable itself. It's kept as its own subcategory anyway, per the brief's instruction not to bury low-volume/ high-stakes signal, but \"watch\" here means \"watch for more examples,\" not \"confirmed at scale.\"",
       "status": "watching",
       "title": "AI Coach & Automated Guidance: mentions up 1.8x this period",
-      "narrative": "AI Coach & Automated Guidance rose from 7.2% to 13.0% of reviews over Jun 2026–Aug 2026 — 1.8x baseline. 77 reviews now reference this, primarily driven by AI Coach Positive Reception (+3.3pp). 54% of these reviews are rated 4-5 stars.",
-      "recent_rate_pct": 13.029,
-      "baseline_rate_pct": 7.211,
-      "pp_delta": 5.818,
-      "ratio": 1.81,
-      "recent_pct_positive": 54.5,
-      "recent_pct_negative": 35.1,
-      "sentiment_delta": 11.1,
-      "recent_count": 77,
-      "recent_total": 591,
-      "baseline_count": 53,
-      "baseline_total": 735,
-      "subcategory_contribution_sum_pct": 13.705,
+      "narrative": "AI Coach & Automated Guidance rose from 7.8% to 13.6% of reviews over Jul 2026–Sep 2026 — 1.8x baseline. 76 reviews now reference this, primarily driven by AI Coach Reliability & Bugs (+3.6pp). 42% of these reviews are rated 4-5 stars.",
+      "recent_rate_pct": 13.645,
+      "baseline_rate_pct": 7.818,
+      "pp_delta": 5.827,
+      "ratio": 1.75,
+      "recent_pct_positive": 42.1,
+      "recent_pct_negative": 43.4,
+      "sentiment_delta": -7.9,
+      "recent_count": 76,
+      "recent_total": 557,
+      "baseline_count": 72,
+      "baseline_total": 921,
+      "subcategory_contribution_sum_pct": 14.003,
       "multi_label_note": null,
       "top_drivers": [
         {
-          "category_id": "ai_positive_reception",
-          "name": "AI Coach Positive Reception",
-          "recent_rate_pct": 5.922,
-          "baseline_rate_pct": 2.585,
-          "pp_delta": 3.337,
+          "category_id": "ai_reliability_bugs",
+          "name": "AI Coach Reliability & Bugs",
+          "recent_rate_pct": 7.002,
+          "baseline_rate_pct": 3.366,
+          "pp_delta": 3.636,
           "verdict": "spike",
           "quote": {
-            "review_id": "14486435203",
-            "source": "app_store",
-            "rating": 5,
-            "date": "2026-08-29T08:34:58-07:00",
-            "text": "Whoop was recommended to me by a friend, I did the trial & it’s been a wrap ever since. There are so many benefits wrapped into one band, the long lasting battery is great, the insights and tracking, and the AI feature does a wonderful job giving recommendations and adjustments"
+            "review_id": "e8a22be5-93c7-40a2-8434-44d47cf3dee1",
+            "source": "google_play",
+            "rating": 2,
+            "date": "2026-09-29T10:08:50+00:00",
+            "text": "The AI feature is not a learning AI so it makes many wrong assumptions. As someone who travels many time zones the sleep score is way off."
           }
         },
         {
-          "category_id": "ai_reliability_bugs",
-          "name": "AI Coach Reliability & Bugs",
-          "recent_rate_pct": 5.922,
-          "baseline_rate_pct": 3.129,
-          "pp_delta": 2.793,
-          "verdict": "spike",
+          "category_id": "ai_positive_reception",
+          "name": "AI Coach Positive Reception",
+          "recent_rate_pct": 4.847,
+          "baseline_rate_pct": 3.257,
+          "pp_delta": 1.59,
+          "verdict": "stable",
           "quote": {
-            "review_id": "14471190075",
-            "source": "app_store",
-            "rating": 4,
-            "date": "2026-08-25T10:39:00-07:00",
-            "text": "It’s great does a good job, but I wish the AI was a little more aware on my workouts and plans we discussed and executed together. Kind of just does its own unless I remind it. Other than that it’s good"
+            "review_id": "9b45be40-697d-4e0d-8284-624b282a4192",
+            "source": "google_play",
+            "rating": 5,
+            "date": "2026-09-25T05:38:08+00:00",
+            "text": "It's life changing. To have live and ongoing feedback on your health and AI generated training plans has really given me a new motivation for health and exercise"
           }
         },
         {
           "category_id": "ai_autonomy",
           "name": "Forced / Non-Consensual AI Interaction",
-          "recent_rate_pct": 1.861,
-          "baseline_rate_pct": 1.497,
-          "pp_delta": 0.365,
+          "recent_rate_pct": 2.154,
+          "baseline_rate_pct": 1.412,
+          "pp_delta": 0.743,
           "verdict": "stable",
           "quote": {
-            "review_id": "b055d79f-144f-4f82-a43f-42a1c7ba4312",
-            "source": "google_play",
-            "rating": 3,
-            "date": "2026-08-31T14:55:31+00:00",
-            "text": "AI bloat makes some of the functions not work. I cannot view my Sleep or Recovery metric windows within the app because the AI analysis pop-up windows are non-dissmissable so about a third of the data I can't access."
+            "review_id": "14576383074",
+            "source": "app_store",
+            "rating": 2,
+            "date": "2026-09-21T07:18:47-07:00",
+            "text": "disabling the dumb AI chatbot is not possible and Strava integration never worked for me"
           }
         }
       ],
       "quotes": [
         {
-          "review_id": "14486435203",
-          "source": "app_store",
-          "rating": 5,
-          "date": "2026-08-29T08:34:58-07:00",
-          "text": "Whoop was recommended to me by a friend, I did the trial & it’s been a wrap ever since. There are so many benefits wrapped into one band, the long lasting battery is great, the insights and tracking, and the AI feature does a wonderful job giving recommendations and adjustments"
+          "review_id": "e8a22be5-93c7-40a2-8434-44d47cf3dee1",
+          "source": "google_play",
+          "rating": 2,
+          "date": "2026-09-29T10:08:50+00:00",
+          "text": "The AI feature is not a learning AI so it makes many wrong assumptions. As someone who travels many time zones the sleep score is way off."
         },
         {
-          "review_id": "14454449879",
+          "review_id": "14556573727",
           "source": "app_store",
-          "rating": 5,
-          "date": "2026-08-21T04:32:11-07:00",
-          "text": "I’m really impressed with WHOOP Live. It’s surprisingly accurate, especially considering how little input it requires from me. It seems to understand my activity, recovery, and how I’m feeling with minimal effort on my part. The insights feel relevant and personalized without requiring constant logging. Definitely a feature I’ve been enjoying!"
+          "rating": 1,
+          "date": "2026-09-16T06:40:23-07:00",
+          "text": "The Whoop coach is constantly giving me incorrect data and then when I correct it says something along the lines of “my bad, I’ll stop making stuff up!” And then the next day it’s back to making stuff up. I can’t trust anything from the coach."
         }
       ],
-      "priority_score": 447.99
+      "priority_score": 442.85
     },
     "app_stability": {
       "category_id": "app_stability",
@@ -171,161 +171,74 @@
       "watch_reason": null,
       "status": "improving",
       "title": "App Stability & Performance complaints are easing",
-      "narrative": "App Stability & Performance fell from 10.9% to 5.9% of reviews over Jun 2026–Aug 2026 — 0.5x baseline. 35 reviews now reference this, primarily driven by Crashes, Freezes & Unresponsive App (-3.9pp). 9% of these reviews are rated 4-5 stars.",
-      "recent_rate_pct": 5.922,
-      "baseline_rate_pct": 10.884,
-      "pp_delta": -4.962,
-      "ratio": 0.54,
-      "recent_pct_positive": 8.6,
-      "recent_pct_negative": 82.9,
-      "sentiment_delta": -1.4,
-      "recent_count": 35,
-      "recent_total": 591,
-      "baseline_count": 80,
-      "baseline_total": 735,
-      "subcategory_contribution_sum_pct": 6.599,
+      "narrative": "App Stability & Performance fell from 10.0% to 6.1% of reviews over Jul 2026–Sep 2026 — 0.6x baseline. 34 reviews now reference this, primarily driven by Crashes, Freezes & Unresponsive App (-3.1pp). 12% of these reviews are rated 4-5 stars.",
+      "recent_rate_pct": 6.104,
+      "baseline_rate_pct": 9.989,
+      "pp_delta": -3.885,
+      "ratio": 0.61,
+      "recent_pct_positive": 11.8,
+      "recent_pct_negative": 73.5,
+      "sentiment_delta": 3.1,
+      "recent_count": 34,
+      "recent_total": 557,
+      "baseline_count": 92,
+      "baseline_total": 921,
+      "subcategory_contribution_sum_pct": 6.643,
       "multi_label_note": null,
       "top_drivers": [
         {
           "category_id": "crashes_freezes",
           "name": "Crashes, Freezes & Unresponsive App",
-          "recent_rate_pct": 5.076,
-          "baseline_rate_pct": 8.98,
-          "pp_delta": -3.903,
+          "recent_rate_pct": 5.027,
+          "baseline_rate_pct": 8.143,
+          "pp_delta": -3.116,
           "verdict": "decline",
           "quote": {
-            "review_id": "14491552808",
-            "source": "app_store",
-            "rating": 1,
-            "date": "2026-08-30T15:03:36-07:00",
-            "text": "It’s been 3 days and the app won’t let me login. Tried changing password, reinstalling app, nothing works. Customer service is not very helpful nor can they fix the problem. Extremely frustrating."
+            "review_id": "eb62480e-0807-4c65-bc57-813c0288bd1b",
+            "source": "google_play",
+            "rating": 3,
+            "date": "2026-09-28T05:09:58+00:00",
+            "text": "There Is an issue with the app - sometimes its stuck on some screen ( for example on referring a friends) and everytime you open the app it goes to this screen first so I need to press back to go to main menu. Tried to reinstall, clear data and so on but no success"
           }
         },
         {
           "category_id": "update_failures",
           "name": "Update Failures & Friction",
-          "recent_rate_pct": 1.523,
-          "baseline_rate_pct": 3.265,
-          "pp_delta": -1.742,
+          "recent_rate_pct": 1.616,
+          "baseline_rate_pct": 3.04,
+          "pp_delta": -1.424,
           "verdict": "stable",
           "quote": {
-            "review_id": "ff9da5ad-2cba-4278-9b58-ef41cbb32a0a",
+            "review_id": "a82f171e-f630-4ad2-a792-b3257b5ae797",
             "source": "google_play",
-            "rating": 1,
-            "date": "2026-06-28T03:10:16",
-            "text": "after the last update it has stopped reviewing my sleep and recovery and didn't even update my lifespan. this definitely needs to be fixed"
-          }
-        }
-      ],
-      "quotes": [
-        {
-          "review_id": "14491552808",
-          "source": "app_store",
-          "rating": 1,
-          "date": "2026-08-30T15:03:36-07:00",
-          "text": "It’s been 3 days and the app won’t let me login. Tried changing password, reinstalling app, nothing works. Customer service is not very helpful nor can they fix the problem. Extremely frustrating."
-        },
-        {
-          "review_id": "14423531173",
-          "source": "app_store",
-          "rating": 2,
-          "date": "2026-08-13T10:25:48-07:00",
-          "text": "This app is great except that the strength trainer will frequently crash if you try to rearrange exercises during a workout. Then I lose half my workout."
-        }
-      ],
-      "priority_score": 173.67
-    },
-    "sync_connectivity": {
-      "category_id": "sync_connectivity",
-      "category_name": "Device Connectivity & Data Sync",
-      "watch_category": false,
-      "watch_reason": null,
-      "status": "improving",
-      "title": "Device Connectivity & Data Sync complaints are easing",
-      "narrative": "Device Connectivity & Data Sync fell from 9.1% to 5.8% of reviews over Jun 2026–Aug 2026 — 0.6x baseline. 34 reviews now reference this, primarily driven by Data Sync Delays & Failures (-1.9pp). 21% of these reviews are rated 4-5 stars.",
-      "recent_rate_pct": 5.753,
-      "baseline_rate_pct": 9.116,
-      "pp_delta": -3.363,
-      "ratio": 0.63,
-      "recent_pct_positive": 20.6,
-      "recent_pct_negative": 61.8,
-      "sentiment_delta": 2.7,
-      "recent_count": 34,
-      "recent_total": 591,
-      "baseline_count": 67,
-      "baseline_total": 735,
-      "subcategory_contribution_sum_pct": 6.261,
-      "multi_label_note": null,
-      "top_drivers": [
-        {
-          "category_id": "data_sync_delays",
-          "name": "Data Sync Delays & Failures",
-          "recent_rate_pct": 3.723,
-          "baseline_rate_pct": 5.578,
-          "pp_delta": -1.856,
-          "verdict": "stable",
-          "quote": {
-            "review_id": "14426493523",
-            "source": "app_store",
             "rating": 3,
-            "date": "2026-08-14T05:10:28-07:00",
-            "text": "Unsure why, but lost sleep tracking for 4 days..Took 45 minutes with helpful Customer Service rep to try to resolve…still trying to confirm I’m back connected"
-          }
-        },
-        {
-          "category_id": "ongoing_disconnects",
-          "name": "Ongoing Disconnects / Re-pairing",
-          "recent_rate_pct": 1.692,
-          "baseline_rate_pct": 2.313,
-          "pp_delta": -0.621,
-          "verdict": "stable",
-          "quote": {
-            "review_id": "1d2b158b-65fe-4654-aded-1fdbc925e51a",
-            "source": "google_play",
-            "rating": 1,
-            "date": "2026-07-31T05:44:53",
-            "text": "cant pair it back here after pairing w iphone, tried everything this is rly fristrating the qebsite instructions kot working"
-          }
-        },
-        {
-          "category_id": "onboarding_pairing",
-          "name": "Onboarding & Initial Pairing",
-          "recent_rate_pct": 0.846,
-          "baseline_rate_pct": 1.224,
-          "pp_delta": -0.378,
-          "verdict": "stable",
-          "quote": {
-            "review_id": "14452213935",
-            "source": "app_store",
-            "rating": 1,
-            "date": "2026-08-20T13:36:37-07:00",
-            "text": "This app is trash. Purchased the Life membership. Signed into the app. It didn’t recognize my membership. Wouldn’t connect to Bluetooth. Literal trash. If I could give it no stars, I would. You know what was easy though? Giving them my CC info. They have that squared away. Zero stars. Refund requested."
+            "date": "2026-09-22T11:16:04+00:00",
+            "text": "started having issues with last update. As of 9/22/26, sliders for daily journal entries slides too slow to the right and jumps to the left when trying to set the time. time will also often move 30 minutes when you let go of the slider. makes it a pain to fill out the daily journal."
           }
         }
       ],
       "quotes": [
         {
-          "review_id": "14426493523",
-          "source": "app_store",
+          "review_id": "eb62480e-0807-4c65-bc57-813c0288bd1b",
+          "source": "google_play",
           "rating": 3,
-          "date": "2026-08-14T05:10:28-07:00",
-          "text": "Unsure why, but lost sleep tracking for 4 days..Took 45 minutes with helpful Customer Service rep to try to resolve…still trying to confirm I’m back connected"
+          "date": "2026-09-28T05:09:58+00:00",
+          "text": "There Is an issue with the app - sometimes its stuck on some screen ( for example on referring a friends) and everytime you open the app it goes to this screen first so I need to press back to go to main menu. Tried to reinstall, clear data and so on but no success"
         },
         {
-          "review_id": "24aea93b-a881-4feb-9856-9372b4658e73",
+          "review_id": "a756b23f-b210-485a-9783-41ba3d433379",
           "source": "google_play",
-          "rating": 2,
-          "date": "2026-07-29T11:23:20",
-          "text": "it is kind of fun, but I suspect it makes up data sometimes, and it is really bad at offline data capture. If you're going on a multiday hike out of coverage, Whoop will fail to capture your activities. It needs some work"
+          "rating": 3,
+          "date": "2026-09-09T11:57:52+00:00",
+          "text": "I really like whoop but the app keeps crashing. I messaged support and got no real solution to the crashes. I lose the gps data on runs which affects the vo2 data."
         }
       ],
-      "priority_score": 114.34
+      "priority_score": 132.09
     }
   },
   "zone_a_ids": [
     "ai_coach",
-    "app_stability",
-    "sync_connectivity"
+    "app_stability"
   ],
   "watch_zone_ids": [
     "health_signal_reliability",
