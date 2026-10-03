@@ -1,5 +1,33 @@
 [
   {
+    "review_id": "d28bf235-3345-4c9d-bd28-c1aac9702384",
+    "source": "google_play",
+    "rating": 1,
+    "date": "2026-10-02T13:13:58+00:00",
+    "text": "I need real human support to cancel my subscription. Its insane I barely used my whoop last year and I forgot to cancel the subscription they automatically debitted me and I am not even entitled for a refund (17 days after getting automatically debitted). I expected more from such a respected app.",
+    "parent_category_tags": [
+      "pricing_billing",
+      "customer_support"
+    ],
+    "subcategory_tags": [
+      "billing_disputes",
+      "ai_only_support_channel"
+    ]
+  },
+  {
+    "review_id": "14614537432",
+    "source": "app_store",
+    "rating": 5,
+    "date": "2026-10-01T04:24:13-07:00",
+    "text": "I love all the information that I get about all areas of my lifestyle. As an avid runner with a thriving social life I can sometimes lose track of , well, a lot . And Whoops helps remind me to slow down and take care of the little habits that can go a long way!",
+    "parent_category_tags": [
+      "nan"
+    ],
+    "subcategory_tags": [
+      "nan"
+    ]
+  },
+  {
     "review_id": "14613483028",
     "source": "app_store",
     "rating": 5,

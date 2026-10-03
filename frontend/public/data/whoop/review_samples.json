@@ -1,6 +1,17 @@
 {
   "pricing_billing": [
     {
+      "review_id": "d28bf235-3345-4c9d-bd28-c1aac9702384",
+      "source": "google_play",
+      "rating": 1,
+      "date": "2026-10-02T13:13:58+00:00",
+      "text": "I need real human support to cancel my subscription. Its insane I barely used my whoop last year and I forgot to cancel the subscription they automatically debitted me and I am not even entitled for a refund (17 days after getting automatically debitted). I expected more from such a respected app.",
+      "subcategory_tags": [
+        "billing_disputes",
+        "ai_only_support_channel"
+      ]
+    },
+    {
       "review_id": "eab5d2e2-c36b-4a96-9498-d5753bc351e0",
       "source": "google_play",
       "rating": 3,
@@ -320,16 +331,6 @@
         "billing_disputes",
         "support_responsiveness",
         "support_resolution_quality"
-      ]
-    },
-    {
-      "review_id": "14514369240",
-      "source": "app_store",
-      "rating": 2,
-      "date": "2026-09-05T10:09:40-07:00",
-      "text": "I really do enjoy the bracelet but I doubt I will keep it when my year is up.   Way too expensive for a membership.  In all honestly once you buy this thing it should just work.  Lord knows we don’t need another monthly bill.",
-      "subcategory_tags": [
-        "price_value_perception"
       ]
     }
   ],
@@ -671,6 +672,17 @@
   ],
   "billing_disputes": [
     {
+      "review_id": "d28bf235-3345-4c9d-bd28-c1aac9702384",
+      "source": "google_play",
+      "rating": 1,
+      "date": "2026-10-02T13:13:58+00:00",
+      "text": "I need real human support to cancel my subscription. Its insane I barely used my whoop last year and I forgot to cancel the subscription they automatically debitted me and I am not even entitled for a refund (17 days after getting automatically debitted). I expected more from such a respected app.",
+      "subcategory_tags": [
+        "billing_disputes",
+        "ai_only_support_channel"
+      ]
+    },
+    {
       "review_id": "14609970255",
       "source": "app_store",
       "rating": 1,
@@ -1004,16 +1016,6 @@
         "ai_reliability_bugs",
         "personalization_use_case_fit",
         "price_value_perception",
-        "billing_disputes"
-      ]
-    },
-    {
-      "review_id": "14332847242",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-07-21T20:39:53-07:00",
-      "text": "They renew your subscription before it ends so you're forced to reach out to them or contact your credit card company.",
-      "subcategory_tags": [
         "billing_disputes"
       ]
     }
@@ -9311,6 +9313,17 @@
   ],
   "customer_support": [
     {
+      "review_id": "d28bf235-3345-4c9d-bd28-c1aac9702384",
+      "source": "google_play",
+      "rating": 1,
+      "date": "2026-10-02T13:13:58+00:00",
+      "text": "I need real human support to cancel my subscription. Its insane I barely used my whoop last year and I forgot to cancel the subscription they automatically debitted me and I am not even entitled for a refund (17 days after getting automatically debitted). I expected more from such a respected app.",
+      "subcategory_tags": [
+        "billing_disputes",
+        "ai_only_support_channel"
+      ]
+    },
+    {
       "review_id": "2f4e903c-4631-4609-b7e5-c3c4add428ac",
       "source": "google_play",
       "rating": 1,
@@ -9654,21 +9667,6 @@
       "subcategory_tags": [
         "support_responsiveness",
         "price_value_perception"
-      ]
-    },
-    {
-      "review_id": "abc20aac-c89c-4824-9d67-43c978fcbc3e",
-      "source": "google_play",
-      "rating": 4,
-      "date": "2026-08-02T16:08:49",
-      "text": "Monitoring of sleep and recovery ,HRV ,are very good. But many rooms of improvement for the expensive cost of memberships. Ai advice are mainly push you to more exercise and sleep. And data collections , diary are time consuming. It cannot detect activities uncless you log in. customer service are slow. Multiple lag time and hang of app requiring forced close and restore. Ai advice of activities are not medical advice , but its act like one. So I use it just baseline daily monitor.",
-      "subcategory_tags": [
-        "sleep_satisfaction",
-        "price_value_perception",
-        "ai_reliability_bugs",
-        "activity_detection",
-        "support_responsiveness",
-        "crashes_freezes"
       ]
     }
   ],
@@ -10398,6 +10396,17 @@
   ],
   "ai_only_support_channel": [
     {
+      "review_id": "d28bf235-3345-4c9d-bd28-c1aac9702384",
+      "source": "google_play",
+      "rating": 1,
+      "date": "2026-10-02T13:13:58+00:00",
+      "text": "I need real human support to cancel my subscription. Its insane I barely used my whoop last year and I forgot to cancel the subscription they automatically debitted me and I am not even entitled for a refund (17 days after getting automatically debitted). I expected more from such a respected app.",
+      "subcategory_tags": [
+        "billing_disputes",
+        "ai_only_support_channel"
+      ]
+    },
+    {
       "review_id": "d20107ed-a0dc-420d-894c-284346d61968",
       "source": "google_play",
       "rating": 1,
@@ -10754,18 +10763,6 @@
         "ecg_bp_feature_reliability",
         "ai_only_support_channel",
         "support_resolution_quality"
-      ]
-    },
-    {
-      "review_id": "d80914dd-5869-41fe-8c0e-4a57153bbf78",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2026-01-30T06:51:53",
-      "text": "The worst customer service AI slop. Over two months of trying to get a human to fix an issue with a purchased blood test. I wish I could rate a zero.",
-      "subcategory_tags": [
-        "ai_only_support_channel",
-        "support_responsiveness",
-        "ecg_bp_feature_reliability"
       ]
     }
   ],
