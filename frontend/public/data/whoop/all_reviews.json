@@ -1,5 +1,18 @@
 [
   {
+    "review_id": "14619225240",
+    "source": "app_store",
+    "rating": 5,
+    "date": "2026-10-02T08:10:47-07:00",
+    "text": "The quantity of data is very helpful even for everyday living and aging.  I am fairly active and in my late 50’s.  Not the athlete I once was, for sure. Whoop has helped me find my sources of fatigue and realize how stressful my work is.  It’s providing the information to reshape my life so that I feel better and am more aware of how events and choices  impact me. I truly had no idea how much strain just a day at work is — or meetings with my boss.",
+    "parent_category_tags": [
+      "feature_requests"
+    ],
+    "subcategory_tags": [
+      "personalization_use_case_fit"
+    ]
+  },
+  {
     "review_id": "d28bf235-3345-4c9d-bd28-c1aac9702384",
     "source": "google_play",
     "rating": 1,
@@ -12,6 +25,19 @@
     "subcategory_tags": [
       "billing_disputes",
       "ai_only_support_channel"
+    ]
+  },
+  {
+    "review_id": "14618633966",
+    "source": "app_store",
+    "rating": 5,
+    "date": "2026-10-02T05:17:18-07:00",
+    "text": "I find Whoop greatly helps me monitor my sleep and other activities. My Whoop helps me tweak my metrics. Finding it so useful.",
+    "parent_category_tags": [
+      "sleep_tracking"
+    ],
+    "subcategory_tags": [
+      "sleep_satisfaction"
     ]
   },
   {

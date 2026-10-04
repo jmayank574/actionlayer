@@ -1711,6 +1711,16 @@
   ],
   "sleep_tracking": [
     {
+      "review_id": "14618633966",
+      "source": "app_store",
+      "rating": 5,
+      "date": "2026-10-02T05:17:18-07:00",
+      "text": "I find Whoop greatly helps me monitor my sleep and other activities. My Whoop helps me tweak my metrics. Finding it so useful.",
+      "subcategory_tags": [
+        "sleep_satisfaction"
+      ]
+    },
+    {
       "review_id": "14611844435",
       "source": "app_store",
       "rating": 4,
@@ -2027,16 +2037,6 @@
       "subcategory_tags": [
         "sleep_satisfaction",
         "activity_detection"
-      ]
-    },
-    {
-      "review_id": "14489517148",
-      "source": "app_store",
-      "rating": 5,
-      "date": "2026-08-30T04:19:49-07:00",
-      "text": "I’ve been using WHOOP for a while now, and it has completely changed the way I understand my body and approach my daily routine. I love being able to see how my sleep, recovery, stress, and training all connect.\n\nWhat I appreciate most is that it’s not just about tracking workouts—it helps me make smarter decisions about when to push harder and when my body needs more recovery. The insights have made me much more intentional with my habits, sleep, and overall performance.\n\nIf you’re someone who is serious about improving your fitness, recovery, and overall lifestyle, WHOOP is absolutely worth it. It has become part of my everyday routine, and I genuinely love having real data to help me understand my progress.\n\nHighly recommend! ⭐️⭐️⭐️⭐️⭐️",
-      "subcategory_tags": [
-        "sleep_satisfaction"
       ]
     }
   ],
@@ -2389,6 +2389,16 @@
   ],
   "sleep_satisfaction": [
     {
+      "review_id": "14618633966",
+      "source": "app_store",
+      "rating": 5,
+      "date": "2026-10-02T05:17:18-07:00",
+      "text": "I find Whoop greatly helps me monitor my sleep and other activities. My Whoop helps me tweak my metrics. Finding it so useful.",
+      "subcategory_tags": [
+        "sleep_satisfaction"
+      ]
+    },
+    {
       "review_id": "14611844435",
       "source": "app_store",
       "rating": 4,
@@ -2694,16 +2704,6 @@
       "rating": 5,
       "date": "2026-08-06T02:51:46",
       "text": "this has really helped me with good insights into how my choices affect sleep and recovery patterns. I am really pleased thus far",
-      "subcategory_tags": [
-        "sleep_satisfaction"
-      ]
-    },
-    {
-      "review_id": "14391085029",
-      "source": "app_store",
-      "rating": 4,
-      "date": "2026-08-05T07:07:38-07:00",
-      "text": "Whoop has helped me realize sleep quality, HRV, and overall stress (physical and non physical) as well as the associated impacts to each. I now fully understand what alcohol, and mental stress will do to my overall help and can track and take steps to avoid/improve my sleep.",
       "subcategory_tags": [
         "sleep_satisfaction"
       ]
@@ -15529,6 +15529,16 @@
   ],
   "feature_requests": [
     {
+      "review_id": "14619225240",
+      "source": "app_store",
+      "rating": 5,
+      "date": "2026-10-02T08:10:47-07:00",
+      "text": "The quantity of data is very helpful even for everyday living and aging.  I am fairly active and in my late 50’s.  Not the athlete I once was, for sure. Whoop has helped me find my sources of fatigue and realize how stressful my work is.  It’s providing the information to reshape my life so that I feel better and am more aware of how events and choices  impact me. I truly had no idea how much strain just a day at work is — or meetings with my boss.",
+      "subcategory_tags": [
+        "personalization_use_case_fit"
+      ]
+    },
+    {
       "review_id": "14604102201",
       "source": "app_store",
       "rating": 1,
@@ -15848,16 +15858,6 @@
       "text": "Great data and tracking, but it would be take it to the next level if it connected with existing food tracking apps instead of having to input those details manually.",
       "subcategory_tags": [
         "third_party_integration"
-      ]
-    },
-    {
-      "review_id": "14431047499",
-      "source": "app_store",
-      "rating": 5,
-      "date": "2026-08-15T07:38:21-07:00",
-      "text": "I live and die by this whoop data as a pro athlete. I just wish it could tell time",
-      "subcategory_tags": [
-        "missing_metrics"
       ]
     }
   ],
@@ -16536,6 +16536,16 @@
   ],
   "personalization_use_case_fit": [
     {
+      "review_id": "14619225240",
+      "source": "app_store",
+      "rating": 5,
+      "date": "2026-10-02T08:10:47-07:00",
+      "text": "The quantity of data is very helpful even for everyday living and aging.  I am fairly active and in my late 50’s.  Not the athlete I once was, for sure. Whoop has helped me find my sources of fatigue and realize how stressful my work is.  It’s providing the information to reshape my life so that I feel better and am more aware of how events and choices  impact me. I truly had no idea how much strain just a day at work is — or meetings with my boss.",
+      "subcategory_tags": [
+        "personalization_use_case_fit"
+      ]
+    },
+    {
       "review_id": "14604102201",
       "source": "app_store",
       "rating": 1,
@@ -16862,17 +16872,6 @@
       "date": "2026-07-07T12:54:58",
       "text": "As someone with chronic illnesses, this has been a huge help in monitoring my symptoms and giving me something tangible to work with. highly recommend.",
       "subcategory_tags": [
-        "personalization_use_case_fit"
-      ]
-    },
-    {
-      "review_id": "14273395939",
-      "source": "app_store",
-      "rating": 5,
-      "date": "2026-07-07T03:01:36-07:00",
-      "text": "I didn’t plan on keeping whoop more than a couple of months.  But after having it I found it incredibly helpful to learn about my body.  I’m not an athlete. I’m a 72 year old woman who didn’t understand her body.  with whoop I’ve been able to build  sleep and work out routines that have really helped.   Early on I learned more or harder is not better.  It’s been a big help in my overall health plan.",
-      "subcategory_tags": [
-        "sleep_satisfaction",
         "personalization_use_case_fit"
       ]
     }
