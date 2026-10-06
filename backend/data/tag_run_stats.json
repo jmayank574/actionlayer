@@ -1,10 +1,10 @@
 {
-  "total_reviews": 3633,
-  "newly_tagged_this_run": 2,
-  "carried_over_this_run": 3631,
+  "total_reviews": 3641,
+  "newly_tagged_this_run": 8,
+  "carried_over_this_run": 3633,
   "tagged_ok": 3633,
-  "failed": 0,
-  "coverage_pct_this_run": 100.0,
+  "failed": 8,
+  "coverage_pct_this_run": 0.0,
   "invalid_subcategory_ids_dropped": 0,
   "unexpected_review_ids_dropped": 0,
   "other_ungrouped_count": 733,
@@ -22,5 +22,22 @@
   ],
   "multi_label_out_of_reference_range": true,
   "note_on_reference_rates": "Reference rates come from data/taxonomy_sample.csv's 180-review hand-labeled pass ONLY. data/eval_sample.csv was NOT hand-labeled at the time of this run (0/180), so there is one real reference point here, not two.",
-  "failure_reasons": {}
+  "failure_reasons": {
+    "batch_starting_14627940483": "TypeError: Messages.create() got an unexpected keyword argument 'temperature'",
+    "batch_starting_14622495612": "TypeError: Messages.create() got an unexpected keyword argument 'temperature'",
+    "batch_starting_14626525612": "TypeError: Messages.create() got an unexpected keyword argument 'temperature'",
+    "batch_starting_14626078911": "TypeError: Messages.create() got an unexpected keyword argument 'temperature'",
+    "batch_starting_14625197501": "TypeError: Messages.create() got an unexpected keyword argument 'temperature'",
+    "batch_starting_14627028764": "TypeError: Messages.create() got an unexpected keyword argument 'temperature'",
+    "batch_starting_14626125169": "TypeError: Messages.create() got an unexpected keyword argument 'temperature'",
+    "batch_starting_14622715587": "TypeError: Messages.create() got an unexpected keyword argument 'temperature'",
+    "14622495612": "no result returned after batched + individual retry",
+    "14626525612": "no result returned after batched + individual retry",
+    "14626078911": "no result returned after batched + individual retry",
+    "14625197501": "no result returned after batched + individual retry",
+    "14627028764": "no result returned after batched + individual retry",
+    "14627940483": "no result returned after batched + individual retry",
+    "14626125169": "no result returned after batched + individual retry",
+    "14622715587": "no result returned after batched + individual retry"
+  }
 }
