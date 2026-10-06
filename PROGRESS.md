@@ -7,7 +7,7 @@ Legend: [x] done · [~] built, not yet verified/committed · [ ] not started
 
 | # | Step | Status |
 |---|------|--------|
-| 1 | **Evals** — tagger regression gate + Assistant golden questions | [~] built & partly verified (see below) |
+| 1 | **Evals** — tagger regression gate + Assistant golden questions | [x] **done** — pushed, green in CI end to end |
 | 2 | **Pipeline health agent** — deterministic daily checks + LLM diagnosis → GitHub issue | [ ] |
 | 3 | **UI QA agent** — Playwright screenshots + text checks + vision pass, in CI | [ ] |
 | 4 | **Semantic search over reviews** — also clusters the ~20% "Other" bucket into proposed subcategories | [ ] |
@@ -42,8 +42,7 @@ Note: the live demo still runs the previous code until these are pushed (includi
 - [x] Deployed free: Vercel (dashboard) + Render (Assistant) + UptimeRobot keep-alive; rate limits (15/hr per visitor, 150/day total)
 
 ## Open items (need a decision or your action)
-- [ ] **You:** Render won't auto-pick-up today's pin unless it redeploys -- check its dashboard; if it didn't auto-deploy from the push, trigger Manual Deploy once
-- [ ] Re-run the Evals workflow once more to confirm it's actually green end to end now (not yet re-verified after the pin)
+- [ ] **You:** Render won't auto-pick-up the anthropic pin unless it redeploys -- check its dashboard; if it didn't auto-deploy from the push, trigger Manual Deploy once
 - [x] ~~Decision — tagger randomness~~ **Resolved: temperature 0 (option A).** Note: the ~3,600 reviews already tagged were made at default randomness and are NOT being re-tagged (costly, not needed); only new reviews get temperature-0 tags. Applies to the daily pipeline as soon as `tagger.py` is pushed
 - [ ] **You:** lower `GLOBAL_DAILY_LIMIT` on Render from 150 to ~40, and set a monthly spend limit in the Anthropic console
 - [ ] Taxonomy drift: "Other/Ungrouped" 20% (reference 10–15%), multi-label 48.7% (reference 35–40%). Step 4 targets this
@@ -52,6 +51,7 @@ Note: the live demo still runs the previous code until these are pushed (includi
 - [ ] Insight cards have no per-card recommended action (the Assistant does)
 
 ## Log
+- **2026-10-06** Evals workflow run #3 (commit `ea92a56`, post-pin): **green end to end** -- `unit` and `llm-evals` both passed. Step 1 is done.
 - **2026-10-06** First real CI run of `evals.yml`: free `unit` job passed; paid `llm-evals` job failed -- all 180 eval reviews failed to re-tag, even after retry. The script only logged review ids, not the actual error (fixed: `revalidate_prompt_fix.py` now prints distinct failure reasons). Real cause, once visible: `TypeError: Messages.create() got an unexpected keyword argument 'temperature'` -- `anthropic` was unpinned in `requirements.txt`, and a fresh install resolved to 1.11.0, which removed `temperature` entirely (replaced by `effort`). Not a credit or key problem (checked: local key works, balance $6.72). **This would have silently broken the live daily pipeline's next tagging run** (same unpinned install). Fixed by pinning `anthropic==0.120.2`, verified via a clean-room install. Render's existing deploy already has 1.8.0 (from its own earlier build) -- not currently broken (Assistant doesn't use `temperature`), but should be redeployed to pick up the pin.
 
 - **2026-09-25** Evals built. Found by them: trend questions produced 385-word reports with tables/emoji and 5 chart-tool calls (wrong chart shown); answers averaged 183 words vs a 120 target (now hard 130); ratings rendered as emoji; "negative sentiment" phrasing slipped through; Assistant couldn't answer "how many reviews / how fresh" (added a dataset-summary tool). Backend now returns a clear 503 instead of a bare 500 when the model API fails.
