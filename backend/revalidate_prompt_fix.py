@@ -62,18 +62,30 @@ def retag_eval_reviews(candidate_tagged_path: Path = None):
     print(f"Updated system prompt: {len(system_prompt):,} chars")
 
     result = tag_all(system_prompt, reviews, parent_lookup, valid_ids)
+    all_failure_reasons = dict(result["failure_reasons"])
     retry_ids = set(result["missing_review_ids"]) | set(result["failed_review_ids"])
     if retry_ids:
         print(f"Retrying {len(retry_ids)} missing/failed individually...")
         retry_reviews = [review_by_id[rid] for rid in retry_ids if rid in review_by_id]
         retry_result = tag_all(system_prompt, retry_reviews, parent_lookup, valid_ids, batch_size=1, max_concurrency=4)
         result["tagged"].update(retry_result["tagged"])
+        all_failure_reasons.update(retry_result["failure_reasons"])
         still_missing = set(retry_result["missing_review_ids"]) | set(retry_result["failed_review_ids"])
     else:
         still_missing = set()
 
     if still_missing:
-        print(f"WARNING: {len(still_missing)} reviews still untagged after retry: {still_missing}")
+        print(f"WARNING: {len(still_missing)} reviews still untagged after retry: {len(still_missing)} ids")
+        # The actual reason (e.g. "credit balance too low", a rate limit, a
+        # timeout) was being silently dropped here -- only the review ids were
+        # logged, so a systemic failure (every review failing for the same
+        # cause) looked identical in the log to scattered per-review noise.
+        # Print distinct reasons, not all ~180 lines (they're usually the same
+        # handful of errors repeated per batch).
+        distinct_reasons = sorted(set(all_failure_reasons.values()))
+        print(f"Distinct failure reason(s) ({len(distinct_reasons)}):")
+        for reason in distinct_reasons[:10]:
+            print(f"  - {reason[:300]}")
 
     rows = []
     for r in reviews:
