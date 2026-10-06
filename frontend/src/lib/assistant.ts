@@ -53,13 +53,31 @@ export interface AskResponse {
 }
 
 export async function askAssistant(messages: ChatMessage[]): Promise<AskResponse> {
-  const res = await fetch(`${ASSISTANT_API_URL}/api/ask`, {
-    method: 'POST',
-    headers: { 'Content-Type': 'application/json' },
-    body: JSON.stringify({ messages }),
-  })
+  const isLocal = ASSISTANT_API_URL.includes('localhost')
+  let res: Response
+  try {
+    res = await fetch(`${ASSISTANT_API_URL}/api/ask`, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ messages }),
+    })
+  } catch {
+    // Network-level failure: backend down, or (deployed) a free-tier host still waking up.
+    throw new Error(
+      isLocal
+        ? "Can't reach the Assistant backend -- is it running on :8001?"
+        : "Can't reach the Assistant right now -- it may be waking up. Try again in a moment.",
+    )
+  }
   if (!res.ok) {
-    throw new Error(`Assistant request failed (${res.status}) -- is the backend running on :8001?`)
+    // The backend sends a human-readable `detail` (rate limit, temporarily unavailable, ...).
+    let detail = ''
+    try {
+      detail = (await res.json()).detail ?? ''
+    } catch {
+      /* non-JSON error body */
+    }
+    throw new Error(detail || `Assistant request failed (${res.status}).`)
   }
   return res.json()
 }

@@ -19,3 +19,6 @@ out/
 # Misc
 .DS_Store
 *.log
+
+# Eval run outputs (full answers/traces) -- regenerated, not source
+backend/evals/results/

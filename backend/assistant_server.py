@@ -10,10 +10,12 @@ Local run: uvicorn assistant_server:app --reload --port 8001
 (alongside `npm run dev` in frontend/, same as running any other pipeline step)
 """
 
+import logging
 import os
 import time
 from collections import defaultdict
 
+import anthropic
 from anthropic import Anthropic
 from dotenv import load_dotenv
 from fastapi import FastAPI, HTTPException, Request
@@ -24,6 +26,8 @@ from assistant.agent import run_conversation
 from assistant.tools import AssistantData
 
 load_dotenv()
+
+logger = logging.getLogger("assistant")
 
 app = FastAPI()
 
@@ -106,7 +110,18 @@ def ask(req: AskRequest, request: Request):
     _check_rate_limit(client_ip)
 
     messages = [{"role": m.role, "content": m.content} for m in req.messages]
-    return run_conversation(_data, _client, messages)
+    # Failures are raised as HTTPException *inside* the endpoint on purpose: an
+    # unhandled exception becomes a bare 500 that skips the CORS middleware, so
+    # the browser can only show "Failed to fetch" -- no usable message. This way
+    # the frontend gets a real one. Details go to the log, not to visitors.
+    try:
+        return run_conversation(_data, _client, messages)
+    except anthropic.APIError as e:  # credit exhausted, rate-limited, upstream outage, network
+        logger.error("Anthropic API error: %s: %s", type(e).__name__, e)
+        raise HTTPException(status_code=503, detail="The Assistant is temporarily unavailable. Please try again in a little while.")
+    except Exception:
+        logger.exception("Unexpected error answering a question")
+        raise HTTPException(status_code=500, detail="Something went wrong answering that. Please try again.")
 
 
 # GET and HEAD: uptime monitors (e.g. UptimeRobot's free tier) probe with HEAD

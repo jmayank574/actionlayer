@@ -79,6 +79,15 @@ cd backend
 uvicorn assistant_server:app --reload --port 8001
 ```
 
+**Evals (from `backend/`):**
+```bash
+python -m pytest evals/test_checks.py        # free: the checkers' own unit tests
+python -m evals.tagger_eval                  # free: stored predictions vs. committed baseline
+python -m evals.tagger_eval --retag          # PAID (~180 reviews): re-tag eval set with the CURRENT prompt, gate on F1
+python -m evals.tagger_eval --retag --update-baseline   # only after a reviewed, deliberate improvement
+python -m evals.assistant_eval [--only id1,id2] [--limit N]   # PAID (~20 questions): golden-question suite
+```
+
 **Automation:** `.github/workflows/daily-pipeline.yml` runs the full pipeline daily (13:00 UTC) and commits changed outputs. Requires an `ANTHROPIC_API_KEY` repository secret — without it, the tagging step fails on any day with genuinely new reviews (harmless no-op on days with none).
 
 ## Architecture
@@ -119,6 +128,14 @@ A tool-calling Claude chat over the real pipeline data, modeled on Unwrap's Assi
 `agent.py`'s `run_conversation()` loops tool calls (capped at `MAX_TOOL_ITERATIONS`) until Claude returns a text-only response, then returns `{text, quotes, chart, category_stats}` -- `quotes` is every review surfaced via `search_reviews` this turn (deduped), so the frontend can show real citations alongside the answer, not just embedded in the prose. `AssistantData` loads the CSVs once at server startup, not per-request.
 
 Local-dev-only: `frontend/src/lib/assistant.ts` calls `http://localhost:8001` directly, CORS-restricted to `localhost:5173`. No hosting/deployment exists for this yet.
+
+### Evals (backend/evals/)
+Automated accuracy checks, so a change that quietly makes things worse can't ship silently. Run them after touching the Assistant prompt/tools, the tagging prompt, the taxonomy, or the model.
+- **Tagger gate** (`tagger_eval.py`): scores the 180 hand-labeled reviews in `data/eval_sample.csv` (reusing `eval_tagger.py`) against `evals/baseline_tagger.json`; fails if subcategory micro-F1, parent micro-F1, or mean Jaccard drops more than 0.03. Only `--retag` tests a prompt/taxonomy change (it re-tags the eval set with the current prompt, and is the only mode that can record a baseline -- like-for-like); the free mode is informational. Per-subcategory drops and "Other" agreement (only ~24 reviews, so 1 review = 0.042) are warnings, not gates. The tagger runs at `temperature=0` so repeat runs match (identical tag sets 74% -> 89% vs. default sampling); ~11% of reviews still vary run to run, which is why the tolerance isn't zero.
+- **Assistant golden questions** (`assistant_eval.py` + `golden_questions.yaml`): runs real questions through the agent and applies deterministic checks (`checks.py`): every percentage/delta/ratio/count in the answer must trace to a tool result (number grounding), quotes must be real reviews, no emoji/headers/tables, no "positive/negative sentiment" phrasing (the number is a star-rating proxy), ≤180 words (prompt asks 130), charts on trend questions, refusals when the data can't answer, and scope discipline on follow-ups. `critical` cases must always pass; the rest need a ≥90% pass rate (LLM output varies run to run).
+- `run_conversation(..., include_trace=True)` returns every tool call and result -- off by default, used only by the evals.
+- Golden questions assert design properties, never specific data values (those change daily). When a real bug is found, add a case for it.
+- CI: `.github/workflows/evals.yml` — free tier always, paid tier only on pushes/PRs touching `backend/assistant|tagging|evals`, `taxonomy.yaml`, or on demand. The daily data commits never trigger it.
 
 ## Environment Variables
 

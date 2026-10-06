@@ -23,19 +23,22 @@ Grounding rules, non-negotiable:
 - If the data can't answer the question (e.g. it's about a competitor, or something outside these reviews), say so plainly instead of guessing.
 - combined_overlap scope only covers Nov 2025 onward (when App Store data starts); google_play and app_store each have their own separate, longer history. Don't mix rates across scopes as if they were comparable -- state which scope a number is from when it matters. Default to combined_overlap unless the question specifically needs one source's longer history.
 - A single review can carry multiple category tags -- it can be genuine evidence for more than one finding at once.
-- get_category_stats and get_trend_timeseries include pct_positive/pct_negative -- the share of a category's reviews rated 4-5 stars vs 1-2 stars. This is a star-rating proxy, NOT AI-inferred sentiment and NOT aspect-tied to just that one category (a review's rating reflects the whole review). Use it to say whether a rate change is good or bad news, but describe it as "X% of these reviews were 4-5 stars," never as "X% positive sentiment" or "customers feel X" -- don't overstate its precision.
+- get_category_stats and get_trend_timeseries include pct_positive/pct_negative -- the share of a category's reviews rated 4-5 stars vs 1-2 stars. This is a star-rating proxy, NOT AI-inferred sentiment and NOT aspect-tied to just that one category (a review's rating reflects the whole review). Use it to say whether a rate change is good or bad news, but describe it as "X% of these reviews were 4-5 stars," never as "X% positive sentiment" or "customers feel X" -- don't overstate its precision. The same goes for qualitative phrasing: don't write "negative sentiment", "sentiment turned/shifted/remains sour" and the like; say what's actually measured ("more of these reviews are rated 1-2 stars", "the reviews are getting angrier").
 
 Answer format -- this is a chat panel someone scans in seconds, not a report:
 - Lead with one bolded sentence that directly answers the question -- the headline finding, with its real number.
-- Then 2-5 short bullets, each ONE line: a named driver plus its real stat (e.g. "**Crashes & freezes** -- 4.9% of recent reviews, down from 9.5%"). No sub-bullets, no nested detail.
+- Then 3-4 short bullets (never more), each ONE line of at most ~25 words: a named driver plus its real stat (e.g. "**Crashes & freezes** -- 4.9% of recent reviews, down from 9.5%"). No sub-bullets, no nested detail. If there are more than 4 findings, keep the 3-4 that matter most and drop the rest.
 - Do NOT quote review text or cite review_ids in your answer -- the UI already shows real customer quotes in a separate evidence panel next to your answer. Repeating them in prose is redundant. Just name the finding; the evidence panel carries the proof.
 - End with one line starting "**Recommendation:**" -- the single most useful, concrete next action. Skip it only if the question isn't actionable (e.g. a pure lookup).
-- No headers (##), no tables, no emojis, no restating the question, no "Here's a breakdown of...". If you're over ~120 words, you're writing a report instead of an answer -- cut it.
+- No headers (##), no tables, no emojis (write a rating as "2 stars" or "2★", never with an emoji), no restating the question, no "Here's a breakdown of...".
+- Hard limit: 130 words for the whole answer (headline + bullets + recommendation). Answers have been running ~180 words, which is a report, not an answer. When you're over, cut the least important bullet -- never exceed the limit.
 - This format is the default, not a hard cap: if the user explicitly asks for more depth, more quotes inline, a table, a longer breakdown, etc., give them that instead.
+
+Trend questions ("show me the trend for X", "how has X changed"): the UI draws a chart from the LAST get_trend_timeseries call, right beside your answer. So (1) call get_trend_timeseries exactly once, for the category the user actually named (the parent, unless they named a specific subcategory) -- that call is what gets charted, so extra calls just put the wrong chart on screen; (2) do NOT reproduce the series as a table or a month-by-month list -- the chart already shows it, and "show me the trend" is not a request for a table; (3) use the standard shape: one bolded sentence on the shape of the trend (direction, peak, where it is now -- note if the latest month is partial), 2-3 one-line bullets on what's driving it and whether the reviews behind it are getting happier or angrier, then the Recommendation line. Same word budget, no emoji.
 
 Always pull real evidence, not just stats: for the single biggest driver/finding in your answer, call search_reviews (category_id set to that driver's id, 2-3 results) so the evidence panel has real quotes backing up the headline -- a stat-only answer with an empty evidence panel is a weaker answer even if the prose is correct. Skip this only for pure lookups where no single driver is being named (e.g. "how many total mentions does X have").
 
-You have tools to list valid category ids, search real reviews, pull category rate/trend stats, and get a category's monthly time series for charting. Call list_categories first if you're not sure of the exact category_id for what's being asked -- don't guess an id. When comparing many categories at once (e.g. "what's our biggest problem"), call get_category_stats without a category_id to see all of them, but you don't need to call search_reviews for every single one -- just the one(s) you actually name as the answer.
+You have tools to list valid category ids, search real reviews, pull category rate/trend stats, get a category's monthly time series for charting, and summarize the dataset itself (get_dataset_summary: total reviews, per-source counts, how recent the latest review is). Call list_categories first if you're not sure of the exact category_id for what's being asked -- don't guess an id. When comparing many categories at once (e.g. "what's our biggest problem"), call get_category_stats without a category_id to see all of them, but you don't need to call search_reviews for every single one -- just the one(s) you actually name as the answer.
 """
 
 TOOLS = [
@@ -82,6 +85,11 @@ TOOLS = [
             "required": ["category_id"],
         },
     },
+    {
+        "name": "get_dataset_summary",
+        "description": "How much data there is and how fresh it is: total reviews, per-source counts, and each source's earliest/latest review date. Use for questions like 'how many reviews do you have' or 'how up to date is this'.",
+        "input_schema": {"type": "object", "properties": {}},
+    },
 ]
 
 
@@ -103,16 +111,30 @@ def _run_tool(data: AssistantData, name: str, tool_input: dict):
         return data.trend_timeseries(
             category_id=tool_input["category_id"], scope=tool_input.get("scope") or DEFAULT_SCOPE,
         )
+    if name == "get_dataset_summary":
+        return data.dataset_summary()
     return {"error": f"unknown tool {name}"}
 
 
-def run_conversation(data: AssistantData, client: Anthropic, messages: list[dict]) -> dict:
+def run_conversation(data: AssistantData, client: Anthropic, messages: list[dict],
+                     include_trace: bool = False) -> dict:
     """messages: [{role: 'user'|'assistant', content: str}, ...], ending in the
-    new user question. Returns {text, quotes, chart, category_stats}."""
+    new user question. Returns {text, quotes, chart, category_stats}.
+
+    include_trace: also return tool_trace -- every tool call as {name, input,
+    result}, in order. Off by default so the API response is unchanged; the
+    eval suite (backend/evals/) turns it on to check that every number in an
+    answer actually appears in what the tools returned."""
     working_messages: list[dict] = [dict(m) for m in messages]
     quotes_by_id: dict[str, dict] = {}
     chart = None
     stats_used: list[dict] = []
+    trace: list[dict] = []
+
+    def _finish(payload: dict) -> dict:
+        if include_trace:
+            payload["tool_trace"] = trace
+        return payload
 
     for _ in range(MAX_TOOL_ITERATIONS):
         response = client.messages.create(
@@ -122,12 +144,12 @@ def run_conversation(data: AssistantData, client: Anthropic, messages: list[dict
 
         if response.stop_reason != "tool_use":
             text = "".join(b.text for b in response.content if b.type == "text")
-            return {
+            return _finish({
                 "text": text,
                 "quotes": list(quotes_by_id.values()),
                 "chart": chart,
                 "category_stats": stats_used,
-            }
+            })
 
         working_messages.append({"role": "assistant", "content": response.content})
         tool_results = []
@@ -135,6 +157,8 @@ def run_conversation(data: AssistantData, client: Anthropic, messages: list[dict
             if block.type != "tool_use":
                 continue
             result = _run_tool(data, block.name, block.input or {})
+            if include_trace:
+                trace.append({"name": block.name, "input": dict(block.input or {}), "result": result})
 
             if block.name == "search_reviews" and isinstance(result, list):
                 for q in result:
@@ -155,7 +179,7 @@ def run_conversation(data: AssistantData, client: Anthropic, messages: list[dict
             })
         working_messages.append({"role": "user", "content": tool_results})
 
-    return {
+    return _finish({
         "text": "I wasn't able to finish researching this within the allotted steps -- try breaking your question into smaller parts.",
         "quotes": list(quotes_by_id.values()), "chart": chart, "category_stats": stats_used,
-    }
+    })

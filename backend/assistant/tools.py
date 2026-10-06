@@ -51,6 +51,24 @@ class AssistantData:
             for sub in cat["subcategories"]:
                 self.category_names[sub["id"]] = sub["name"]
 
+    def dataset_summary(self) -> dict:
+        """How much data there is and how fresh -- what "how many reviews" /
+        "how up to date is this" questions need. Dates are UTC ISO strings."""
+        dates = pd.to_datetime(self.tagged["date"], format="mixed", utc=True)
+        per_source = {}
+        for source, idx in self.tagged.groupby("source").groups.items():
+            d = dates.loc[idx]
+            per_source[source] = {
+                "reviews": int(len(idx)),
+                "earliest_review": d.min().strftime("%Y-%m-%d"),
+                "latest_review": d.max().strftime("%Y-%m-%d"),
+            }
+        return {
+            "total_reviews": int(len(self.tagged)),
+            "latest_review_overall": dates.max().strftime("%Y-%m-%d"),
+            "per_source": per_source,
+        }
+
     def list_categories(self) -> list[dict]:
         out = []
         for cat in self.taxonomy["categories"]:

@@ -1,0 +1,70 @@
+name: Evals
+
+# Automated accuracy checks, in two tiers:
+#   unit       -- free and deterministic: the checkers' own tests.
+#   llm-evals  -- makes real model calls (roughly a dollar or less per run): re-tags the
+#                 180 hand-labeled reviews with the current prompt and gates on F1, then
+#                 runs the Assistant's golden questions and checks every number it says
+#                 traces to a tool result.
+# The paid tier only runs when something that can change model behavior changed
+# (Assistant prompt/tools, tagging prompt, taxonomy, the evals themselves) or on demand.
+# The daily data pipeline's commits touch none of these paths, so they never trigger it.
+
+on:
+  workflow_dispatch: {}
+  push:
+    branches: [main]
+    paths:
+      - "backend/assistant/**"
+      - "backend/tagging/**"
+      - "backend/data/taxonomy.yaml"
+      - "backend/evals/**"
+      - ".github/workflows/evals.yml"
+  pull_request:
+    paths:
+      - "backend/assistant/**"
+      - "backend/tagging/**"
+      - "backend/data/taxonomy.yaml"
+      - "backend/evals/**"
+      - ".github/workflows/evals.yml"
+
+jobs:
+  unit:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: backend
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt -r requirements-dev.txt
+      - name: Checker unit tests
+        run: python -m pytest evals/test_checks.py -q
+
+  llm-evals:
+    needs: unit
+    runs-on: ubuntu-latest
+    env:
+      ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+    defaults:
+      run:
+        working-directory: backend
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
+      - name: Tagger regression gate (re-tags the eval reviews with the current prompt)
+        run: python -m evals.tagger_eval --retag
+      - name: Assistant golden questions
+        run: python -m evals.assistant_eval
+      - name: Keep the full answers and tool traces
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: eval-results
+          path: backend/evals/results/
+          if-no-files-found: ignore

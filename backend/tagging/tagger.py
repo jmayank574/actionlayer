@@ -56,6 +56,12 @@ def _call_batch_once(system_prompt: str, reviews: list[dict]) -> dict:
 
     message = client.messages.create(
         model=MODEL,
+        # Classification, not creative writing: temperature 0 makes tagging
+        # repeatable. At the API default, an identical prompt gave a different
+        # tag set for 26% of a 180-review test set between two runs (found by
+        # the tagger eval) -- so dashboard numbers weren't reproducible and no
+        # accuracy check could be meaningful.
+        temperature=0,
         max_tokens=MAX_TOKENS_PER_BATCH,
         system=[{"type": "text", "text": system_prompt, "cache_control": {"type": "ephemeral"}}],
         messages=[{"role": "user", "content": user_message}],

@@ -1,0 +1,151 @@
+{
+  "n_eval_reviews": 180,
+  "missing_predictions": 0,
+  "sub_micro_f1": 0.6126,
+  "par_micro_f1": 0.7412,
+  "sub_macro_f1_supported": 0.6308,
+  "other_agreement": 0.8333,
+  "mean_jaccard": 0.5649,
+  "per_subcategory": {
+    "activity_detection": {
+      "support": 13,
+      "f1": 0.4444
+    },
+    "ai_autonomy": {
+      "support": 1,
+      "f1": 1.0
+    },
+    "ai_only_support_channel": {
+      "support": 1,
+      "f1": 0.6667
+    },
+    "ai_positive_reception": {
+      "support": 6,
+      "f1": 0.8333
+    },
+    "ai_reliability_bugs": {
+      "support": 4,
+      "f1": 0.8
+    },
+    "android_feature_gaps": {
+      "support": 2,
+      "f1": 0.5714
+    },
+    "android_specific_bugs": {
+      "support": 3,
+      "f1": 0.6667
+    },
+    "battery_life": {
+      "support": 2,
+      "f1": 1.0
+    },
+    "billing_disputes": {
+      "support": 12,
+      "f1": 0.8462
+    },
+    "build_quality_perception": {
+      "support": 4,
+      "f1": 0.4
+    },
+    "comfort_fit": {
+      "support": 4,
+      "f1": 0.6667
+    },
+    "crashes_freezes": {
+      "support": 10,
+      "f1": 0.56
+    },
+    "data_sync_delays": {
+      "support": 7,
+      "f1": 0.7059
+    },
+    "device_rendering_bugs": {
+      "support": 1,
+      "f1": 1.0
+    },
+    "feature_ui_friction": {
+      "support": 32,
+      "f1": 0.3913
+    },
+    "metric_accuracy": {
+      "support": 36,
+      "f1": 0.6545
+    },
+    "missing_activity_types": {
+      "support": 7,
+      "f1": 0.4615
+    },
+    "missing_language_support": {
+      "support": 2,
+      "f1": 1.0
+    },
+    "missing_metrics": {
+      "support": 5,
+      "f1": 0.4762
+    },
+    "notification_community_issues": {
+      "support": 1,
+      "f1": 0.0
+    },
+    "onboarding_pairing": {
+      "support": 9,
+      "f1": 0.75
+    },
+    "ongoing_disconnects": {
+      "support": 18,
+      "f1": 0.8649
+    },
+    "personalization_use_case_fit": {
+      "support": 4,
+      "f1": 0.125
+    },
+    "plan_trial_structure": {
+      "support": 3,
+      "f1": 0.8571
+    },
+    "price_value_perception": {
+      "support": 20,
+      "f1": 0.7451
+    },
+    "redesign_regression": {
+      "support": 2,
+      "f1": 0.1905
+    },
+    "sleep_accuracy": {
+      "support": 11,
+      "f1": 0.8
+    },
+    "sleep_alarm_ui": {
+      "support": 1,
+      "f1": 0.5
+    },
+    "sleep_satisfaction": {
+      "support": 8,
+      "f1": 0.6316
+    },
+    "support_resolution_quality": {
+      "support": 12,
+      "f1": 0.7619
+    },
+    "support_responsiveness": {
+      "support": 2,
+      "f1": 0.2857
+    },
+    "support_satisfaction": {
+      "support": 3,
+      "f1": 0.6667
+    },
+    "third_party_integration": {
+      "support": 1,
+      "f1": 0.4
+    },
+    "update_failures": {
+      "support": 10,
+      "f1": 0.5556
+    },
+    "upsell_pressure": {
+      "support": 2,
+      "f1": 0.8
+    }
+  }
+}
