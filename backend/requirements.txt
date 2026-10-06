@@ -1,6 +1,11 @@
 fastapi
 uvicorn
-anthropic
+# Pinned: anthropic>=1.9 removed the `temperature` parameter from
+# Messages.create() entirely (replaced by `effort`) -- an unpinned install
+# silently broke tagging/tagger.py's temperature=0 call with a TypeError.
+# Caught by the eval suite before it hit the daily pipeline. Bump deliberately,
+# not by drift -- re-check tagger.py and assistant/agent.py's API usage first.
+anthropic==0.120.2
 python-dotenv
 requests
 email-validator
