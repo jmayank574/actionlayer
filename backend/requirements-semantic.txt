@@ -1,0 +1,6 @@
+# Semantic search / Other-bucket clustering tooling (backend/semantic/).
+# Kept separate from requirements.txt on purpose: these pull in torch (~2GB)
+# and aren't needed by the daily pipeline, the Assistant, or evals -- only by
+# someone running semantic search or the clustering proposal by hand.
+sentence-transformers
+scikit-learn
