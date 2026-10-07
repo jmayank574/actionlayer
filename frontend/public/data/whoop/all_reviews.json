@@ -1,15 +1,90 @@
 [
   {
+    "review_id": "ad9c6eb6-0f02-4193-b90e-2a12f9c4ad92",
+    "source": "google_play",
+    "rating": 4,
+    "date": "2026-10-06T05:18:44+00:00",
+    "text": "got very detail data's, but will be great if lower down the subscription fee.",
+    "parent_category_tags": [
+      "pricing_billing"
+    ],
+    "subcategory_tags": [
+      "price_value_perception"
+    ]
+  },
+  {
+    "review_id": "14632903844",
+    "source": "app_store",
+    "rating": 5,
+    "date": "2026-10-05T20:09:22-07:00",
+    "text": "Deep dive or in a rush.. just be consistently adding data for those insights. Then as life changes you can choose your best tweak ;) to make life better and better! Works for me!",
+    "parent_category_tags": [
+      "nan"
+    ],
+    "subcategory_tags": [
+      "nan"
+    ]
+  },
+  {
+    "review_id": "14632842048",
+    "source": "app_store",
+    "rating": 5,
+    "date": "2026-10-05T19:43:20-07:00",
+    "text": "I’ve had my whoop for a little over a year and I won’t ever go without it now. I first got it for my workouts and recovery. But now I use it to really tune into my body and achieve my goals. I also love that it’s now integrated with Natural Cycles. As a women, it’s amazing!!!",
+    "parent_category_tags": [
+      "feature_requests"
+    ],
+    "subcategory_tags": [
+      "third_party_integration"
+    ]
+  },
+  {
+    "review_id": "14632497555",
+    "source": "app_store",
+    "rating": 2,
+    "date": "2026-10-05T17:25:14-07:00",
+    "text": "Doesn’t capture naps reliably and when it does, doesn’t subtract from sleep debt which is illogical.\nShows often low oxygen 88%. Dedicated oximeter shows 98-99%.\nOverly complicated menu.\nI would’ve given it 3 stars for accuracy but comparing “medical grade” subscription cost to basic Fitbit Charge 3 which is more accurate in heart rate, steps and detecting sleep, I give it 2.",
+    "parent_category_tags": [
+      "sleep_tracking",
+      "data_accuracy",
+      "ui_ux",
+      "pricing_billing"
+    ],
+    "subcategory_tags": [
+      "sleep_accuracy",
+      "metric_accuracy",
+      "redesign_regression",
+      "price_value_perception"
+    ]
+  },
+  {
+    "review_id": "14629488102",
+    "source": "app_store",
+    "rating": 1,
+    "date": "2026-10-04T22:54:58-07:00",
+    "text": "I have an older iPhone. I’ve been using a whoop for over three years and it has definitely helped me improve my health and sleep quality. \n\nI’ve been tracking my whoop data consistently for these three years and making actionable lifestyle changes based on the data. For example, while I knew that eating before bed negatively impacts sleep, but I was able to see the effect clearly from my data. And now I usually can tell when I’m about to get sick a day or two early and can prioritize rest and make cold season less impactful.\n\nBut the fact that I have to update my iOS to keep using the app is ridiculous. I don’t want to buy a new phone when this one works perfectly well for everything else. I know that they only mess with the app for job security and to justify price increases because some stressed out zyn-addicted kid from Makenzie promised some disconnected self-important C-Suite employee at Whoop that they would be Deloited at the quarterly reports if they made some unnecessary change. \n\nI really got value from my Whoop, but I will be canceling my subscription and get off of Whoop when my version of the app is discontinued later this month.\n\nDo better Whoop. Actually, just do less, the product is good enough. Don’t listen to people who don’t care, listen to athletes using the app. You don’t need to change the software, just focus on making the hardware more accurate and ergonomic.",
+    "parent_category_tags": [
+      "pricing_billing",
+      "app_stability",
+      "pricing_billing"
+    ],
+    "subcategory_tags": [
+      "price_value_perception",
+      "update_failures",
+      "billing_disputes"
+    ]
+  },
+  {
     "review_id": "14627940483",
     "source": "app_store",
     "rating": 4,
     "date": "2026-10-04T12:22:49-07:00",
     "text": "I really love this product BUT the macro tracking integration option is poor. I much preferred MacroFactor due to the apps user friendliness.",
     "parent_category_tags": [
-      "nan"
+      "feature_requests"
     ],
     "subcategory_tags": [
-      "nan"
+      "third_party_integration"
     ]
   },
   {
@@ -45,10 +120,10 @@
     "date": "2026-10-04T02:56:27-07:00",
     "text": "I find my WHOOP to be very useful in helping me gather data in my recovery from a fib and cardiomyopathy",
     "parent_category_tags": [
-      "nan"
+      "health_signal_reliability"
     ],
     "subcategory_tags": [
-      "nan"
+      "cardiac_detection_trust"
     ]
   },
   {
@@ -58,10 +133,12 @@
     "date": "2026-10-04T02:37:33-07:00",
     "text": "I love my whoop and have been a member for a number of years- recently i got a new band and the whole works fell off while i was out shopping- a lovely person in customer service sent me a whole new device setup and really made me feel like a valued customer. It was a wonderful experience. 100/10!!!",
     "parent_category_tags": [
-      "nan"
+      "hardware_wearability",
+      "customer_support"
     ],
     "subcategory_tags": [
-      "nan"
+      "strap_clasp_durability",
+      "support_satisfaction"
     ]
   },
   {
@@ -71,10 +148,10 @@
     "date": "2026-10-03T20:20:11-07:00",
     "text": "In the age of way more secure digital pay options, I shouldn’t need to enter my credit card information to sign up. Digital wallets are more secure. Please get up to speed and integrate those payment options.",
     "parent_category_tags": [
-      "nan"
+      "pricing_billing"
     ],
     "subcategory_tags": [
-      "nan"
+      "billing_disputes"
     ]
   },
   {
@@ -84,10 +161,12 @@
     "date": "2026-10-03T06:04:52-07:00",
     "text": "I have been using WHOOP for many years now, and I absolutely love it. They are constantly making enhancements to the programming and the adjacent offers, like the biomarker testing (additional cost) is something I would not have pursued on my own, but has really helped in identifying some potential health issues. The coaching to address that as well just my general health and fitness is something I truly value. These guys really take health and fitness seriously, and listen to customer feedback. While, some say it's pricey, it is definitely worth it.",
     "parent_category_tags": [
-      "nan"
+      "pricing_billing",
+      "pricing_billing"
     ],
     "subcategory_tags": [
-      "nan"
+      "price_value_perception",
+      "upsell_pressure"
     ]
   },
   {
