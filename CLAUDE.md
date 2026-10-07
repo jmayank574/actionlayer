@@ -32,16 +32,35 @@ actionlayer/
 │   ├── export_dashboard_data.py   # Reshapes computed outputs into frontend/public/data/whoop/*.json
 │   ├── sample_for_taxonomy.py, sample_eval_set.py, eval_tagger.py, revalidate_prompt_fix.py
 │   │                               # Taxonomy-building and tagger-eval tooling (see docstrings)
+│   ├── ops/
+│   │   ├── health_check.py        # Daily pipeline health check: deterministic checks + Claude
+│   │   │                           #   explains real findings → GitHub issue. Never decides what's wrong.
+│   │   └── ui_qa_diagnose.py      # Same pattern for the UI QA suite: Playwright decides pass/fail,
+│   │                               #   Claude (vision) explains a real failure screenshot
+│   ├── semantic/                  # Semantic search + Other/Ungrouped clustering (offline tool,
+│   │   │                           #   not in the live Assistant -- see requirements-semantic.txt)
+│   │   ├── embeddings.py          # Local sentence-transformers embeddings, cached incrementally
+│   │   ├── search.py              # python -m semantic.search "<query>"
+│   │   └── cluster_other.py       # Clusters Other/Ungrouped, Claude proposes names -- a proposal
+│   │                               #   only, never edits taxonomy.yaml
+│   ├── onboarding/
+│   │   └── onboard_product.py     # Onboards a new product: ingest → stratified sample → Claude
+│   │                               #   drafts a taxonomy (grounded, cites sample_ids) → eval seed.
+│   │                               #   Everything under data/products/<slug>/, fully isolated.
 │   └── data/
 │       ├── whoop_reviews_raw.csv      # Ingested reviews (source of truth, upserted)
 │       ├── taxonomy.yaml              # The taxonomy itself
 │       ├── tagged_reviews.csv         # Per-review tags + confidence
 │       ├── category_trends.csv, category_trend_verdicts.csv
 │       ├── open_coding.csv, taxonomy_sample.csv, eval_sample.csv  # Taxonomy-building/eval samples
+│       ├── other_cluster_proposals.md # Candidate new subcategories for the Other/Ungrouped bucket
+│       ├── products/<slug>/           # Onboarding drafts for other products (e.g. oura_ring/) --
+│       │                               #   never touched by the WHOOP pipeline
 │       └── _archive/                  # Old prompt-tuning investigation, kept for reference
 └── frontend/          # Vite + React + TypeScript dashboard
     ├── public/data/products.json         # Category → Product registry
     ├── public/data/whoop/*.json          # Exported pipeline output (static data source)
+    ├── playwright.config.ts, tests/ui_qa.spec.ts  # UI QA suite (see backend/ops/ui_qa_diagnose.py)
     └── src/
         ├── pages/CategoryLanding.tsx, CategoryPage.tsx, ProductDashboard.tsx, Assistant.tsx
         ├── components/InsightFeed.tsx, InsightCard.tsx, WatchZone.tsx, TrendChart.tsx, ...
@@ -77,6 +96,36 @@ npx tsc -b         # type-check only
 ```bash
 cd backend
 uvicorn assistant_server:app --reload --port 8001
+```
+
+**Pipeline health check (after a pipeline run; dry-run by default):**
+```bash
+cd backend
+python -m ops.health_check                 # dry run -- prints, never calls GitHub
+python -m ops.health_check --post-issue     # also files a GitHub issue (needs `gh`)
+```
+
+**UI QA suite:**
+```bash
+cd frontend
+npx playwright install chromium   # once
+npm run test:ui                   # starts the dev server itself, runs the golden-path suite
+cd ../backend
+python -m ops.ui_qa_diagnose      # only meaningful after a failing run -- explains + files an issue
+```
+
+**Semantic search / Other-bucket clustering** (needs `pip install -r backend/requirements-semantic.txt`, kept separate from the main pipeline — see that file):
+```bash
+cd backend
+python -m semantic.search "battery draining overnight"
+python -m semantic.cluster_other            # writes data/other_cluster_proposals.md -- a proposal, never edits taxonomy.yaml
+```
+
+**Onboarding a new product** (writes only under `backend/data/products/<slug>/`, never touches WHOOP's data):
+```bash
+cd backend
+python -m onboarding.onboard_product --product-name "..." --category "..." \
+    --google-play-package com.example.app --app-store-id 123456789
 ```
 
 **Evals (from `backend/`):**
