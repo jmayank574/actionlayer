@@ -18,6 +18,7 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+      issues: write
 
     steps:
       - uses: actions/checkout@v4
@@ -35,13 +36,14 @@ jobs:
           git config user.email "actionlayer-bot@users.noreply.github.com"
 
       - name: Ingest reviews (upserts data/whoop_reviews_raw.csv, never overwrites)
+        id: ingest
         working-directory: backend
         run: python ingest.py
 
       - name: Commit new/updated raw reviews
         working-directory: backend
         run: |
-          git add data/whoop_reviews_raw.csv data/README.md
+          git add data/whoop_reviews_raw.csv data/README.md data/ingest_run_stats.json
           if git diff --cached --quiet; then
             echo "No new or changed reviews today -- nothing to commit."
           else
@@ -50,16 +52,19 @@ jobs:
           fi
 
       - name: Tag new reviews (incremental -- only new/failed review_ids call Claude)
+        id: tag
         working-directory: backend
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: python tag_reviews.py
 
       - name: Recompute trends
+        id: trends
         working-directory: backend
         run: python analyze_trends.py
 
       - name: Re-export dashboard JSON
+        id: export
         working-directory: backend
         run: python export_dashboard_data.py
 
@@ -74,3 +79,15 @@ jobs:
             git commit -m "Daily tagging + trends + dashboard export: $(date -u +%Y-%m-%d)"
             git push
           fi
+
+      - name: Check pipeline health, file an issue if something's wrong
+        if: always()
+        working-directory: backend
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          GH_TOKEN: ${{ github.token }}
+          STEP_INGEST: ${{ steps.ingest.outcome }}
+          STEP_TAG: ${{ steps.tag.outcome }}
+          STEP_TRENDS: ${{ steps.trends.outcome }}
+          STEP_EXPORT: ${{ steps.export.outcome }}
+        run: python -m ops.health_check --post-issue

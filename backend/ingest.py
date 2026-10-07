@@ -19,6 +19,7 @@ pull happened to catch.
 """
 
 import csv
+import json
 import sys
 from pathlib import Path
 
@@ -39,6 +40,7 @@ COUNTRY = "us"
 DATA_DIR = Path(__file__).parent / "data"
 CSV_PATH = DATA_DIR / "whoop_reviews_raw.csv"
 README_PATH = DATA_DIR / "README.md"
+STATS_PATH = DATA_DIR / "ingest_run_stats.json"
 
 
 def main():
@@ -76,6 +78,14 @@ def main():
 
     README_PATH.write_text(report_text, encoding="utf-8")
     print(f"Wrote summary to {README_PATH}")
+
+    # The markdown report above is for humans; this is the same data in a
+    # shape the daily pipeline health check (backend/ops/health_check.py) can
+    # read without parsing prose. "issues" is the real signal to watch -- a
+    # live source returning nothing or erroring shows up here, not just as a
+    # drop in the new-review count (which a genuinely quiet day also produces).
+    STATS_PATH.write_text(json.dumps(summary, indent=2, default=str), encoding="utf-8")
+    print(f"Wrote {STATS_PATH}")
 
     print()
     print(report_text)

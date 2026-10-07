@@ -1,0 +1,62 @@
+{
+  "generated_at": "2026-10-06T12:57:09.229917",
+  "product": "WHOOP",
+  "sources": {
+    "google_play": {
+      "total": 2951,
+      "date_range": [
+        "2017-08-25T20:34:31",
+        "2026-10-02T13:13:58"
+      ],
+      "rating_distribution": {
+        "1": 1115,
+        "2": 370,
+        "3": 329,
+        "4": 280,
+        "5": 857
+      },
+      "avg_length_words": 37.8
+    },
+    "app_store": {
+      "total": 690,
+      "date_range": [
+        "2025-11-17T19:06:49",
+        "2026-10-04T12:22:49"
+      ],
+      "rating_distribution": {
+        "1": 203,
+        "2": 60,
+        "3": 64,
+        "4": 69,
+        "5": 294
+      },
+      "avg_length_words": 53.7
+    }
+  },
+  "combined": {
+    "total": 3641,
+    "date_range": [
+      "2017-08-25T20:34:31",
+      "2026-10-04T12:22:49"
+    ],
+    "rating_distribution": {
+      "1": 1318,
+      "2": 430,
+      "3": 393,
+      "4": 349,
+      "5": 1151
+    },
+    "avg_length_words": 40.8
+  },
+  "drop_counts": {
+    "dropped_empty_or_short": 476,
+    "dropped_duplicate": 0
+  },
+  "issues": [],
+  "merge_counts": {
+    "new": 0,
+    "updated": 0,
+    "unchanged": 3298,
+    "carried_over": 343
+  }
+}
