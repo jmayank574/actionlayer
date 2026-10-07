@@ -1,0 +1,301 @@
+version: 1
+product: Oura Ring
+built_from: Bottom-up open coding of a 60-review stratified sample (onboarding agent).
+multi_label: true
+categories:
+- id: data_accuracy
+  name: Data & Measurement Accuracy
+  definition: Reviews questioning whether the ring's sensor readings and calculated
+    metrics reflect reality.
+  watch_category: false
+  subcategories:
+  - id: sleep_tracking_accuracy
+    name: Sleep Tracking Accuracy
+    definition: Complaints or praise about how accurately the ring detects sleep onset,
+      duration, and stages.
+    supporting_sample_ids:
+    - 1
+    - 11
+    - 21
+    - 28
+    - 48
+    - 51
+  - id: activity_detection_accuracy
+    name: Activity & Step Detection Accuracy
+    definition: Feedback about the ring misidentifying, over-detecting, or under-detecting
+      physical activities and step counts.
+    supporting_sample_ids:
+    - 4
+    - 29
+    - 35
+    - 43
+    - 59
+  - id: calorie_tracking_accuracy
+    name: Calorie Tracking Accuracy
+    definition: Concerns that calorie burn estimates are incorrect or changed negatively
+      after an update.
+    supporting_sample_ids:
+    - 16
+    - 57
+  - id: general_metric_inaccuracy
+    name: General Metric Inaccuracy
+    definition: Broad claims that multiple metrics or overall data quality have become
+      unreliable over time.
+    supporting_sample_ids:
+    - 20
+    - 36
+- id: app_stability_performance
+  name: App Stability & Performance
+  definition: Reviews focused on technical bugs, crashes, freezes, slow syncing, or
+    the app failing to open.
+  watch_category: false
+  subcategories:
+  - id: app_crashes_freezes
+    name: App Crashes & Freezes
+    definition: Reports of the app crashing, going black, or becoming completely unusable.
+    supporting_sample_ids:
+    - 18
+    - 39
+    - 47
+  - id: sync_connectivity_issues
+    name: Sync & Bluetooth Connectivity Issues
+    definition: Difficulty getting the ring to maintain a Bluetooth connection or
+      push data to the app.
+    supporting_sample_ids:
+    - 5
+    - 9
+    - 14
+    - 52
+  - id: app_update_problems
+    name: App Update Problems
+    definition: Issues triggered by or caused during the app update process itself.
+    supporting_sample_ids:
+    - 17
+    - 44
+    - 46
+  - id: ui_navigation_bugs
+    name: UI Bugs & Display Errors
+    definition: Visual glitches such as the home screen refreshing constantly, wrong
+      dates shown, or persistent intrusive banners.
+    supporting_sample_ids:
+    - 16
+    - 17
+    - 44
+- id: battery_life
+  name: Battery Life & Degradation
+  definition: Reviews about how long the ring holds a charge, including degradation
+    over time.
+  watch_category: false
+  subcategories:
+  - id: battery_degradation_over_time
+    name: Battery Degradation Over Time
+    definition: Users reporting that battery life declined significantly after several
+      months of use.
+    supporting_sample_ids:
+    - 38
+    - 45
+    - 56
+    - 60
+  - id: battery_life_positive
+    name: Battery Life Praise
+    definition: Users expressing satisfaction with how long the ring lasts on a single
+      charge.
+    supporting_sample_ids:
+    - 8
+    - 24
+  - id: battery_life_concerns
+    name: Battery Life Concerns
+    definition: Users unsatisfied with current battery duration without attributing
+      it to degradation specifically.
+    supporting_sample_ids:
+    - 23
+- id: hardware_durability_reliability
+  name: Hardware Durability & Reliability
+  definition: Reviews about the physical ring breaking, failing, or becoming non-functional.
+  watch_category: false
+  subcategories:
+  - id: ring_failure_short_lifespan
+    name: Ring Failure & Short Lifespan
+    definition: Reports of the ring stopping all function or tracking within months
+      of purchase.
+    supporting_sample_ids:
+    - 19
+    - 30
+    - 12
+  - id: deliberate_obsolescence
+    name: Perceived Planned Obsolescence
+    definition: Suspicion that older rings are intentionally degraded or de-supported
+      when new hardware is released.
+    supporting_sample_ids:
+    - 13
+  - id: physical_form_factor_feedback
+    name: Physical Form Factor Feedback
+    definition: Comments about the ring's size, thickness, or wearability on different
+      hand sizes.
+    supporting_sample_ids:
+    - 8
+- id: customer_support
+  name: Customer Support Experience
+  definition: Reviews describing interactions with Oura's support team, warranty process,
+    or AI bot.
+  watch_category: false
+  subcategories:
+  - id: slow_or_no_response
+    name: Slow or No Response from Support
+    definition: Users reporting that support tickets go unanswered for weeks or months.
+    supporting_sample_ids:
+    - 3
+    - 36
+  - id: warranty_claim_difficulties
+    name: Warranty Claim Difficulties
+    definition: Frustration with a lengthy, complicated, or unsuccessful hardware
+      warranty or replacement process.
+    supporting_sample_ids:
+    - 30
+  - id: ai_bot_deflection
+    name: AI Chatbot Deflection
+    definition: Complaints that support routes users to an AI bot rather than a human
+      agent who can resolve issues.
+    supporting_sample_ids:
+    - 23
+- id: subscription_data_privacy
+  name: Subscription, Data Privacy & Trust
+  definition: Reviews about the subscription model, handling of personal health data,
+    and user trust.
+  watch_category: false
+  subcategories:
+  - id: data_privacy_concerns
+    name: Data Privacy & Third-Party Data Concerns
+    definition: Users uneasy about Oura sharing or mishandling sensitive health data
+      with third-party services.
+    supporting_sample_ids:
+    - 7
+    - 20
+    - 55
+  - id: value_for_money
+    name: Value for Money
+    definition: Opinions on whether the ring and subscription cost are justified by
+      the benefits received.
+    supporting_sample_ids:
+    - 18
+    - 30
+- id: app_ux_design
+  name: App UX & Design
+  definition: Feedback on the user interface design, navigation, and overall usability
+    of the app.
+  watch_category: false
+  subcategories:
+  - id: ui_redesign_regression
+    name: UI Redesign Regression
+    definition: Users preferring an older UI version and finding the newer design
+      harder to use or requiring more clicks.
+    supporting_sample_ids:
+    - 27
+    - 41
+  - id: missing_features_customization
+    name: Missing Features & Customization Gaps
+    definition: Requests for features that are absent, such as saving custom activity
+      names or dismissing notifications.
+    supporting_sample_ids:
+    - 15
+    - 50
+    - 54
+  - id: preprogrammed_generic_insights
+    name: Generic or Repetitive AI Insights
+    definition: Criticism that readiness and sleep score commentary feels scripted,
+      repetitive, and unhelpful.
+    supporting_sample_ids:
+    - 4
+    - 42
+  - id: platform_feature_parity
+    name: Platform Feature Parity
+    definition: Frustration that certain features available on one platform (e.g.,
+      iOS) are not yet on another (e.g., Android).
+    supporting_sample_ids:
+    - 22
+  - id: intrusive_notifications
+    name: Intrusive In-App Notifications
+    definition: Annoyance at persistent banners or prompts that cannot be dismissed
+      and obstruct normal app use.
+    supporting_sample_ids:
+    - 32
+    - 44
+- id: health_insights_value
+  name: Health Insights & Personal Value
+  definition: Reviews describing positive impact on health decisions, sleep improvement,
+    or early health detection.
+  watch_category: false
+  subcategories:
+  - id: sleep_improvement_impact
+    name: Sleep Improvement Impact
+    definition: Users crediting Oura data with meaningfully improving their sleep
+      quality or habits.
+    supporting_sample_ids:
+    - 21
+    - 25
+    - 33
+    - 40
+  - id: early_health_detection
+    name: Early Health Detection
+    definition: Reports of the ring flagging unexpected health events such as pregnancy
+      or illness before the user was aware.
+    supporting_sample_ids:
+    - 10
+  - id: holistic_health_optimization
+    name: Holistic Health & Wellness Optimization
+    definition: Broad praise for the ring helping users optimize workouts, stress
+      management, and overall wellness.
+    supporting_sample_ids:
+    - 26
+    - 31
+    - 34
+    - 53
+    - 58
+  - id: stress_tracking_utility
+    name: Stress & Readiness Tracking Utility
+    definition: Feedback specifically about the stress score or readiness metric being
+      useful or causing anxiety.
+    supporting_sample_ids:
+    - 49
+  - id: menstrual_cycle_tracking
+    name: Menstrual Cycle & Temperature Tracking
+    definition: Positive feedback about using basal body temperature trends for cycle
+      tracking.
+    supporting_sample_ids:
+    - 35
+- id: third_party_integration
+  name: Third-Party & Ecosystem Integration
+  definition: Requests or feedback about connecting Oura data with other health platforms
+    or devices.
+  watch_category: false
+  subcategories:
+  - id: health_platform_integration
+    name: Health Platform Integration Requests
+    definition: Users wanting better or new integrations with platforms such as Apple
+      Health or Google Health Connect.
+    supporting_sample_ids:
+    - 37
+  - id: device_integration_requests
+    name: Third-Party Device Integration Requests
+    definition: Requests to import or sync data from other health devices such as
+      continuous glucose monitors or blood pressure cuffs.
+    supporting_sample_ids:
+    - 37
+- id: ungrouped
+  name: Ungrouped / Other
+  definition: Reviews that did not fit any coherent recurring theme identified in
+    this sample.
+  watch_category: false
+  subcategories:
+  - id: ideological_complaint
+    name: Ideological or Policy Complaint
+    definition: A review objecting to a specific company policy or terminology choice
+      unrelated to product function.
+    supporting_sample_ids:
+    - 2
+  - id: feature_alert_request
+    name: Specific Feature Alert Request
+    definition: A one-off request for a specific new notification feature not echoed
+      elsewhere in the sample.
+    supporting_sample_ids:
+    - 6
