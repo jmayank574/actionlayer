@@ -1,13 +1,7 @@
 import TrendChart from './TrendChart'
-import type { InsightCard as InsightCardType, InsightStatus, TrendPoint } from '../types'
+import type { InsightCard as InsightCardType, TrendPoint } from '../types'
 import { SCOPE_LABEL } from '../lib/trends'
-
-const STATUS_STYLE: Record<InsightStatus, { label: string; badge: string }> = {
-  needs_attention: { label: 'Needs Attention', badge: 'bg-rust-500 text-white' },
-  improving: { label: 'Going Well', badge: 'bg-sage-500 text-white' },
-  watching: { label: 'Watching', badge: 'bg-amber-500 text-white' },
-  stable: { label: 'Stable', badge: 'bg-stone-400 text-white' },
-}
+import { SEVERITY } from '../lib/severity'
 
 function QuoteBlock({ quote }: { quote: { source: string; rating: number; date: string; text: string } }) {
   return (
@@ -31,18 +25,36 @@ export default function InsightCard({
   scope: string
   onBrowseCategory: (categoryId: string) => void
 }) {
-  const style = STATUS_STYLE[card.status]
+  const severity = SEVERITY[card.status]
+  const sign = (card.pp_delta ?? 0) >= 0 ? '+' : ''
 
   return (
     <div className="rounded-2xl bg-white p-6 shadow-[0_1px_2px_rgba(23,20,15,0.06),0_8px_24px_rgba(23,20,15,0.04)]">
-      <div className="flex items-start justify-between gap-3">
-        <h3 className="font-serif text-lg font-semibold text-stone-900 leading-snug pr-2">
-          {card.title}
-        </h3>
-        <span className={`shrink-0 rounded-full px-3 py-1 text-[11px] font-semibold ${style.badge}`}>
-          {style.label}
+      <div className="flex items-center gap-2">
+        <span className={`inline-flex shrink-0 items-center gap-1.5 rounded-full px-3 py-1 text-[11px] font-semibold ${severity.badgeClass}`}>
+          <span aria-hidden>{severity.icon}</span>
+          {severity.label}
         </span>
+        <h3 className="font-serif text-lg font-semibold text-stone-900 leading-snug">
+          {card.category_name}
+        </h3>
       </div>
+
+      {/* Lead with the scannable numbers before the prose -- same figures
+          the narrative paragraph below spells out in full sentences, just
+          readable in one glance first. */}
+      <p className="mt-2 text-sm font-medium tabular-nums text-stone-700">
+        {card.recent_rate_pct.toFixed(1)}% of reviews
+        {card.ratio != null && <> · {card.ratio.toFixed(1)}x baseline</>}
+        {card.pp_delta != null && (
+          <> · <span className={severity.textClass}>{sign}{card.pp_delta.toFixed(1)}pp</span></>
+        )}
+        {' · '}{card.recent_count.toLocaleString()} mentions
+      </p>
+
+      <p className="mt-3 rounded-lg bg-stone-50 px-3 py-2 text-[13px] font-medium text-stone-700">
+        → {card.recommended_action}
+      </p>
 
       <p className="mt-2.5 text-[13.5px] text-stone-500 leading-relaxed">{card.narrative}</p>
 

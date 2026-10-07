@@ -30,8 +30,8 @@ export default function WatchCategoryPanel({
       <div className="border-b border-amber-200/70 px-6 py-3.5">
         <h3 className="font-serif text-base font-medium text-stone-900">Watch categories</h3>
         <p className="text-xs text-stone-500 mt-0.5">
-          Called out on every view regardless of volume rank — low frequency here doesn't mean
-          low stakes (see taxonomy.yaml watch_reason).
+          Always shown here, no matter how small the numbers look — some issues matter enough to
+          track regardless of volume.
         </p>
       </div>
       <div className="divide-y divide-amber-200/50">
@@ -79,7 +79,7 @@ export default function WatchCategoryPanel({
         })}
         {watchParents.length === 0 && (
           <p className="px-6 py-4 text-sm text-stone-400">
-            No categories are flagged as watch categories in taxonomy.yaml.
+            No watch categories are configured for this product yet.
           </p>
         )}
       </div>

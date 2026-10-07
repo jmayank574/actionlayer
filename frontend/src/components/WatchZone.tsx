@@ -1,12 +1,6 @@
 import { SCOPE_LABEL } from '../lib/trends'
-import type { InsightCard, InsightStatus } from '../types'
-
-const DIRECTION: Record<InsightStatus, string> = {
-  needs_attention: '▲',
-  improving: '▼',
-  watching: '●',
-  stable: '●',
-}
+import { SEVERITY } from '../lib/severity'
+import type { InsightCard } from '../types'
 
 export default function WatchZone({
   cards,
@@ -31,10 +25,15 @@ export default function WatchZone({
         <ul className="divide-y divide-amber-200/40">
           {cards.map((card) => {
             const sign = (card.pp_delta ?? 0) >= 0 ? '+' : ''
+            const severity = SEVERITY[card.status]
             return (
               <li key={card.category_id} className="flex items-center gap-3 px-5 py-3">
-                <span className="w-4 text-center text-amber-600" aria-hidden>
-                  {DIRECTION[card.status]}
+                <span
+                  className={`inline-flex shrink-0 items-center gap-1 rounded-full px-2 py-0.5 text-[10px] font-semibold ${severity.badgeClass}`}
+                  title={severity.label}
+                >
+                  <span aria-hidden>{severity.icon}</span>
+                  <span className="hidden sm:inline">{severity.label}</span>
                 </span>
                 <button
                   onClick={() => onBrowseCategory(card.category_id)}

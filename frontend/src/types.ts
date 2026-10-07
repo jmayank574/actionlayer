@@ -153,6 +153,7 @@ export interface InsightCard {
   status: InsightStatus
   title: string
   narrative: string
+  recommended_action: string
   recent_rate_pct: number
   baseline_rate_pct: number
   pp_delta: number | null

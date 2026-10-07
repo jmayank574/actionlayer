@@ -1,7 +1,17 @@
 import { useState } from 'react'
 import TrendBadge from './TrendBadge'
-import { findVerdict, statusFor } from '../lib/trends'
+import { findVerdict, statusFor, type TrendStatus } from '../lib/trends'
 import type { ParentSnapshot, TrendScope, TrendVerdict } from '../types'
+
+type Filter = 'all' | TrendStatus | 'watch'
+
+const FILTERS: { id: Filter; label: string }[] = [
+  { id: 'all', label: 'All' },
+  { id: 'rising', label: '▲ Rising' },
+  { id: 'falling', label: '▼ Falling' },
+  { id: 'watch', label: 'Watch' },
+  { id: 'stable', label: '● Stable' },
+]
 
 function WatchBadge() {
   return (
@@ -52,7 +62,14 @@ export default function CategoryBreakdown({
   onFocusTrend: (categoryId: string) => void
 }) {
   const [expanded, setExpanded] = useState<Set<string>>(new Set())
+  const [filter, setFilter] = useState<Filter>('all')
   const sorted = [...parents].sort((a, b) => (b.rate_pct ?? 0) - (a.rate_pct ?? 0))
+  const decorated = sorted.map((p) => ({ p, status: statusFor(findVerdict(verdicts, scope, p.id)) }))
+  const filtered = decorated.filter(({ p, status }) => {
+    if (filter === 'all') return true
+    if (filter === 'watch') return p.watch_category
+    return status === filter
+  })
 
   function toggle(id: string) {
     setExpanded((prev) => {
@@ -71,11 +88,33 @@ export default function CategoryBreakdown({
           Percentages are all-time, both sources combined. The trend badge is separate — it's this
           category's recent-vs-baseline movement within the scope selected above.
         </p>
+        <div className="mt-3 flex flex-wrap gap-1.5">
+          {FILTERS.map((f) => (
+            <button
+              key={f.id}
+              onClick={() => setFilter(f.id)}
+              className={`rounded-full border px-2.5 py-1 text-[11px] font-medium transition-colors ${
+                filter === f.id
+                  ? 'border-stone-700 bg-stone-700 text-white'
+                  : 'border-stone-200 bg-white text-stone-500 hover:border-stone-400 hover:text-stone-800'
+              }`}
+            >
+              {f.label}
+            </button>
+          ))}
+          {filter !== 'all' && (
+            <span className="self-center text-[11px] text-stone-400">
+              {filtered.length} of {decorated.length}
+            </span>
+          )}
+        </div>
       </div>
+      {filtered.length === 0 && (
+        <p className="px-6 py-6 text-sm text-stone-400">No categories match this filter.</p>
+      )}
       <ul className="divide-y divide-stone-100">
-        {sorted.map((p) => {
+        {filtered.map(({ p, status }) => {
           const verdict = findVerdict(verdicts, scope, p.id)
-          const status = statusFor(verdict)
           return (
             <li key={p.id}>
               <div className="flex items-center gap-3 px-6 py-4">

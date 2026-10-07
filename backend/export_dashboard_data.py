@@ -329,6 +329,24 @@ def card_narrative(name: str, status: str, recent_rate: float, baseline_rate: fl
     return sentence
 
 
+def card_action(status: str, name: str, top_sub_name: str | None, top_sub_pp: float | None) -> str:
+    # One short, deterministic "so what do I do" line per card -- same
+    # template discipline as card_title/card_narrative, never LLM-generated.
+    # Deliberately distinct from the narrative paragraph (what happened) and
+    # from watch_reason (why this category is watched at all) -- this is
+    # specifically the next step, kept to one sentence so it reads as an
+    # instruction, not more analysis.
+    if status == "needs_attention":
+        if top_sub_name:
+            return f"Start with {top_sub_name} -- it's driving most of this rise ({top_sub_pp:+.1f}pp)."
+        return f"Investigate what's driving the rise in {name} before it continues."
+    if status == "improving":
+        return "No action needed -- keep monitoring to confirm the drop holds."
+    if status == "watching":
+        return "Low volume, high stakes -- keep watching closely rather than deprioritizing on volume alone."
+    return "No significant change -- no action needed this period."
+
+
 def build_insight_feed(tagged: pd.DataFrame, verdicts: pd.DataFrame, trends: pd.DataFrame, meta: dict,
                         scope: str = INSIGHT_FEED_SCOPE) -> dict:
     tagged = tagged.copy()
@@ -425,6 +443,7 @@ def build_insight_feed(tagged: pd.DataFrame, verdicts: pd.DataFrame, trends: pd.
                 recent_count_val, window_label, top_sub_name, top_sub_pp,
                 recent_pct_positive,
             ),
+            "recommended_action": card_action(status, meta[pid]["name"], top_sub_name, top_sub_pp),
             "recent_rate_pct": round(recent_rate, 3), "baseline_rate_pct": round(baseline_rate, 3),
             "pp_delta": pp_delta_val,
             "ratio": None if ratio is None else round(ratio, 3),

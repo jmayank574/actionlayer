@@ -150,21 +150,11 @@ export default function ProductDashboard() {
 
           <BrokenBasicsCallout parents={snapshot!.parents} onSelectCategory={setDrawerCategory} />
 
-          <section>
-            <h2 className="text-xs font-semibold uppercase tracking-wide text-stone-500 mb-3">
-              Category &amp; subcategory breakdown
-            </h2>
-            <CategoryBreakdown
-              parents={snapshot!.parents}
-              otherUngrouped={snapshot!.other_ungrouped}
-              totalReviews={snapshot!.total_reviews}
-              verdicts={verdicts!}
-              scope={exploreScope}
-              onSelectCategory={setDrawerCategory}
-              onFocusTrend={focusTrend}
-            />
-          </section>
-
+          {/* Signal highlights first -- what's actionable right now -- before
+              the full 13-row listing below. Stacked, not side-by-side: Watch
+              Categories is short and Rising & Falling is long (full list +
+              chart), so pairing them in a grid left a large empty gap under
+              the shorter one. */}
           <section>
             <h2 className="text-xs font-semibold uppercase tracking-wide text-stone-500 mb-3">
               Watch categories
@@ -187,6 +177,21 @@ export default function ProductDashboard() {
               focusedCategory={focusedTrendCategory}
               onFocusCategory={setFocusedTrendCategory}
               onSelectCategory={setDrawerCategory}
+            />
+          </section>
+
+          <section>
+            <h2 className="text-xs font-semibold uppercase tracking-wide text-stone-500 mb-3">
+              Category &amp; subcategory breakdown
+            </h2>
+            <CategoryBreakdown
+              parents={snapshot!.parents}
+              otherUngrouped={snapshot!.other_ungrouped}
+              totalReviews={snapshot!.total_reviews}
+              verdicts={verdicts!}
+              scope={exploreScope}
+              onSelectCategory={setDrawerCategory}
+              onFocusTrend={focusTrend}
             />
           </section>
             </>
