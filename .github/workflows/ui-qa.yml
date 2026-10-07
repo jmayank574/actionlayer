@@ -1,0 +1,79 @@
+name: UI QA
+
+# Drives the real dashboard in a headless browser (frontend/tests/ui_qa.spec.ts)
+# and checks the golden path actually works against real exported data: landing
+# page -> category -> product dashboard -> explore -> review drawer, plus zero
+# console errors along the way. Playwright's own assertions decide pass/fail --
+# never AI. Only on a failure does ops/ui_qa_diagnose.py make one Claude vision
+# call to explain what's visibly wrong from the failure screenshot, then files
+# a GitHub issue -- same explain-don't-decide split as the daily pipeline's
+# health check (see ops/health_check.py, .github/workflows/daily-pipeline.yml).
+
+on:
+  workflow_dispatch: {}
+  push:
+    branches: [main]
+    paths:
+      - "frontend/**"
+      - ".github/workflows/ui-qa.yml"
+  pull_request:
+    paths:
+      - "frontend/**"
+      - ".github/workflows/ui-qa.yml"
+
+jobs:
+  ui-qa:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      issues: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Install frontend dependencies
+        working-directory: frontend
+        run: npm ci
+
+      - name: Install Playwright's Chromium
+        working-directory: frontend
+        run: npx playwright install --with-deps chromium
+
+      - name: Run the UI QA suite
+        id: playwright
+        working-directory: frontend
+        run: npx playwright test
+        continue-on-error: true
+
+      - name: Keep screenshots and traces
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: ui-qa-results
+          path: frontend/tests/results/
+          if-no-files-found: ignore
+
+      - uses: actions/setup-python@v5
+        if: steps.playwright.outcome == 'failure'
+        with:
+          python-version: "3.12"
+
+      - name: Install backend dependencies (for the diagnosis call)
+        if: steps.playwright.outcome == 'failure'
+        run: pip install -r backend/requirements.txt
+
+      - name: Diagnose the failure and file an issue
+        if: steps.playwright.outcome == 'failure'
+        working-directory: backend
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          GH_TOKEN: ${{ github.token }}
+        run: python -m ops.ui_qa_diagnose --post-issue
+
+      - name: Fail the job if the UI QA suite failed
+        if: steps.playwright.outcome == 'failure'
+        run: exit 1

@@ -22,3 +22,12 @@ out/
 
 # Eval run outputs (full answers/traces) -- regenerated, not source
 backend/evals/results/
+
+# UI QA run outputs (screenshots, traces, JSON report) -- regenerated, not source
+frontend/tests/results/
+frontend/playwright-report/
+frontend/test-results/
+
+# Review-text embeddings cache (semantic search / Other-bucket clustering) --
+# regenerable in ~40s from tagged_reviews.csv, not worth a binary in git history
+backend/data/review_embeddings.npz
