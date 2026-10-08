@@ -1,5 +1,80 @@
 [
   {
+    "review_id": "4858137d-5bba-4a81-8b88-acc638739228",
+    "source": "google_play",
+    "rating": 5,
+    "date": "2026-10-07T10:54:37+00:00",
+    "text": "best tracker I've used. user friendly",
+    "parent_category_tags": [
+      "nan"
+    ],
+    "subcategory_tags": [
+      "nan"
+    ]
+  },
+  {
+    "review_id": "c5f8b354-07af-4c8d-a981-b55e9b311d66",
+    "source": "google_play",
+    "rating": 1,
+    "date": "2026-10-07T10:45:08+00:00",
+    "text": "Terrible customer service. I requested cancellation before my membership renewed, but I was told to cancel through the app—yet the app only allowed me to change my membership, not cancel it. I spent 7 months and more than 20 requests trying to get this resolved. The membership was eventually cancelled, but WHOOP refuses to refund me for a membership I never used. One representative even promised me a refund, but every new representative refuses to honor it. Extremely frustrating and unacceptable",
+    "parent_category_tags": [
+      "pricing_billing",
+      "customer_support",
+      "customer_support"
+    ],
+    "subcategory_tags": [
+      "billing_disputes",
+      "support_resolution_quality",
+      "ai_only_support_channel"
+    ]
+  },
+  {
+    "review_id": "14635961518",
+    "source": "app_store",
+    "rating": 1,
+    "date": "2026-10-06T15:20:54-07:00",
+    "text": "Band has great features. But no Arabic language",
+    "parent_category_tags": [
+      "localization"
+    ],
+    "subcategory_tags": [
+      "missing_language_support"
+    ]
+  },
+  {
+    "review_id": "14635632736",
+    "source": "app_store",
+    "rating": 1,
+    "date": "2026-10-06T13:10:16-07:00",
+    "text": "Terrible app and terrible service. I tried to sign up for a free blood test, but I was charged $69. When I contacted support, they asked me to return a device I don't even have. There are no real people available in support, and I can't get a clear answer from the AI; it just keeps telling me to cancel the subscription in the app (which I had to download specifically for this), but those options aren't even there for me! Now I have to cancel everything through my bank and get a new card to prevent any further charges. I’m shocked by this kind of service.",
+    "parent_category_tags": [
+      "pricing_billing",
+      "customer_support",
+      "customer_support",
+      "pricing_billing"
+    ],
+    "subcategory_tags": [
+      "billing_disputes",
+      "ai_only_support_channel",
+      "support_resolution_quality",
+      "upsell_pressure"
+    ]
+  },
+  {
+    "review_id": "14634363795",
+    "source": "app_store",
+    "rating": 5,
+    "date": "2026-10-06T06:23:21-07:00",
+    "text": "I’m finally getting my physical health back on track thanks in great part to my Whoop.",
+    "parent_category_tags": [
+      "nan"
+    ],
+    "subcategory_tags": [
+      "nan"
+    ]
+  },
+  {
     "review_id": "ad9c6eb6-0f02-4193-b90e-2a12f9c4ad92",
     "source": "google_play",
     "rating": 4,

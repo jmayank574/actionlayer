@@ -1,6 +1,31 @@
 {
   "pricing_billing": [
     {
+      "review_id": "c5f8b354-07af-4c8d-a981-b55e9b311d66",
+      "source": "google_play",
+      "rating": 1,
+      "date": "2026-10-07T10:45:08+00:00",
+      "text": "Terrible customer service. I requested cancellation before my membership renewed, but I was told to cancel through the app—yet the app only allowed me to change my membership, not cancel it. I spent 7 months and more than 20 requests trying to get this resolved. The membership was eventually cancelled, but WHOOP refuses to refund me for a membership I never used. One representative even promised me a refund, but every new representative refuses to honor it. Extremely frustrating and unacceptable",
+      "subcategory_tags": [
+        "billing_disputes",
+        "support_resolution_quality",
+        "ai_only_support_channel"
+      ]
+    },
+    {
+      "review_id": "14635632736",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-10-06T13:10:16-07:00",
+      "text": "Terrible app and terrible service. I tried to sign up for a free blood test, but I was charged $69. When I contacted support, they asked me to return a device I don't even have. There are no real people available in support, and I can't get a clear answer from the AI; it just keeps telling me to cancel the subscription in the app (which I had to download specifically for this), but those options aren't even there for me! Now I have to cancel everything through my bank and get a new card to prevent any further charges. I’m shocked by this kind of service.",
+      "subcategory_tags": [
+        "billing_disputes",
+        "ai_only_support_channel",
+        "support_resolution_quality",
+        "upsell_pressure"
+      ]
+    },
+    {
       "review_id": "ad9c6eb6-0f02-4193-b90e-2a12f9c4ad92",
       "source": "google_play",
       "rating": 4,
@@ -307,32 +332,6 @@
       "text": "I think that this is best fitness tracker out there. Despite what people say. The money you pay for the subscription is worth. I have seen other fitness trackers out there some may come close, but there is always something that Whoop does that I like better that makes me stay.",
       "subcategory_tags": [
         "price_value_perception"
-      ]
-    },
-    {
-      "review_id": "14535272719",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-09-10T18:35:33-07:00",
-      "text": "This is my 2nd Whoop device and I’ve had nothing but issues from the start. I have the 4.0 and it constantly shows as off-body, no matter where I wear it. The firmware never updates successfully, no matter how hard I try. It never holds a charge. And all I’m ever offered when I talk to customer service is a free extra month or two. It’s gotten so bad that I’ve given up contacting them and now I just use the darn thing as an alarm clock. Useless and expensive for no good reason.",
-      "subcategory_tags": [
-        "data_sync_delays",
-        "update_failures",
-        "battery_life",
-        "support_resolution_quality",
-        "price_value_perception"
-      ]
-    },
-    {
-      "review_id": "14529226115",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-09-09T06:40:53-07:00",
-      "text": "Beware of subscription scam. Cool product if you love pissing away money. Customer service sucks.",
-      "subcategory_tags": [
-        "billing_disputes",
-        "price_value_perception",
-        "support_responsiveness"
       ]
     }
   ],
@@ -677,6 +676,31 @@
   ],
   "billing_disputes": [
     {
+      "review_id": "c5f8b354-07af-4c8d-a981-b55e9b311d66",
+      "source": "google_play",
+      "rating": 1,
+      "date": "2026-10-07T10:45:08+00:00",
+      "text": "Terrible customer service. I requested cancellation before my membership renewed, but I was told to cancel through the app—yet the app only allowed me to change my membership, not cancel it. I spent 7 months and more than 20 requests trying to get this resolved. The membership was eventually cancelled, but WHOOP refuses to refund me for a membership I never used. One representative even promised me a refund, but every new representative refuses to honor it. Extremely frustrating and unacceptable",
+      "subcategory_tags": [
+        "billing_disputes",
+        "support_resolution_quality",
+        "ai_only_support_channel"
+      ]
+    },
+    {
+      "review_id": "14635632736",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-10-06T13:10:16-07:00",
+      "text": "Terrible app and terrible service. I tried to sign up for a free blood test, but I was charged $69. When I contacted support, they asked me to return a device I don't even have. There are no real people available in support, and I can't get a clear answer from the AI; it just keeps telling me to cancel the subscription in the app (which I had to download specifically for this), but those options aren't even there for me! Now I have to cancel everything through my bank and get a new card to prevent any further charges. I’m shocked by this kind of service.",
+      "subcategory_tags": [
+        "billing_disputes",
+        "ai_only_support_channel",
+        "support_resolution_quality",
+        "upsell_pressure"
+      ]
+    },
+    {
       "review_id": "14629488102",
       "source": "app_store",
       "rating": 1,
@@ -997,28 +1021,6 @@
       "subcategory_tags": [
         "billing_disputes",
         "ai_only_support_channel",
-        "price_value_perception"
-      ]
-    },
-    {
-      "review_id": "7c0f6222-c787-4923-88da-5c8c2414378b",
-      "source": "google_play",
-      "rating": 2,
-      "date": "2026-07-31T20:22:06",
-      "text": "Tracking is great, UI is confusing, nearly impossible to cancel a subscription.",
-      "subcategory_tags": [
-        "redesign_regression",
-        "billing_disputes"
-      ]
-    },
-    {
-      "review_id": "14370486198",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-07-31T05:56:28-07:00",
-      "text": "Second year in a row I get auto renewed. CC just charged hours ago, but impossible to get a refund. Cancel membership is hidden on their website I didn’t know existed. Sigh.",
-      "subcategory_tags": [
-        "billing_disputes",
         "price_value_perception"
       ]
     }
@@ -1368,6 +1370,19 @@
   ],
   "upsell_pressure": [
     {
+      "review_id": "14635632736",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-10-06T13:10:16-07:00",
+      "text": "Terrible app and terrible service. I tried to sign up for a free blood test, but I was charged $69. When I contacted support, they asked me to return a device I don't even have. There are no real people available in support, and I can't get a clear answer from the AI; it just keeps telling me to cancel the subscription in the app (which I had to download specifically for this), but those options aren't even there for me! Now I have to cancel everything through my bank and get a new card to prevent any further charges. I’m shocked by this kind of service.",
+      "subcategory_tags": [
+        "billing_disputes",
+        "ai_only_support_channel",
+        "support_resolution_quality",
+        "upsell_pressure"
+      ]
+    },
+    {
       "review_id": "14622715587",
       "source": "app_store",
       "rating": 5,
@@ -1695,18 +1710,6 @@
         "support_responsiveness",
         "ecg_bp_feature_reliability",
         "upsell_pressure"
-      ]
-    },
-    {
-      "review_id": "635a42bd-b85c-4c79-8c87-e2d6b31bb19c",
-      "source": "google_play",
-      "rating": 2,
-      "date": "2026-03-07T08:15:41",
-      "text": "data insights are good, but under free trial, I hate how aggressive you are in trying to upsell me. I noticed the navigation is so confusing, especially the \"more\" section because the whole top page is covered by modules to upsell me. I have to scroll much lower to actually find what I was looking for like \"journal\". I thought I couldn't find it",
-      "subcategory_tags": [
-        "upsell_pressure",
-        "redesign_regression",
-        "plan_trial_structure"
       ]
     }
   ],
@@ -9330,6 +9333,31 @@
   ],
   "customer_support": [
     {
+      "review_id": "c5f8b354-07af-4c8d-a981-b55e9b311d66",
+      "source": "google_play",
+      "rating": 1,
+      "date": "2026-10-07T10:45:08+00:00",
+      "text": "Terrible customer service. I requested cancellation before my membership renewed, but I was told to cancel through the app—yet the app only allowed me to change my membership, not cancel it. I spent 7 months and more than 20 requests trying to get this resolved. The membership was eventually cancelled, but WHOOP refuses to refund me for a membership I never used. One representative even promised me a refund, but every new representative refuses to honor it. Extremely frustrating and unacceptable",
+      "subcategory_tags": [
+        "billing_disputes",
+        "support_resolution_quality",
+        "ai_only_support_channel"
+      ]
+    },
+    {
+      "review_id": "14635632736",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-10-06T13:10:16-07:00",
+      "text": "Terrible app and terrible service. I tried to sign up for a free blood test, but I was charged $69. When I contacted support, they asked me to return a device I don't even have. There are no real people available in support, and I can't get a clear answer from the AI; it just keeps telling me to cancel the subscription in the app (which I had to download specifically for this), but those options aren't even there for me! Now I have to cancel everything through my bank and get a new card to prevent any further charges. I’m shocked by this kind of service.",
+      "subcategory_tags": [
+        "billing_disputes",
+        "ai_only_support_channel",
+        "support_resolution_quality",
+        "upsell_pressure"
+      ]
+    },
+    {
       "review_id": "14626078911",
       "source": "app_store",
       "rating": 5,
@@ -9660,30 +9688,6 @@
         "ai_autonomy",
         "ai_only_support_channel",
         "billing_disputes"
-      ]
-    },
-    {
-      "review_id": "14403057110",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-08-08T07:38:04-07:00",
-      "text": "Doesn’t count steps correctly from the 4.0-5.0 version.  Strain doesn’t register the same way on the 5.0\nAll the extra features on the top tier are hard to figure out.  No customer service",
-      "subcategory_tags": [
-        "metric_accuracy",
-        "feature_ui_friction",
-        "support_responsiveness"
-      ]
-    },
-    {
-      "review_id": "14400555831",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-08-07T15:13:15-07:00",
-      "text": "They take a long time to reply to messages. They say they’ve resolved the issue, but they actually haven’t! It’s impossible to log into the account.",
-      "subcategory_tags": [
-        "support_responsiveness",
-        "support_resolution_quality",
-        "crashes_freezes"
       ]
     }
   ],
@@ -10052,6 +10056,31 @@
   ],
   "support_resolution_quality": [
     {
+      "review_id": "c5f8b354-07af-4c8d-a981-b55e9b311d66",
+      "source": "google_play",
+      "rating": 1,
+      "date": "2026-10-07T10:45:08+00:00",
+      "text": "Terrible customer service. I requested cancellation before my membership renewed, but I was told to cancel through the app—yet the app only allowed me to change my membership, not cancel it. I spent 7 months and more than 20 requests trying to get this resolved. The membership was eventually cancelled, but WHOOP refuses to refund me for a membership I never used. One representative even promised me a refund, but every new representative refuses to honor it. Extremely frustrating and unacceptable",
+      "subcategory_tags": [
+        "billing_disputes",
+        "support_resolution_quality",
+        "ai_only_support_channel"
+      ]
+    },
+    {
+      "review_id": "14635632736",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-10-06T13:10:16-07:00",
+      "text": "Terrible app and terrible service. I tried to sign up for a free blood test, but I was charged $69. When I contacted support, they asked me to return a device I don't even have. There are no real people available in support, and I can't get a clear answer from the AI; it just keeps telling me to cancel the subscription in the app (which I had to download specifically for this), but those options aren't even there for me! Now I have to cancel everything through my bank and get a new card to prevent any further charges. I’m shocked by this kind of service.",
+      "subcategory_tags": [
+        "billing_disputes",
+        "ai_only_support_channel",
+        "support_resolution_quality",
+        "upsell_pressure"
+      ]
+    },
+    {
       "review_id": "2f4e903c-4631-4609-b7e5-c3c4add428ac",
       "source": "google_play",
       "rating": 1,
@@ -10385,33 +10414,34 @@
         "billing_disputes",
         "support_resolution_quality"
       ]
-    },
-    {
-      "review_id": "14216878250",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-06-23T07:19:14-07:00",
-      "text": "Customer service would rather insult you than actually solve their problem. Also, can’t stand the stupid sleep debt feature. Bands fade with minimal sunlight. Would not recommend to anyone!",
-      "subcategory_tags": [
-        "support_resolution_quality",
-        "comfort_fit"
-      ]
-    },
-    {
-      "review_id": "412e13a1-b8d6-4702-8962-41d20d9a4d7a",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2026-06-21T05:53:01",
-      "text": "Two years a loyal WHOOP user, loved it. But honestly, after all this time: it's useless if you don't sleep in one block. Nap or wake to drink water, and it chops your night into \"naps,\" crashing your sleep score and your recovery score with it. Body says fully recharged; app says red. Support has no fix for multiphase sleepers. Unless you sleep like a machine, the data will mislead you",
-      "subcategory_tags": [
-        "sleep_accuracy",
-        "metric_accuracy",
-        "support_resolution_quality",
-        "personalization_use_case_fit"
-      ]
     }
   ],
   "ai_only_support_channel": [
+    {
+      "review_id": "c5f8b354-07af-4c8d-a981-b55e9b311d66",
+      "source": "google_play",
+      "rating": 1,
+      "date": "2026-10-07T10:45:08+00:00",
+      "text": "Terrible customer service. I requested cancellation before my membership renewed, but I was told to cancel through the app—yet the app only allowed me to change my membership, not cancel it. I spent 7 months and more than 20 requests trying to get this resolved. The membership was eventually cancelled, but WHOOP refuses to refund me for a membership I never used. One representative even promised me a refund, but every new representative refuses to honor it. Extremely frustrating and unacceptable",
+      "subcategory_tags": [
+        "billing_disputes",
+        "support_resolution_quality",
+        "ai_only_support_channel"
+      ]
+    },
+    {
+      "review_id": "14635632736",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-10-06T13:10:16-07:00",
+      "text": "Terrible app and terrible service. I tried to sign up for a free blood test, but I was charged $69. When I contacted support, they asked me to return a device I don't even have. There are no real people available in support, and I can't get a clear answer from the AI; it just keeps telling me to cancel the subscription in the app (which I had to download specifically for this), but those options aren't even there for me! Now I have to cancel everything through my bank and get a new card to prevent any further charges. I’m shocked by this kind of service.",
+      "subcategory_tags": [
+        "billing_disputes",
+        "ai_only_support_channel",
+        "support_resolution_quality",
+        "upsell_pressure"
+      ]
+    },
     {
       "review_id": "d28bf235-3345-4c9d-bd28-c1aac9702384",
       "source": "google_play",
@@ -10756,30 +10786,6 @@
         "ai_only_support_channel",
         "metric_accuracy",
         "redesign_regression"
-      ]
-    },
-    {
-      "review_id": "416a6db2-71ec-4835-bfb4-9cad1b1f9613",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2026-02-06T10:20:36",
-      "text": "The total cost of ownership in insanely high. They change their terms of use without notification or possibility of refund. I use it only, because I can't find any alternative. It's a great device, but terrible company and value. The support is just some cheap AI.",
-      "subcategory_tags": [
-        "price_value_perception",
-        "billing_disputes",
-        "ai_only_support_channel"
-      ]
-    },
-    {
-      "review_id": "13693292302",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-01-30T07:26:22-07:00",
-      "text": "I wish I could give a zero. Two plus months of trying to get the results from the blood test I purchased. After going around in circles after almost 10 emails I noticed the responses were the same. I concluded that it’s AI Slop and no help whatsoever. I canceled my account. There are other choices.",
-      "subcategory_tags": [
-        "ecg_bp_feature_reliability",
-        "ai_only_support_channel",
-        "support_resolution_quality"
       ]
     }
   ],
@@ -14847,6 +14853,16 @@
   ],
   "localization": [
     {
+      "review_id": "14635961518",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-10-06T15:20:54-07:00",
+      "text": "Band has great features. But no Arabic language",
+      "subcategory_tags": [
+        "missing_language_support"
+      ]
+    },
+    {
       "review_id": "14597874996",
       "source": "app_store",
       "rating": 1,
@@ -15144,19 +15160,19 @@
       "subcategory_tags": [
         "missing_language_support"
       ]
-    },
-    {
-      "review_id": "36ae173d-9f34-4802-a673-472de199ab3c",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2026-02-05T04:17:09",
-      "text": "should have Thai language or every language",
-      "subcategory_tags": [
-        "missing_language_support"
-      ]
     }
   ],
   "missing_language_support": [
+    {
+      "review_id": "14635961518",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-10-06T15:20:54-07:00",
+      "text": "Band has great features. But no Arabic language",
+      "subcategory_tags": [
+        "missing_language_support"
+      ]
+    },
     {
       "review_id": "14597874996",
       "source": "app_store",
@@ -15451,16 +15467,6 @@
       "rating": 1,
       "date": "2026-02-05T04:17:09",
       "text": "should have Thai language or every language",
-      "subcategory_tags": [
-        "missing_language_support"
-      ]
-    },
-    {
-      "review_id": "13708485320",
-      "source": "app_store",
-      "rating": 5,
-      "date": "2026-02-03T06:38:02-07:00",
-      "text": "Разработчики, пожалуйста, добавьте русский язык в приложение!!!",
       "subcategory_tags": [
         "missing_language_support"
       ]
