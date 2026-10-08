@@ -1,55 +1,55 @@
 {
-  "generated_at": "2026-10-07T19:15:20.428817",
+  "generated_at": "2026-10-08T19:11:50.021677",
   "product": "WHOOP",
   "sources": {
     "google_play": {
-      "total": 2952,
+      "total": 2954,
       "date_range": [
         "2017-08-25T20:34:31",
-        "2026-10-06T05:18:44"
+        "2026-10-07T10:54:37"
       ],
       "rating_distribution": {
-        "1": 1115,
+        "1": 1116,
         "2": 370,
         "3": 329,
         "4": 281,
-        "5": 857
+        "5": 858
       },
       "avg_length_words": 37.8
     },
     "app_store": {
-      "total": 694,
+      "total": 697,
       "date_range": [
         "2025-11-17T19:06:49",
-        "2026-10-05T20:09:22"
+        "2026-10-06T15:20:54"
       ],
       "rating_distribution": {
-        "1": 204,
+        "1": 206,
         "2": 61,
         "3": 64,
         "4": 69,
-        "5": 296
+        "5": 297
       },
       "avg_length_words": 54.0
     }
   },
   "combined": {
-    "total": 3646,
+    "total": 3651,
     "date_range": [
       "2017-08-25T20:34:31",
-      "2026-10-06T05:18:44"
+      "2026-10-07T10:54:37"
     ],
     "rating_distribution": {
-      "1": 1319,
+      "1": 1322,
       "2": 431,
       "3": 393,
       "4": 350,
-      "5": 1153
+      "5": 1155
     },
     "avg_length_words": 40.9
   },
   "drop_counts": {
-    "dropped_empty_or_short": 484,
+    "dropped_empty_or_short": 486,
     "dropped_duplicate": 0
   },
   "issues": [
@@ -58,7 +58,7 @@
   "merge_counts": {
     "new": 5,
     "updated": 0,
-    "unchanged": 3386,
-    "carried_over": 255
+    "unchanged": 3388,
+    "carried_over": 258
   }
 }
