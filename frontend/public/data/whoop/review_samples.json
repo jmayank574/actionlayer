@@ -1,6 +1,29 @@
 {
   "pricing_billing": [
     {
+      "review_id": "14639418333",
+      "source": "app_store",
+      "rating": 2,
+      "date": "2026-10-07T12:54:46-07:00",
+      "text": "The core sensor and data tracking itself are fine. However, the hardware ecosystem completely fails over time, the superknit bands degrade within 2 months, if you’re active and sweat on them, and customer support offers not much flexibility or accountability for subscribers. If you're paying a premium membership price, you expect bands that last more than a few months and a support team that cares when they fail.",
+      "subcategory_tags": [
+        "strap_clasp_durability",
+        "support_resolution_quality",
+        "price_value_perception"
+      ]
+    },
+    {
+      "review_id": "14637805027",
+      "source": "app_store",
+      "rating": 5,
+      "date": "2026-10-07T04:24:15-07:00",
+      "text": "Excelente app, deberían incluir el monitor estrés en el plan one",
+      "subcategory_tags": [
+        "plan_trial_structure",
+        "missing_metrics"
+      ]
+    },
+    {
       "review_id": "c5f8b354-07af-4c8d-a981-b55e9b311d66",
       "source": "google_play",
       "rating": 1,
@@ -313,29 +336,21 @@
       "subcategory_tags": [
         "billing_disputes"
       ]
-    },
-    {
-      "review_id": "14537454923",
-      "source": "app_store",
-      "rating": 5,
-      "date": "2026-09-11T08:27:21-07:00",
-      "text": "its all good, but the PRICE is what kick me out!!",
-      "subcategory_tags": [
-        "price_value_perception"
-      ]
-    },
-    {
-      "review_id": "14536497450",
-      "source": "app_store",
-      "rating": 5,
-      "date": "2026-09-11T03:36:05-07:00",
-      "text": "I think that this is best fitness tracker out there. Despite what people say. The money you pay for the subscription is worth. I have seen other fitness trackers out there some may come close, but there is always something that Whoop does that I like better that makes me stay.",
-      "subcategory_tags": [
-        "price_value_perception"
-      ]
     }
   ],
   "price_value_perception": [
+    {
+      "review_id": "14639418333",
+      "source": "app_store",
+      "rating": 2,
+      "date": "2026-10-07T12:54:46-07:00",
+      "text": "The core sensor and data tracking itself are fine. However, the hardware ecosystem completely fails over time, the superknit bands degrade within 2 months, if you’re active and sweat on them, and customer support offers not much flexibility or accountability for subscribers. If you're paying a premium membership price, you expect bands that last more than a few months and a support team that cares when they fail.",
+      "subcategory_tags": [
+        "strap_clasp_durability",
+        "support_resolution_quality",
+        "price_value_perception"
+      ]
+    },
     {
       "review_id": "ad9c6eb6-0f02-4193-b90e-2a12f9c4ad92",
       "source": "google_play",
@@ -658,18 +673,6 @@
         "battery_life",
         "comfort_fit",
         "billing_disputes",
-        "price_value_perception"
-      ]
-    },
-    {
-      "review_id": "14509084380",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-09-04T03:55:19-07:00",
-      "text": "Never consistent!! Depending on where it is worn and what activity you are doing. Picks up false stain and activity. Don’t waste your time or money on this device. Garmin is tried and true !!",
-      "subcategory_tags": [
-        "metric_accuracy",
-        "activity_detection",
         "price_value_perception"
       ]
     }
@@ -1027,6 +1030,17 @@
   ],
   "plan_trial_structure": [
     {
+      "review_id": "14637805027",
+      "source": "app_store",
+      "rating": 5,
+      "date": "2026-10-07T04:24:15-07:00",
+      "text": "Excelente app, deberían incluir el monitor estrés en el plan one",
+      "subcategory_tags": [
+        "plan_trial_structure",
+        "missing_metrics"
+      ]
+    },
+    {
       "review_id": "14549425883",
       "source": "app_store",
       "rating": 1,
@@ -1353,18 +1367,6 @@
       "subcategory_tags": [
         "price_value_perception",
         "plan_trial_structure"
-      ]
-    },
-    {
-      "review_id": "07502805-8eba-4e65-babc-ba58422a6619",
-      "source": "google_play",
-      "rating": 3,
-      "date": "2025-09-06T13:53:09",
-      "text": "It's good when it works. Today, it's not working. I upgraded to the life subscription about 4mo ago I was disappointed to find out that Whoop 5 was not compatible with ANY of the Whoop 4 armbands or wrist bands I bought during my 1st 2y of membership. Now add the connection issues. The device is fully charged and tapping to get into pairing mode does not work. Connection drops happen frequently. When my current subscription ends, I may try Polar's Loop which is subscription free.",
-      "subcategory_tags": [
-        "ongoing_disconnects",
-        "plan_trial_structure",
-        "price_value_perception"
       ]
     }
   ],
@@ -1715,6 +1717,16 @@
   ],
   "sleep_tracking": [
     {
+      "review_id": "623f4a2f-0da2-4981-8d39-8752d9eaf298",
+      "source": "google_play",
+      "rating": 5,
+      "date": "2026-10-08T13:36:27+00:00",
+      "text": "It has helped me get a better sleep and keeps me motivated for my workouts.",
+      "subcategory_tags": [
+        "sleep_satisfaction"
+      ]
+    },
+    {
       "review_id": "14632497555",
       "source": "app_store",
       "rating": 2,
@@ -2032,17 +2044,6 @@
       "subcategory_tags": [
         "sleep_accuracy",
         "data_sync_delays"
-      ]
-    },
-    {
-      "review_id": "14499681422",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-09-01T16:30:44-07:00",
-      "text": "I bought a WHOOP because I wanted good sleep detection, but they’ve updated the algorithm a couple of times and completely messed up the sleep detection at this point. The rest of the functions are no different than what you get on a much cheaper Fitbit or any other tracker. I would strongly recommend against buying WHOOP. Likewise, the support has been terrible.",
-      "subcategory_tags": [
-        "sleep_accuracy",
-        "price_value_perception"
       ]
     }
   ],
@@ -2397,6 +2398,16 @@
   ],
   "sleep_satisfaction": [
     {
+      "review_id": "623f4a2f-0da2-4981-8d39-8752d9eaf298",
+      "source": "google_play",
+      "rating": 5,
+      "date": "2026-10-08T13:36:27+00:00",
+      "text": "It has helped me get a better sleep and keeps me motivated for my workouts.",
+      "subcategory_tags": [
+        "sleep_satisfaction"
+      ]
+    },
+    {
       "review_id": "14618633966",
       "source": "app_store",
       "rating": 5,
@@ -2702,16 +2713,6 @@
       "rating": 5,
       "date": "2026-08-08T04:28:11-07:00",
       "text": "The best self investment, great for tracking post recovery and sleep quality. Lot many deep features embedded to band.",
-      "subcategory_tags": [
-        "sleep_satisfaction"
-      ]
-    },
-    {
-      "review_id": "47ea5e4b-f15c-4a98-adbd-17f3bd12a261",
-      "source": "google_play",
-      "rating": 5,
-      "date": "2026-08-06T02:51:46",
-      "text": "this has really helped me with good insights into how my choices affect sleep and recovery patterns. I am really pleased thus far",
       "subcategory_tags": [
         "sleep_satisfaction"
       ]
@@ -3070,6 +3071,18 @@
   ],
   "hardware_wearability": [
     {
+      "review_id": "14639418333",
+      "source": "app_store",
+      "rating": 2,
+      "date": "2026-10-07T12:54:46-07:00",
+      "text": "The core sensor and data tracking itself are fine. However, the hardware ecosystem completely fails over time, the superknit bands degrade within 2 months, if you’re active and sweat on them, and customer support offers not much flexibility or accountability for subscribers. If you're paying a premium membership price, you expect bands that last more than a few months and a support team that cares when they fail.",
+      "subcategory_tags": [
+        "strap_clasp_durability",
+        "support_resolution_quality",
+        "price_value_perception"
+      ]
+    },
+    {
       "review_id": "14626078911",
       "source": "app_store",
       "rating": 5,
@@ -3403,20 +3416,21 @@
       "subcategory_tags": [
         "comfort_fit"
       ]
-    },
-    {
-      "review_id": "14290060753",
-      "source": "app_store",
-      "rating": 5,
-      "date": "2026-07-11T06:03:09-07:00",
-      "text": "I think this has really helped me in my fitness and health journey. It is easy to wear. I am so used to it I don’t really notice it on my wrist. I’m more aware of my health and sleep numbers and realize now that I’m very competitive with myself in trying to beat the previous numbers.",
-      "subcategory_tags": [
-        "comfort_fit",
-        "sleep_satisfaction"
-      ]
     }
   ],
   "strap_clasp_durability": [
+    {
+      "review_id": "14639418333",
+      "source": "app_store",
+      "rating": 2,
+      "date": "2026-10-07T12:54:46-07:00",
+      "text": "The core sensor and data tracking itself are fine. However, the hardware ecosystem completely fails over time, the superknit bands degrade within 2 months, if you’re active and sweat on them, and customer support offers not much flexibility or accountability for subscribers. If you're paying a premium membership price, you expect bands that last more than a few months and a support team that cares when they fail.",
+      "subcategory_tags": [
+        "strap_clasp_durability",
+        "support_resolution_quality",
+        "price_value_perception"
+      ]
+    },
     {
       "review_id": "14626078911",
       "source": "app_store",
@@ -3758,18 +3772,6 @@
       "subcategory_tags": [
         "ongoing_disconnects",
         "strap_clasp_durability"
-      ]
-    },
-    {
-      "review_id": "ce6943cc-ce35-43cb-a609-6c7625828578",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2021-08-31T05:33:55",
-      "text": "Two months of use which I would say was good to only then be met with shocking customer service when the strap stopped working. I have sent numerous messages to the help centre and emails to support with the promise of help but nothing. Its a lot of money to spend on something that doesn't work.",
-      "subcategory_tags": [
-        "strap_clasp_durability",
-        "support_responsiveness",
-        "price_value_perception"
       ]
     }
   ],
@@ -7995,6 +7997,18 @@
   ],
   "ai_coach": [
     {
+      "review_id": "6d6ba9d3-55c2-4888-8b07-c410b638fd6a",
+      "source": "google_play",
+      "rating": 2,
+      "date": "2026-10-08T08:51:57+00:00",
+      "text": "تطبيق ممتاز لكن به الكثير من المشاكل في هواتف اندرويد...مشاكل لا تغتفر.. التطبيق يعلق باستمرار وبلا سبب وكثيرا ما أحتاج الى اعادة تشغيله.. التطبيق ينتقل من العرض الرأسي الى العرض الافقي من تلقاء نفسه ويمسح ما كان في المشاهدة... لا توجد طريقة تحكم لعملية الانتقال من رأسي الى أفقي خاصية التحليل بالذكاء الاصطناعي غير مستقرة وتفقد المحادثة ان حدث اي انتقال غير مقصود داخل التطبيق او خرجت من التطبيق..",
+      "subcategory_tags": [
+        "android_specific_bugs",
+        "crashes_freezes",
+        "ai_reliability_bugs"
+      ]
+    },
+    {
       "review_id": "14610218540",
       "source": "app_store",
       "rating": 3,
@@ -8314,20 +8328,21 @@
       "subcategory_tags": [
         "ai_positive_reception"
       ]
-    },
-    {
-      "review_id": "14442444743",
-      "source": "app_store",
-      "rating": 5,
-      "date": "2026-08-18T04:33:59-07:00",
-      "text": "Love this app and device. I have the base level newest model. It’s awesome for tracking my fitness, sleep, and recovery. I primarily use the strength trainer with the AI coach and my results are awesome.",
-      "subcategory_tags": [
-        "sleep_satisfaction",
-        "ai_positive_reception"
-      ]
     }
   ],
   "ai_reliability_bugs": [
+    {
+      "review_id": "6d6ba9d3-55c2-4888-8b07-c410b638fd6a",
+      "source": "google_play",
+      "rating": 2,
+      "date": "2026-10-08T08:51:57+00:00",
+      "text": "تطبيق ممتاز لكن به الكثير من المشاكل في هواتف اندرويد...مشاكل لا تغتفر.. التطبيق يعلق باستمرار وبلا سبب وكثيرا ما أحتاج الى اعادة تشغيله.. التطبيق ينتقل من العرض الرأسي الى العرض الافقي من تلقاء نفسه ويمسح ما كان في المشاهدة... لا توجد طريقة تحكم لعملية الانتقال من رأسي الى أفقي خاصية التحليل بالذكاء الاصطناعي غير مستقرة وتفقد المحادثة ان حدث اي انتقال غير مقصود داخل التطبيق او خرجت من التطبيق..",
+      "subcategory_tags": [
+        "android_specific_bugs",
+        "crashes_freezes",
+        "ai_reliability_bugs"
+      ]
+    },
     {
       "review_id": "14610218540",
       "source": "app_store",
@@ -8663,17 +8678,6 @@
       "subcategory_tags": [
         "ai_reliability_bugs",
         "sleep_accuracy"
-      ]
-    },
-    {
-      "review_id": "ea718ee8-e413-48bf-8deb-15e9a5bf25b0",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2026-07-26T04:40:14",
-      "text": "It's really sad. This used to be my trusted companion. I've used Whoop for more than two years and I would look forward to seeing my stats & talking through it with the AI coach. I've improved my health substantially- become more fit, lost weight, reversed my aging. But an update about two months ago changed everything. Now the app constantly assumes I'm in the middle of a crisis, either health or mental health wise. it's actually starting to harm me. I'll be leaving the service. Do not buy.",
-      "subcategory_tags": [
-        "ai_reliability_bugs",
-        "personalization_use_case_fit"
       ]
     }
   ],
@@ -9333,6 +9337,18 @@
   ],
   "customer_support": [
     {
+      "review_id": "14639418333",
+      "source": "app_store",
+      "rating": 2,
+      "date": "2026-10-07T12:54:46-07:00",
+      "text": "The core sensor and data tracking itself are fine. However, the hardware ecosystem completely fails over time, the superknit bands degrade within 2 months, if you’re active and sweat on them, and customer support offers not much flexibility or accountability for subscribers. If you're paying a premium membership price, you expect bands that last more than a few months and a support team that cares when they fail.",
+      "subcategory_tags": [
+        "strap_clasp_durability",
+        "support_resolution_quality",
+        "price_value_perception"
+      ]
+    },
+    {
       "review_id": "c5f8b354-07af-4c8d-a981-b55e9b311d66",
       "source": "google_play",
       "rating": 1,
@@ -9675,19 +9691,6 @@
       "subcategory_tags": [
         "crashes_freezes",
         "support_responsiveness"
-      ]
-    },
-    {
-      "review_id": "682c6f55-0c48-48a1-b8ce-4d9f630ce9a5",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2026-08-08T18:13:35+00:00",
-      "text": "The Whoop wristband is clingly. You can't take it off without it sending annoying messages about your wristband being off, so notifications have to be turned off entirely. Then Whoop processes your data through AI when opening pages and forces its AI slop without a way to opt out. After reaching out to customer service for the first time, I received a clueless AI-generated response. After that, I cancelled my subscription and threw my Whoop wristband in the trash.",
-      "subcategory_tags": [
-        "notification_community_issues",
-        "ai_autonomy",
-        "ai_only_support_channel",
-        "billing_disputes"
       ]
     }
   ],
@@ -10056,6 +10059,18 @@
   ],
   "support_resolution_quality": [
     {
+      "review_id": "14639418333",
+      "source": "app_store",
+      "rating": 2,
+      "date": "2026-10-07T12:54:46-07:00",
+      "text": "The core sensor and data tracking itself are fine. However, the hardware ecosystem completely fails over time, the superknit bands degrade within 2 months, if you’re active and sweat on them, and customer support offers not much flexibility or accountability for subscribers. If you're paying a premium membership price, you expect bands that last more than a few months and a support team that cares when they fail.",
+      "subcategory_tags": [
+        "strap_clasp_durability",
+        "support_resolution_quality",
+        "price_value_perception"
+      ]
+    },
+    {
       "review_id": "c5f8b354-07af-4c8d-a981-b55e9b311d66",
       "source": "google_play",
       "rating": 1,
@@ -10401,17 +10416,6 @@
       "date": "2026-06-26T09:30:49",
       "text": "the worst Member ship services",
       "subcategory_tags": [
-        "support_resolution_quality"
-      ]
-    },
-    {
-      "review_id": "14226760460",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-06-25T18:30:29-07:00",
-      "text": "Worst company. They are rubbing a scam. I purchases they apparel and no where do it mention no returns or refunds. Received order and did not like the way it fit so I asked for a refund and they exchanged. Now they say it’s been on their website and it states no refunds. Their website is horrible to navigate. They are running a scam. Worst customer service. Do NOT BUY!!!!",
-      "subcategory_tags": [
-        "billing_disputes",
         "support_resolution_quality"
       ]
     }
@@ -11115,6 +11119,18 @@
   ],
   "app_stability": [
     {
+      "review_id": "6d6ba9d3-55c2-4888-8b07-c410b638fd6a",
+      "source": "google_play",
+      "rating": 2,
+      "date": "2026-10-08T08:51:57+00:00",
+      "text": "تطبيق ممتاز لكن به الكثير من المشاكل في هواتف اندرويد...مشاكل لا تغتفر.. التطبيق يعلق باستمرار وبلا سبب وكثيرا ما أحتاج الى اعادة تشغيله.. التطبيق ينتقل من العرض الرأسي الى العرض الافقي من تلقاء نفسه ويمسح ما كان في المشاهدة... لا توجد طريقة تحكم لعملية الانتقال من رأسي الى أفقي خاصية التحليل بالذكاء الاصطناعي غير مستقرة وتفقد المحادثة ان حدث اي انتقال غير مقصود داخل التطبيق او خرجت من التطبيق..",
+      "subcategory_tags": [
+        "android_specific_bugs",
+        "crashes_freezes",
+        "ai_reliability_bugs"
+      ]
+    },
+    {
       "review_id": "14629488102",
       "source": "app_store",
       "rating": 1,
@@ -11441,19 +11457,21 @@
         "crashes_freezes",
         "upsell_pressure"
       ]
-    },
-    {
-      "review_id": "14347583467",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-07-25T12:20:19-07:00",
-      "text": "I hate whoop it keeps on freezing",
-      "subcategory_tags": [
-        "crashes_freezes"
-      ]
     }
   ],
   "crashes_freezes": [
+    {
+      "review_id": "6d6ba9d3-55c2-4888-8b07-c410b638fd6a",
+      "source": "google_play",
+      "rating": 2,
+      "date": "2026-10-08T08:51:57+00:00",
+      "text": "تطبيق ممتاز لكن به الكثير من المشاكل في هواتف اندرويد...مشاكل لا تغتفر.. التطبيق يعلق باستمرار وبلا سبب وكثيرا ما أحتاج الى اعادة تشغيله.. التطبيق ينتقل من العرض الرأسي الى العرض الافقي من تلقاء نفسه ويمسح ما كان في المشاهدة... لا توجد طريقة تحكم لعملية الانتقال من رأسي الى أفقي خاصية التحليل بالذكاء الاصطناعي غير مستقرة وتفقد المحادثة ان حدث اي انتقال غير مقصود داخل التطبيق او خرجت من التطبيق..",
+      "subcategory_tags": [
+        "android_specific_bugs",
+        "crashes_freezes",
+        "ai_reliability_bugs"
+      ]
+    },
     {
       "review_id": "eb62480e-0807-4c65-bc57-813c0288bd1b",
       "source": "google_play",
@@ -11775,21 +11793,6 @@
       "subcategory_tags": [
         "crashes_freezes",
         "feature_ui_friction"
-      ]
-    },
-    {
-      "review_id": "14231860837",
-      "source": "app_store",
-      "rating": 2,
-      "date": "2026-06-27T01:00:39-07:00",
-      "text": "WHOOP started out as an amazing product. The sensor is small, thin, comfortable, and easy to forget you’re even wearing it.\n\nUnfortunately, over the past two and a half years, the experience has steadily declined. I’ve had five sensor failures, worsening battery life, repeated connection issues with the app, and persistent software problems that support has been unable to resolve.\n\nFor a premium annual subscription, I expected premium hardware and customer support. Unfortunately, neither has met that expectation.\n\nIt’s a shame to see what Will Ahmed built come to this. I expected much more from WHOOP.",
-      "subcategory_tags": [
-        "build_quality_perception",
-        "battery_life",
-        "ongoing_disconnects",
-        "crashes_freezes",
-        "support_resolution_quality",
-        "price_value_perception"
       ]
     }
   ],
@@ -12142,6 +12145,16 @@
   ],
   "ui_ux": [
     {
+      "review_id": "c3e1cd19-ce90-43a4-9479-1823268f36ff",
+      "source": "google_play",
+      "rating": 3,
+      "date": "2026-10-08T12:45:09+00:00",
+      "text": "I don't need to see my streak every time I open the app. the device is supposed to be always on, showing me the streak is meaningless and just add load time and extra clicks every time I open the app",
+      "subcategory_tags": [
+        "redesign_regression"
+      ]
+    },
+    {
       "review_id": "14632497555",
       "source": "app_store",
       "rating": 2,
@@ -12464,20 +12477,19 @@
         "crashes_freezes",
         "feature_ui_friction"
       ]
-    },
-    {
-      "review_id": "a07c6d87-3a41-4769-97e2-a7a3355a474d",
-      "source": "google_play",
-      "rating": 4,
-      "date": "2026-08-11T07:17:04+00:00",
-      "text": "love the app. only issue is that the chat keeps on lagging ie sometimes when I open the app the chat does not load. I get the notifications from it but very inconsistent with it",
-      "subcategory_tags": [
-        "ai_reliability_bugs",
-        "notification_community_issues"
-      ]
     }
   ],
   "redesign_regression": [
+    {
+      "review_id": "c3e1cd19-ce90-43a4-9479-1823268f36ff",
+      "source": "google_play",
+      "rating": 3,
+      "date": "2026-10-08T12:45:09+00:00",
+      "text": "I don't need to see my streak every time I open the app. the device is supposed to be always on, showing me the streak is meaningless and just add load time and extra clicks every time I open the app",
+      "subcategory_tags": [
+        "redesign_regression"
+      ]
+    },
     {
       "review_id": "14632497555",
       "source": "app_store",
@@ -12812,19 +12824,6 @@
         "metric_accuracy",
         "missing_activity_types",
         "redesign_regression"
-      ]
-    },
-    {
-      "review_id": "5f6886d7-8ba3-4c86-a756-14739d3c12ab",
-      "source": "google_play",
-      "rating": 2,
-      "date": "2026-05-22T06:21:30",
-      "text": "don't know how much I can trust the reasons. just started, but in one part of the app they call carries a 20% difference, you hi to a different screen and the same values are 22% different. I really hate that you move to a different app and back to whoop it always shows recovery score. not very user-friendly. also the 🔍 symbols are swapped. instead of zooming in when pushing the plus, you zoom out. almost perfect recovery in a night where I basically didn't sleep at all? the metrics are way off",
-      "subcategory_tags": [
-        "metric_accuracy",
-        "sleep_accuracy",
-        "redesign_regression",
-        "feature_ui_friction"
       ]
     }
   ],
@@ -13837,6 +13836,18 @@
   ],
   "platform_parity": [
     {
+      "review_id": "6d6ba9d3-55c2-4888-8b07-c410b638fd6a",
+      "source": "google_play",
+      "rating": 2,
+      "date": "2026-10-08T08:51:57+00:00",
+      "text": "تطبيق ممتاز لكن به الكثير من المشاكل في هواتف اندرويد...مشاكل لا تغتفر.. التطبيق يعلق باستمرار وبلا سبب وكثيرا ما أحتاج الى اعادة تشغيله.. التطبيق ينتقل من العرض الرأسي الى العرض الافقي من تلقاء نفسه ويمسح ما كان في المشاهدة... لا توجد طريقة تحكم لعملية الانتقال من رأسي الى أفقي خاصية التحليل بالذكاء الاصطناعي غير مستقرة وتفقد المحادثة ان حدث اي انتقال غير مقصود داخل التطبيق او خرجت من التطبيق..",
+      "subcategory_tags": [
+        "android_specific_bugs",
+        "crashes_freezes",
+        "ai_reliability_bugs"
+      ]
+    },
+    {
       "review_id": "069823e4-51a9-4b45-91c9-b67feb586ca8",
       "source": "google_play",
       "rating": 3,
@@ -14164,17 +14175,6 @@
         "ongoing_disconnects",
         "android_specific_bugs",
         "price_value_perception"
-      ]
-    },
-    {
-      "review_id": "100b00e8-00b1-47be-b49c-0ccb4b3698c3",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2025-08-16T11:53:59",
-      "text": "the latest update crashes and cannot run in the pixel 8 pro.",
-      "subcategory_tags": [
-        "update_failures",
-        "android_specific_bugs"
       ]
     }
   ],
@@ -14506,6 +14506,18 @@
   ],
   "android_specific_bugs": [
     {
+      "review_id": "6d6ba9d3-55c2-4888-8b07-c410b638fd6a",
+      "source": "google_play",
+      "rating": 2,
+      "date": "2026-10-08T08:51:57+00:00",
+      "text": "تطبيق ممتاز لكن به الكثير من المشاكل في هواتف اندرويد...مشاكل لا تغتفر.. التطبيق يعلق باستمرار وبلا سبب وكثيرا ما أحتاج الى اعادة تشغيله.. التطبيق ينتقل من العرض الرأسي الى العرض الافقي من تلقاء نفسه ويمسح ما كان في المشاهدة... لا توجد طريقة تحكم لعملية الانتقال من رأسي الى أفقي خاصية التحليل بالذكاء الاصطناعي غير مستقرة وتفقد المحادثة ان حدث اي انتقال غير مقصود داخل التطبيق او خرجت من التطبيق..",
+      "subcategory_tags": [
+        "android_specific_bugs",
+        "crashes_freezes",
+        "ai_reliability_bugs"
+      ]
+    },
+    {
       "review_id": "069823e4-51a9-4b45-91c9-b67feb586ca8",
       "source": "google_play",
       "rating": 3,
@@ -14836,18 +14848,6 @@
         "data_sync_delays",
         "android_specific_bugs",
         "crashes_freezes"
-      ]
-    },
-    {
-      "review_id": "f49cc2c0-dac7-42e5-8dc0-c0c7b2813ff2",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2025-05-23T13:54:30",
-      "text": "I have tried everyother way to pair the whoop 5.0 to my android... but it's just impossible. plus there is no help from Whoop besides AI giving you the same information over and over again. literally this is TRASH",
-      "subcategory_tags": [
-        "onboarding_pairing",
-        "android_specific_bugs",
-        "ai_only_support_channel"
       ]
     }
   ],
@@ -15556,6 +15556,28 @@
   ],
   "feature_requests": [
     {
+      "review_id": "14639981640",
+      "source": "app_store",
+      "rating": 2,
+      "date": "2026-10-07T16:39:05-07:00",
+      "text": "Can I go from the pool to the sauna seamlessly without going back to my phone to manually change my workout? No. \n\nCan I run on the treadmill and actually track how many miles I ran? No. \n\nDoes it tell me “good workout” when laughing? Yes.",
+      "subcategory_tags": [
+        "missing_activity_types",
+        "missing_metrics"
+      ]
+    },
+    {
+      "review_id": "14637805027",
+      "source": "app_store",
+      "rating": 5,
+      "date": "2026-10-07T04:24:15-07:00",
+      "text": "Excelente app, deberían incluir el monitor estrés en el plan one",
+      "subcategory_tags": [
+        "plan_trial_structure",
+        "missing_metrics"
+      ]
+    },
+    {
       "review_id": "14632842048",
       "source": "app_store",
       "rating": 5,
@@ -15862,31 +15884,20 @@
         "metric_accuracy",
         "price_value_perception"
       ]
-    },
-    {
-      "review_id": "5ee59893-76ec-4523-9a0b-51011f9f348d",
-      "source": "google_play",
-      "rating": 5,
-      "date": "2026-08-18T14:42:34+00:00",
-      "text": "best health tracking app. I have a 230 day streak. The app let's me know what's best for my body wish they had a food calculator on it. 10 out of 10 though",
-      "subcategory_tags": [
-        "missing_metrics"
-      ]
-    },
-    {
-      "review_id": "14442900365",
-      "source": "app_store",
-      "rating": 4,
-      "date": "2026-08-18T06:52:07-07:00",
-      "text": "Needs better privacy guarantees, needs better HR tracking and estimates for short intense interval workouts. Needs ability to switch between two or more active strength training activities. Otherwise good sleep gauging app.",
-      "subcategory_tags": [
-        "metric_accuracy",
-        "missing_activity_types",
-        "sleep_satisfaction"
-      ]
     }
   ],
   "missing_activity_types": [
+    {
+      "review_id": "14639981640",
+      "source": "app_store",
+      "rating": 2,
+      "date": "2026-10-07T16:39:05-07:00",
+      "text": "Can I go from the pool to the sauna seamlessly without going back to my phone to manually change my workout? No. \n\nCan I run on the treadmill and actually track how many miles I ran? No. \n\nDoes it tell me “good workout” when laughing? Yes.",
+      "subcategory_tags": [
+        "missing_activity_types",
+        "missing_metrics"
+      ]
+    },
     {
       "review_id": "14541419111",
       "source": "app_store",
@@ -16206,20 +16217,31 @@
         "missing_metrics",
         "missing_activity_types"
       ]
-    },
-    {
-      "review_id": "f3465688-ae54-4b8f-93b5-bba0b7289153",
-      "source": "google_play",
-      "rating": 3,
-      "date": "2025-12-06T08:33:40",
-      "text": "add a widget short cut to start activity please",
-      "subcategory_tags": [
-        "missing_activity_types",
-        "feature_ui_friction"
-      ]
     }
   ],
   "missing_metrics": [
+    {
+      "review_id": "14639981640",
+      "source": "app_store",
+      "rating": 2,
+      "date": "2026-10-07T16:39:05-07:00",
+      "text": "Can I go from the pool to the sauna seamlessly without going back to my phone to manually change my workout? No. \n\nCan I run on the treadmill and actually track how many miles I ran? No. \n\nDoes it tell me “good workout” when laughing? Yes.",
+      "subcategory_tags": [
+        "missing_activity_types",
+        "missing_metrics"
+      ]
+    },
+    {
+      "review_id": "14637805027",
+      "source": "app_store",
+      "rating": 5,
+      "date": "2026-10-07T04:24:15-07:00",
+      "text": "Excelente app, deberían incluir el monitor estrés en el plan one",
+      "subcategory_tags": [
+        "plan_trial_structure",
+        "missing_metrics"
+      ]
+    },
     {
       "review_id": "0576d094-b523-4712-95ce-f7ec8ce62315",
       "source": "google_play",
@@ -16534,28 +16556,6 @@
       "subcategory_tags": [
         "missing_metrics",
         "missing_activity_types"
-      ]
-    },
-    {
-      "review_id": "14284225480",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-07-09T18:25:11-07:00",
-      "text": "Nothing meaningful has been added to the app in so long. The device constantly logs workouts incorrectly - I just vacuumed and it thought I was weightlifting. This used to be a cutting edge company and now it’s average. This is not worth the exorbitant price tag, and I will not be renewing my subscription.",
-      "subcategory_tags": [
-        "activity_detection",
-        "price_value_perception",
-        "missing_metrics"
-      ]
-    },
-    {
-      "review_id": "14282131240",
-      "source": "app_store",
-      "rating": 5,
-      "date": "2026-07-09T06:52:29-07:00",
-      "text": "It will be nice if I can change my birthday on this app because I’m only 13 and I’ve had this thing going on two years now",
-      "subcategory_tags": [
-        "missing_metrics"
       ]
     }
   ],
