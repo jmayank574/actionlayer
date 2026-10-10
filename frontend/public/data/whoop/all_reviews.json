@@ -1,5 +1,18 @@
 [
   {
+    "review_id": "14643940236",
+    "source": "app_store",
+    "rating": 2,
+    "date": "2026-10-08T17:29:51-07:00",
+    "text": "Very disappointed at slow data uploading to my iPhone. Sometimes takes more than 24 hours.",
+    "parent_category_tags": [
+      "sync_connectivity"
+    ],
+    "subcategory_tags": [
+      "data_sync_delays"
+    ]
+  },
+  {
     "review_id": "623f4a2f-0da2-4981-8d39-8752d9eaf298",
     "source": "google_play",
     "rating": 5,

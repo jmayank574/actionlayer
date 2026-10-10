@@ -4822,6 +4822,16 @@
   ],
   "sync_connectivity": [
     {
+      "review_id": "14643940236",
+      "source": "app_store",
+      "rating": 2,
+      "date": "2026-10-08T17:29:51-07:00",
+      "text": "Very disappointed at slow data uploading to my iPhone. Sometimes takes more than 24 hours.",
+      "subcategory_tags": [
+        "data_sync_delays"
+      ]
+    },
+    {
       "review_id": "eab5d2e2-c36b-4a96-9498-d5753bc351e0",
       "source": "google_play",
       "rating": 3,
@@ -5149,17 +5159,6 @@
         "ongoing_disconnects",
         "activity_detection",
         "feature_ui_friction"
-      ]
-    },
-    {
-      "review_id": "14346282073",
-      "source": "app_store",
-      "rating": 4,
-      "date": "2026-07-25T05:35:38-07:00",
-      "text": "I generally like my whoop. I bought one of the leather bands so it looks a  lot cuter with everyday clothes, but it has a hard time staying connected. I take it off to shower and the occasional pool or beach days in the summer and even though I follow all the steps to make sure it’s connected it’s not. I’ve gotten a few incorrect or missing readings. Which isn’t the end of the world but begs the question why wear it?",
-      "subcategory_tags": [
-        "ongoing_disconnects",
-        "data_sync_delays"
       ]
     }
   ],
@@ -5834,6 +5833,16 @@
   ],
   "data_sync_delays": [
     {
+      "review_id": "14643940236",
+      "source": "app_store",
+      "rating": 2,
+      "date": "2026-10-08T17:29:51-07:00",
+      "text": "Very disappointed at slow data uploading to my iPhone. Sometimes takes more than 24 hours.",
+      "subcategory_tags": [
+        "data_sync_delays"
+      ]
+    },
+    {
       "review_id": "2f4e903c-4631-4609-b7e5-c3c4add428ac",
       "source": "google_play",
       "rating": 1,
@@ -6164,19 +6173,6 @@
       "subcategory_tags": [
         "sleep_satisfaction",
         "data_sync_delays"
-      ]
-    },
-    {
-      "review_id": "31911b4f-520f-4f29-ba5d-13ef131d7dc6",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2026-06-11T19:05:26",
-      "text": "I've been using this device for over a year, and the same issues have existed since day one. Data is frequently missing, sleep and recovery metrics often fail to register, and syncing is unreliable. For a product that requires an expensive membership, I expected far better performance. The constant technical problems make the data difficult to trust, and after a year of frustration, I don't believe this device offers good value for the price.",
-      "subcategory_tags": [
-        "data_sync_delays",
-        "sleep_accuracy",
-        "metric_accuracy",
-        "price_value_perception"
       ]
     }
   ],
