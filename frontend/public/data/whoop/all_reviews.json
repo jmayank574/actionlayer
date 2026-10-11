@@ -1,5 +1,108 @@
 [
   {
+    "review_id": "127969b5-e07f-4aae-bcb5-e20fd9b4eef6",
+    "source": "google_play",
+    "rating": 1,
+    "date": "2026-10-10T12:46:07+00:00",
+    "text": "purchased the product, from the first day itself the product and the app doesn't work properly, crashes again and again. Couldn't even pair the item. tried doing the pairing as per instructions, it just crashes. worst experience with the brand.",
+    "parent_category_tags": [
+      "app_stability",
+      "sync_connectivity"
+    ],
+    "subcategory_tags": [
+      "crashes_freezes",
+      "onboarding_pairing"
+    ]
+  },
+  {
+    "review_id": "14648683989",
+    "source": "app_store",
+    "rating": 1,
+    "date": "2026-10-09T23:48:47-07:00",
+    "text": "The worst device and app",
+    "parent_category_tags": [
+      "nan"
+    ],
+    "subcategory_tags": [
+      "nan"
+    ]
+  },
+  {
+    "review_id": "14647279171",
+    "source": "app_store",
+    "rating": 1,
+    "date": "2026-10-09T13:58:56-07:00",
+    "text": "Something changed with their algorithm at the end of the summer, I walk 20,000 steps in a day according to the WHOOP and burn like 1600 calories.",
+    "parent_category_tags": [
+      "data_accuracy"
+    ],
+    "subcategory_tags": [
+      "metric_accuracy"
+    ]
+  },
+  {
+    "review_id": "14646506878",
+    "source": "app_store",
+    "rating": 5,
+    "date": "2026-10-09T09:37:16-07:00",
+    "text": "Has probably been the most consistent thing in the last 7 years of my life haha. I love it and they keep getting better. Best device for people who train hard and want to make lifestyle changes according to how their body is responding. My body has changed a lot over the last 7 years and I can change accordingly backed by my specific data. Game changer- get it!",
+    "parent_category_tags": [
+      "feature_requests"
+    ],
+    "subcategory_tags": [
+      "personalization_use_case_fit"
+    ]
+  },
+  {
+    "review_id": "14645917488",
+    "source": "app_store",
+    "rating": 4,
+    "date": "2026-10-09T06:45:41-07:00",
+    "text": "I love my whoop, I just wish the AI had a memory of previous conversations and was a little more useful… I also wish the app crashed less especially during workouts…",
+    "parent_category_tags": [
+      "ai_coach",
+      "app_stability"
+    ],
+    "subcategory_tags": [
+      "ai_reliability_bugs",
+      "crashes_freezes"
+    ]
+  },
+  {
+    "review_id": "14645702078",
+    "source": "app_store",
+    "rating": 5,
+    "date": "2026-10-09T05:41:58-07:00",
+    "text": "Great fitness and sleep tracker ever . 14 days battery life , snug and light fit that you don't feel like you are wearing it . Amazing stats for sleep and great workout detection . This is a review after 1.5 years of usage . Got rid of my apple watch and started using traditional watches and using whoop for fitness and sleep tracking",
+    "parent_category_tags": [
+      "sleep_tracking",
+      "hardware_wearability",
+      "hardware_wearability",
+      "data_accuracy"
+    ],
+    "subcategory_tags": [
+      "sleep_satisfaction",
+      "battery_life",
+      "comfort_fit",
+      "activity_detection"
+    ]
+  },
+  {
+    "review_id": "14645562870",
+    "source": "app_store",
+    "rating": 3,
+    "date": "2026-10-09T04:58:36-07:00",
+    "text": "All the information is great and all but simple things would make this app better.\nWhen starting an activity it clearly shows on your phones home screen, why not allow us to change activities within that feature vs having to manually open the app, end activity, and start a new activity. And allow us to have favorite activities. I have been stretching every morning and to this date it never comes up as a most recent. Makes no sense.",
+    "parent_category_tags": [
+      "ui_ux",
+      "feature_requests"
+    ],
+    "subcategory_tags": [
+      "feature_ui_friction",
+      "missing_activity_types"
+    ]
+  },
+  {
     "review_id": "14643940236",
     "source": "app_store",
     "rating": 2,

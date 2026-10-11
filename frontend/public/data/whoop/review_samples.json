@@ -1717,6 +1717,19 @@
   ],
   "sleep_tracking": [
     {
+      "review_id": "14645702078",
+      "source": "app_store",
+      "rating": 5,
+      "date": "2026-10-09T05:41:58-07:00",
+      "text": "Great fitness and sleep tracker ever . 14 days battery life , snug and light fit that you don't feel like you are wearing it . Amazing stats for sleep and great workout detection . This is a review after 1.5 years of usage . Got rid of my apple watch and started using traditional watches and using whoop for fitness and sleep tracking",
+      "subcategory_tags": [
+        "sleep_satisfaction",
+        "battery_life",
+        "comfort_fit",
+        "activity_detection"
+      ]
+    },
+    {
       "review_id": "623f4a2f-0da2-4981-8d39-8752d9eaf298",
       "source": "google_play",
       "rating": 5,
@@ -2033,17 +2046,6 @@
       "text": "Whoop has helped me figure out my sleep so that I am more aware of how my daily habits directly affect my sleep!",
       "subcategory_tags": [
         "sleep_satisfaction"
-      ]
-    },
-    {
-      "review_id": "14500034304",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-09-01T18:46:41-07:00",
-      "text": "The WHOOP band occasionally stops working automatically while sleeping at night.",
-      "subcategory_tags": [
-        "sleep_accuracy",
-        "data_sync_delays"
       ]
     }
   ],
@@ -2398,6 +2400,19 @@
   ],
   "sleep_satisfaction": [
     {
+      "review_id": "14645702078",
+      "source": "app_store",
+      "rating": 5,
+      "date": "2026-10-09T05:41:58-07:00",
+      "text": "Great fitness and sleep tracker ever . 14 days battery life , snug and light fit that you don't feel like you are wearing it . Amazing stats for sleep and great workout detection . This is a review after 1.5 years of usage . Got rid of my apple watch and started using traditional watches and using whoop for fitness and sleep tracking",
+      "subcategory_tags": [
+        "sleep_satisfaction",
+        "battery_life",
+        "comfort_fit",
+        "activity_detection"
+      ]
+    },
+    {
       "review_id": "623f4a2f-0da2-4981-8d39-8752d9eaf298",
       "source": "google_play",
       "rating": 5,
@@ -2703,16 +2718,6 @@
       "rating": 5,
       "date": "2026-08-08T04:48:38-07:00",
       "text": "I’ve had WHOOP for over 5 years and still wear it every day. I’m very active, and I love being able to track my recovery, sleep, and strain and see how my body is actually handling everything. WHOOP has continued to get better over the years, and it’s definitely been worth it for me.",
-      "subcategory_tags": [
-        "sleep_satisfaction"
-      ]
-    },
-    {
-      "review_id": "14402465349",
-      "source": "app_store",
-      "rating": 5,
-      "date": "2026-08-08T04:28:11-07:00",
-      "text": "The best self investment, great for tracking post recovery and sleep quality. Lot many deep features embedded to band.",
       "subcategory_tags": [
         "sleep_satisfaction"
       ]
@@ -3071,6 +3076,19 @@
   ],
   "hardware_wearability": [
     {
+      "review_id": "14645702078",
+      "source": "app_store",
+      "rating": 5,
+      "date": "2026-10-09T05:41:58-07:00",
+      "text": "Great fitness and sleep tracker ever . 14 days battery life , snug and light fit that you don't feel like you are wearing it . Amazing stats for sleep and great workout detection . This is a review after 1.5 years of usage . Got rid of my apple watch and started using traditional watches and using whoop for fitness and sleep tracking",
+      "subcategory_tags": [
+        "sleep_satisfaction",
+        "battery_life",
+        "comfort_fit",
+        "activity_detection"
+      ]
+    },
+    {
       "review_id": "14639418333",
       "source": "app_store",
       "rating": 2,
@@ -3405,16 +3423,6 @@
       "subcategory_tags": [
         "comfort_fit",
         "billing_disputes"
-      ]
-    },
-    {
-      "review_id": "14294280857",
-      "source": "app_store",
-      "rating": 4,
-      "date": "2026-07-12T07:14:33-07:00",
-      "text": "One suggestion I’d love to see is a Sleep-Friendly mode for the sensor light. The current flashing and pulsing light can be very bright and, on some nights, actually creates anxiety and makes it difficult to fall asleep. It’s especially ironic since the app provides guidance on avoiding bright light before bed to support better sleep. A dim, steady, or optional light setting would make the experience much more sleep-friendly while still serving its purpose.",
-      "subcategory_tags": [
-        "comfort_fit"
       ]
     }
   ],
@@ -3777,6 +3785,19 @@
   ],
   "comfort_fit": [
     {
+      "review_id": "14645702078",
+      "source": "app_store",
+      "rating": 5,
+      "date": "2026-10-09T05:41:58-07:00",
+      "text": "Great fitness and sleep tracker ever . 14 days battery life , snug and light fit that you don't feel like you are wearing it . Amazing stats for sleep and great workout detection . This is a review after 1.5 years of usage . Got rid of my apple watch and started using traditional watches and using whoop for fitness and sleep tracking",
+      "subcategory_tags": [
+        "sleep_satisfaction",
+        "battery_life",
+        "comfort_fit",
+        "activity_detection"
+      ]
+    },
+    {
       "review_id": "14611844435",
       "source": "app_store",
       "rating": 4,
@@ -4107,19 +4128,22 @@
         "activity_detection",
         "comfort_fit"
       ]
-    },
-    {
-      "review_id": "550f96cb-ba14-4502-a5e1-968f02ef6f36",
-      "source": "google_play",
-      "rating": 3,
-      "date": "2025-12-05T04:59:34",
-      "text": "the straps are the worst, wayer hogging. the only thing one wants against their skin all day is metal",
-      "subcategory_tags": [
-        "comfort_fit"
-      ]
     }
   ],
   "battery_life": [
+    {
+      "review_id": "14645702078",
+      "source": "app_store",
+      "rating": 5,
+      "date": "2026-10-09T05:41:58-07:00",
+      "text": "Great fitness and sleep tracker ever . 14 days battery life , snug and light fit that you don't feel like you are wearing it . Amazing stats for sleep and great workout detection . This is a review after 1.5 years of usage . Got rid of my apple watch and started using traditional watches and using whoop for fitness and sleep tracking",
+      "subcategory_tags": [
+        "sleep_satisfaction",
+        "battery_life",
+        "comfort_fit",
+        "activity_detection"
+      ]
+    },
     {
       "review_id": "14576408227",
       "source": "app_store",
@@ -4450,17 +4474,6 @@
       "subcategory_tags": [
         "battery_life",
         "strap_clasp_durability"
-      ]
-    },
-    {
-      "review_id": "75826ab2-94d0-4ea5-bfad-ffabfdb0e7eb",
-      "source": "google_play",
-      "rating": 2,
-      "date": "2025-09-29T20:35:40",
-      "text": "Once a new version comes out they stop selling the old battery. My battery died shortly after the new 5 came out. go to their Amazon store and only batteries compatible with the 5 are for sale. I'm not interested in supporting a company that doesn't care about their long term clients. The device itself is well designed, just a closed ecosystem which I can accept if their support structure is stellar, it isn't",
-      "subcategory_tags": [
-        "battery_life",
-        "support_resolution_quality"
       ]
     }
   ],
@@ -4822,6 +4835,17 @@
   ],
   "sync_connectivity": [
     {
+      "review_id": "127969b5-e07f-4aae-bcb5-e20fd9b4eef6",
+      "source": "google_play",
+      "rating": 1,
+      "date": "2026-10-10T12:46:07+00:00",
+      "text": "purchased the product, from the first day itself the product and the app doesn't work properly, crashes again and again. Couldn't even pair the item. tried doing the pairing as per instructions, it just crashes. worst experience with the brand.",
+      "subcategory_tags": [
+        "crashes_freezes",
+        "onboarding_pairing"
+      ]
+    },
+    {
       "review_id": "14643940236",
       "source": "app_store",
       "rating": 2,
@@ -5147,22 +5171,20 @@
       "subcategory_tags": [
         "onboarding_pairing"
       ]
-    },
-    {
-      "review_id": "1a6e0142-c7da-49b4-8b80-2ef748251ed7",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2026-07-29T03:45:00",
-      "text": "relax practice not work without network connection, whoop simultaneously disconnected from app, activity auto-detection worx bad, stupid time input interface when filling out the journal — it's impossible to get to the right time (previous review magically deleted from store)",
-      "subcategory_tags": [
-        "data_sync_delays",
-        "ongoing_disconnects",
-        "activity_detection",
-        "feature_ui_friction"
-      ]
     }
   ],
   "onboarding_pairing": [
+    {
+      "review_id": "127969b5-e07f-4aae-bcb5-e20fd9b4eef6",
+      "source": "google_play",
+      "rating": 1,
+      "date": "2026-10-10T12:46:07+00:00",
+      "text": "purchased the product, from the first day itself the product and the app doesn't work properly, crashes again and again. Couldn't even pair the item. tried doing the pairing as per instructions, it just crashes. worst experience with the brand.",
+      "subcategory_tags": [
+        "crashes_freezes",
+        "onboarding_pairing"
+      ]
+    },
     {
       "review_id": "14452213935",
       "source": "app_store",
@@ -5477,16 +5499,6 @@
       "rating": 1,
       "date": "2024-12-04T13:17:17",
       "text": "Wanted to give it a try. Couldn't even link connect the WHOOP device with the app itself. It keeps saying there was a problem with pairing. Tried this multiple times (5 times reinstalling the app), but it didn't make a difference at all. Disappointed and will be sending the hardware back tomorrow.",
-      "subcategory_tags": [
-        "onboarding_pairing"
-      ]
-    },
-    {
-      "review_id": "53267123-a8a6-42f2-90b8-6b933bc04cc5",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2024-10-24T05:28:54",
-      "text": "You can't even log into existing account. It assumes automatically you are a new customer. Super annoying when switching phones or reinstalling the app",
       "subcategory_tags": [
         "onboarding_pairing"
       ]
@@ -6178,6 +6190,29 @@
   ],
   "data_accuracy": [
     {
+      "review_id": "14647279171",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-10-09T13:58:56-07:00",
+      "text": "Something changed with their algorithm at the end of the summer, I walk 20,000 steps in a day according to the WHOOP and burn like 1600 calories.",
+      "subcategory_tags": [
+        "metric_accuracy"
+      ]
+    },
+    {
+      "review_id": "14645702078",
+      "source": "app_store",
+      "rating": 5,
+      "date": "2026-10-09T05:41:58-07:00",
+      "text": "Great fitness and sleep tracker ever . 14 days battery life , snug and light fit that you don't feel like you are wearing it . Amazing stats for sleep and great workout detection . This is a review after 1.5 years of usage . Got rid of my apple watch and started using traditional watches and using whoop for fitness and sleep tracking",
+      "subcategory_tags": [
+        "sleep_satisfaction",
+        "battery_life",
+        "comfort_fit",
+        "activity_detection"
+      ]
+    },
+    {
       "review_id": "14632497555",
       "source": "app_store",
       "rating": 2,
@@ -6505,30 +6540,19 @@
         "billing_disputes",
         "price_value_perception"
       ]
-    },
+    }
+  ],
+  "metric_accuracy": [
     {
-      "review_id": "14441431730",
+      "review_id": "14647279171",
       "source": "app_store",
       "rating": 1,
-      "date": "2026-08-17T21:41:28-07:00",
-      "text": "Its inaccuracy is a distraction when working out. A reading of 160 bpm then 90 bpm a minute later…terrible.",
+      "date": "2026-10-09T13:58:56-07:00",
+      "text": "Something changed with their algorithm at the end of the summer, I walk 20,000 steps in a day according to the WHOOP and burn like 1600 calories.",
       "subcategory_tags": [
         "metric_accuracy"
       ]
     },
-    {
-      "review_id": "14441034641",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-08-17T19:00:54-07:00",
-      "text": "It used to label activities correctly after detecting them. Now it doesn’t. Support staff doesn’t seem to care after going back and fourth in the issue.",
-      "subcategory_tags": [
-        "activity_detection",
-        "support_resolution_quality"
-      ]
-    }
-  ],
-  "metric_accuracy": [
     {
       "review_id": "14632497555",
       "source": "app_store",
@@ -6868,20 +6892,22 @@
         "ecg_bp_feature_reliability",
         "metric_accuracy"
       ]
-    },
-    {
-      "review_id": "4f9523d0-4d48-4251-bc81-9025f9ca8482",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2026-08-05T04:45:46",
-      "text": "useless. most of my activities don't show results because the sensor stops working. when it works, 1h intense runs shows less strain than 10 minute slow walk. uselss",
-      "subcategory_tags": [
-        "metric_accuracy",
-        "activity_detection"
-      ]
     }
   ],
   "activity_detection": [
+    {
+      "review_id": "14645702078",
+      "source": "app_store",
+      "rating": 5,
+      "date": "2026-10-09T05:41:58-07:00",
+      "text": "Great fitness and sleep tracker ever . 14 days battery life , snug and light fit that you don't feel like you are wearing it . Amazing stats for sleep and great workout detection . This is a review after 1.5 years of usage . Got rid of my apple watch and started using traditional watches and using whoop for fitness and sleep tracking",
+      "subcategory_tags": [
+        "sleep_satisfaction",
+        "battery_life",
+        "comfort_fit",
+        "activity_detection"
+      ]
+    },
     {
       "review_id": "14611968535",
       "source": "app_store",
@@ -7229,19 +7255,6 @@
       "subcategory_tags": [
         "activity_detection",
         "missing_activity_types"
-      ]
-    },
-    {
-      "review_id": "14200570056",
-      "source": "app_store",
-      "rating": 3,
-      "date": "2026-06-19T02:12:14-07:00",
-      "text": "I have worn a Whoop almost everyday for 9 years and it has guided my training. Sadly, the experience has gotten much worse. The AI is glitchy, the data is inconstant , the auto recognition or activities has changed from 20 minutes to 10 and it is reading even when I turn it off, the customer service which used to be amazing is terrible.  I hope it gets better or I will be looking for an alternative. :-(",
-      "subcategory_tags": [
-        "ai_reliability_bugs",
-        "metric_accuracy",
-        "activity_detection",
-        "support_resolution_quality"
       ]
     }
   ],
@@ -7993,6 +8006,17 @@
   ],
   "ai_coach": [
     {
+      "review_id": "14645917488",
+      "source": "app_store",
+      "rating": 4,
+      "date": "2026-10-09T06:45:41-07:00",
+      "text": "I love my whoop, I just wish the AI had a memory of previous conversations and was a little more useful… I also wish the app crashed less especially during workouts…",
+      "subcategory_tags": [
+        "ai_reliability_bugs",
+        "crashes_freezes"
+      ]
+    },
+    {
       "review_id": "6d6ba9d3-55c2-4888-8b07-c410b638fd6a",
       "source": "google_play",
       "rating": 2,
@@ -8314,19 +8338,20 @@
         "ai_autonomy",
         "feature_ui_friction"
       ]
-    },
-    {
-      "review_id": "f678d5b6-ff49-4b3a-aded-cded7114a71a",
-      "source": "google_play",
-      "rating": 5,
-      "date": "2026-08-19T14:43:09+00:00",
-      "text": "I've really enjoyed using Whoop. I think it provides interesting and beneficial insight without being overly complicated or time consuming. the AI feature is also well integrated and I consult it often. I recommend woop.",
-      "subcategory_tags": [
-        "ai_positive_reception"
-      ]
     }
   ],
   "ai_reliability_bugs": [
+    {
+      "review_id": "14645917488",
+      "source": "app_store",
+      "rating": 4,
+      "date": "2026-10-09T06:45:41-07:00",
+      "text": "I love my whoop, I just wish the AI had a memory of previous conversations and was a little more useful… I also wish the app crashed less especially during workouts…",
+      "subcategory_tags": [
+        "ai_reliability_bugs",
+        "crashes_freezes"
+      ]
+    },
     {
       "review_id": "6d6ba9d3-55c2-4888-8b07-c410b638fd6a",
       "source": "google_play",
@@ -8663,17 +8688,6 @@
         "notification_community_issues",
         "feature_ui_friction",
         "price_value_perception"
-      ]
-    },
-    {
-      "review_id": "14358521151",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-07-28T07:01:55-07:00",
-      "text": "The AI assistant keeps pinging you and incorrectly reads its own data. It consistently contradicts itself. Additionally, the sleep metrics can just ruin your day even if you’re feeling fine.",
-      "subcategory_tags": [
-        "ai_reliability_bugs",
-        "sleep_accuracy"
       ]
     }
   ],
@@ -11115,6 +11129,28 @@
   ],
   "app_stability": [
     {
+      "review_id": "127969b5-e07f-4aae-bcb5-e20fd9b4eef6",
+      "source": "google_play",
+      "rating": 1,
+      "date": "2026-10-10T12:46:07+00:00",
+      "text": "purchased the product, from the first day itself the product and the app doesn't work properly, crashes again and again. Couldn't even pair the item. tried doing the pairing as per instructions, it just crashes. worst experience with the brand.",
+      "subcategory_tags": [
+        "crashes_freezes",
+        "onboarding_pairing"
+      ]
+    },
+    {
+      "review_id": "14645917488",
+      "source": "app_store",
+      "rating": 4,
+      "date": "2026-10-09T06:45:41-07:00",
+      "text": "I love my whoop, I just wish the AI had a memory of previous conversations and was a little more useful… I also wish the app crashed less especially during workouts…",
+      "subcategory_tags": [
+        "ai_reliability_bugs",
+        "crashes_freezes"
+      ]
+    },
+    {
       "review_id": "6d6ba9d3-55c2-4888-8b07-c410b638fd6a",
       "source": "google_play",
       "rating": 2,
@@ -11432,30 +11468,31 @@
         "notification_community_issues",
         "update_failures"
       ]
-    },
-    {
-      "review_id": "d01001bb-6d30-4c24-b169-1c7c5776e271",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2026-07-29T05:49:51",
-      "text": "could not get the app to work on several occasions very disappointing",
-      "subcategory_tags": [
-        "crashes_freezes"
-      ]
-    },
-    {
-      "review_id": "90501301-b637-463d-8418-61ad73541081",
-      "source": "google_play",
-      "rating": 2,
-      "date": "2026-07-28T02:29:02",
-      "text": "Recently the app became buggy, freezing when I opened it. anointing a popup about how helpful the app has been pop up every time and even I rate it",
-      "subcategory_tags": [
-        "crashes_freezes",
-        "upsell_pressure"
-      ]
     }
   ],
   "crashes_freezes": [
+    {
+      "review_id": "127969b5-e07f-4aae-bcb5-e20fd9b4eef6",
+      "source": "google_play",
+      "rating": 1,
+      "date": "2026-10-10T12:46:07+00:00",
+      "text": "purchased the product, from the first day itself the product and the app doesn't work properly, crashes again and again. Couldn't even pair the item. tried doing the pairing as per instructions, it just crashes. worst experience with the brand.",
+      "subcategory_tags": [
+        "crashes_freezes",
+        "onboarding_pairing"
+      ]
+    },
+    {
+      "review_id": "14645917488",
+      "source": "app_store",
+      "rating": 4,
+      "date": "2026-10-09T06:45:41-07:00",
+      "text": "I love my whoop, I just wish the AI had a memory of previous conversations and was a little more useful… I also wish the app crashed less especially during workouts…",
+      "subcategory_tags": [
+        "ai_reliability_bugs",
+        "crashes_freezes"
+      ]
+    },
     {
       "review_id": "6d6ba9d3-55c2-4888-8b07-c410b638fd6a",
       "source": "google_play",
@@ -11766,29 +11803,6 @@
       "subcategory_tags": [
         "crashes_freezes",
         "update_failures"
-      ]
-    },
-    {
-      "review_id": "14276249631",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-07-07T18:55:26-07:00",
-      "text": "Upgrade the ai features. Gpt 4 is dumb against the current age. Also it deleted my workout without warning. Truly upsetting. UI isn’t truly intuitive.",
-      "subcategory_tags": [
-        "ai_reliability_bugs",
-        "crashes_freezes",
-        "redesign_regression"
-      ]
-    },
-    {
-      "review_id": "14233693461",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-06-27T10:49:58-07:00",
-      "text": "Constant crashes and UI design that puts form far above function keeps you from getting bogged down with the annoying bits of your workout, things like moving the weight, moving yourself. Stay distracted by poor QA and you’ll barely break a sweat your next workout!",
-      "subcategory_tags": [
-        "crashes_freezes",
-        "feature_ui_friction"
       ]
     }
   ],
@@ -12141,6 +12155,17 @@
   ],
   "ui_ux": [
     {
+      "review_id": "14645562870",
+      "source": "app_store",
+      "rating": 3,
+      "date": "2026-10-09T04:58:36-07:00",
+      "text": "All the information is great and all but simple things would make this app better.\nWhen starting an activity it clearly shows on your phones home screen, why not allow us to change activities within that feature vs having to manually open the app, end activity, and start a new activity. And allow us to have favorite activities. I have been stretching every morning and to this date it never comes up as a most recent. Makes no sense.",
+      "subcategory_tags": [
+        "feature_ui_friction",
+        "missing_activity_types"
+      ]
+    },
+    {
       "review_id": "c3e1cd19-ce90-43a4-9479-1823268f36ff",
       "source": "google_play",
       "rating": 3,
@@ -12461,17 +12486,6 @@
         "redesign_regression",
         "sleep_accuracy",
         "comfort_fit"
-      ]
-    },
-    {
-      "review_id": "14423531173",
-      "source": "app_store",
-      "rating": 2,
-      "date": "2026-08-13T10:25:48-07:00",
-      "text": "This app is great except that the strength trainer will frequently crash if you try to rearrange exercises during a workout. Then I lose half my workout.",
-      "subcategory_tags": [
-        "crashes_freezes",
-        "feature_ui_friction"
       ]
     }
   ],
@@ -13148,6 +13162,17 @@
   ],
   "feature_ui_friction": [
     {
+      "review_id": "14645562870",
+      "source": "app_store",
+      "rating": 3,
+      "date": "2026-10-09T04:58:36-07:00",
+      "text": "All the information is great and all but simple things would make this app better.\nWhen starting an activity it clearly shows on your phones home screen, why not allow us to change activities within that feature vs having to manually open the app, end activity, and start a new activity. And allow us to have favorite activities. I have been stretching every morning and to this date it never comes up as a most recent. Makes no sense.",
+      "subcategory_tags": [
+        "feature_ui_friction",
+        "missing_activity_types"
+      ]
+    },
+    {
       "review_id": "4a2cc4dc-ba82-4c1b-85d5-fe498c447b7f",
       "source": "google_play",
       "rating": 1,
@@ -13476,17 +13501,6 @@
       "text": "Constant crashes and UI design that puts form far above function keeps you from getting bogged down with the annoying bits of your workout, things like moving the weight, moving yourself. Stay distracted by poor QA and you’ll barely break a sweat your next workout!",
       "subcategory_tags": [
         "crashes_freezes",
-        "feature_ui_friction"
-      ]
-    },
-    {
-      "review_id": "14233516292",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-06-27T09:55:18-07:00",
-      "text": "When trying to review a previous days activities, the app is hard to go back a day or more. Then when you get there and review an activity and back out to review another on that same previous day it kicks you back to today. So you must struggle to get back to the previous day and review the next activity. The app seems to have touch sensitive areas that are smaller than the button appears to be. Needs to be less of a pain to use this app with all the layers of menus within each other.",
-      "subcategory_tags": [
-        "redesign_regression",
         "feature_ui_friction"
       ]
     }
@@ -15552,6 +15566,27 @@
   ],
   "feature_requests": [
     {
+      "review_id": "14646506878",
+      "source": "app_store",
+      "rating": 5,
+      "date": "2026-10-09T09:37:16-07:00",
+      "text": "Has probably been the most consistent thing in the last 7 years of my life haha. I love it and they keep getting better. Best device for people who train hard and want to make lifestyle changes according to how their body is responding. My body has changed a lot over the last 7 years and I can change accordingly backed by my specific data. Game changer- get it!",
+      "subcategory_tags": [
+        "personalization_use_case_fit"
+      ]
+    },
+    {
+      "review_id": "14645562870",
+      "source": "app_store",
+      "rating": 3,
+      "date": "2026-10-09T04:58:36-07:00",
+      "text": "All the information is great and all but simple things would make this app better.\nWhen starting an activity it clearly shows on your phones home screen, why not allow us to change activities within that feature vs having to manually open the app, end activity, and start a new activity. And allow us to have favorite activities. I have been stretching every morning and to this date it never comes up as a most recent. Makes no sense.",
+      "subcategory_tags": [
+        "feature_ui_friction",
+        "missing_activity_types"
+      ]
+    },
+    {
       "review_id": "14639981640",
       "source": "app_store",
       "rating": 2,
@@ -15856,33 +15891,20 @@
       "subcategory_tags": [
         "missing_metrics"
       ]
-    },
-    {
-      "review_id": "f5fa4264-564f-48cf-be66-1581a4dd3d82",
-      "source": "google_play",
-      "rating": 4,
-      "date": "2026-08-22T06:15:43+00:00",
-      "text": "It's a great tool that measures everything going on in your body. The one thing I wish it had was a good food log/calerie counter.",
-      "subcategory_tags": [
-        "missing_metrics"
-      ]
-    },
-    {
-      "review_id": "14449428710",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-08-19T21:33:08-07:00",
-      "text": "This app used to detect activities, naps, and helped me track my period after years of tracking it on other apps. Now none of those things happen, weight and periods are not recorded same with activities and naps. The metrics aren’t even correct. Don’t waste you’re money it’s all marketing and a scam",
-      "subcategory_tags": [
-        "activity_detection",
-        "sleep_accuracy",
-        "missing_metrics",
-        "metric_accuracy",
-        "price_value_perception"
-      ]
     }
   ],
   "missing_activity_types": [
+    {
+      "review_id": "14645562870",
+      "source": "app_store",
+      "rating": 3,
+      "date": "2026-10-09T04:58:36-07:00",
+      "text": "All the information is great and all but simple things would make this app better.\nWhen starting an activity it clearly shows on your phones home screen, why not allow us to change activities within that feature vs having to manually open the app, end activity, and start a new activity. And allow us to have favorite activities. I have been stretching every morning and to this date it never comes up as a most recent. Makes no sense.",
+      "subcategory_tags": [
+        "feature_ui_friction",
+        "missing_activity_types"
+      ]
+    },
     {
       "review_id": "14639981640",
       "source": "app_store",
@@ -16200,17 +16222,6 @@
       "text": "I love my whoop but I remember now. I stopped using whoop before because the workout tracking is atrocious. you can track your single workout, but then you can't go back easily. And look at them or see what you planned out next so once again I'm going to have to go use an external workout tracker. whats it gonna take for yall to add a workout tracking in with the mix. yes I know there's one there and its relatively ok if it was easily accessible and had a better ui. whoop is great other than tha",
       "subcategory_tags": [
         "feature_ui_friction",
-        "missing_activity_types"
-      ]
-    },
-    {
-      "review_id": "547a6f9e-611f-4810-9c92-7a5c56ff39f3",
-      "source": "google_play",
-      "rating": 3,
-      "date": "2026-01-10T03:45:09",
-      "text": "good service, needs more features. add nutrition tracking and supersets in strength trainer",
-      "subcategory_tags": [
-        "missing_metrics",
         "missing_activity_types"
       ]
     }
@@ -16557,6 +16568,16 @@
   ],
   "personalization_use_case_fit": [
     {
+      "review_id": "14646506878",
+      "source": "app_store",
+      "rating": 5,
+      "date": "2026-10-09T09:37:16-07:00",
+      "text": "Has probably been the most consistent thing in the last 7 years of my life haha. I love it and they keep getting better. Best device for people who train hard and want to make lifestyle changes according to how their body is responding. My body has changed a lot over the last 7 years and I can change accordingly backed by my specific data. Game changer- get it!",
+      "subcategory_tags": [
+        "personalization_use_case_fit"
+      ]
+    },
+    {
       "review_id": "14619225240",
       "source": "app_store",
       "rating": 5,
@@ -16883,16 +16904,6 @@
       "text": "I find this band very helpful. I use it to track my physiological changes, not for fitness, but for PTSD, anxiety, depression, and FND - PNES. The Ai bot has been phenomenal. I have been in the WSIB process for 10 yrs now, and I now have evidence related to my physical functioning as a result of my mental health. I think the medical field could be using this for a lot of different people for various health reasons.",
       "subcategory_tags": [
         "ai_positive_reception",
-        "personalization_use_case_fit"
-      ]
-    },
-    {
-      "review_id": "7d24f3ae-8520-4d63-9ade-c456d3ca83ec",
-      "source": "google_play",
-      "rating": 5,
-      "date": "2026-07-07T12:54:58",
-      "text": "As someone with chronic illnesses, this has been a huge help in monitoring my symptoms and giving me something tangible to work with. highly recommend.",
-      "subcategory_tags": [
         "personalization_use_case_fit"
       ]
     }
