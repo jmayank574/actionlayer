@@ -14863,6 +14863,16 @@
   ],
   "localization": [
     {
+      "review_id": "14652289530",
+      "source": "app_store",
+      "rating": 3,
+      "date": "2026-10-10T20:43:05-07:00",
+      "text": "اصعب شيء هذه الساعه لاتوجد فيها لغة عربية",
+      "subcategory_tags": [
+        "missing_language_support"
+      ]
+    },
+    {
       "review_id": "14635961518",
       "source": "app_store",
       "rating": 1,
@@ -15160,19 +15170,19 @@
       "subcategory_tags": [
         "missing_language_support"
       ]
-    },
-    {
-      "review_id": "25d9d63b-ecb1-4736-a097-edda51cf237a",
-      "source": "google_play",
-      "rating": 4,
-      "date": "2026-02-22T04:05:54",
-      "text": "everything is great in this app, but I'm from India and in this app when your sign-in up the app ask where do you live and most of the country's are missing from that please add more country's option",
-      "subcategory_tags": [
-        "missing_language_support"
-      ]
     }
   ],
   "missing_language_support": [
+    {
+      "review_id": "14652289530",
+      "source": "app_store",
+      "rating": 3,
+      "date": "2026-10-10T20:43:05-07:00",
+      "text": "اصعب شيء هذه الساعه لاتوجد فيها لغة عربية",
+      "subcategory_tags": [
+        "missing_language_support"
+      ]
+    },
     {
       "review_id": "14635961518",
       "source": "app_store",
@@ -15467,16 +15477,6 @@
       "rating": 4,
       "date": "2026-02-22T04:05:54",
       "text": "everything is great in this app, but I'm from India and in this app when your sign-in up the app ask where do you live and most of the country's are missing from that please add more country's option",
-      "subcategory_tags": [
-        "missing_language_support"
-      ]
-    },
-    {
-      "review_id": "36ae173d-9f34-4802-a673-472de199ab3c",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2026-02-05T04:17:09",
-      "text": "should have Thai language or every language",
       "subcategory_tags": [
         "missing_language_support"
       ]

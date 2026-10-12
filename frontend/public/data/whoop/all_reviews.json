@@ -1,5 +1,44 @@
 [
   {
+    "review_id": "14652586708",
+    "source": "app_store",
+    "rating": 5,
+    "date": "2026-10-10T22:52:11-07:00",
+    "text": "Love my Whoop. Really helped me change behavior in big and small ways.",
+    "parent_category_tags": [
+      "nan"
+    ],
+    "subcategory_tags": [
+      "nan"
+    ]
+  },
+  {
+    "review_id": "14652289530",
+    "source": "app_store",
+    "rating": 3,
+    "date": "2026-10-10T20:43:05-07:00",
+    "text": "اصعب شيء هذه الساعه لاتوجد فيها لغة عربية",
+    "parent_category_tags": [
+      "localization"
+    ],
+    "subcategory_tags": [
+      "missing_language_support"
+    ]
+  },
+  {
+    "review_id": "14650427719",
+    "source": "app_store",
+    "rating": 5,
+    "date": "2026-10-10T09:27:51-07:00",
+    "text": "I love the design and continuous improvements",
+    "parent_category_tags": [
+      "nan"
+    ],
+    "subcategory_tags": [
+      "nan"
+    ]
+  },
+  {
     "review_id": "127969b5-e07f-4aae-bcb5-e20fd9b4eef6",
     "source": "google_play",
     "rating": 1,
@@ -12,6 +51,19 @@
     "subcategory_tags": [
       "crashes_freezes",
       "onboarding_pairing"
+    ]
+  },
+  {
+    "review_id": "14649519338",
+    "source": "app_store",
+    "rating": 5,
+    "date": "2026-10-10T05:12:06-07:00",
+    "text": "This app and device helped transform my life. Best wearable device on the market and it’s not even close. I wish I could give it six stars.",
+    "parent_category_tags": [
+      "nan"
+    ],
+    "subcategory_tags": [
+      "nan"
     ]
   },
   {
