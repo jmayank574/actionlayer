@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T17:56:26.184699",
+  "generated_at": "2026-10-12T21:38:24.851909",
   "product": "WHOOP",
   "sources": {
     "google_play": {
@@ -18,47 +18,45 @@
       "avg_length_words": 37.8
     },
     "app_store": {
-      "total": 708,
+      "total": 712,
       "date_range": [
         "2025-11-17T19:06:49",
-        "2026-10-09T23:48:47"
+        "2026-10-10T22:52:11"
       ],
       "rating_distribution": {
         "1": 208,
         "2": 64,
-        "3": 65,
+        "3": 66,
         "4": 70,
-        "5": 301
+        "5": 304
       },
-      "avg_length_words": 53.7
+      "avg_length_words": 53.5
     }
   },
   "combined": {
-    "total": 3666,
+    "total": 3670,
     "date_range": [
       "2017-08-25T20:34:31",
-      "2026-10-10T12:46:07"
+      "2026-10-10T22:52:11"
     ],
     "rating_distribution": {
       "1": 1325,
       "2": 435,
-      "3": 395,
+      "3": 396,
       "4": 351,
-      "5": 1160
+      "5": 1163
     },
-    "avg_length_words": 40.9
+    "avg_length_words": 40.8
   },
   "drop_counts": {
-    "dropped_empty_or_short": 488,
+    "dropped_empty_or_short": 442,
     "dropped_duplicate": 0
   },
-  "issues": [
-    "App Store: hit Apple's 10-page RSS cap (~500 reviews) \u2014 this is a limit of Apple's public feed, not a failure of the pull. Apple does not expose full review history through any public endpoint."
-  ],
+  "issues": [],
   "merge_counts": {
-    "new": 7,
+    "new": 4,
     "updated": 0,
-    "unchanged": 3389,
-    "carried_over": 270
+    "unchanged": 3038,
+    "carried_over": 628
   }
 }
