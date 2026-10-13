@@ -1,6 +1,19 @@
 {
   "pricing_billing": [
     {
+      "review_id": "14653944098",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-10-11T07:03:47-07:00",
+      "text": "Do not get a whoop. It will try to control your life. Tell you when to go to bed. It’s a dumb computer that is rarely ever accurate. Whoop is on the same trajectory as oura ring in the fact that they should be sued for not being accurate. They take your money even when you try to quit the subscription. Whatever you do, do not waste your money on this product",
+      "subcategory_tags": [
+        "price_value_perception",
+        "billing_disputes",
+        "metric_accuracy",
+        "personalization_use_case_fit"
+      ]
+    },
+    {
       "review_id": "14639418333",
       "source": "app_store",
       "rating": 2,
@@ -326,19 +339,22 @@
         "billing_disputes",
         "price_value_perception"
       ]
-    },
-    {
-      "review_id": "14537812702",
-      "source": "app_store",
-      "rating": 3,
-      "date": "2026-09-11T10:16:11-07:00",
-      "text": "The instructions to stop auto renew are inaccurate. I haven't found a way to cancel",
-      "subcategory_tags": [
-        "billing_disputes"
-      ]
     }
   ],
   "price_value_perception": [
+    {
+      "review_id": "14653944098",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-10-11T07:03:47-07:00",
+      "text": "Do not get a whoop. It will try to control your life. Tell you when to go to bed. It’s a dumb computer that is rarely ever accurate. Whoop is on the same trajectory as oura ring in the fact that they should be sued for not being accurate. They take your money even when you try to quit the subscription. Whatever you do, do not waste your money on this product",
+      "subcategory_tags": [
+        "price_value_perception",
+        "billing_disputes",
+        "metric_accuracy",
+        "personalization_use_case_fit"
+      ]
+    },
     {
       "review_id": "14639418333",
       "source": "app_store",
@@ -660,24 +676,22 @@
       "subcategory_tags": [
         "price_value_perception"
       ]
-    },
-    {
-      "review_id": "14509772320",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-09-04T07:21:18-07:00",
-      "text": "Got this band plus 1 year membership with Chase Sapphire Reserve perk. Not even worth the tax I had to pay on this benefit. The most basic feature, counting steps, is wildly inaccurate. So how can I trust anything else coming from this device. The narrative content provided in app is just AI slop and worthless. Battery life is good and recharging while wearing device is cool. These features allow you to wear band almost 24/7 which is nice but the band starts to stink after wearing in the shower a few times (which defeats purpose of having strong battery and charging features). I canceled after giving this 5 months into a 1 year membership. Much happier with cheaper, more accurate fitness band with no subscription fees.",
-      "subcategory_tags": [
-        "metric_accuracy",
-        "ai_reliability_bugs",
-        "battery_life",
-        "comfort_fit",
-        "billing_disputes",
-        "price_value_perception"
-      ]
     }
   ],
   "billing_disputes": [
+    {
+      "review_id": "14653944098",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-10-11T07:03:47-07:00",
+      "text": "Do not get a whoop. It will try to control your life. Tell you when to go to bed. It’s a dumb computer that is rarely ever accurate. Whoop is on the same trajectory as oura ring in the fact that they should be sued for not being accurate. They take your money even when you try to quit the subscription. Whatever you do, do not waste your money on this product",
+      "subcategory_tags": [
+        "price_value_perception",
+        "billing_disputes",
+        "metric_accuracy",
+        "personalization_use_case_fit"
+      ]
+    },
     {
       "review_id": "c5f8b354-07af-4c8d-a981-b55e9b311d66",
       "source": "google_play",
@@ -1013,18 +1027,6 @@
         "sleep_accuracy",
         "billing_disputes",
         "ai_reliability_bugs"
-      ]
-    },
-    {
-      "review_id": "14376933635",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-08-01T19:15:32-07:00",
-      "text": "Dirty people that steal your money during a free charge. No support at all just ai bots. Absolute junk don’t waste your time or money",
-      "subcategory_tags": [
-        "billing_disputes",
-        "ai_only_support_channel",
-        "price_value_perception"
       ]
     }
   ],
@@ -6190,6 +6192,19 @@
   ],
   "data_accuracy": [
     {
+      "review_id": "14653944098",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-10-11T07:03:47-07:00",
+      "text": "Do not get a whoop. It will try to control your life. Tell you when to go to bed. It’s a dumb computer that is rarely ever accurate. Whoop is on the same trajectory as oura ring in the fact that they should be sued for not being accurate. They take your money even when you try to quit the subscription. Whatever you do, do not waste your money on this product",
+      "subcategory_tags": [
+        "price_value_perception",
+        "billing_disputes",
+        "metric_accuracy",
+        "personalization_use_case_fit"
+      ]
+    },
+    {
       "review_id": "14647279171",
       "source": "app_store",
       "rating": 1,
@@ -6527,22 +6542,22 @@
         "missing_activity_types",
         "sleep_satisfaction"
       ]
-    },
-    {
-      "review_id": "14442499498",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-08-18T04:52:00-07:00",
-      "text": "I loved it until I started to realize the data is inaccurate and misleading.  You get what it’s trying to teach you and after a while it can cause you to second guess yourself. I wanted a low tech “watch”that didn’t show notifications on my wrist. Which is this buuut the app bombards you with notifications and requested inputs. So it’s not really a low interaction device. \n\nI would have happily not reviewed this but the canceling process of your membership is predatory and motivated me to write this. \n\nThere are better cheaper competitors.",
-      "subcategory_tags": [
-        "metric_accuracy",
-        "notification_community_issues",
-        "billing_disputes",
-        "price_value_perception"
-      ]
     }
   ],
   "metric_accuracy": [
+    {
+      "review_id": "14653944098",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-10-11T07:03:47-07:00",
+      "text": "Do not get a whoop. It will try to control your life. Tell you when to go to bed. It’s a dumb computer that is rarely ever accurate. Whoop is on the same trajectory as oura ring in the fact that they should be sued for not being accurate. They take your money even when you try to quit the subscription. Whatever you do, do not waste your money on this product",
+      "subcategory_tags": [
+        "price_value_perception",
+        "billing_disputes",
+        "metric_accuracy",
+        "personalization_use_case_fit"
+      ]
+    },
     {
       "review_id": "14647279171",
       "source": "app_store",
@@ -6879,18 +6894,6 @@
         "metric_accuracy",
         "feature_ui_friction",
         "support_responsiveness"
-      ]
-    },
-    {
-      "review_id": "14396240070",
-      "source": "app_store",
-      "rating": 3,
-      "date": "2026-08-06T12:57:59-07:00",
-      "text": "Here’s the thing I’m looking for this to provide me with information regarding blood pressure, heartbeat, sleep, etc. nothing overly complicated. They have four categories in the app 1000 advertisements. Every other thing on the app is trying to sell you a service or an add-on. to be clear I’m only giving my thoughts here on the app itself. This is overly convoluted. I’ll round back up to this after the first 30 days once I’ve opened Healthspan and compare the numbers to my Apple Watch. To be fair, I actually had a conversation with my cardiologist. Not familiar whoop nor do they have a feeling one way or the other about it. So they’re curious.. I’m not sure MG for medical grade necessarily means anything beyond Marketing. I’m cautiously optimistic.",
-      "subcategory_tags": [
-        "upsell_pressure",
-        "ecg_bp_feature_reliability",
-        "metric_accuracy"
       ]
     }
   ],
@@ -15566,6 +15569,19 @@
   ],
   "feature_requests": [
     {
+      "review_id": "14653944098",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-10-11T07:03:47-07:00",
+      "text": "Do not get a whoop. It will try to control your life. Tell you when to go to bed. It’s a dumb computer that is rarely ever accurate. Whoop is on the same trajectory as oura ring in the fact that they should be sued for not being accurate. They take your money even when you try to quit the subscription. Whatever you do, do not waste your money on this product",
+      "subcategory_tags": [
+        "price_value_perception",
+        "billing_disputes",
+        "metric_accuracy",
+        "personalization_use_case_fit"
+      ]
+    },
+    {
       "review_id": "14646506878",
       "source": "app_store",
       "rating": 5,
@@ -15879,16 +15895,6 @@
       "text": "it's good, however Whoop is expensive, they will have to offer more given the competitors which are cheaper and also good. I'd like to see a dynamic calorie deficit number adjusted to your weight goal, Huawei watches offer it with a native app called \"Stay fit\" and I love it, if Whoop offers it I won't have a need to wear a watch anymore",
       "subcategory_tags": [
         "price_value_perception",
-        "missing_metrics"
-      ]
-    },
-    {
-      "review_id": "14458161635",
-      "source": "app_store",
-      "rating": 5,
-      "date": "2026-08-22T03:17:20-07:00",
-      "text": "Should have function to represent all actions selected at once",
-      "subcategory_tags": [
         "missing_metrics"
       ]
     }
@@ -16568,6 +16574,19 @@
   ],
   "personalization_use_case_fit": [
     {
+      "review_id": "14653944098",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-10-11T07:03:47-07:00",
+      "text": "Do not get a whoop. It will try to control your life. Tell you when to go to bed. It’s a dumb computer that is rarely ever accurate. Whoop is on the same trajectory as oura ring in the fact that they should be sued for not being accurate. They take your money even when you try to quit the subscription. Whatever you do, do not waste your money on this product",
+      "subcategory_tags": [
+        "price_value_perception",
+        "billing_disputes",
+        "metric_accuracy",
+        "personalization_use_case_fit"
+      ]
+    },
+    {
       "review_id": "14646506878",
       "source": "app_store",
       "rating": 5,
@@ -16893,17 +16912,6 @@
       "date": "2026-07-08T04:53:37",
       "text": "The Whoop is incredible tool for your health. The more you wear it the more it optimizes your performance recommendations to fit YOUR body and goals. 12/10 the best thing I have for my health and wellness.",
       "subcategory_tags": [
-        "personalization_use_case_fit"
-      ]
-    },
-    {
-      "review_id": "c654bd09-8f71-4613-9f1e-4b344de5f44a",
-      "source": "google_play",
-      "rating": 5,
-      "date": "2026-07-07T15:34:04",
-      "text": "I find this band very helpful. I use it to track my physiological changes, not for fitness, but for PTSD, anxiety, depression, and FND - PNES. The Ai bot has been phenomenal. I have been in the WSIB process for 10 yrs now, and I now have evidence related to my physical functioning as a result of my mental health. I think the medical field could be using this for a lot of different people for various health reasons.",
-      "subcategory_tags": [
-        "ai_positive_reception",
         "personalization_use_case_fit"
       ]
     }

@@ -1,5 +1,24 @@
 [
   {
+    "review_id": "14653944098",
+    "source": "app_store",
+    "rating": 1,
+    "date": "2026-10-11T07:03:47-07:00",
+    "text": "Do not get a whoop. It will try to control your life. Tell you when to go to bed. It’s a dumb computer that is rarely ever accurate. Whoop is on the same trajectory as oura ring in the fact that they should be sued for not being accurate. They take your money even when you try to quit the subscription. Whatever you do, do not waste your money on this product",
+    "parent_category_tags": [
+      "pricing_billing",
+      "pricing_billing",
+      "data_accuracy",
+      "feature_requests"
+    ],
+    "subcategory_tags": [
+      "price_value_perception",
+      "billing_disputes",
+      "metric_accuracy",
+      "personalization_use_case_fit"
+    ]
+  },
+  {
     "review_id": "14652586708",
     "source": "app_store",
     "rating": 5,
