@@ -1,6 +1,27 @@
 {
   "pricing_billing": [
     {
+      "review_id": "14659583316",
+      "source": "app_store",
+      "rating": 4,
+      "date": "2026-10-12T16:07:55-07:00",
+      "text": "Very good app, highly recommend but expensive\n:(",
+      "subcategory_tags": [
+        "price_value_perception"
+      ]
+    },
+    {
+      "review_id": "14659418405",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-10-12T15:00:33-07:00",
+      "text": "I’ve had a whoop for over three years now and just recently it’s stopped being able to identify my sleep. Nothing has changed, my sleep schedule is normal, but it will just skip a night and then decide a random period the next afternoon is when I slept. Fixing these bugs is annoying and throws everything off. \n\nAlso, unrelated, but 40% of the app is just trying to upsell you to another product or service. I miss when paying for something meant you didn’t have to wade through ads.",
+      "subcategory_tags": [
+        "sleep_accuracy",
+        "upsell_pressure"
+      ]
+    },
+    {
       "review_id": "14653944098",
       "source": "app_store",
       "rating": 1,
@@ -315,33 +336,19 @@
         "plan_trial_structure",
         "notification_community_issues"
       ]
-    },
-    {
-      "review_id": "b8a345fa-adab-4442-b03e-0f88fe0f844f",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2026-09-13T12:17:36+00:00",
-      "text": "ridiculously bad app. the ai will constantly hallucinate, it cannot actually build upon itself and it often reads the metrics you have in incorrectly giving false advice. it also constantly sends notifications with almost no ability to tweak them without fully shutting them off. pretty much a waste, should definitely go with garmin. wish i could get my $250 refunded, cause this program is pretty bad.",
-      "subcategory_tags": [
-        "ai_reliability_bugs",
-        "notification_community_issues",
-        "price_value_perception",
-        "billing_disputes"
-      ]
-    },
-    {
-      "review_id": "516d891d-f053-4a7d-81d8-fd67bbe135fd",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2026-09-12T10:49:23+00:00",
-      "text": "Bought with a year's subscription included — but there's a dark pattern here. To use the device, you have to hand over card details so they can auto-charge you £350 in a year's time unless you remember to cancel. That's backwards: the burden should be on them to earn my renewal, not on me to remember to stop the charge. Also — no PayPal option, card only, which makes the auto-charge feel even more deliberate.",
-      "subcategory_tags": [
-        "billing_disputes",
-        "price_value_perception"
-      ]
     }
   ],
   "price_value_perception": [
+    {
+      "review_id": "14659583316",
+      "source": "app_store",
+      "rating": 4,
+      "date": "2026-10-12T16:07:55-07:00",
+      "text": "Very good app, highly recommend but expensive\n:(",
+      "subcategory_tags": [
+        "price_value_perception"
+      ]
+    },
     {
       "review_id": "14653944098",
       "source": "app_store",
@@ -664,16 +671,6 @@
       "text": "Doesn’t sense and pick up my workout unless I manually start an activity. Other products are more sensitive and do this for you. Not very user friendly making me remember to start an activity and then I have to tend to end the activity and if I forget I get these 23 hour workouts. For the price point this feature shouldn’t be so faulty. Unless fixed I won’t be renewing next year.",
       "subcategory_tags": [
         "activity_detection",
-        "price_value_perception"
-      ]
-    },
-    {
-      "review_id": "14510205521",
-      "source": "app_store",
-      "rating": 5,
-      "date": "2026-09-04T09:25:14-07:00",
-      "text": "It’s really good a little pricey but so worth it",
-      "subcategory_tags": [
         "price_value_perception"
       ]
     }
@@ -1374,6 +1371,17 @@
   ],
   "upsell_pressure": [
     {
+      "review_id": "14659418405",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-10-12T15:00:33-07:00",
+      "text": "I’ve had a whoop for over three years now and just recently it’s stopped being able to identify my sleep. Nothing has changed, my sleep schedule is normal, but it will just skip a night and then decide a random period the next afternoon is when I slept. Fixing these bugs is annoying and throws everything off. \n\nAlso, unrelated, but 40% of the app is just trying to upsell you to another product or service. I miss when paying for something meant you didn’t have to wade through ads.",
+      "subcategory_tags": [
+        "sleep_accuracy",
+        "upsell_pressure"
+      ]
+    },
+    {
       "review_id": "14635632736",
       "source": "app_store",
       "rating": 1,
@@ -1703,21 +1711,41 @@
         "feature_ui_friction",
         "upsell_pressure"
       ]
-    },
-    {
-      "review_id": "13831874443",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-03-09T17:29:28-07:00",
-      "text": "I really loved Whoop…at first. To be honest, I still want to. They do a great job with data visualization and using AI to motivate users to adopt healthier habits. Sounds great right? And it is….until something goes wrong. \n\nGood luck solving any issues. Because their customer service is THE ABSOLUTE WORST!!!\n\nI’ve been trying diligently for 6 weeks to fix an issue with my Whoop Advanced Labs subscription after my very first round of bloodwork failed to finish updating in the promised 7-10 day timeframe. Actually that seems generous, considering that I actually took the test SIXTEEN WEEKS AGO. I know I’m a procrastinating disaster of a human, but I thought it would work itself out in time and all would be well if I was patient. Huge mistake. \n\nThe subscription promised to give me a health report after that 7-10 days to detail what changes you might implement to improve your next labs. Still haven’t seen that, can’t book my next round of labs until it does. And despite countless emails over more than 6 weeks, nothing has changed. \n\nWhoop: you have turned your biggest fan into a harsh critic. You should really do better by your premium subscribers.",
-      "subcategory_tags": [
-        "support_responsiveness",
-        "ecg_bp_feature_reliability",
-        "upsell_pressure"
-      ]
     }
   ],
   "sleep_tracking": [
+    {
+      "review_id": "52bab830-5370-4096-bb7b-60c3f2402984",
+      "source": "google_play",
+      "rating": 5,
+      "date": "2026-10-13T13:21:29+00:00",
+      "text": "I love that it helps me hold myself accountable. It's pretty intuitive but sometimes loses track of what it should already know. If I ask, it finds it. I don't like that it just keeps asking questions until I just stop answering. It's like that convo you can't end without it being awkward. Just say, We have a plan. Have a great day. But I love being more aware of my health and choices every day. Especially sleep.",
+      "subcategory_tags": [
+        "ai_reliability_bugs",
+        "sleep_satisfaction"
+      ]
+    },
+    {
+      "review_id": "14661621739",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-10-13T06:03:11-07:00",
+      "text": "Alarm is set to go off at the same time every day. There have been multiple times recently where it hasn’t.",
+      "subcategory_tags": [
+        "sleep_alarm_ui"
+      ]
+    },
+    {
+      "review_id": "14659418405",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-10-12T15:00:33-07:00",
+      "text": "I’ve had a whoop for over three years now and just recently it’s stopped being able to identify my sleep. Nothing has changed, my sleep schedule is normal, but it will just skip a night and then decide a random period the next afternoon is when I slept. Fixing these bugs is annoying and throws everything off. \n\nAlso, unrelated, but 40% of the app is just trying to upsell you to another product or service. I miss when paying for something meant you didn’t have to wade through ads.",
+      "subcategory_tags": [
+        "sleep_accuracy",
+        "upsell_pressure"
+      ]
+    },
     {
       "review_id": "14645702078",
       "source": "app_store",
@@ -2015,43 +2043,20 @@
         "sleep_accuracy",
         "missing_activity_types"
       ]
-    },
-    {
-      "review_id": "b59257e7-d38a-4526-ae5d-602f781b7578",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2026-09-03T13:33:31+00:00",
-      "text": "difficult to use the app doesn't offer a lot of functionality in terms of figuring out where things are but it does have ai that you can ask questions I use it to tell me how I slept probably not worth the money",
-      "subcategory_tags": [
-        "redesign_regression",
-        "price_value_perception",
-        "sleep_satisfaction"
-      ]
-    },
-    {
-      "review_id": "14501549600",
-      "source": "app_store",
-      "rating": 2,
-      "date": "2026-09-02T05:13:37-07:00",
-      "text": "I’ve been a Whoop “member” since 2017. It’s been a struggle to watch this company fall into the same traps of most tech companies. The strap’s performance is terrible. I’ve had to adjust my sleep almost every day for 3+ years and this occurred with the 3.0, 4.0, amd now the 5.0. To make matters worse, you have to go through horrendous AI to try and get answers that inevitably doesn’t work. When/if you get a human involved, they will tell you some basic advice that doesn’t consider your particular situation and won’t be helpful.",
-      "subcategory_tags": [
-        "sleep_accuracy",
-        "ai_only_support_channel",
-        "support_resolution_quality"
-      ]
-    },
-    {
-      "review_id": "14501414205",
-      "source": "app_store",
-      "rating": 5,
-      "date": "2026-09-02T04:31:09-07:00",
-      "text": "Whoop has helped me figure out my sleep so that I am more aware of how my daily habits directly affect my sleep!",
-      "subcategory_tags": [
-        "sleep_satisfaction"
-      ]
     }
   ],
   "sleep_accuracy": [
+    {
+      "review_id": "14659418405",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-10-12T15:00:33-07:00",
+      "text": "I’ve had a whoop for over three years now and just recently it’s stopped being able to identify my sleep. Nothing has changed, my sleep schedule is normal, but it will just skip a night and then decide a random period the next afternoon is when I slept. Fixing these bugs is annoying and throws everything off. \n\nAlso, unrelated, but 40% of the app is just trying to upsell you to another product or service. I miss when paying for something meant you didn’t have to wade through ads.",
+      "subcategory_tags": [
+        "sleep_accuracy",
+        "upsell_pressure"
+      ]
+    },
     {
       "review_id": "14632497555",
       "source": "app_store",
@@ -2387,20 +2392,20 @@
         "sleep_accuracy",
         "ai_reliability_bugs"
       ]
-    },
-    {
-      "review_id": "f92d0be2-d5b2-43dc-9fa9-9968e42d581d",
-      "source": "google_play",
-      "rating": 3,
-      "date": "2026-07-21T06:25:33",
-      "text": "frustrating seems to take more than 30 minutes to process sleep 2 or 3 times a week. WHOOP : invest in more server capacity !",
-      "subcategory_tags": [
-        "sleep_accuracy",
-        "data_sync_delays"
-      ]
     }
   ],
   "sleep_satisfaction": [
+    {
+      "review_id": "52bab830-5370-4096-bb7b-60c3f2402984",
+      "source": "google_play",
+      "rating": 5,
+      "date": "2026-10-13T13:21:29+00:00",
+      "text": "I love that it helps me hold myself accountable. It's pretty intuitive but sometimes loses track of what it should already know. If I ask, it finds it. I don't like that it just keeps asking questions until I just stop answering. It's like that convo you can't end without it being awkward. Just say, We have a plan. Have a great day. But I love being more aware of my health and choices every day. Especially sleep.",
+      "subcategory_tags": [
+        "ai_reliability_bugs",
+        "sleep_satisfaction"
+      ]
+    },
     {
       "review_id": "14645702078",
       "source": "app_store",
@@ -2713,19 +2718,19 @@
       "subcategory_tags": [
         "sleep_satisfaction"
       ]
-    },
-    {
-      "review_id": "14402521676",
-      "source": "app_store",
-      "rating": 5,
-      "date": "2026-08-08T04:48:38-07:00",
-      "text": "I’ve had WHOOP for over 5 years and still wear it every day. I’m very active, and I love being able to track my recovery, sleep, and strain and see how my body is actually handling everything. WHOOP has continued to get better over the years, and it’s definitely been worth it for me.",
-      "subcategory_tags": [
-        "sleep_satisfaction"
-      ]
     }
   ],
   "sleep_alarm_ui": [
+    {
+      "review_id": "14661621739",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-10-13T06:03:11-07:00",
+      "text": "Alarm is set to go off at the same time every day. There have been multiple times recently where it hasn’t.",
+      "subcategory_tags": [
+        "sleep_alarm_ui"
+      ]
+    },
     {
       "review_id": "14551128552",
       "source": "app_store",
@@ -3062,17 +3067,6 @@
         "crashes_freezes",
         "sleep_alarm_ui",
         "feature_ui_friction"
-      ]
-    },
-    {
-      "review_id": "d94ba6c3-c933-4948-85ba-03ae3182a3a5",
-      "source": "google_play",
-      "rating": 3,
-      "date": "2024-04-21T16:45:13",
-      "text": "Currently can't get to Sleep Planner Schedule. When trying to enter, it goes through the overview info \"slides\", but then jumps back out to Sleep Planner. Can't get into the scheduler.",
-      "subcategory_tags": [
-        "sleep_alarm_ui",
-        "crashes_freezes"
       ]
     }
   ],
@@ -6192,6 +6186,18 @@
   ],
   "data_accuracy": [
     {
+      "review_id": "b8444113-bfce-47de-9d62-f03407aadb30",
+      "source": "google_play",
+      "rating": 2,
+      "date": "2026-10-13T08:26:46+00:00",
+      "text": "The July update has not been communicated well and I'm struggle to get anything tracked accurately, with no assistance from support team.",
+      "subcategory_tags": [
+        "update_failures",
+        "metric_accuracy",
+        "support_responsiveness"
+      ]
+    },
+    {
       "review_id": "14653944098",
       "source": "app_store",
       "rating": 1,
@@ -6530,21 +6536,21 @@
         "metric_accuracy",
         "price_value_perception"
       ]
-    },
-    {
-      "review_id": "14442900365",
-      "source": "app_store",
-      "rating": 4,
-      "date": "2026-08-18T06:52:07-07:00",
-      "text": "Needs better privacy guarantees, needs better HR tracking and estimates for short intense interval workouts. Needs ability to switch between two or more active strength training activities. Otherwise good sleep gauging app.",
-      "subcategory_tags": [
-        "metric_accuracy",
-        "missing_activity_types",
-        "sleep_satisfaction"
-      ]
     }
   ],
   "metric_accuracy": [
+    {
+      "review_id": "b8444113-bfce-47de-9d62-f03407aadb30",
+      "source": "google_play",
+      "rating": 2,
+      "date": "2026-10-13T08:26:46+00:00",
+      "text": "The July update has not been communicated well and I'm struggle to get anything tracked accurately, with no assistance from support team.",
+      "subcategory_tags": [
+        "update_failures",
+        "metric_accuracy",
+        "support_responsiveness"
+      ]
+    },
     {
       "review_id": "14653944098",
       "source": "app_store",
@@ -6882,18 +6888,6 @@
         "sleep_accuracy",
         "activity_detection",
         "metric_accuracy"
-      ]
-    },
-    {
-      "review_id": "14403057110",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-08-08T07:38:04-07:00",
-      "text": "Doesn’t count steps correctly from the 4.0-5.0 version.  Strain doesn’t register the same way on the 5.0\nAll the extra features on the top tier are hard to figure out.  No customer service",
-      "subcategory_tags": [
-        "metric_accuracy",
-        "feature_ui_friction",
-        "support_responsiveness"
       ]
     }
   ],
@@ -8009,6 +8003,17 @@
   ],
   "ai_coach": [
     {
+      "review_id": "52bab830-5370-4096-bb7b-60c3f2402984",
+      "source": "google_play",
+      "rating": 5,
+      "date": "2026-10-13T13:21:29+00:00",
+      "text": "I love that it helps me hold myself accountable. It's pretty intuitive but sometimes loses track of what it should already know. If I ask, it finds it. I don't like that it just keeps asking questions until I just stop answering. It's like that convo you can't end without it being awkward. Just say, We have a plan. Have a great day. But I love being more aware of my health and choices every day. Especially sleep.",
+      "subcategory_tags": [
+        "ai_reliability_bugs",
+        "sleep_satisfaction"
+      ]
+    },
+    {
       "review_id": "14645917488",
       "source": "app_store",
       "rating": 4,
@@ -8330,20 +8335,20 @@
         "ai_reliability_bugs",
         "ai_autonomy"
       ]
-    },
-    {
-      "review_id": "3330561f-d9b7-438c-bfdc-30822753515e",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2026-08-19T16:03:22+00:00",
-      "text": "Would probably be 5 stars if there was an option to eliminate the stupid Whoop AI bar from the bottom of the analysis screens. It constantly in the way and makes some info impossible to read. Makes the app a nightmare to use. Someone please fix",
-      "subcategory_tags": [
-        "ai_autonomy",
-        "feature_ui_friction"
-      ]
     }
   ],
   "ai_reliability_bugs": [
+    {
+      "review_id": "52bab830-5370-4096-bb7b-60c3f2402984",
+      "source": "google_play",
+      "rating": 5,
+      "date": "2026-10-13T13:21:29+00:00",
+      "text": "I love that it helps me hold myself accountable. It's pretty intuitive but sometimes loses track of what it should already know. If I ask, it finds it. I don't like that it just keeps asking questions until I just stop answering. It's like that convo you can't end without it being awkward. Just say, We have a plan. Have a great day. But I love being more aware of my health and choices every day. Especially sleep.",
+      "subcategory_tags": [
+        "ai_reliability_bugs",
+        "sleep_satisfaction"
+      ]
+    },
     {
       "review_id": "14645917488",
       "source": "app_store",
@@ -8678,19 +8683,6 @@
         "missing_metrics",
         "ai_reliability_bugs",
         "notification_community_issues"
-      ]
-    },
-    {
-      "review_id": "14368029216",
-      "source": "app_store",
-      "rating": 3,
-      "date": "2026-07-30T14:20:50-07:00",
-      "text": "For a product of this price, the app experience should be polished. Firstly, clicking on the AI chat does not automatically bring you to the top of the conversation which is annoying if you use it frequently. Secondly, I consistently see the \"couldn't load notifications\" tile whenever I try to refresh on the homepage. Thirdly, the chat window and pill block the ability to metric explainers. \n\nThese don't break the UX but they do add friction to using this app daily.",
-      "subcategory_tags": [
-        "ai_reliability_bugs",
-        "notification_community_issues",
-        "feature_ui_friction",
-        "price_value_perception"
       ]
     }
   ],
@@ -9350,6 +9342,18 @@
   ],
   "customer_support": [
     {
+      "review_id": "b8444113-bfce-47de-9d62-f03407aadb30",
+      "source": "google_play",
+      "rating": 2,
+      "date": "2026-10-13T08:26:46+00:00",
+      "text": "The July update has not been communicated well and I'm struggle to get anything tracked accurately, with no assistance from support team.",
+      "subcategory_tags": [
+        "update_failures",
+        "metric_accuracy",
+        "support_responsiveness"
+      ]
+    },
+    {
       "review_id": "14639418333",
       "source": "app_store",
       "rating": 2,
@@ -9694,20 +9698,21 @@
       "subcategory_tags": [
         "support_responsiveness"
       ]
-    },
-    {
-      "review_id": "14404964828",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-08-08T19:09:01-07:00",
-      "text": "Trying to set up MFA so I can upload lab data. Fails with “something went wrong. Please try again. Won’t us email or my phone number. Then the prompt to upload lab data disappears after throwing a bunch of confetti to celebrate the fact that nothing works. No support articles, not much support of any kind really. Just FAILURE.",
-      "subcategory_tags": [
-        "crashes_freezes",
-        "support_responsiveness"
-      ]
     }
   ],
   "support_responsiveness": [
+    {
+      "review_id": "b8444113-bfce-47de-9d62-f03407aadb30",
+      "source": "google_play",
+      "rating": 2,
+      "date": "2026-10-13T08:26:46+00:00",
+      "text": "The July update has not been communicated well and I'm struggle to get anything tracked accurately, with no assistance from support team.",
+      "subcategory_tags": [
+        "update_failures",
+        "metric_accuracy",
+        "support_responsiveness"
+      ]
+    },
     {
       "review_id": "2f4e903c-4631-4609-b7e5-c3c4add428ac",
       "source": "google_play",
@@ -10054,18 +10059,6 @@
       "subcategory_tags": [
         "ai_reliability_bugs",
         "metric_accuracy",
-        "support_responsiveness"
-      ]
-    },
-    {
-      "review_id": "13963805863",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-04-16T05:58:55-07:00",
-      "text": "Charged twice for one device. They claim I placed two orders but refuse to provide proof of delivery or shipment since the other order was placed under an email I don’t know. They charge is on my credit card, why is burden of proof on me? No live chat or phone support, I have exchanged a dozen messages with them over several days. Just going to contest with my credit card now. Terrible customer service",
-      "subcategory_tags": [
-        "billing_disputes",
-        "ai_only_support_channel",
         "support_responsiveness"
       ]
     }
@@ -11132,6 +11125,18 @@
   ],
   "app_stability": [
     {
+      "review_id": "b8444113-bfce-47de-9d62-f03407aadb30",
+      "source": "google_play",
+      "rating": 2,
+      "date": "2026-10-13T08:26:46+00:00",
+      "text": "The July update has not been communicated well and I'm struggle to get anything tracked accurately, with no assistance from support team.",
+      "subcategory_tags": [
+        "update_failures",
+        "metric_accuracy",
+        "support_responsiveness"
+      ]
+    },
+    {
       "review_id": "127969b5-e07f-4aae-bcb5-e20fd9b4eef6",
       "source": "google_play",
       "rating": 1,
@@ -11459,17 +11464,6 @@
         "feature_ui_friction",
         "crashes_freezes",
         "notification_community_issues"
-      ]
-    },
-    {
-      "review_id": "4cfb7865-df34-4e61-813e-966459e8ac71",
-      "source": "google_play",
-      "rating": 2,
-      "date": "2026-07-29T15:57:08",
-      "text": "Most recent update broke notifications on the S26 Ultra",
-      "subcategory_tags": [
-        "notification_community_issues",
-        "update_failures"
       ]
     }
   ],
@@ -11811,6 +11805,18 @@
   ],
   "update_failures": [
     {
+      "review_id": "b8444113-bfce-47de-9d62-f03407aadb30",
+      "source": "google_play",
+      "rating": 2,
+      "date": "2026-10-13T08:26:46+00:00",
+      "text": "The July update has not been communicated well and I'm struggle to get anything tracked accurately, with no assistance from support team.",
+      "subcategory_tags": [
+        "update_failures",
+        "metric_accuracy",
+        "support_responsiveness"
+      ]
+    },
+    {
       "review_id": "14629488102",
       "source": "app_store",
       "rating": 1,
@@ -12142,21 +12148,20 @@
         "ai_positive_reception",
         "update_failures"
       ]
-    },
-    {
-      "review_id": "13701432930",
-      "source": "app_store",
-      "rating": 2,
-      "date": "2026-02-01T08:23:09-07:00",
-      "text": "Honestly I will probably never use this app again unless I have more scientific data and real-true information. The application itself is not very user friendly as someone who actually grew with the technology over the years. After not renewing my subscription it will not let me look at past data for one. Who knows how much of my personal data it has collected in the last year without reciprocating information back to me. This is not including all the “private” information it takes from your phone and personal lives. Very disappointed.\n\nUpdate: new whoop band is extremely difficult to re pair with Bluetooth after an app update. Very frustrating every time.",
-      "subcategory_tags": [
-        "billing_disputes",
-        "ongoing_disconnects",
-        "update_failures"
-      ]
     }
   ],
   "ui_ux": [
+    {
+      "review_id": "171bd3b0-9080-4129-9e64-95eb1f8302ab",
+      "source": "google_play",
+      "rating": 2,
+      "date": "2026-10-13T03:46:13+00:00",
+      "text": "needs to be more compatible with Android. app could be more user friendly and need teams and chats to work",
+      "subcategory_tags": [
+        "android_feature_gaps",
+        "notification_community_issues"
+      ]
+    },
     {
       "review_id": "14645562870",
       "source": "app_store",
@@ -12477,18 +12482,6 @@
       "text": "The WHOOP app seems to work OK, but it definitely needs an update to fix some issues.\nOn many screens the information does not fit on the phone screen. In other words, it bleeds over the edge, making it all but unreadable.",
       "subcategory_tags": [
         "device_rendering_bugs"
-      ]
-    },
-    {
-      "review_id": "1e56220a-53e4-41bc-b57e-fa14540b782a",
-      "source": "google_play",
-      "rating": 2,
-      "date": "2026-08-14T20:43:10+00:00",
-      "text": "I really wanted to like this, but the overall experience feels confusing and overwhelming. The app throws too much information and too many articles at you, and it’s often unclear what’s clickable. The sleep tracking has also made me more anxious, as I constantly check my sleep and recovery numbers. I dislike the strap mechanism—it’s awkward to adjust and gets uncomfortably wet in the shower, yet is difficult to dry. Overall, I’d prefer a much simpler, clearer experience.",
-      "subcategory_tags": [
-        "redesign_regression",
-        "sleep_accuracy",
-        "comfort_fit"
       ]
     }
   ],
@@ -13510,6 +13503,17 @@
   ],
   "notification_community_issues": [
     {
+      "review_id": "171bd3b0-9080-4129-9e64-95eb1f8302ab",
+      "source": "google_play",
+      "rating": 2,
+      "date": "2026-10-13T03:46:13+00:00",
+      "text": "needs to be more compatible with Android. app could be more user friendly and need teams and chats to work",
+      "subcategory_tags": [
+        "android_feature_gaps",
+        "notification_community_issues"
+      ]
+    },
+    {
       "review_id": "ed88b181-e688-4a2b-a23c-e1f2868267f1",
       "source": "google_play",
       "rating": 2,
@@ -13835,19 +13839,20 @@
       "subcategory_tags": [
         "notification_community_issues"
       ]
-    },
-    {
-      "review_id": "6de4cdd9-c1db-469e-90f9-f53411f7db6b",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2026-04-02T03:52:27",
-      "text": "Fix your Community Chat!!! Seriously, this is a stupid problem and a very common problem for many users. FIX IT!!!",
-      "subcategory_tags": [
-        "notification_community_issues"
-      ]
     }
   ],
   "platform_parity": [
+    {
+      "review_id": "171bd3b0-9080-4129-9e64-95eb1f8302ab",
+      "source": "google_play",
+      "rating": 2,
+      "date": "2026-10-13T03:46:13+00:00",
+      "text": "needs to be more compatible with Android. app could be more user friendly and need teams and chats to work",
+      "subcategory_tags": [
+        "android_feature_gaps",
+        "notification_community_issues"
+      ]
+    },
     {
       "review_id": "6d6ba9d3-55c2-4888-8b07-c410b638fd6a",
       "source": "google_play",
@@ -14177,21 +14182,20 @@
         "update_failures",
         "android_specific_bugs"
       ]
-    },
-    {
-      "review_id": "c796cdee-669b-4028-8434-2be05c10c971",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2025-08-16T18:44:43",
-      "text": "doesn't stay connected to the phone or app. switched from iOS and you can't tell when a company does more for one platform versus the other bc this is ridiculous. can't wait till my membership expires in a few months so I can toss this junk in the garbage.",
-      "subcategory_tags": [
-        "ongoing_disconnects",
-        "android_specific_bugs",
-        "price_value_perception"
-      ]
     }
   ],
   "android_feature_gaps": [
+    {
+      "review_id": "171bd3b0-9080-4129-9e64-95eb1f8302ab",
+      "source": "google_play",
+      "rating": 2,
+      "date": "2026-10-13T03:46:13+00:00",
+      "text": "needs to be more compatible with Android. app could be more user friendly and need teams and chats to work",
+      "subcategory_tags": [
+        "android_feature_gaps",
+        "notification_community_issues"
+      ]
+    },
     {
       "review_id": "b443c6db-8878-4033-855d-6c6856d1d2ea",
       "source": "google_play",
@@ -14502,16 +14506,6 @@
       "rating": 3,
       "date": "2022-07-07T03:36:56",
       "text": "App works great but outrageous there's no widget for Android.",
-      "subcategory_tags": [
-        "android_feature_gaps"
-      ]
-    },
-    {
-      "review_id": "1a29bd6c-c4d1-42ff-8435-b98e808107d8",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2022-05-22T07:47:08",
-      "text": "No widget. ios has a widget, not cool.",
       "subcategory_tags": [
         "android_feature_gaps"
       ]

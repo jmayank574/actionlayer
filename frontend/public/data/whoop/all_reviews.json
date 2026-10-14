@@ -1,5 +1,106 @@
 [
   {
+    "review_id": "52bab830-5370-4096-bb7b-60c3f2402984",
+    "source": "google_play",
+    "rating": 5,
+    "date": "2026-10-13T13:21:29+00:00",
+    "text": "I love that it helps me hold myself accountable. It's pretty intuitive but sometimes loses track of what it should already know. If I ask, it finds it. I don't like that it just keeps asking questions until I just stop answering. It's like that convo you can't end without it being awkward. Just say, We have a plan. Have a great day. But I love being more aware of my health and choices every day. Especially sleep.",
+    "parent_category_tags": [
+      "ai_coach",
+      "sleep_tracking"
+    ],
+    "subcategory_tags": [
+      "ai_reliability_bugs",
+      "sleep_satisfaction"
+    ]
+  },
+  {
+    "review_id": "14661621739",
+    "source": "app_store",
+    "rating": 1,
+    "date": "2026-10-13T06:03:11-07:00",
+    "text": "Alarm is set to go off at the same time every day. There have been multiple times recently where it hasn’t.",
+    "parent_category_tags": [
+      "sleep_tracking"
+    ],
+    "subcategory_tags": [
+      "sleep_alarm_ui"
+    ]
+  },
+  {
+    "review_id": "b8444113-bfce-47de-9d62-f03407aadb30",
+    "source": "google_play",
+    "rating": 2,
+    "date": "2026-10-13T08:26:46+00:00",
+    "text": "The July update has not been communicated well and I'm struggle to get anything tracked accurately, with no assistance from support team.",
+    "parent_category_tags": [
+      "app_stability",
+      "data_accuracy",
+      "customer_support"
+    ],
+    "subcategory_tags": [
+      "update_failures",
+      "metric_accuracy",
+      "support_responsiveness"
+    ]
+  },
+  {
+    "review_id": "171bd3b0-9080-4129-9e64-95eb1f8302ab",
+    "source": "google_play",
+    "rating": 2,
+    "date": "2026-10-13T03:46:13+00:00",
+    "text": "needs to be more compatible with Android. app could be more user friendly and need teams and chats to work",
+    "parent_category_tags": [
+      "platform_parity",
+      "ui_ux"
+    ],
+    "subcategory_tags": [
+      "android_feature_gaps",
+      "notification_community_issues"
+    ]
+  },
+  {
+    "review_id": "14659583316",
+    "source": "app_store",
+    "rating": 4,
+    "date": "2026-10-12T16:07:55-07:00",
+    "text": "Very good app, highly recommend but expensive\n:(",
+    "parent_category_tags": [
+      "pricing_billing"
+    ],
+    "subcategory_tags": [
+      "price_value_perception"
+    ]
+  },
+  {
+    "review_id": "14659418405",
+    "source": "app_store",
+    "rating": 1,
+    "date": "2026-10-12T15:00:33-07:00",
+    "text": "I’ve had a whoop for over three years now and just recently it’s stopped being able to identify my sleep. Nothing has changed, my sleep schedule is normal, but it will just skip a night and then decide a random period the next afternoon is when I slept. Fixing these bugs is annoying and throws everything off. \n\nAlso, unrelated, but 40% of the app is just trying to upsell you to another product or service. I miss when paying for something meant you didn’t have to wade through ads.",
+    "parent_category_tags": [
+      "sleep_tracking",
+      "pricing_billing"
+    ],
+    "subcategory_tags": [
+      "sleep_accuracy",
+      "upsell_pressure"
+    ]
+  },
+  {
+    "review_id": "14657775904",
+    "source": "app_store",
+    "rating": 5,
+    "date": "2026-10-12T06:24:32-07:00",
+    "text": "This app has been instrumental in my process of improving my sleep, exercise, and overall health",
+    "parent_category_tags": [
+      "nan"
+    ],
+    "subcategory_tags": [
+      "nan"
+    ]
+  },
+  {
     "review_id": "14653944098",
     "source": "app_store",
     "rating": 1,
