@@ -1,5 +1,114 @@
 [
   {
+    "review_id": "2a8f2281-0d83-4b6b-a004-af0f2019a236",
+    "source": "google_play",
+    "rating": 1,
+    "date": "2026-10-14T15:35:31+00:00",
+    "text": "the tracking device that cant track",
+    "parent_category_tags": [
+      "data_accuracy"
+    ],
+    "subcategory_tags": [
+      "metric_accuracy"
+    ]
+  },
+  {
+    "review_id": "6d935b03-5e38-4724-8d6b-c12af74d9c8f",
+    "source": "google_play",
+    "rating": 2,
+    "date": "2026-10-14T11:18:20+00:00",
+    "text": "Mainly bought this to track gym workouts, but it completely fails. I lift 8,000 kg across machines in an hour, and it logs it as a run. I have to manually enter every machine, weight, and set into that entry. The built-in AI made a routine, but you can't even copy/paste from the chat. If you lift weights, stay away. My smartwatch already tracks everything else anyway. Totally overhyped.",
+    "parent_category_tags": [
+      "data_accuracy",
+      "feature_requests",
+      "ai_coach"
+    ],
+    "subcategory_tags": [
+      "activity_detection",
+      "missing_activity_types",
+      "ai_reliability_bugs"
+    ]
+  },
+  {
+    "review_id": "ac377414-6664-41fe-954e-70e6cc596c99",
+    "source": "google_play",
+    "rating": 3,
+    "date": "2026-10-14T11:04:35+00:00",
+    "text": "expensive for nothing market leading",
+    "parent_category_tags": [
+      "pricing_billing"
+    ],
+    "subcategory_tags": [
+      "price_value_perception"
+    ]
+  },
+  {
+    "review_id": "14664547671",
+    "source": "app_store",
+    "rating": 1,
+    "date": "2026-10-13T23:46:58-07:00",
+    "text": "This is probably the most expensive annual digital subscription I’ve tried, and the value is just not there. The hardware is cheaply made, the app and data are not very reliable, and the customer support is literally just email replies written by an LLM. The app constantly hounds you in a grindset tone, no matter how you update your profile and goals. The only positive experience I’ve had with it is that the battery does last a couple of weeks. Attempting to turn off annual auto renew is almost impossible, and the cancellation UX they use is probably unlawful in several states with recent regulations.",
+    "parent_category_tags": [
+      "pricing_billing",
+      "hardware_wearability",
+      "data_accuracy",
+      "customer_support",
+      "feature_requests",
+      "hardware_wearability",
+      "pricing_billing"
+    ],
+    "subcategory_tags": [
+      "price_value_perception",
+      "build_quality_perception",
+      "metric_accuracy",
+      "ai_only_support_channel",
+      "personalization_use_case_fit",
+      "battery_life",
+      "billing_disputes"
+    ]
+  },
+  {
+    "review_id": "14664376375",
+    "source": "app_store",
+    "rating": 1,
+    "date": "2026-10-13T22:24:49-07:00",
+    "text": "WHOOP charged me $258.35 and refused to refund me, even after I canceled my membership and returned the device. They confirmed receiving it and canceled my membership, but kept my money. Terrible customer experience.",
+    "parent_category_tags": [
+      "pricing_billing"
+    ],
+    "subcategory_tags": [
+      "billing_disputes"
+    ]
+  },
+  {
+    "review_id": "5c51884b-66c1-4a15-89f6-bd69e3ab56e0",
+    "source": "google_play",
+    "rating": 1,
+    "date": "2026-10-14T02:48:34+00:00",
+    "text": "important notifications stopped working... opened case and support is really really bad and insult customer intelligence",
+    "parent_category_tags": [
+      "ui_ux",
+      "customer_support"
+    ],
+    "subcategory_tags": [
+      "notification_community_issues",
+      "support_resolution_quality"
+    ]
+  },
+  {
+    "review_id": "14662485911",
+    "source": "app_store",
+    "rating": 5,
+    "date": "2026-10-13T10:16:01-07:00",
+    "text": "It helps me to build my muscles",
+    "parent_category_tags": [
+      "nan"
+    ],
+    "subcategory_tags": [
+      "nan"
+    ]
+  },
+  {
     "review_id": "52bab830-5370-4096-bb7b-60c3f2402984",
     "source": "google_play",
     "rating": 5,

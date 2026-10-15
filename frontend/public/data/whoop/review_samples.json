@@ -1,6 +1,42 @@
 {
   "pricing_billing": [
     {
+      "review_id": "ac377414-6664-41fe-954e-70e6cc596c99",
+      "source": "google_play",
+      "rating": 3,
+      "date": "2026-10-14T11:04:35+00:00",
+      "text": "expensive for nothing market leading",
+      "subcategory_tags": [
+        "price_value_perception"
+      ]
+    },
+    {
+      "review_id": "14664547671",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-10-13T23:46:58-07:00",
+      "text": "This is probably the most expensive annual digital subscription I’ve tried, and the value is just not there. The hardware is cheaply made, the app and data are not very reliable, and the customer support is literally just email replies written by an LLM. The app constantly hounds you in a grindset tone, no matter how you update your profile and goals. The only positive experience I’ve had with it is that the battery does last a couple of weeks. Attempting to turn off annual auto renew is almost impossible, and the cancellation UX they use is probably unlawful in several states with recent regulations.",
+      "subcategory_tags": [
+        "price_value_perception",
+        "build_quality_perception",
+        "metric_accuracy",
+        "ai_only_support_channel",
+        "personalization_use_case_fit",
+        "battery_life",
+        "billing_disputes"
+      ]
+    },
+    {
+      "review_id": "14664376375",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-10-13T22:24:49-07:00",
+      "text": "WHOOP charged me $258.35 and refused to refund me, even after I canceled my membership and returned the device. They confirmed receiving it and canceled my membership, but kept my money. Terrible customer experience.",
+      "subcategory_tags": [
+        "billing_disputes"
+      ]
+    },
+    {
       "review_id": "14659583316",
       "source": "app_store",
       "rating": 4,
@@ -303,42 +339,35 @@
         "price_value_perception",
         "comfort_fit"
       ]
-    },
+    }
+  ],
+  "price_value_perception": [
     {
-      "review_id": "069823e4-51a9-4b45-91c9-b67feb586ca8",
+      "review_id": "ac377414-6664-41fe-954e-70e6cc596c99",
       "source": "google_play",
       "rating": 3,
-      "date": "2026-09-15T18:44:38+00:00",
-      "text": "I've been using Whoop for a few years and love the usefulness of the data and strength trainer. The AI is unreliable in creating workouts in strength trainer. Most annoying though is the lack of attention to the user experience for Android. I had no issues with Apple, but on Android the button layout clearly has odd gaps, and I can't upload and view my own profile photo. it's these small things that make the app annoying and make you question why you are paying a premium.",
+      "date": "2026-10-14T11:04:35+00:00",
+      "text": "expensive for nothing market leading",
       "subcategory_tags": [
-        "ai_reliability_bugs",
-        "android_specific_bugs",
         "price_value_perception"
       ]
     },
     {
-      "review_id": "bcd344e6-95ae-4d8f-bbe2-ea0c066b38e7",
-      "source": "google_play",
+      "review_id": "14664547671",
+      "source": "app_store",
       "rating": 1,
-      "date": "2026-09-14T16:08:25+00:00",
-      "text": "I have only negative experience with it. Doesn't even let you finish registration without a credit card. why is it mandatory for a fitness tracker?",
+      "date": "2026-10-13T23:46:58-07:00",
+      "text": "This is probably the most expensive annual digital subscription I’ve tried, and the value is just not there. The hardware is cheaply made, the app and data are not very reliable, and the customer support is literally just email replies written by an LLM. The app constantly hounds you in a grindset tone, no matter how you update your profile and goals. The only positive experience I’ve had with it is that the battery does last a couple of weeks. Attempting to turn off annual auto renew is almost impossible, and the cancellation UX they use is probably unlawful in several states with recent regulations.",
       "subcategory_tags": [
+        "price_value_perception",
+        "build_quality_perception",
+        "metric_accuracy",
+        "ai_only_support_channel",
+        "personalization_use_case_fit",
+        "battery_life",
         "billing_disputes"
       ]
     },
-    {
-      "review_id": "14549425883",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-09-14T08:57:55-07:00",
-      "text": "We were supposed to get free upgrades - that’s why we paid monthly. But nope, you need to pay for a whole year for that suddenly.\n\nTo add to that, the app sends tons of notifications you can’t disable. I want them on so I can get low battery notifications but then they bombard you with notifications telling you when you go for a walk, workout, etc… yes I know I just walked thank you.\n\nHope the VC crunch eats you alive",
-      "subcategory_tags": [
-        "plan_trial_structure",
-        "notification_community_issues"
-      ]
-    }
-  ],
-  "price_value_perception": [
     {
       "review_id": "14659583316",
       "source": "app_store",
@@ -652,30 +681,35 @@
         "price_value_perception",
         "build_quality_perception"
       ]
-    },
-    {
-      "review_id": "14514369240",
-      "source": "app_store",
-      "rating": 2,
-      "date": "2026-09-05T10:09:40-07:00",
-      "text": "I really do enjoy the bracelet but I doubt I will keep it when my year is up.   Way too expensive for a membership.  In all honestly once you buy this thing it should just work.  Lord knows we don’t need another monthly bill.",
-      "subcategory_tags": [
-        "price_value_perception"
-      ]
-    },
-    {
-      "review_id": "14513233118",
-      "source": "app_store",
-      "rating": 3,
-      "date": "2026-09-05T04:40:29-07:00",
-      "text": "Doesn’t sense and pick up my workout unless I manually start an activity. Other products are more sensitive and do this for you. Not very user friendly making me remember to start an activity and then I have to tend to end the activity and if I forget I get these 23 hour workouts. For the price point this feature shouldn’t be so faulty. Unless fixed I won’t be renewing next year.",
-      "subcategory_tags": [
-        "activity_detection",
-        "price_value_perception"
-      ]
     }
   ],
   "billing_disputes": [
+    {
+      "review_id": "14664547671",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-10-13T23:46:58-07:00",
+      "text": "This is probably the most expensive annual digital subscription I’ve tried, and the value is just not there. The hardware is cheaply made, the app and data are not very reliable, and the customer support is literally just email replies written by an LLM. The app constantly hounds you in a grindset tone, no matter how you update your profile and goals. The only positive experience I’ve had with it is that the battery does last a couple of weeks. Attempting to turn off annual auto renew is almost impossible, and the cancellation UX they use is probably unlawful in several states with recent regulations.",
+      "subcategory_tags": [
+        "price_value_perception",
+        "build_quality_perception",
+        "metric_accuracy",
+        "ai_only_support_channel",
+        "personalization_use_case_fit",
+        "battery_life",
+        "billing_disputes"
+      ]
+    },
+    {
+      "review_id": "14664376375",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-10-13T22:24:49-07:00",
+      "text": "WHOOP charged me $258.35 and refused to refund me, even after I canceled my membership and returned the device. They confirmed receiving it and canceled my membership, but kept my money. Terrible customer experience.",
+      "subcategory_tags": [
+        "billing_disputes"
+      ]
+    },
     {
       "review_id": "14653944098",
       "source": "app_store",
@@ -1002,28 +1036,6 @@
         "ai_autonomy",
         "ai_only_support_channel",
         "billing_disputes"
-      ]
-    },
-    {
-      "review_id": "14398643236",
-      "source": "app_store",
-      "rating": 3,
-      "date": "2026-08-07T04:53:22-07:00",
-      "text": "I hate it when apps make it extremely hard to find the cancel button. This one was particularly bad which is why I gave 3 stars. The app itself was fine while I was using it.",
-      "subcategory_tags": [
-        "billing_disputes"
-      ]
-    },
-    {
-      "review_id": "14398184389",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-08-07T02:01:26-07:00",
-      "text": "This device continues to miss my sleep even though it is placed correctly, and charged how it should be. I have had it replaced and changed the strap. I made the mistake of paying for a year… and they will not refund me. I will not do that again. Also the AI feature is generic and unhelpful. It doesn’t even notice that the data isn’t accurate.",
-      "subcategory_tags": [
-        "sleep_accuracy",
-        "billing_disputes",
-        "ai_reliability_bugs"
       ]
     }
   ],
@@ -3072,6 +3084,22 @@
   ],
   "hardware_wearability": [
     {
+      "review_id": "14664547671",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-10-13T23:46:58-07:00",
+      "text": "This is probably the most expensive annual digital subscription I’ve tried, and the value is just not there. The hardware is cheaply made, the app and data are not very reliable, and the customer support is literally just email replies written by an LLM. The app constantly hounds you in a grindset tone, no matter how you update your profile and goals. The only positive experience I’ve had with it is that the battery does last a couple of weeks. Attempting to turn off annual auto renew is almost impossible, and the cancellation UX they use is probably unlawful in several states with recent regulations.",
+      "subcategory_tags": [
+        "price_value_perception",
+        "build_quality_perception",
+        "metric_accuracy",
+        "ai_only_support_channel",
+        "personalization_use_case_fit",
+        "battery_life",
+        "billing_disputes"
+      ]
+    },
+    {
       "review_id": "14645702078",
       "source": "app_store",
       "rating": 5,
@@ -3408,17 +3436,6 @@
       "subcategory_tags": [
         "battery_life",
         "build_quality_perception"
-      ]
-    },
-    {
-      "review_id": "14302420471",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-07-14T07:56:56-07:00",
-      "text": "I received this free because of my credit card, but I’ve stopped using it after 2 months.  It’s annoying to take off every time I shower, wash my face, go in hot tub.  The band has started to smell.  I wear an Apple Watch as well and I don’t like the look of having a band on each wrist.  Now that I want to cancel, it’s impossible to cancel through the app.",
-      "subcategory_tags": [
-        "comfort_fit",
-        "billing_disputes"
       ]
     }
   ],
@@ -4128,6 +4145,22 @@
   ],
   "battery_life": [
     {
+      "review_id": "14664547671",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-10-13T23:46:58-07:00",
+      "text": "This is probably the most expensive annual digital subscription I’ve tried, and the value is just not there. The hardware is cheaply made, the app and data are not very reliable, and the customer support is literally just email replies written by an LLM. The app constantly hounds you in a grindset tone, no matter how you update your profile and goals. The only positive experience I’ve had with it is that the battery does last a couple of weeks. Attempting to turn off annual auto renew is almost impossible, and the cancellation UX they use is probably unlawful in several states with recent regulations.",
+      "subcategory_tags": [
+        "price_value_perception",
+        "build_quality_perception",
+        "metric_accuracy",
+        "ai_only_support_channel",
+        "personalization_use_case_fit",
+        "battery_life",
+        "billing_disputes"
+      ]
+    },
+    {
       "review_id": "14645702078",
       "source": "app_store",
       "rating": 5,
@@ -4460,20 +4493,25 @@
         "crashes_freezes",
         "battery_life"
       ]
-    },
-    {
-      "review_id": "ba9befdc-8e4d-4868-9415-ad79f0c9b299",
-      "source": "google_play",
-      "rating": 2,
-      "date": "2025-09-30T09:29:35",
-      "text": "drains battery, doesn't stay restricted.",
-      "subcategory_tags": [
-        "battery_life",
-        "strap_clasp_durability"
-      ]
     }
   ],
   "build_quality_perception": [
+    {
+      "review_id": "14664547671",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-10-13T23:46:58-07:00",
+      "text": "This is probably the most expensive annual digital subscription I’ve tried, and the value is just not there. The hardware is cheaply made, the app and data are not very reliable, and the customer support is literally just email replies written by an LLM. The app constantly hounds you in a grindset tone, no matter how you update your profile and goals. The only positive experience I’ve had with it is that the battery does last a couple of weeks. Attempting to turn off annual auto renew is almost impossible, and the cancellation UX they use is probably unlawful in several states with recent regulations.",
+      "subcategory_tags": [
+        "price_value_perception",
+        "build_quality_perception",
+        "metric_accuracy",
+        "ai_only_support_channel",
+        "personalization_use_case_fit",
+        "battery_life",
+        "billing_disputes"
+      ]
+    },
     {
       "review_id": "14519069277",
       "source": "app_store",
@@ -4813,18 +4851,6 @@
       "date": "2025-05-13T11:50:38",
       "text": "Whoop 5 is a downgrade from 4",
       "subcategory_tags": [
-        "build_quality_perception"
-      ]
-    },
-    {
-      "review_id": "248bdeb8-83ce-43b7-86dc-d63ee67846f2",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2025-05-10T21:03:01",
-      "text": "As a long time Whoop user/subscriber, I absolutely can not recommend this app/company. Reneged promises to subscribers, absolutely unsustainable waste cash grabs. Intentionally redesigning hardware to be incompatible with all old accessories: batteries, bands, clothing, sleeves... all useless and they don't have a take-back recycling program either. What a massive waste of money this has been. Avoid Whoop.",
-      "subcategory_tags": [
-        "billing_disputes",
-        "price_value_perception",
         "build_quality_perception"
       ]
     }
@@ -6186,6 +6212,44 @@
   ],
   "data_accuracy": [
     {
+      "review_id": "2a8f2281-0d83-4b6b-a004-af0f2019a236",
+      "source": "google_play",
+      "rating": 1,
+      "date": "2026-10-14T15:35:31+00:00",
+      "text": "the tracking device that cant track",
+      "subcategory_tags": [
+        "metric_accuracy"
+      ]
+    },
+    {
+      "review_id": "6d935b03-5e38-4724-8d6b-c12af74d9c8f",
+      "source": "google_play",
+      "rating": 2,
+      "date": "2026-10-14T11:18:20+00:00",
+      "text": "Mainly bought this to track gym workouts, but it completely fails. I lift 8,000 kg across machines in an hour, and it logs it as a run. I have to manually enter every machine, weight, and set into that entry. The built-in AI made a routine, but you can't even copy/paste from the chat. If you lift weights, stay away. My smartwatch already tracks everything else anyway. Totally overhyped.",
+      "subcategory_tags": [
+        "activity_detection",
+        "missing_activity_types",
+        "ai_reliability_bugs"
+      ]
+    },
+    {
+      "review_id": "14664547671",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-10-13T23:46:58-07:00",
+      "text": "This is probably the most expensive annual digital subscription I’ve tried, and the value is just not there. The hardware is cheaply made, the app and data are not very reliable, and the customer support is literally just email replies written by an LLM. The app constantly hounds you in a grindset tone, no matter how you update your profile and goals. The only positive experience I’ve had with it is that the battery does last a couple of weeks. Attempting to turn off annual auto renew is almost impossible, and the cancellation UX they use is probably unlawful in several states with recent regulations.",
+      "subcategory_tags": [
+        "price_value_perception",
+        "build_quality_perception",
+        "metric_accuracy",
+        "ai_only_support_channel",
+        "personalization_use_case_fit",
+        "battery_life",
+        "billing_disputes"
+      ]
+    },
+    {
       "review_id": "b8444113-bfce-47de-9d62-f03407aadb30",
       "source": "google_play",
       "rating": 2,
@@ -6497,48 +6561,35 @@
       "subcategory_tags": [
         "activity_detection"
       ]
-    },
-    {
-      "review_id": "3b2df189-fe72-4d0c-bfd7-9e7dd77b91e7",
-      "source": "google_play",
-      "rating": 3,
-      "date": "2026-08-21T22:50:47+00:00",
-      "text": "I've used WHOOP for nearly 3 months and have been frustrated with it more than a few times. Like other users, I’ve had to manually add sleep records because WHOOP fails to auto detect it. The AI uses inconsistent and sometimes contradictory language and observations. I'm paying a subscription fee for this product and expect higher data accuracy and analysis than I'm getting. I'm undecided if I'll renew my subscription.",
-      "subcategory_tags": [
-        "sleep_accuracy",
-        "ai_reliability_bugs",
-        "metric_accuracy",
-        "price_value_perception"
-      ]
-    },
-    {
-      "review_id": "537c60d5-58e0-401e-81f3-842229a73452",
-      "source": "google_play",
-      "rating": 3,
-      "date": "2026-08-20T05:30:44+00:00",
-      "text": "Unobtrusive but buggy. The band is comfortable and doesn't intrude on day to day activities. The app has a lot of good info but seems to miss detecting exercise activities several times per week. When I manually add the activity, the app inconsistently records and displays the results. I wear the band consistently and never shut the app off. Seems to be a data sync issue leading into a record issue.",
-      "subcategory_tags": [
-        "comfort_fit",
-        "activity_detection",
-        "data_sync_delays"
-      ]
-    },
-    {
-      "review_id": "14449428710",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-08-19T21:33:08-07:00",
-      "text": "This app used to detect activities, naps, and helped me track my period after years of tracking it on other apps. Now none of those things happen, weight and periods are not recorded same with activities and naps. The metrics aren’t even correct. Don’t waste you’re money it’s all marketing and a scam",
-      "subcategory_tags": [
-        "activity_detection",
-        "sleep_accuracy",
-        "missing_metrics",
-        "metric_accuracy",
-        "price_value_perception"
-      ]
     }
   ],
   "metric_accuracy": [
+    {
+      "review_id": "2a8f2281-0d83-4b6b-a004-af0f2019a236",
+      "source": "google_play",
+      "rating": 1,
+      "date": "2026-10-14T15:35:31+00:00",
+      "text": "the tracking device that cant track",
+      "subcategory_tags": [
+        "metric_accuracy"
+      ]
+    },
+    {
+      "review_id": "14664547671",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-10-13T23:46:58-07:00",
+      "text": "This is probably the most expensive annual digital subscription I’ve tried, and the value is just not there. The hardware is cheaply made, the app and data are not very reliable, and the customer support is literally just email replies written by an LLM. The app constantly hounds you in a grindset tone, no matter how you update your profile and goals. The only positive experience I’ve had with it is that the battery does last a couple of weeks. Attempting to turn off annual auto renew is almost impossible, and the cancellation UX they use is probably unlawful in several states with recent regulations.",
+      "subcategory_tags": [
+        "price_value_perception",
+        "build_quality_perception",
+        "metric_accuracy",
+        "ai_only_support_channel",
+        "personalization_use_case_fit",
+        "battery_life",
+        "billing_disputes"
+      ]
+    },
     {
       "review_id": "b8444113-bfce-47de-9d62-f03407aadb30",
       "source": "google_play",
@@ -6864,34 +6915,21 @@
         "metric_accuracy",
         "ai_reliability_bugs"
       ]
-    },
-    {
-      "review_id": "14405356198",
-      "source": "app_store",
-      "rating": 3,
-      "date": "2026-08-08T21:56:04-07:00",
-      "text": "The piling on of AI “features” that I can’t turn off or opt out of is already irritating, but the tracking has also only been getting worse (it used to be on the nose about my main activity, now it is all over the place and regular automatically stops logging when I’ve barely even started, only to log showers as activities instead). It might just be coincidence but the decline coinciding with the increased AI integration, and my observations of every other AI tool I’ve been unable to avoid, do make me suspicious that these things are related, to Whoop’s detriment. A new low, it logged 4x as many steps as Apple Health today - I was on a road trip for 5.5 hours, Whoop is definitely the one that’s wrong about this. If they insist on burying themselves with AI, I just wish I could at least turn off the way it interacts with me. I don’t want an app talking to me in a creepy imitation of a person. Unfortunately, I bought a longer subscription at my last renewal. If the accuracy doesn’t come back by the time that expires, I just don’t think the high price will be worth it.",
-      "subcategory_tags": [
-        "ai_autonomy",
-        "activity_detection",
-        "metric_accuracy",
-        "price_value_perception"
-      ]
-    },
-    {
-      "review_id": "14405269913",
-      "source": "app_store",
-      "rating": 3,
-      "date": "2026-08-08T21:16:51-07:00",
-      "text": "Somtimes the app dosent recognize the nap ,timing your workout and counting steps",
-      "subcategory_tags": [
-        "sleep_accuracy",
-        "activity_detection",
-        "metric_accuracy"
-      ]
     }
   ],
   "activity_detection": [
+    {
+      "review_id": "6d935b03-5e38-4724-8d6b-c12af74d9c8f",
+      "source": "google_play",
+      "rating": 2,
+      "date": "2026-10-14T11:18:20+00:00",
+      "text": "Mainly bought this to track gym workouts, but it completely fails. I lift 8,000 kg across machines in an hour, and it logs it as a run. I have to manually enter every machine, weight, and set into that entry. The built-in AI made a routine, but you can't even copy/paste from the chat. If you lift weights, stay away. My smartwatch already tracks everything else anyway. Totally overhyped.",
+      "subcategory_tags": [
+        "activity_detection",
+        "missing_activity_types",
+        "ai_reliability_bugs"
+      ]
+    },
     {
       "review_id": "14645702078",
       "source": "app_store",
@@ -7241,17 +7279,6 @@
         "activity_detection",
         "price_value_perception",
         "missing_metrics"
-      ]
-    },
-    {
-      "review_id": "3b381626-1d4b-4726-9da8-d40dcf8ac45c",
-      "source": "google_play",
-      "rating": 3,
-      "date": "2026-07-08T02:47:55",
-      "text": "works well, logs activity automatically...but keeps thinking im playing baseball when I am just walking around at work. you can't customize the activities",
-      "subcategory_tags": [
-        "activity_detection",
-        "missing_activity_types"
       ]
     }
   ],
@@ -8003,6 +8030,18 @@
   ],
   "ai_coach": [
     {
+      "review_id": "6d935b03-5e38-4724-8d6b-c12af74d9c8f",
+      "source": "google_play",
+      "rating": 2,
+      "date": "2026-10-14T11:18:20+00:00",
+      "text": "Mainly bought this to track gym workouts, but it completely fails. I lift 8,000 kg across machines in an hour, and it logs it as a run. I have to manually enter every machine, weight, and set into that entry. The built-in AI made a routine, but you can't even copy/paste from the chat. If you lift weights, stay away. My smartwatch already tracks everything else anyway. Totally overhyped.",
+      "subcategory_tags": [
+        "activity_detection",
+        "missing_activity_types",
+        "ai_reliability_bugs"
+      ]
+    },
+    {
       "review_id": "52bab830-5370-4096-bb7b-60c3f2402984",
       "source": "google_play",
       "rating": 5,
@@ -8324,20 +8363,21 @@
         "ai_reliability_bugs",
         "price_value_perception"
       ]
-    },
-    {
-      "review_id": "82bbd4bf-d04e-41fd-91ae-38e9c882ff61",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2026-08-20T10:40:34+00:00",
-      "text": "the coach feature is absolute junk and ruins the good things the app has to offer. don't roll out AI that doesn't work. constant hallucinations, relying on \"facts\" that have nothing to do with my actual data and giving conflicting advice. you can't turn it off or opt out,, either.",
-      "subcategory_tags": [
-        "ai_reliability_bugs",
-        "ai_autonomy"
-      ]
     }
   ],
   "ai_reliability_bugs": [
+    {
+      "review_id": "6d935b03-5e38-4724-8d6b-c12af74d9c8f",
+      "source": "google_play",
+      "rating": 2,
+      "date": "2026-10-14T11:18:20+00:00",
+      "text": "Mainly bought this to track gym workouts, but it completely fails. I lift 8,000 kg across machines in an hour, and it logs it as a run. I have to manually enter every machine, weight, and set into that entry. The built-in AI made a routine, but you can't even copy/paste from the chat. If you lift weights, stay away. My smartwatch already tracks everything else anyway. Totally overhyped.",
+      "subcategory_tags": [
+        "activity_detection",
+        "missing_activity_types",
+        "ai_reliability_bugs"
+      ]
+    },
     {
       "review_id": "52bab830-5370-4096-bb7b-60c3f2402984",
       "source": "google_play",
@@ -8671,18 +8711,6 @@
         "activity_detection",
         "support_responsiveness",
         "crashes_freezes"
-      ]
-    },
-    {
-      "review_id": "14368511721",
-      "source": "app_store",
-      "rating": 5,
-      "date": "2026-07-30T17:26:11-07:00",
-      "text": "awesome app so far I am very appreciated of the things that I can see only thing is I wish it showed me some better ways to get healthier and improve my goals like some sort of article section or community chat would be great and for the AI to tell me some better ways too.  I wish it had a better calorie and macro tracker and I also wish that AI speak to it was quite a bit better it often cuts out randomly without like telling me and gets a lot of my words wrong, awesome app so far tho, just need a little bit of smoothing out.",
-      "subcategory_tags": [
-        "missing_metrics",
-        "ai_reliability_bugs",
-        "notification_community_issues"
       ]
     }
   ],
@@ -9342,6 +9370,33 @@
   ],
   "customer_support": [
     {
+      "review_id": "14664547671",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-10-13T23:46:58-07:00",
+      "text": "This is probably the most expensive annual digital subscription I’ve tried, and the value is just not there. The hardware is cheaply made, the app and data are not very reliable, and the customer support is literally just email replies written by an LLM. The app constantly hounds you in a grindset tone, no matter how you update your profile and goals. The only positive experience I’ve had with it is that the battery does last a couple of weeks. Attempting to turn off annual auto renew is almost impossible, and the cancellation UX they use is probably unlawful in several states with recent regulations.",
+      "subcategory_tags": [
+        "price_value_perception",
+        "build_quality_perception",
+        "metric_accuracy",
+        "ai_only_support_channel",
+        "personalization_use_case_fit",
+        "battery_life",
+        "billing_disputes"
+      ]
+    },
+    {
+      "review_id": "5c51884b-66c1-4a15-89f6-bd69e3ab56e0",
+      "source": "google_play",
+      "rating": 1,
+      "date": "2026-10-14T02:48:34+00:00",
+      "text": "important notifications stopped working... opened case and support is really really bad and insult customer intelligence",
+      "subcategory_tags": [
+        "notification_community_issues",
+        "support_resolution_quality"
+      ]
+    },
+    {
       "review_id": "b8444113-bfce-47de-9d62-f03407aadb30",
       "source": "google_play",
       "rating": 2,
@@ -9677,26 +9732,6 @@
         "metric_accuracy",
         "personalization_use_case_fit",
         "support_resolution_quality"
-      ]
-    },
-    {
-      "review_id": "e38736bd-307f-44ab-8feb-014e49f052d8",
-      "source": "google_play",
-      "rating": 5,
-      "date": "2026-08-10T15:13:28+00:00",
-      "text": "Hello for getting back about my order .Adrian from support team you are a. Star🌟🌟 thank you for reaching as soon as possible and helped me in getting before delivery date . Thank you Adrian and Thank you Whoop support team ✨",
-      "subcategory_tags": [
-        "support_satisfaction"
-      ]
-    },
-    {
-      "review_id": "94843019-079e-41dc-b922-15debd7e257c",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2026-08-09T08:35:42+00:00",
-      "text": "the device is perfect and really useful. but since it stopped working with no reason, I'm following up with customer support for a replacement as per the warranty and they agreed to replace it but every time they reply that it takes 3-5 working days for processing and nothing happens for more than 1 month",
-      "subcategory_tags": [
-        "support_responsiveness"
       ]
     }
   ],
@@ -10065,6 +10100,17 @@
   ],
   "support_resolution_quality": [
     {
+      "review_id": "5c51884b-66c1-4a15-89f6-bd69e3ab56e0",
+      "source": "google_play",
+      "rating": 1,
+      "date": "2026-10-14T02:48:34+00:00",
+      "text": "important notifications stopped working... opened case and support is really really bad and insult customer intelligence",
+      "subcategory_tags": [
+        "notification_community_issues",
+        "support_resolution_quality"
+      ]
+    },
+    {
       "review_id": "14639418333",
       "source": "app_store",
       "rating": 2,
@@ -10414,19 +10460,25 @@
         "support_resolution_quality",
         "price_value_perception"
       ]
-    },
-    {
-      "review_id": "dd713ba3-f429-4b56-a746-85d8ee7b4e67",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2026-06-26T09:30:49",
-      "text": "the worst Member ship services",
-      "subcategory_tags": [
-        "support_resolution_quality"
-      ]
     }
   ],
   "ai_only_support_channel": [
+    {
+      "review_id": "14664547671",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-10-13T23:46:58-07:00",
+      "text": "This is probably the most expensive annual digital subscription I’ve tried, and the value is just not there. The hardware is cheaply made, the app and data are not very reliable, and the customer support is literally just email replies written by an LLM. The app constantly hounds you in a grindset tone, no matter how you update your profile and goals. The only positive experience I’ve had with it is that the battery does last a couple of weeks. Attempting to turn off annual auto renew is almost impossible, and the cancellation UX they use is probably unlawful in several states with recent regulations.",
+      "subcategory_tags": [
+        "price_value_perception",
+        "build_quality_perception",
+        "metric_accuracy",
+        "ai_only_support_channel",
+        "personalization_use_case_fit",
+        "battery_life",
+        "billing_disputes"
+      ]
+    },
     {
       "review_id": "c5f8b354-07af-4c8d-a981-b55e9b311d66",
       "source": "google_play",
@@ -10782,20 +10834,6 @@
         "billing_disputes",
         "ai_only_support_channel",
         "price_value_perception"
-      ]
-    },
-    {
-      "review_id": "cdfd3437-5384-45ee-8b4a-0538dd4c250f",
-      "source": "google_play",
-      "rating": 2,
-      "date": "2026-02-11T06:33:39",
-      "text": "Feb 2026: Whoop team chat doesn't work, despite emails being sent promoting it. If you tell support about it you'll get an AI gaslighting you into thinking it's your phone's fault '25: It's a good app, but there have been so many regressions :( GPS tracking doesn't work, causing VO2max estimates to be inaccurate. Plus, they removed weekly and monthly performance assessments from the app, along with the really useful weekly charts (strain vs recovery, and sleep consistency vs sleep performance)",
-      "subcategory_tags": [
-        "notification_community_issues",
-        "support_resolution_quality",
-        "ai_only_support_channel",
-        "metric_accuracy",
-        "redesign_regression"
       ]
     }
   ],
@@ -12152,6 +12190,17 @@
   ],
   "ui_ux": [
     {
+      "review_id": "5c51884b-66c1-4a15-89f6-bd69e3ab56e0",
+      "source": "google_play",
+      "rating": 1,
+      "date": "2026-10-14T02:48:34+00:00",
+      "text": "important notifications stopped working... opened case and support is really really bad and insult customer intelligence",
+      "subcategory_tags": [
+        "notification_community_issues",
+        "support_resolution_quality"
+      ]
+    },
+    {
       "review_id": "171bd3b0-9080-4129-9e64-95eb1f8302ab",
       "source": "google_play",
       "rating": 2,
@@ -12472,16 +12521,6 @@
       "text": "I’m honestly tired of fighting with the time sliders in the WHOOP app. This really needs to be fixed. Entering an exact time in the Journal can be surprisingly difficult. For example, I may need to set an action to 12:00, but the slider keeps trying to select 11:30 or 12:30 instead. Please add a simple and precise way to enter the exact time manually, or significantly improve the slider behavior. Something as basic as logging the correct time should not be this frustrating.",
       "subcategory_tags": [
         "feature_ui_friction"
-      ]
-    },
-    {
-      "review_id": "14431332246",
-      "source": "app_store",
-      "rating": 3,
-      "date": "2026-08-15T08:58:10-07:00",
-      "text": "The WHOOP app seems to work OK, but it definitely needs an update to fix some issues.\nOn many screens the information does not fit on the phone screen. In other words, it bleeds over the edge, making it all but unreadable.",
-      "subcategory_tags": [
-        "device_rendering_bugs"
       ]
     }
   ],
@@ -13503,6 +13542,17 @@
   ],
   "notification_community_issues": [
     {
+      "review_id": "5c51884b-66c1-4a15-89f6-bd69e3ab56e0",
+      "source": "google_play",
+      "rating": 1,
+      "date": "2026-10-14T02:48:34+00:00",
+      "text": "important notifications stopped working... opened case and support is really really bad and insult customer intelligence",
+      "subcategory_tags": [
+        "notification_community_issues",
+        "support_resolution_quality"
+      ]
+    },
+    {
       "review_id": "171bd3b0-9080-4129-9e64-95eb1f8302ab",
       "source": "google_play",
       "rating": 2,
@@ -13826,16 +13876,6 @@
       "rating": 4,
       "date": "2026-04-02T13:28:46",
       "text": "I love everything about my whoop. One star off because my goodness... I see all these chat notifications for the communities I'm in but I don't get to see them in the chat when I open the app. 😢",
-      "subcategory_tags": [
-        "notification_community_issues"
-      ]
-    },
-    {
-      "review_id": "2ae8bbe9-c433-4c28-ad00-52158ae0e4f7",
-      "source": "google_play",
-      "rating": 3,
-      "date": "2026-04-02T10:52:01",
-      "text": "on galaxy 23S Ultra and though the device and monitoring is fantastic!! there must be a bug on this phone and the app, because I am in a group with other friends and Im the only one who can't send messages and or see messages 90% of the time. as well am about 2-3 weeks behind before the winners of the week shows up on my end. I do see a phone notification that there is something there, but once I go into the app, nothing is in the team chat. EDIT: no word from support on why I am having issues.",
       "subcategory_tags": [
         "notification_community_issues"
       ]
@@ -15563,6 +15603,34 @@
   ],
   "feature_requests": [
     {
+      "review_id": "6d935b03-5e38-4724-8d6b-c12af74d9c8f",
+      "source": "google_play",
+      "rating": 2,
+      "date": "2026-10-14T11:18:20+00:00",
+      "text": "Mainly bought this to track gym workouts, but it completely fails. I lift 8,000 kg across machines in an hour, and it logs it as a run. I have to manually enter every machine, weight, and set into that entry. The built-in AI made a routine, but you can't even copy/paste from the chat. If you lift weights, stay away. My smartwatch already tracks everything else anyway. Totally overhyped.",
+      "subcategory_tags": [
+        "activity_detection",
+        "missing_activity_types",
+        "ai_reliability_bugs"
+      ]
+    },
+    {
+      "review_id": "14664547671",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-10-13T23:46:58-07:00",
+      "text": "This is probably the most expensive annual digital subscription I’ve tried, and the value is just not there. The hardware is cheaply made, the app and data are not very reliable, and the customer support is literally just email replies written by an LLM. The app constantly hounds you in a grindset tone, no matter how you update your profile and goals. The only positive experience I’ve had with it is that the battery does last a couple of weeks. Attempting to turn off annual auto renew is almost impossible, and the cancellation UX they use is probably unlawful in several states with recent regulations.",
+      "subcategory_tags": [
+        "price_value_perception",
+        "build_quality_perception",
+        "metric_accuracy",
+        "ai_only_support_channel",
+        "personalization_use_case_fit",
+        "battery_life",
+        "billing_disputes"
+      ]
+    },
+    {
       "review_id": "14653944098",
       "source": "app_store",
       "rating": 1,
@@ -15867,33 +15935,21 @@
         "personalization_use_case_fit",
         "ai_positive_reception"
       ]
-    },
-    {
-      "review_id": "14493545320",
-      "source": "app_store",
-      "rating": 2,
-      "date": "2026-08-31T04:45:37-07:00",
-      "text": "As title says, great product and I love it besides the lack of gps. The customer service is terrible. When I had a 4.0, there was a time where it wouldn’t connect to my phone for a few days so I contacted support and they just said to wait and let it run out of battery and try again. So I waited over 2 weeks for this thing to run out and thankfully it connected again. Now with my 5.0, I was at the beach and it fell off while swimming in flat water. I eventually found it with goggles but the clasp was gone (broke off) so I contacted support and they said it’s not covered by warranty so order a new one. Just used $50 to replace with the cheapest band I could. What’s the point of a warranty if it doesn’t cover the band breaking.",
-      "subcategory_tags": [
-        "strap_clasp_durability",
-        "support_resolution_quality",
-        "ongoing_disconnects",
-        "missing_metrics"
-      ]
-    },
-    {
-      "review_id": "1db8e294-c1b7-459d-ae38-06d53b7cb88a",
-      "source": "google_play",
-      "rating": 5,
-      "date": "2026-08-30T05:39:43+00:00",
-      "text": "it's good, however Whoop is expensive, they will have to offer more given the competitors which are cheaper and also good. I'd like to see a dynamic calorie deficit number adjusted to your weight goal, Huawei watches offer it with a native app called \"Stay fit\" and I love it, if Whoop offers it I won't have a need to wear a watch anymore",
-      "subcategory_tags": [
-        "price_value_perception",
-        "missing_metrics"
-      ]
     }
   ],
   "missing_activity_types": [
+    {
+      "review_id": "6d935b03-5e38-4724-8d6b-c12af74d9c8f",
+      "source": "google_play",
+      "rating": 2,
+      "date": "2026-10-14T11:18:20+00:00",
+      "text": "Mainly bought this to track gym workouts, but it completely fails. I lift 8,000 kg across machines in an hour, and it logs it as a run. I have to manually enter every machine, weight, and set into that entry. The built-in AI made a routine, but you can't even copy/paste from the chat. If you lift weights, stay away. My smartwatch already tracks everything else anyway. Totally overhyped.",
+      "subcategory_tags": [
+        "activity_detection",
+        "missing_activity_types",
+        "ai_reliability_bugs"
+      ]
+    },
     {
       "review_id": "14645562870",
       "source": "app_store",
@@ -16211,17 +16267,6 @@
       "text": "Love the app and what WHOOP does for my training—it's been a game changer. One small but frustrating issue: if you forget to end a workout, the app never prompts you. Even the Apple Watch knows to ask \"Are you still working out?\" A simple reminder notification would save so much hassle. If not, it just takes so much time to go back in the app and edit the times for your workout. Please add this!",
       "subcategory_tags": [
         "activity_detection",
-        "missing_activity_types"
-      ]
-    },
-    {
-      "review_id": "592d28c9-fff6-41da-a33e-28f192b1e2bc",
-      "source": "google_play",
-      "rating": 2,
-      "date": "2026-01-21T11:51:47",
-      "text": "I love my whoop but I remember now. I stopped using whoop before because the workout tracking is atrocious. you can track your single workout, but then you can't go back easily. And look at them or see what you planned out next so once again I'm going to have to go use an external workout tracker. whats it gonna take for yall to add a workout tracking in with the mix. yes I know there's one there and its relatively ok if it was easily accessible and had a better ui. whoop is great other than tha",
-      "subcategory_tags": [
-        "feature_ui_friction",
         "missing_activity_types"
       ]
     }
@@ -16568,6 +16613,22 @@
   ],
   "personalization_use_case_fit": [
     {
+      "review_id": "14664547671",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-10-13T23:46:58-07:00",
+      "text": "This is probably the most expensive annual digital subscription I’ve tried, and the value is just not there. The hardware is cheaply made, the app and data are not very reliable, and the customer support is literally just email replies written by an LLM. The app constantly hounds you in a grindset tone, no matter how you update your profile and goals. The only positive experience I’ve had with it is that the battery does last a couple of weeks. Attempting to turn off annual auto renew is almost impossible, and the cancellation UX they use is probably unlawful in several states with recent regulations.",
+      "subcategory_tags": [
+        "price_value_perception",
+        "build_quality_perception",
+        "metric_accuracy",
+        "ai_only_support_channel",
+        "personalization_use_case_fit",
+        "battery_life",
+        "billing_disputes"
+      ]
+    },
+    {
       "review_id": "14653944098",
       "source": "app_store",
       "rating": 1,
@@ -16895,16 +16956,6 @@
       "rating": 5,
       "date": "2026-07-13T04:48:39-07:00",
       "text": "Easy to use and great to get honest feedback on overall activities. It’s easy to focus on a single workout, but difficult to get comprehensive information on a full day & night of the things that impact longevity. Listening to what Whoop is saying helps with a balanced approach to health. As a 63 year old, retired and competitive, active person, I love trying to get better and Whoop is a highly accretive factor.",
-      "subcategory_tags": [
-        "personalization_use_case_fit"
-      ]
-    },
-    {
-      "review_id": "8a5e378c-ffa4-4195-8eb2-c507c08ba8a7",
-      "source": "google_play",
-      "rating": 5,
-      "date": "2026-07-08T04:53:37",
-      "text": "The Whoop is incredible tool for your health. The more you wear it the more it optimizes your performance recommendations to fit YOUR body and goals. 12/10 the best thing I have for my health and wellness.",
       "subcategory_tags": [
         "personalization_use_case_fit"
       ]
