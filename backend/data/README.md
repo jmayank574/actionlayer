@@ -1,23 +1,23 @@
 # WHOOP review dataset
 
-Generated 2026-10-15T17:40:42.558393
+Generated 2026-10-16T17:14:03.258003
 
 Every row below came from a live Google Play or Apple App Store response — nothing in this dataset is model-generated, inferred, or backfilled. Counts reflect exactly what each source returned.
 
 ## Since last pull
 
-- New reviews: **7**
-- Edited since last seen: 2
-- Returned again, unchanged: 3394
-- Carried over from a prior pull (not returned this time, e.g. aged out of Apple's ~500-review RSS window): 282
+- New reviews: **1**
+- Edited since last seen: 0
+- Returned again, unchanged: 3359
+- Carried over from a prior pull (not returned this time, e.g. aged out of Apple's ~500-review RSS window): 326
 
 ## By source
 
 ### google_play
 
-- Total reviews: **2965**
-- Date range: 2017-08-25T20:34:31 to 2026-10-14T15:35:31
-- Rating distribution: 1★: 1119 | 2★: 374 | 3★: 330 | 4★: 281 | 5★: 861
+- Total reviews: **2966**
+- Date range: 2017-08-25T20:34:31 to 2026-10-15T15:15:50
+- Rating distribution: 1★: 1120 | 2★: 374 | 3★: 330 | 4★: 281 | 5★: 861
 - Average review length: 37.8 words
 
 ### app_store
@@ -29,17 +29,17 @@ Every row below came from a live Google Play or Apple App Store response — not
 
 ## Combined
 
-- Total reviews: **3685**
-- Date range: 2017-08-25T20:34:31 to 2026-10-14T15:35:31
-- Rating distribution: 1★: 1332 | 2★: 438 | 3★: 396 | 4★: 351 | 5★: 1168
+- Total reviews: **3686**
+- Date range: 2017-08-25T20:34:31 to 2026-10-15T15:15:50
+- Rating distribution: 1★: 1333 | 2★: 438 | 3★: 396 | 4★: 351 | 5★: 1168
 - Average review length: 40.8 words
 
 ## Filtering applied
 
-- Dropped as empty/near-empty (<5 words): 490
+- Dropped as empty/near-empty (<5 words): 483
 - Dropped as duplicates (same review_id + text): 0
 - No filtering by rating, sentiment, or topic — this is the full unfiltered distribution, 5-star reviews included.
 
 ## Rate-limiting / access issues hit during this pull
 
-- App Store: hit Apple's 10-page RSS cap (~500 reviews) — this is a limit of Apple's public feed, not a failure of the pull. Apple does not expose full review history through any public endpoint.
+- None.
