@@ -1,5 +1,22 @@
 [
   {
+    "review_id": "0f171849-4799-4579-8fd6-23ea031298e3",
+    "source": "google_play",
+    "rating": 1,
+    "date": "2026-10-15T15:15:50+00:00",
+    "text": "Very Disappointing For the past week, my WHOOP has been constantly disconnecting. I've contacted support several times, but their only solution is to restart and reconnect, which doesn't fix the issue. For such an expensive subscription, this is unacceptable. There are plenty of free alternatives, but I paid for WHOOP expecting at least a stable, reliable service. Extremely disappointing!",
+    "parent_category_tags": [
+      "sync_connectivity",
+      "customer_support",
+      "pricing_billing"
+    ],
+    "subcategory_tags": [
+      "ongoing_disconnects",
+      "support_resolution_quality",
+      "price_value_perception"
+    ]
+  },
+  {
     "review_id": "2a8f2281-0d83-4b6b-a004-af0f2019a236",
     "source": "google_play",
     "rating": 1,

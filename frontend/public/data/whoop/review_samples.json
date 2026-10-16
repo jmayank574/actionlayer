@@ -1,6 +1,18 @@
 {
   "pricing_billing": [
     {
+      "review_id": "0f171849-4799-4579-8fd6-23ea031298e3",
+      "source": "google_play",
+      "rating": 1,
+      "date": "2026-10-15T15:15:50+00:00",
+      "text": "Very Disappointing For the past week, my WHOOP has been constantly disconnecting. I've contacted support several times, but their only solution is to restart and reconnect, which doesn't fix the issue. For such an expensive subscription, this is unacceptable. There are plenty of free alternatives, but I paid for WHOOP expecting at least a stable, reliable service. Extremely disappointing!",
+      "subcategory_tags": [
+        "ongoing_disconnects",
+        "support_resolution_quality",
+        "price_value_perception"
+      ]
+    },
+    {
       "review_id": "ac377414-6664-41fe-954e-70e6cc596c99",
       "source": "google_play",
       "rating": 3,
@@ -328,20 +340,21 @@
         "billing_disputes",
         "price_value_perception"
       ]
-    },
-    {
-      "review_id": "14554217779",
-      "source": "app_store",
-      "rating": 4,
-      "date": "2026-09-15T15:09:52-07:00",
-      "text": "I’ve been a a member of the Whoop community for over 2 years. This is my overall experience with it. I think it is overall great. Great in the sense that it tracks the information you need in order to understand your body better, and helps you understand your habits or lack of habits that one would need to implement in their lives to be a better version of themselves etc.. However, I believe with the amount the whoop costs, and I have the newest version, they should at least let you keep the data you pay for, or at least give you access to more things you don’t have to purchase on the side. PS! The silicone band gives you a rash over time. Be CAREFUL. 🤙🏾",
-      "subcategory_tags": [
-        "price_value_perception",
-        "comfort_fit"
-      ]
     }
   ],
   "price_value_perception": [
+    {
+      "review_id": "0f171849-4799-4579-8fd6-23ea031298e3",
+      "source": "google_play",
+      "rating": 1,
+      "date": "2026-10-15T15:15:50+00:00",
+      "text": "Very Disappointing For the past week, my WHOOP has been constantly disconnecting. I've contacted support several times, but their only solution is to restart and reconnect, which doesn't fix the issue. For such an expensive subscription, this is unacceptable. There are plenty of free alternatives, but I paid for WHOOP expecting at least a stable, reliable service. Extremely disappointing!",
+      "subcategory_tags": [
+        "ongoing_disconnects",
+        "support_resolution_quality",
+        "price_value_perception"
+      ]
+    },
     {
       "review_id": "ac377414-6664-41fe-954e-70e6cc596c99",
       "source": "google_play",
@@ -669,17 +682,6 @@
       "text": "I’ve had a few different fitness trackers over the years, and WHOOP is the best, for what it does. If you can afford to pay monthly, it’s really helpful on many fronts.",
       "subcategory_tags": [
         "price_value_perception"
-      ]
-    },
-    {
-      "review_id": "b1f75783-26f9-4335-b486-635dc4c25e1b",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2026-09-06T03:28:40+00:00",
-      "text": "For the amount spent on the whoop, the band should be falling apart.",
-      "subcategory_tags": [
-        "price_value_perception",
-        "build_quality_perception"
       ]
     }
   ],
@@ -4857,6 +4859,18 @@
   ],
   "sync_connectivity": [
     {
+      "review_id": "0f171849-4799-4579-8fd6-23ea031298e3",
+      "source": "google_play",
+      "rating": 1,
+      "date": "2026-10-15T15:15:50+00:00",
+      "text": "Very Disappointing For the past week, my WHOOP has been constantly disconnecting. I've contacted support several times, but their only solution is to restart and reconnect, which doesn't fix the issue. For such an expensive subscription, this is unacceptable. There are plenty of free alternatives, but I paid for WHOOP expecting at least a stable, reliable service. Extremely disappointing!",
+      "subcategory_tags": [
+        "ongoing_disconnects",
+        "support_resolution_quality",
+        "price_value_perception"
+      ]
+    },
+    {
       "review_id": "127969b5-e07f-4aae-bcb5-e20fd9b4eef6",
       "source": "google_play",
       "rating": 1,
@@ -5182,16 +5196,6 @@
         "metric_accuracy",
         "data_sync_delays",
         "activity_detection"
-      ]
-    },
-    {
-      "review_id": "121653fc-9e9e-486a-b45a-298f71c8b2ea",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2026-07-29T10:50:28",
-      "text": "transfer to a new phone sucks - can't reset password and login to new phone, stuck using old phone",
-      "subcategory_tags": [
-        "onboarding_pairing"
       ]
     }
   ],
@@ -5528,6 +5532,18 @@
   ],
   "ongoing_disconnects": [
     {
+      "review_id": "0f171849-4799-4579-8fd6-23ea031298e3",
+      "source": "google_play",
+      "rating": 1,
+      "date": "2026-10-15T15:15:50+00:00",
+      "text": "Very Disappointing For the past week, my WHOOP has been constantly disconnecting. I've contacted support several times, but their only solution is to restart and reconnect, which doesn't fix the issue. For such an expensive subscription, this is unacceptable. There are plenty of free alternatives, but I paid for WHOOP expecting at least a stable, reliable service. Extremely disappointing!",
+      "subcategory_tags": [
+        "ongoing_disconnects",
+        "support_resolution_quality",
+        "price_value_perception"
+      ]
+    },
+    {
       "review_id": "eab5d2e2-c36b-4a96-9498-d5753bc351e0",
       "source": "google_play",
       "rating": 3,
@@ -5851,17 +5867,6 @@
       "subcategory_tags": [
         "price_value_perception",
         "ongoing_disconnects"
-      ]
-    },
-    {
-      "review_id": "11928805-a168-467e-8356-9be8689a16e2",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2025-12-22T02:23:23",
-      "text": "Since getting the 5.0 whoop I need to re-sync every morning which is frustrating. I have reached out to support a few times and none of their troubeshooting recommendations fixes the issue. Really disappointing as the 4.0 band never had this issue.",
-      "subcategory_tags": [
-        "ongoing_disconnects",
-        "support_resolution_quality"
       ]
     }
   ],
@@ -9370,6 +9375,18 @@
   ],
   "customer_support": [
     {
+      "review_id": "0f171849-4799-4579-8fd6-23ea031298e3",
+      "source": "google_play",
+      "rating": 1,
+      "date": "2026-10-15T15:15:50+00:00",
+      "text": "Very Disappointing For the past week, my WHOOP has been constantly disconnecting. I've contacted support several times, but their only solution is to restart and reconnect, which doesn't fix the issue. For such an expensive subscription, this is unacceptable. There are plenty of free alternatives, but I paid for WHOOP expecting at least a stable, reliable service. Extremely disappointing!",
+      "subcategory_tags": [
+        "ongoing_disconnects",
+        "support_resolution_quality",
+        "price_value_perception"
+      ]
+    },
+    {
       "review_id": "14664547671",
       "source": "app_store",
       "rating": 1,
@@ -9720,18 +9737,6 @@
         "sleep_accuracy",
         "data_sync_delays",
         "support_responsiveness"
-      ]
-    },
-    {
-      "review_id": "14419311797",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-08-12T09:33:40-07:00",
-      "text": "I’m a very active middle aged person who adopted Whoop to track my multitude of activities. I’ve encountered a major problem: Whoop doesn’t accurately measure where most of us live our lives: in HR zones 0-2. For a 5 mile walk in 85*F heat, whoop recorded 150 calories. Why? ‘I wasn’t working hard enough.’ The AI agent was condescending, passive aggressive and deflective. So, if you aren’t regularly pushing yourself often at HR zones 4-5, Whoop is basically useless for you.",
-      "subcategory_tags": [
-        "metric_accuracy",
-        "personalization_use_case_fit",
-        "support_resolution_quality"
       ]
     }
   ],
@@ -10100,6 +10105,18 @@
   ],
   "support_resolution_quality": [
     {
+      "review_id": "0f171849-4799-4579-8fd6-23ea031298e3",
+      "source": "google_play",
+      "rating": 1,
+      "date": "2026-10-15T15:15:50+00:00",
+      "text": "Very Disappointing For the past week, my WHOOP has been constantly disconnecting. I've contacted support several times, but their only solution is to restart and reconnect, which doesn't fix the issue. For such an expensive subscription, this is unacceptable. There are plenty of free alternatives, but I paid for WHOOP expecting at least a stable, reliable service. Extremely disappointing!",
+      "subcategory_tags": [
+        "ongoing_disconnects",
+        "support_resolution_quality",
+        "price_value_perception"
+      ]
+    },
+    {
       "review_id": "5c51884b-66c1-4a15-89f6-bd69e3ab56e0",
       "source": "google_play",
       "rating": 1,
@@ -10444,21 +10461,6 @@
       "subcategory_tags": [
         "support_responsiveness",
         "support_resolution_quality"
-      ]
-    },
-    {
-      "review_id": "14231860837",
-      "source": "app_store",
-      "rating": 2,
-      "date": "2026-06-27T01:00:39-07:00",
-      "text": "WHOOP started out as an amazing product. The sensor is small, thin, comfortable, and easy to forget you’re even wearing it.\n\nUnfortunately, over the past two and a half years, the experience has steadily declined. I’ve had five sensor failures, worsening battery life, repeated connection issues with the app, and persistent software problems that support has been unable to resolve.\n\nFor a premium annual subscription, I expected premium hardware and customer support. Unfortunately, neither has met that expectation.\n\nIt’s a shame to see what Will Ahmed built come to this. I expected much more from WHOOP.",
-      "subcategory_tags": [
-        "build_quality_perception",
-        "battery_life",
-        "ongoing_disconnects",
-        "crashes_freezes",
-        "support_resolution_quality",
-        "price_value_perception"
       ]
     }
   ],
