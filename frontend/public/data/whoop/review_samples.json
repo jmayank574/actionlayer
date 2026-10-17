@@ -1,6 +1,17 @@
 {
   "pricing_billing": [
     {
+      "review_id": "14673442014",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-10-16T06:27:01-07:00",
+      "text": "Too expensive, I will be getting an Apple Watch   Why pay more than 200 dls for this service.  AI is not accurate.  Very expensive service and not happy with it.",
+      "subcategory_tags": [
+        "price_value_perception",
+        "metric_accuracy"
+      ]
+    },
+    {
       "review_id": "0f171849-4799-4579-8fd6-23ea031298e3",
       "source": "google_play",
       "rating": 1,
@@ -328,21 +339,20 @@
       "subcategory_tags": [
         "price_value_perception"
       ]
-    },
-    {
-      "review_id": "c67d4d27-c4f7-453d-88b8-8b7f67795dad",
-      "source": "google_play",
-      "rating": 2,
-      "date": "2026-09-16T07:21:17+00:00",
-      "text": "the app and watch has been so inconsistent in working i tried to return it however unfortunately due to some issues in my own personal life I missed the threshold for reimbursing my money for the 2 year payment. I have now attempted to use the watch again (as an athlete and performer, I thought it would aid my recovery and fitness/wellness) however unfortunately this second attempt has been just as inconsistent. alot of days there are hours of missing data and often no data is given at all.",
-      "subcategory_tags": [
-        "data_sync_delays",
-        "billing_disputes",
-        "price_value_perception"
-      ]
     }
   ],
   "price_value_perception": [
+    {
+      "review_id": "14673442014",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-10-16T06:27:01-07:00",
+      "text": "Too expensive, I will be getting an Apple Watch   Why pay more than 200 dls for this service.  AI is not accurate.  Very expensive service and not happy with it.",
+      "subcategory_tags": [
+        "price_value_perception",
+        "metric_accuracy"
+      ]
+    },
     {
       "review_id": "0f171849-4799-4579-8fd6-23ea031298e3",
       "source": "google_play",
@@ -671,16 +681,6 @@
       "text": "I continuously need to remove the app and add it back so it updates & allows me to see my daily results. Annoying for any app but one I pay over $300 for? The product and app are trash",
       "subcategory_tags": [
         "crashes_freezes",
-        "price_value_perception"
-      ]
-    },
-    {
-      "review_id": "14521352093",
-      "source": "app_store",
-      "rating": 5,
-      "date": "2026-09-07T06:18:44-07:00",
-      "text": "I’ve had a few different fitness trackers over the years, and WHOOP is the best, for what it does. If you can afford to pay monthly, it’s really helpful on many fronts.",
-      "subcategory_tags": [
         "price_value_perception"
       ]
     }
@@ -1729,6 +1729,38 @@
   ],
   "sleep_tracking": [
     {
+      "review_id": "14665818872",
+      "source": "app_store",
+      "rating": 5,
+      "date": "2026-10-14T07:33:42-07:00",
+      "text": "I’ve been wearing my whoop band for several years now and it’s the best tool for optimizing your sleep and overall health.  Its also led me to quit alcohol completely after seeing how even the slightest amount can wreck my recovery and just how much it impacts my health the next day",
+      "subcategory_tags": [
+        "sleep_satisfaction"
+      ]
+    },
+    {
+      "review_id": "14665394472",
+      "source": "app_store",
+      "rating": 4,
+      "date": "2026-10-14T05:28:49-07:00",
+      "text": "Love Whoop. Great insights. I have the medical grade. Sometimes the updates don’t always makes sense though clearly they are trying to improve it always. I like seeing the patterns of sleep and working out and how much strain I have on a given day. Sometimes confused though that you can get for example a 13 for a workout with weights and by days end a full strain number barely higher ( after a day of working or errands or a few miles walk).  So occasionally the numbers don’t fully jibe with how I feel my day has gone but overall it’s solid.",
+      "subcategory_tags": [
+        "metric_accuracy",
+        "sleep_satisfaction"
+      ]
+    },
+    {
+      "review_id": "14665349640",
+      "source": "app_store",
+      "rating": 5,
+      "date": "2026-10-14T05:14:44-07:00",
+      "text": "Give me detailed sleep data, with accurate sleep times. My Garmin was saying I was only getting 5 hours of sleep when actually I was getting more, plus I didn’t want to wear a watch to bed anymore. The other biometrics are pretty accurate and I use them on my Triathlon training. Awesome product and app",
+      "subcategory_tags": [
+        "sleep_satisfaction",
+        "sleep_accuracy"
+      ]
+    },
+    {
       "review_id": "52bab830-5370-4096-bb7b-60c3f2402984",
       "source": "google_play",
       "rating": 5,
@@ -2026,40 +2058,20 @@
         "ai_reliability_bugs",
         "sleep_accuracy"
       ]
-    },
-    {
-      "review_id": "c9c7aa3b-163f-4ae4-82ec-e384a6842b8b",
-      "source": "google_play",
-      "rating": 3,
-      "date": "2026-09-06T02:07:22+00:00",
-      "text": "Whoop shows me that i m sleeping while I text this message",
-      "subcategory_tags": [
-        "sleep_accuracy"
-      ]
-    },
-    {
-      "review_id": "14514166550",
-      "source": "app_store",
-      "rating": 5,
-      "date": "2026-09-05T09:11:03-07:00",
-      "text": "WHOOP has completely changed how I approach fitness and recovery. The sleep tracking, recovery scores, and strain recommendations give me actionable insights every day. It’s easy to wear, the data is detailed, and it’s helped me improve both performance and consistency.",
-      "subcategory_tags": [
-        "sleep_satisfaction"
-      ]
-    },
-    {
-      "review_id": "14510169827",
-      "source": "app_store",
-      "rating": 5,
-      "date": "2026-09-04T09:14:30-07:00",
-      "text": "i just wish that is tracked naps and the amount of yards i swim.",
-      "subcategory_tags": [
-        "sleep_accuracy",
-        "missing_activity_types"
-      ]
     }
   ],
   "sleep_accuracy": [
+    {
+      "review_id": "14665349640",
+      "source": "app_store",
+      "rating": 5,
+      "date": "2026-10-14T05:14:44-07:00",
+      "text": "Give me detailed sleep data, with accurate sleep times. My Garmin was saying I was only getting 5 hours of sleep when actually I was getting more, plus I didn’t want to wear a watch to bed anymore. The other biometrics are pretty accurate and I use them on my Triathlon training. Awesome product and app",
+      "subcategory_tags": [
+        "sleep_satisfaction",
+        "sleep_accuracy"
+      ]
+    },
     {
       "review_id": "14659418405",
       "source": "app_store",
@@ -2394,21 +2406,41 @@
         "ai_reliability_bugs",
         "sleep_accuracy"
       ]
-    },
-    {
-      "review_id": "14330101752",
-      "source": "app_store",
-      "rating": 2,
-      "date": "2026-07-21T05:16:06-07:00",
-      "text": "Misses workouts, messes up sleep! The AI brain is the size of an acorn that’s been flattened by a 18 wheeler truck!",
-      "subcategory_tags": [
-        "activity_detection",
-        "sleep_accuracy",
-        "ai_reliability_bugs"
-      ]
     }
   ],
   "sleep_satisfaction": [
+    {
+      "review_id": "14665818872",
+      "source": "app_store",
+      "rating": 5,
+      "date": "2026-10-14T07:33:42-07:00",
+      "text": "I’ve been wearing my whoop band for several years now and it’s the best tool for optimizing your sleep and overall health.  Its also led me to quit alcohol completely after seeing how even the slightest amount can wreck my recovery and just how much it impacts my health the next day",
+      "subcategory_tags": [
+        "sleep_satisfaction"
+      ]
+    },
+    {
+      "review_id": "14665394472",
+      "source": "app_store",
+      "rating": 4,
+      "date": "2026-10-14T05:28:49-07:00",
+      "text": "Love Whoop. Great insights. I have the medical grade. Sometimes the updates don’t always makes sense though clearly they are trying to improve it always. I like seeing the patterns of sleep and working out and how much strain I have on a given day. Sometimes confused though that you can get for example a 13 for a workout with weights and by days end a full strain number barely higher ( after a day of working or errands or a few miles walk).  So occasionally the numbers don’t fully jibe with how I feel my day has gone but overall it’s solid.",
+      "subcategory_tags": [
+        "metric_accuracy",
+        "sleep_satisfaction"
+      ]
+    },
+    {
+      "review_id": "14665349640",
+      "source": "app_store",
+      "rating": 5,
+      "date": "2026-10-14T05:14:44-07:00",
+      "text": "Give me detailed sleep data, with accurate sleep times. My Garmin was saying I was only getting 5 hours of sleep when actually I was getting more, plus I didn’t want to wear a watch to bed anymore. The other biometrics are pretty accurate and I use them on my Triathlon training. Awesome product and app",
+      "subcategory_tags": [
+        "sleep_satisfaction",
+        "sleep_accuracy"
+      ]
+    },
     {
       "review_id": "52bab830-5370-4096-bb7b-60c3f2402984",
       "source": "google_play",
@@ -2698,37 +2730,6 @@
       "rating": 5,
       "date": "2026-08-10T07:56:55-07:00",
       "text": "I ended up with a whoop through a research study in 2023 and have been addicted to the data ever since. The sleep recovery information is the most helpful. As a physician, I’ve been able to add about an hour to my sleep schedule just by understanding the trends and tendencies that I probably felt but hadn’t seen in big data form.",
-      "subcategory_tags": [
-        "sleep_satisfaction"
-      ]
-    },
-    {
-      "review_id": "36a353de-e2a5-4658-a1f3-516cf932cc68",
-      "source": "google_play",
-      "rating": 5,
-      "date": "2026-08-09T16:08:56+00:00",
-      "text": "Whoop has been very eye opening for my sleep and exercise habits. it has helped me get direction on improving my health! I would do it again in a heartbeat!",
-      "subcategory_tags": [
-        "sleep_satisfaction"
-      ]
-    },
-    {
-      "review_id": "5ad3391b-fdb7-407a-8268-d93f30797f13",
-      "source": "google_play",
-      "rating": 5,
-      "date": "2026-08-09T14:50:48+00:00",
-      "text": "I’ve been using WHOOP and I’m really impressed with how much insight it gives me into my health and daily performance. The recovery, sleep, strain, and stress tracking are especially useful for understanding how my body is responding to workouts and everyday activities. The app is easy to use, the data is presented clearly, and the personalized recommendations make it easier to build better habits. I also really like the comfortable, lightweight design.",
-      "subcategory_tags": [
-        "sleep_satisfaction",
-        "comfort_fit"
-      ]
-    },
-    {
-      "review_id": "14406315555",
-      "source": "app_store",
-      "rating": 5,
-      "date": "2026-08-09T04:44:43-07:00",
-      "text": "I’ve gone back and forth between different apps and devices to track sleep, recovery, and training strain, and WHOOP has been by far the best experience for me.\n\nThe app is intuitive, user-friendly, and packed with useful data without feeling overwhelming. Like any wearable, not every metric is going to be 100% accurate, and some data occasionally needs context or adjustment. But that’s not really where I see the value.\n\nFor me, WHOOP is most useful for establishing consistent benchmarks, spotting trends over time, and building healthier habits around sleep, recovery, and training. Instead of obsessing over individual numbers, I use the data to make better decisions and understand how my habits affect my performance and recovery.",
       "subcategory_tags": [
         "sleep_satisfaction"
       ]
@@ -4859,6 +4860,18 @@
   ],
   "sync_connectivity": [
     {
+      "review_id": "14672914795",
+      "source": "app_store",
+      "rating": 2,
+      "date": "2026-10-16T03:38:08-07:00",
+      "text": "Whoop doesn’t provide real time data, in some cases is very delayed where you may need to remove it from hand and put it back to wake it up, especially when you exercise. Also,You will need to add manually the Blood Pressure data. If someone is in perimenopause or menopause they should have the option to select bypassing seeing hormonal displays as it makes the screen to crowded if you are not interested or it doesn’t apply to you.",
+      "subcategory_tags": [
+        "data_sync_delays",
+        "ecg_bp_feature_reliability",
+        "personalization_use_case_fit"
+      ]
+    },
+    {
       "review_id": "0f171849-4799-4579-8fd6-23ea031298e3",
       "source": "google_play",
       "rating": 1,
@@ -5184,18 +5197,6 @@
       "text": "Very good, but flawed. The layout and information provided is one of the best designs I've tried. It's easy to correlate actions with consequences in your health. Unfortunately the hardware integration is fundamentally broken. If the whoop can't connect to the phone for several hours it basically stops syncing. This means on most mornings when I wake up I need to repair it with my phone. This is not an issue with any of the other apps/trackers I have, so must be fatal flaw they can't patch.",
       "subcategory_tags": [
         "ongoing_disconnects"
-      ]
-    },
-    {
-      "review_id": "24aea93b-a881-4feb-9856-9372b4658e73",
-      "source": "google_play",
-      "rating": 2,
-      "date": "2026-07-29T11:23:20",
-      "text": "it is kind of fun, but I suspect it makes up data sometimes, and it is really bad at offline data capture. If you're going on a multiday hike out of coverage, Whoop will fail to capture your activities. It needs some work",
-      "subcategory_tags": [
-        "metric_accuracy",
-        "data_sync_delays",
-        "activity_detection"
       ]
     }
   ],
@@ -5872,6 +5873,18 @@
   ],
   "data_sync_delays": [
     {
+      "review_id": "14672914795",
+      "source": "app_store",
+      "rating": 2,
+      "date": "2026-10-16T03:38:08-07:00",
+      "text": "Whoop doesn’t provide real time data, in some cases is very delayed where you may need to remove it from hand and put it back to wake it up, especially when you exercise. Also,You will need to add manually the Blood Pressure data. If someone is in perimenopause or menopause they should have the option to select bypassing seeing hormonal displays as it makes the screen to crowded if you are not interested or it doesn’t apply to you.",
+      "subcategory_tags": [
+        "data_sync_delays",
+        "ecg_bp_feature_reliability",
+        "personalization_use_case_fit"
+      ]
+    },
+    {
       "review_id": "14643940236",
       "source": "app_store",
       "rating": 2,
@@ -6202,20 +6215,30 @@
         "data_sync_delays",
         "price_value_perception"
       ]
-    },
-    {
-      "review_id": "14190563977",
-      "source": "app_store",
-      "rating": 5,
-      "date": "2026-06-16T11:56:11-07:00",
-      "text": "This wearable and app has been a true game changer for me and my husband. It’s only been a month, but we are starting to see the patterns in our behavior and the impact they have on our strain, recovery and sleep. Being a mom of two young girls (infant and toddler), sleep has become my main focus, and my physical performance and mental clarity have been directly correlated to how effective my sleep is. Very happy with the detail of the metrics gathered, love that if my whoop has been worn but hasn’t synched because I didn’t have my phone nearby, all the data is saved and synced later. This has really improved my life, and I hope it does for yours too! Well worth the money! True investment in yourself!",
-      "subcategory_tags": [
-        "sleep_satisfaction",
-        "data_sync_delays"
-      ]
     }
   ],
   "data_accuracy": [
+    {
+      "review_id": "14673442014",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-10-16T06:27:01-07:00",
+      "text": "Too expensive, I will be getting an Apple Watch   Why pay more than 200 dls for this service.  AI is not accurate.  Very expensive service and not happy with it.",
+      "subcategory_tags": [
+        "price_value_perception",
+        "metric_accuracy"
+      ]
+    },
+    {
+      "review_id": "14671501351",
+      "source": "app_store",
+      "rating": 3,
+      "date": "2026-10-15T17:25:41-07:00",
+      "text": "The HR accuracy seems to vary greatly, depending on what sort of activity I’m engaged in.  Cycling is fine.  Running is inconsistent.  Rowing, weight training, and anything else with moving arms is off by 10-40 bpm.",
+      "subcategory_tags": [
+        "metric_accuracy"
+      ]
+    },
     {
       "review_id": "2a8f2281-0d83-4b6b-a004-af0f2019a236",
       "source": "google_play",
@@ -6224,6 +6247,17 @@
       "text": "the tracking device that cant track",
       "subcategory_tags": [
         "metric_accuracy"
+      ]
+    },
+    {
+      "review_id": "14665394472",
+      "source": "app_store",
+      "rating": 4,
+      "date": "2026-10-14T05:28:49-07:00",
+      "text": "Love Whoop. Great insights. I have the medical grade. Sometimes the updates don’t always makes sense though clearly they are trying to improve it always. I like seeing the patterns of sleep and working out and how much strain I have on a given day. Sometimes confused though that you can get for example a 13 for a workout with weights and by days end a full strain number barely higher ( after a day of working or errands or a few miles walk).  So occasionally the numbers don’t fully jibe with how I feel my day has gone but overall it’s solid.",
+      "subcategory_tags": [
+        "metric_accuracy",
+        "sleep_satisfaction"
       ]
     },
     {
@@ -6535,40 +6569,30 @@
         "activity_detection",
         "notification_community_issues"
       ]
-    },
+    }
+  ],
+  "metric_accuracy": [
     {
-      "review_id": "aa2b9bb7-594f-4a3b-ae34-b8cabeb744b5",
-      "source": "google_play",
-      "rating": 4,
-      "date": "2026-08-27T16:11:16+00:00",
-      "text": "Fix the wonky step counting for 5 stars. I walk the exact same path multiple times daily. Each time the step count will vary between 200 and 400 steps. Example, 2,800 steps v. 3,200 steps. In contrast, my Fitbit step counts are within 100 steps each walk. Makes me consider the Fitbit Air",
+      "review_id": "14673442014",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-10-16T06:27:01-07:00",
+      "text": "Too expensive, I will be getting an Apple Watch   Why pay more than 200 dls for this service.  AI is not accurate.  Very expensive service and not happy with it.",
       "subcategory_tags": [
-        "metric_accuracy",
-        "price_value_perception"
-      ]
-    },
-    {
-      "review_id": "c88b2698-043d-4761-98da-7a2152f8e091",
-      "source": "google_play",
-      "rating": 3,
-      "date": "2026-08-27T11:41:18+00:00",
-      "text": "I love the app, but now they have changed the algorithm, and a 40 minute walk results in ZERO strain. It used to be around 4.5. Either you were lying before, or you are lying now. Zero strain should be me sitting on my couch watching Netflix.",
-      "subcategory_tags": [
+        "price_value_perception",
         "metric_accuracy"
       ]
     },
     {
-      "review_id": "14464669627",
+      "review_id": "14671501351",
       "source": "app_store",
-      "rating": 4,
-      "date": "2026-08-23T18:35:15-07:00",
-      "text": "Great idea i hope it can be automated. Have to manually input activities.",
+      "rating": 3,
+      "date": "2026-10-15T17:25:41-07:00",
+      "text": "The HR accuracy seems to vary greatly, depending on what sort of activity I’m engaged in.  Cycling is fine.  Running is inconsistent.  Rowing, weight training, and anything else with moving arms is off by 10-40 bpm.",
       "subcategory_tags": [
-        "activity_detection"
+        "metric_accuracy"
       ]
-    }
-  ],
-  "metric_accuracy": [
+    },
     {
       "review_id": "2a8f2281-0d83-4b6b-a004-af0f2019a236",
       "source": "google_play",
@@ -6577,6 +6601,17 @@
       "text": "the tracking device that cant track",
       "subcategory_tags": [
         "metric_accuracy"
+      ]
+    },
+    {
+      "review_id": "14665394472",
+      "source": "app_store",
+      "rating": 4,
+      "date": "2026-10-14T05:28:49-07:00",
+      "text": "Love Whoop. Great insights. I have the medical grade. Sometimes the updates don’t always makes sense though clearly they are trying to improve it always. I like seeing the patterns of sleep and working out and how much strain I have on a given day. Sometimes confused though that you can get for example a 13 for a workout with weights and by days end a full strain number barely higher ( after a day of working or errands or a few miles walk).  So occasionally the numbers don’t fully jibe with how I feel my day has gone but overall it’s solid.",
+      "subcategory_tags": [
+        "metric_accuracy",
+        "sleep_satisfaction"
       ]
     },
     {
@@ -6885,40 +6920,6 @@
       "subcategory_tags": [
         "metric_accuracy",
         "activity_detection"
-      ]
-    },
-    {
-      "review_id": "14419311797",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-08-12T09:33:40-07:00",
-      "text": "I’m a very active middle aged person who adopted Whoop to track my multitude of activities. I’ve encountered a major problem: Whoop doesn’t accurately measure where most of us live our lives: in HR zones 0-2. For a 5 mile walk in 85*F heat, whoop recorded 150 calories. Why? ‘I wasn’t working hard enough.’ The AI agent was condescending, passive aggressive and deflective. So, if you aren’t regularly pushing yourself often at HR zones 4-5, Whoop is basically useless for you.",
-      "subcategory_tags": [
-        "metric_accuracy",
-        "personalization_use_case_fit",
-        "support_resolution_quality"
-      ]
-    },
-    {
-      "review_id": "14413949076",
-      "source": "app_store",
-      "rating": 5,
-      "date": "2026-08-11T03:01:52-07:00",
-      "text": "I have been wearing in my room for four years now and it just keeps me on track. I love the fact that it tells me if I could work out again basically in my recovery or if I’m overworking myself. But my biggest thing is keeping up with my HRV and my resting heart rate in my sleep. I have worn Fitbit and Garmin and WHOOP is my absolute favorite as far as accuracy.",
-      "subcategory_tags": [
-        "sleep_satisfaction",
-        "metric_accuracy"
-      ]
-    },
-    {
-      "review_id": "14406833950",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-08-09T07:31:46-07:00",
-      "text": "The concept sounds amazing. Monitor your vitals and help you improve performance and health. Other than the strain monitor, the other metrics are questionable at best. And the AI Chatbot, which is supposed to give you advice is utterly useless.. You are way better off to just talk with Claude or ChatGPT then waste your time with Whoop.",
-      "subcategory_tags": [
-        "metric_accuracy",
-        "ai_reliability_bugs"
       ]
     }
   ],
@@ -7289,6 +7290,18 @@
   ],
   "health_signal_reliability": [
     {
+      "review_id": "14672914795",
+      "source": "app_store",
+      "rating": 2,
+      "date": "2026-10-16T03:38:08-07:00",
+      "text": "Whoop doesn’t provide real time data, in some cases is very delayed where you may need to remove it from hand and put it back to wake it up, especially when you exercise. Also,You will need to add manually the Blood Pressure data. If someone is in perimenopause or menopause they should have the option to select bypassing seeing hormonal displays as it makes the screen to crowded if you are not interested or it doesn’t apply to you.",
+      "subcategory_tags": [
+        "data_sync_delays",
+        "ecg_bp_feature_reliability",
+        "personalization_use_case_fit"
+      ]
+    },
+    {
       "review_id": "14626125169",
       "source": "app_store",
       "rating": 5,
@@ -7620,19 +7633,6 @@
         "third_party_integration",
         "ecg_bp_feature_reliability"
       ]
-    },
-    {
-      "review_id": "89593022-f6f2-49cd-b679-7155c27b24fd",
-      "source": "google_play",
-      "rating": 3,
-      "date": "2025-11-20T21:03:03",
-      "text": "overall app is an interesting way to keep track of various biomarkers. heart rate monitor during activities is unacceptable inaccurate (says i am at 140 when I am actually at 100, for example). can't log weightlifting exercises during the activity, so need to remember and log after the fact. does not import android health connect data reliably from Samsung health data and oxilife scale. actual ekg measures are correct and discern heart rhythms accurately. decent beginning, ready for improvement",
-      "subcategory_tags": [
-        "metric_accuracy",
-        "missing_activity_types",
-        "third_party_integration",
-        "ecg_bp_feature_reliability"
-      ]
     }
   ],
   "cardiac_detection_trust": [
@@ -7682,6 +7682,18 @@
     }
   ],
   "ecg_bp_feature_reliability": [
+    {
+      "review_id": "14672914795",
+      "source": "app_store",
+      "rating": 2,
+      "date": "2026-10-16T03:38:08-07:00",
+      "text": "Whoop doesn’t provide real time data, in some cases is very delayed where you may need to remove it from hand and put it back to wake it up, especially when you exercise. Also,You will need to add manually the Blood Pressure data. If someone is in perimenopause or menopause they should have the option to select bypassing seeing hormonal displays as it makes the screen to crowded if you are not interested or it doesn’t apply to you.",
+      "subcategory_tags": [
+        "data_sync_delays",
+        "ecg_bp_feature_reliability",
+        "personalization_use_case_fit"
+      ]
+    },
     {
       "review_id": "14599386541",
       "source": "app_store",
@@ -8018,22 +8030,19 @@
         "sleep_satisfaction",
         "ecg_bp_feature_reliability"
       ]
-    },
-    {
-      "review_id": "5c831123-7af8-4a47-b9ec-eb9ed21b4422",
-      "source": "google_play",
-      "rating": 2,
-      "date": "2025-09-19T23:34:45",
-      "text": "I've been a member for a year now. half with the 4.0 and now with the 5.0 MG. honestly, the only difference is the battery. I have atrial fibrillation and it has detected zero incidents. which is not believable, because I follow up with my doctor and take certain medicine. so it's basically useless. and even doesn't detect my 1+ hour naps... it's actually making me more frustrated! and paid a lot for the MG membership and I do not see any benefits. I even have to put my blood pressure data. lol",
-      "subcategory_tags": [
-        "cardiac_detection_trust",
-        "sleep_accuracy",
-        "price_value_perception",
-        "ecg_bp_feature_reliability"
-      ]
     }
   ],
   "ai_coach": [
+    {
+      "review_id": "14669595485",
+      "source": "app_store",
+      "rating": 5,
+      "date": "2026-10-15T06:47:38-07:00",
+      "text": "Love checking my stats, and my whoop coach helps a lot",
+      "subcategory_tags": [
+        "ai_positive_reception"
+      ]
+    },
     {
       "review_id": "6d935b03-5e38-4724-8d6b-c12af74d9c8f",
       "source": "google_play",
@@ -8356,17 +8365,6 @@
       "text": "I’m really impressed with WHOOP Live. It’s surprisingly accurate, especially considering how little input it requires from me. It seems to understand my activity, recovery, and how I’m feeling with minimal effort on my part. The insights feel relevant and personalized without requiring constant logging. Definitely a feature I’ve been enjoying!",
       "subcategory_tags": [
         "ai_positive_reception"
-      ]
-    },
-    {
-      "review_id": "14450516919",
-      "source": "app_store",
-      "rating": 2,
-      "date": "2026-08-20T04:50:29-07:00",
-      "text": "I think the only thing that really stands out with this tracker is the aging/health span info. There are lots of other devices with screens that could give you some of the same information. Granted, this one is less distracting, and the accuracy is probably better. The AI generated daily outlooks have been incredibly inaccurate lately. I will probably use the device for the remainder of the year and break away before I have to re-up my subscription.",
-      "subcategory_tags": [
-        "ai_reliability_bugs",
-        "price_value_perception"
       ]
     }
   ],
@@ -9047,6 +9045,16 @@
   ],
   "ai_positive_reception": [
     {
+      "review_id": "14669595485",
+      "source": "app_store",
+      "rating": 5,
+      "date": "2026-10-15T06:47:38-07:00",
+      "text": "Love checking my stats, and my whoop coach helps a lot",
+      "subcategory_tags": [
+        "ai_positive_reception"
+      ]
+    },
+    {
       "review_id": "9b45be40-697d-4e0d-8284-624b282a4192",
       "source": "google_play",
       "rating": 5,
@@ -9360,16 +9368,6 @@
         "sleep_satisfaction",
         "ai_positive_reception",
         "price_value_perception"
-      ]
-    },
-    {
-      "review_id": "14201303079",
-      "source": "app_store",
-      "rating": 5,
-      "date": "2026-06-19T06:33:27-07:00",
-      "text": "I’m a nerd when it comes to my health and the data I get from whoop is the best. They keep surprising me too with new features including Whoop AI, which is basically my best friend at this point.",
-      "subcategory_tags": [
-        "ai_positive_reception"
       ]
     }
   ],
@@ -15605,6 +15603,18 @@
   ],
   "feature_requests": [
     {
+      "review_id": "14672914795",
+      "source": "app_store",
+      "rating": 2,
+      "date": "2026-10-16T03:38:08-07:00",
+      "text": "Whoop doesn’t provide real time data, in some cases is very delayed where you may need to remove it from hand and put it back to wake it up, especially when you exercise. Also,You will need to add manually the Blood Pressure data. If someone is in perimenopause or menopause they should have the option to select bypassing seeing hormonal displays as it makes the screen to crowded if you are not interested or it doesn’t apply to you.",
+      "subcategory_tags": [
+        "data_sync_delays",
+        "ecg_bp_feature_reliability",
+        "personalization_use_case_fit"
+      ]
+    },
+    {
       "review_id": "6d935b03-5e38-4724-8d6b-c12af74d9c8f",
       "source": "google_play",
       "rating": 2,
@@ -15925,17 +15935,6 @@
       "text": "I can't live without my WHOOP Call me a geek I'm also on a glp-1 and it helps me track my protein intake.",
       "subcategory_tags": [
         "missing_metrics"
-      ]
-    },
-    {
-      "review_id": "97dd672a-ecc3-4f24-951f-9fbeb849a23b",
-      "source": "google_play",
-      "rating": 5,
-      "date": "2026-09-02T23:20:16+00:00",
-      "text": "Buggy-ness or not, I love this app. Unlike others, I've not used it for much fitness tracking but to manage my ADHD and normally crippling menstrual cycles. In less than 2 months, the coaching is more tailored to my executive dysfunction and has noticeably raised my focused work time. It advises me on handling distractions & to get to bed on time or what to do the next day if I haven't listened. A friend with chronic illness suggested it to me, so it has more to offer besides workout metrics!",
-      "subcategory_tags": [
-        "personalization_use_case_fit",
-        "ai_positive_reception"
       ]
     }
   ],
@@ -16615,6 +16614,18 @@
   ],
   "personalization_use_case_fit": [
     {
+      "review_id": "14672914795",
+      "source": "app_store",
+      "rating": 2,
+      "date": "2026-10-16T03:38:08-07:00",
+      "text": "Whoop doesn’t provide real time data, in some cases is very delayed where you may need to remove it from hand and put it back to wake it up, especially when you exercise. Also,You will need to add manually the Blood Pressure data. If someone is in perimenopause or menopause they should have the option to select bypassing seeing hormonal displays as it makes the screen to crowded if you are not interested or it doesn’t apply to you.",
+      "subcategory_tags": [
+        "data_sync_delays",
+        "ecg_bp_feature_reliability",
+        "personalization_use_case_fit"
+      ]
+    },
+    {
       "review_id": "14664547671",
       "source": "app_store",
       "rating": 1,
@@ -16950,16 +16961,6 @@
         "sleep_accuracy",
         "personalization_use_case_fit",
         "missing_metrics"
-      ]
-    },
-    {
-      "review_id": "14297765671",
-      "source": "app_store",
-      "rating": 5,
-      "date": "2026-07-13T04:48:39-07:00",
-      "text": "Easy to use and great to get honest feedback on overall activities. It’s easy to focus on a single workout, but difficult to get comprehensive information on a full day & night of the things that impact longevity. Listening to what Whoop is saying helps with a balanced approach to health. As a 63 year old, retired and competitive, active person, I love trying to get better and Whoop is a highly accretive factor.",
-      "subcategory_tags": [
-        "personalization_use_case_fit"
       ]
     }
   ],
