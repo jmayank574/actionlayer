@@ -1729,6 +1729,18 @@
   ],
   "sleep_tracking": [
     {
+      "review_id": "14674278892",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-10-16T10:28:52-07:00",
+      "text": "Step counts are off more than before they “improved” step accuracy. The pace of aging analysis is flawed, in that you are not compared to fitness standards, you are compared to yourself. Not helpful.  And don’t get me started on it inability to differentiate between light sleep, and being awake. He seems to think if you are in a prone position, you are asleep.",
+      "subcategory_tags": [
+        "metric_accuracy",
+        "sleep_accuracy",
+        "personalization_use_case_fit"
+      ]
+    },
+    {
       "review_id": "14665818872",
       "source": "app_store",
       "rating": 5,
@@ -2047,20 +2059,21 @@
         "activity_detection",
         "sleep_accuracy"
       ]
-    },
-    {
-      "review_id": "14515985475",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-09-05T20:08:06-07:00",
-      "text": "The AI in whoop absolutely sucks. It will repeatedly ask questions for which you already provided detailed answers. It’s sleep tracker will miss large blocks of sleep time which throws of all recovery stats and which the app/AI use for guidance/coaching. It’s to the point where if I have a basic question google can answer it way better than the whoop AI can. Useless product. Going in the trash.",
-      "subcategory_tags": [
-        "ai_reliability_bugs",
-        "sleep_accuracy"
-      ]
     }
   ],
   "sleep_accuracy": [
+    {
+      "review_id": "14674278892",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-10-16T10:28:52-07:00",
+      "text": "Step counts are off more than before they “improved” step accuracy. The pace of aging analysis is flawed, in that you are not compared to fitness standards, you are compared to yourself. Not helpful.  And don’t get me started on it inability to differentiate between light sleep, and being awake. He seems to think if you are in a prone position, you are asleep.",
+      "subcategory_tags": [
+        "metric_accuracy",
+        "sleep_accuracy",
+        "personalization_use_case_fit"
+      ]
+    },
     {
       "review_id": "14665349640",
       "source": "app_store",
@@ -2394,17 +2407,6 @@
       "subcategory_tags": [
         "sleep_accuracy",
         "metric_accuracy"
-      ]
-    },
-    {
-      "review_id": "14358521151",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-07-28T07:01:55-07:00",
-      "text": "The AI assistant keeps pinging you and incorrectly reads its own data. It consistently contradicts itself. Additionally, the sleep metrics can just ruin your day even if you’re feeling fine.",
-      "subcategory_tags": [
-        "ai_reliability_bugs",
-        "sleep_accuracy"
       ]
     }
   ],
@@ -6219,6 +6221,18 @@
   ],
   "data_accuracy": [
     {
+      "review_id": "14674278892",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-10-16T10:28:52-07:00",
+      "text": "Step counts are off more than before they “improved” step accuracy. The pace of aging analysis is flawed, in that you are not compared to fitness standards, you are compared to yourself. Not helpful.  And don’t get me started on it inability to differentiate between light sleep, and being awake. He seems to think if you are in a prone position, you are asleep.",
+      "subcategory_tags": [
+        "metric_accuracy",
+        "sleep_accuracy",
+        "personalization_use_case_fit"
+      ]
+    },
+    {
       "review_id": "14673442014",
       "source": "app_store",
       "rating": 1,
@@ -6558,20 +6572,21 @@
         "sleep_satisfaction",
         "activity_detection"
       ]
-    },
-    {
-      "review_id": "bb7c406c-f23d-40dc-aaba-deeae1e7d666",
-      "source": "google_play",
-      "rating": 3,
-      "date": "2026-08-30T20:42:54+00:00",
-      "text": "activity detection is very bad lately. it detects walking as an activity and spams you w notifications about you walking to grab a beer. this is ridiculous. and it is also ruining autodetection of some real activities, adding walking before and after session to the detected activity.",
-      "subcategory_tags": [
-        "activity_detection",
-        "notification_community_issues"
-      ]
     }
   ],
   "metric_accuracy": [
+    {
+      "review_id": "14674278892",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-10-16T10:28:52-07:00",
+      "text": "Step counts are off more than before they “improved” step accuracy. The pace of aging analysis is flawed, in that you are not compared to fitness standards, you are compared to yourself. Not helpful.  And don’t get me started on it inability to differentiate between light sleep, and being awake. He seems to think if you are in a prone position, you are asleep.",
+      "subcategory_tags": [
+        "metric_accuracy",
+        "sleep_accuracy",
+        "personalization_use_case_fit"
+      ]
+    },
     {
       "review_id": "14673442014",
       "source": "app_store",
@@ -6909,17 +6924,6 @@
       "text": "During this time, I haven’t been satisfied with the step counter or strain data. There were days when I hadn’t even gotten out of bed yet, but it had already recorded 1,600 steps.",
       "subcategory_tags": [
         "metric_accuracy"
-      ]
-    },
-    {
-      "review_id": "79f09b21-9c9f-452a-85f9-1a1156a346fd",
-      "source": "google_play",
-      "rating": 3,
-      "date": "2026-08-12T19:42:12+00:00",
-      "text": "Since upgrading to the new WHOOP, the changes to the algorithm have made my Strain and calorie data feel completely inaccurate. My calories burned are now around 30% lower than before. Walks sometimes register no Strain, and even after an intense weightlifting session plus 15–20k steps, my calories barely show above BMR. It’s incredibly frustrating and affects my confidence in the overall health data. I really hope WHOOP fixes this soon.",
-      "subcategory_tags": [
-        "metric_accuracy",
-        "activity_detection"
       ]
     }
   ],
@@ -12190,6 +12194,18 @@
   ],
   "ui_ux": [
     {
+      "review_id": "1ea9686c-fb6e-44a6-9911-f5581bbbb3fc",
+      "source": "google_play",
+      "rating": 5,
+      "date": "2026-10-17T16:11:23+00:00",
+      "text": "Love everything being in one place and being able to track my fitness plan. For future updates it would be nice to have macro tracking built in. I understand you integrate with other apps for this purpose but having multiple subscriptions is getting dull in 2026. Also please add a way to manually reorder journal items so I can arrange them from morning to night and log behaviors as I go through my day. Otherwise great app!",
+      "subcategory_tags": [
+        "missing_metrics",
+        "third_party_integration",
+        "feature_ui_friction"
+      ]
+    },
+    {
       "review_id": "5c51884b-66c1-4a15-89f6-bd69e3ab56e0",
       "source": "google_play",
       "rating": 1,
@@ -12511,16 +12527,6 @@
       "subcategory_tags": [
         "feature_ui_friction",
         "ai_autonomy"
-      ]
-    },
-    {
-      "review_id": "68a413df-3331-4aac-b891-a1be4da8c7b3",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2026-08-16T08:20:05+00:00",
-      "text": "I’m honestly tired of fighting with the time sliders in the WHOOP app. This really needs to be fixed. Entering an exact time in the Journal can be surprisingly difficult. For example, I may need to set an action to 12:00, but the slider keeps trying to select 11:30 or 12:30 instead. Please add a simple and precise way to enter the exact time manually, or significantly improve the slider behavior. Something as basic as logging the correct time should not be this frustrating.",
-      "subcategory_tags": [
-        "feature_ui_friction"
       ]
     }
   ],
@@ -13197,6 +13203,18 @@
   ],
   "feature_ui_friction": [
     {
+      "review_id": "1ea9686c-fb6e-44a6-9911-f5581bbbb3fc",
+      "source": "google_play",
+      "rating": 5,
+      "date": "2026-10-17T16:11:23+00:00",
+      "text": "Love everything being in one place and being able to track my fitness plan. For future updates it would be nice to have macro tracking built in. I understand you integrate with other apps for this purpose but having multiple subscriptions is getting dull in 2026. Also please add a way to manually reorder journal items so I can arrange them from morning to night and log behaviors as I go through my day. Otherwise great app!",
+      "subcategory_tags": [
+        "missing_metrics",
+        "third_party_integration",
+        "feature_ui_friction"
+      ]
+    },
+    {
       "review_id": "14645562870",
       "source": "app_store",
       "rating": 3,
@@ -13526,17 +13544,6 @@
       "subcategory_tags": [
         "feature_ui_friction",
         "missing_activity_types"
-      ]
-    },
-    {
-      "review_id": "14233693461",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-06-27T10:49:58-07:00",
-      "text": "Constant crashes and UI design that puts form far above function keeps you from getting bogged down with the annoying bits of your workout, things like moving the weight, moving yourself. Stay distracted by poor QA and you’ll barely break a sweat your next workout!",
-      "subcategory_tags": [
-        "crashes_freezes",
-        "feature_ui_friction"
       ]
     }
   ],
@@ -15603,6 +15610,30 @@
   ],
   "feature_requests": [
     {
+      "review_id": "1ea9686c-fb6e-44a6-9911-f5581bbbb3fc",
+      "source": "google_play",
+      "rating": 5,
+      "date": "2026-10-17T16:11:23+00:00",
+      "text": "Love everything being in one place and being able to track my fitness plan. For future updates it would be nice to have macro tracking built in. I understand you integrate with other apps for this purpose but having multiple subscriptions is getting dull in 2026. Also please add a way to manually reorder journal items so I can arrange them from morning to night and log behaviors as I go through my day. Otherwise great app!",
+      "subcategory_tags": [
+        "missing_metrics",
+        "third_party_integration",
+        "feature_ui_friction"
+      ]
+    },
+    {
+      "review_id": "14674278892",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-10-16T10:28:52-07:00",
+      "text": "Step counts are off more than before they “improved” step accuracy. The pace of aging analysis is flawed, in that you are not compared to fitness standards, you are compared to yourself. Not helpful.  And don’t get me started on it inability to differentiate between light sleep, and being awake. He seems to think if you are in a prone position, you are asleep.",
+      "subcategory_tags": [
+        "metric_accuracy",
+        "sleep_accuracy",
+        "personalization_use_case_fit"
+      ]
+    },
+    {
       "review_id": "14672914795",
       "source": "app_store",
       "rating": 2,
@@ -15914,27 +15945,6 @@
         "crashes_freezes",
         "ai_reliability_bugs",
         "personalization_use_case_fit"
-      ]
-    },
-    {
-      "review_id": "14510169827",
-      "source": "app_store",
-      "rating": 5,
-      "date": "2026-09-04T09:14:30-07:00",
-      "text": "i just wish that is tracked naps and the amount of yards i swim.",
-      "subcategory_tags": [
-        "sleep_accuracy",
-        "missing_activity_types"
-      ]
-    },
-    {
-      "review_id": "ab76eae1-d1f1-463b-b838-6ed19e67f41c",
-      "source": "google_play",
-      "rating": 5,
-      "date": "2026-09-03T05:14:39+00:00",
-      "text": "I can't live without my WHOOP Call me a geek I'm also on a glp-1 and it helps me track my protein intake.",
-      "subcategory_tags": [
-        "missing_metrics"
       ]
     }
   ],
@@ -16274,6 +16284,18 @@
   ],
   "missing_metrics": [
     {
+      "review_id": "1ea9686c-fb6e-44a6-9911-f5581bbbb3fc",
+      "source": "google_play",
+      "rating": 5,
+      "date": "2026-10-17T16:11:23+00:00",
+      "text": "Love everything being in one place and being able to track my fitness plan. For future updates it would be nice to have macro tracking built in. I understand you integrate with other apps for this purpose but having multiple subscriptions is getting dull in 2026. Also please add a way to manually reorder journal items so I can arrange them from morning to night and log behaviors as I go through my day. Otherwise great app!",
+      "subcategory_tags": [
+        "missing_metrics",
+        "third_party_integration",
+        "feature_ui_friction"
+      ]
+    },
+    {
       "review_id": "14639981640",
       "source": "app_store",
       "rating": 2,
@@ -16599,20 +16621,21 @@
         "personalization_use_case_fit",
         "missing_metrics"
       ]
-    },
-    {
-      "review_id": "14285949714",
-      "source": "app_store",
-      "rating": 4,
-      "date": "2026-07-10T05:39:34-07:00",
-      "text": "I’ve been enjoying my WHOOP overall, but there are a couple of features I’d love to see added. First, it would be great if there were a “Find My WHOOP” feature. I’ve had to remove it a few times and I’ve misplaced it and my charger more than once.\nSecond, I think it would be helpful to have an optional display that shows the time. I know WHOOP is designed as a fitness and recovery tracker rather than a traditional watch, but being able to quickly check the time would make it even more convenient.\nI’ve only had my WHOOP since December, so I’m still learning how to interpret all of the data it provides. The insights have been valuable, and I’m continuing to discover new features. Overall, I’m happy with it and look forward to getting even more out of it as I use it longer.",
-      "subcategory_tags": [
-        "missing_metrics",
-        "missing_activity_types"
-      ]
     }
   ],
   "personalization_use_case_fit": [
+    {
+      "review_id": "14674278892",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-10-16T10:28:52-07:00",
+      "text": "Step counts are off more than before they “improved” step accuracy. The pace of aging analysis is flawed, in that you are not compared to fitness standards, you are compared to yourself. Not helpful.  And don’t get me started on it inability to differentiate between light sleep, and being awake. He seems to think if you are in a prone position, you are asleep.",
+      "subcategory_tags": [
+        "metric_accuracy",
+        "sleep_accuracy",
+        "personalization_use_case_fit"
+      ]
+    },
     {
       "review_id": "14672914795",
       "source": "app_store",
@@ -16949,22 +16972,21 @@
         "price_value_perception",
         "billing_disputes"
       ]
-    },
-    {
-      "review_id": "992e472e-3f9f-494f-858e-adb0495c9864",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2026-07-15T17:03:30",
-      "text": "inaccurate & should do better research on women, I replaced the 1st whoop as big difference in counting steps, sleeping time & quality, and detecting me was taking a nap while I was having dinner with my family. the replacement doesn't seem to work well with me also. The app has no function for the women to switch between taking birth control pills and not. when you off the birth control pills, the past data all changed to off birth control pills. and birth control pills have 21 pills & 24 pills",
-      "subcategory_tags": [
-        "metric_accuracy",
-        "sleep_accuracy",
-        "personalization_use_case_fit",
-        "missing_metrics"
-      ]
     }
   ],
   "third_party_integration": [
+    {
+      "review_id": "1ea9686c-fb6e-44a6-9911-f5581bbbb3fc",
+      "source": "google_play",
+      "rating": 5,
+      "date": "2026-10-17T16:11:23+00:00",
+      "text": "Love everything being in one place and being able to track my fitness plan. For future updates it would be nice to have macro tracking built in. I understand you integrate with other apps for this purpose but having multiple subscriptions is getting dull in 2026. Also please add a way to manually reorder journal items so I can arrange them from morning to night and log behaviors as I go through my day. Otherwise great app!",
+      "subcategory_tags": [
+        "missing_metrics",
+        "third_party_integration",
+        "feature_ui_friction"
+      ]
+    },
     {
       "review_id": "14632842048",
       "source": "app_store",
@@ -17287,19 +17309,6 @@
       "date": "2026-03-02T04:16:39-07:00",
       "text": "Whoop has been the single biggest game changer for my health journey to understand what’s happening in my body and how to stay “in the zone”. 50+ lbs down since I started using Whoop about a year ago! My only request is integration with the Hevy app. That would be killer!",
       "subcategory_tags": [
-        "third_party_integration"
-      ]
-    },
-    {
-      "review_id": "cb2e56ec-4592-4619-bc1d-a08604cb8471",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2026-02-27T11:53:38",
-      "text": "HR accuracy is getting worse. Really want to like this. The concept is great, the information is awesome, but the hardware just can't make it happen. Was good initially but seemed to get worse with every firmware update. Really unfortunate. Truly hope it gets better. Will update if it does. Edit: reducing to 1 star. The data is getting worse and worse. The hardware is very finicky and erratic. Edit: Wish it would import gps data instead of needing to track itself. Causes large battery drain.",
-      "subcategory_tags": [
-        "metric_accuracy",
-        "build_quality_perception",
-        "battery_life",
         "third_party_integration"
       ]
     }
