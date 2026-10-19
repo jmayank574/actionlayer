@@ -1,5 +1,18 @@
 [
   {
+    "review_id": "14679716186",
+    "source": "app_store",
+    "rating": 1,
+    "date": "2026-10-17T18:30:43-07:00",
+    "text": "The app continually asks me to refer people in the app, blocking use until I decline. Please stop it.",
+    "parent_category_tags": [
+      "pricing_billing"
+    ],
+    "subcategory_tags": [
+      "upsell_pressure"
+    ]
+  },
+  {
     "review_id": "1ea9686c-fb6e-44a6-9911-f5581bbbb3fc",
     "source": "google_play",
     "rating": 5,
@@ -14,6 +27,19 @@
       "missing_metrics",
       "third_party_integration",
       "feature_ui_friction"
+    ]
+  },
+  {
+    "review_id": "14677498355",
+    "source": "app_store",
+    "rating": 5,
+    "date": "2026-10-17T06:28:00-07:00",
+    "text": "Excellent app and device. Always innovating and listening to customer feedback. Has improved my quality of life.",
+    "parent_category_tags": [
+      "nan"
+    ],
+    "subcategory_tags": [
+      "nan"
     ]
   },
   {

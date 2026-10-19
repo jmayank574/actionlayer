@@ -1,6 +1,16 @@
 {
   "pricing_billing": [
     {
+      "review_id": "14679716186",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-10-17T18:30:43-07:00",
+      "text": "The app continually asks me to refer people in the app, blocking use until I decline. Please stop it.",
+      "subcategory_tags": [
+        "upsell_pressure"
+      ]
+    },
+    {
       "review_id": "14673442014",
       "source": "app_store",
       "rating": 1,
@@ -326,16 +336,6 @@
       "rating": 3,
       "date": "2026-09-19T08:04:14+00:00",
       "text": "Renewal fee is exorbitantly high when compared with equivalent bands.",
-      "subcategory_tags": [
-        "price_value_perception"
-      ]
-    },
-    {
-      "review_id": "a0ac51be-efe1-4690-a895-055b108f91cd",
-      "source": "google_play",
-      "rating": 5,
-      "date": "2026-09-18T07:38:44+00:00",
-      "text": "It's super expensive for it. There are better options at a similar level. Or if you're lucky to get it at a very good discounted price; perfect.",
       "subcategory_tags": [
         "price_value_perception"
       ]
@@ -1385,6 +1385,16 @@
   ],
   "upsell_pressure": [
     {
+      "review_id": "14679716186",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-10-17T18:30:43-07:00",
+      "text": "The app continually asks me to refer people in the app, blocking use until I decline. Please stop it.",
+      "subcategory_tags": [
+        "upsell_pressure"
+      ]
+    },
+    {
       "review_id": "14659418405",
       "source": "app_store",
       "rating": 1,
@@ -1712,17 +1722,6 @@
       "text": "First day using Whoop- all the buttons keep moving and just keeps asking if I want to gift someone a membership. Terrible first impression, let’s see how the device works.",
       "subcategory_tags": [
         "onboarding_pairing",
-        "upsell_pressure"
-      ]
-    },
-    {
-      "review_id": "ad47b003-52fc-4acb-b13d-7c4edc6587aa",
-      "source": "google_play",
-      "rating": 2,
-      "date": "2026-03-15T06:35:47",
-      "text": "AI button overlay is blocking the broadcast heart rate toggle so I cannot enable that. very frustrating.",
-      "subcategory_tags": [
-        "feature_ui_friction",
         "upsell_pressure"
       ]
     }
