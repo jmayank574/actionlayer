@@ -1,5 +1,169 @@
 [
   {
+    "review_id": "14689591077",
+    "source": "app_store",
+    "rating": 5,
+    "date": "2026-10-20T07:39:32-07:00",
+    "text": "Thanks to whoop I know the habits that can help me with my sleep and recovery! Now I am feeling great",
+    "parent_category_tags": [
+      "sleep_tracking"
+    ],
+    "subcategory_tags": [
+      "sleep_satisfaction"
+    ]
+  },
+  {
+    "review_id": "949820ad-124e-48fd-a582-76760a6a1d76",
+    "source": "google_play",
+    "rating": 5,
+    "date": "2026-10-20T10:08:03+00:00",
+    "text": "تحديث الخطوات أفضل بكثير، الدقة تحسنت وبشكل واضح جدًا. البعض ممن اعتاد على الخوارزمية القديمة قد يشتكي ظنًّا منه أنها أسوء، لكن مِن تجربتي هي أحسن بكثير.",
+    "parent_category_tags": [
+      "data_accuracy"
+    ],
+    "subcategory_tags": [
+      "metric_accuracy"
+    ]
+  },
+  {
+    "review_id": "14688470077",
+    "source": "app_store",
+    "rating": 4,
+    "date": "2026-10-20T01:14:18-07:00",
+    "text": "It’s ok still learning how it supports my life",
+    "parent_category_tags": [
+      "nan"
+    ],
+    "subcategory_tags": [
+      "nan"
+    ]
+  },
+  {
+    "review_id": "14688188456",
+    "source": "app_store",
+    "rating": 4,
+    "date": "2026-10-19T23:01:03-07:00",
+    "text": "Creating too much while not needed, understand they want to build loyalty but focus just on sleep and recovery for me it’s what’s matter the most.",
+    "parent_category_tags": [
+      "sleep_tracking",
+      "pricing_billing"
+    ],
+    "subcategory_tags": [
+      "sleep_satisfaction",
+      "upsell_pressure"
+    ]
+  },
+  {
+    "review_id": "14688049140",
+    "source": "app_store",
+    "rating": 5,
+    "date": "2026-10-19T21:53:36-07:00",
+    "text": "I recently upgraded from my 4.0 to the mg and had it for about a month and the battery started to only last for 1 day max. I only sent 2 emails and they had another one at my door in 3 days. AND THEN later on i received a HANDWRITTEN note from a rep apologizing for the inconvenience and wishing me luck. absolutely wonderful",
+    "parent_category_tags": [
+      "hardware_wearability",
+      "customer_support"
+    ],
+    "subcategory_tags": [
+      "battery_life",
+      "support_satisfaction"
+    ]
+  },
+  {
+    "review_id": "14685654820",
+    "source": "app_store",
+    "rating": 5,
+    "date": "2026-10-19T07:18:48-07:00",
+    "text": "I’m a muscle scientist, bodybuilder & physician. I don’t think I really ever ‘got’ the healthspan concepts until I had the feedback on my own recovery.",
+    "parent_category_tags": [
+      "nan"
+    ],
+    "subcategory_tags": [
+      "nan"
+    ]
+  },
+  {
+    "review_id": "14685153453",
+    "source": "app_store",
+    "rating": 5,
+    "date": "2026-10-19T04:45:22-07:00",
+    "text": "I am religiously track my sleep, recovery, and strain. Very helpful to keep my sleep check especially.",
+    "parent_category_tags": [
+      "sleep_tracking"
+    ],
+    "subcategory_tags": [
+      "sleep_satisfaction"
+    ]
+  },
+  {
+    "review_id": "14685072154",
+    "source": "app_store",
+    "rating": 5,
+    "date": "2026-10-19T04:17:31-07:00",
+    "text": "As a die-hard Schmapple Watch wearer, Whoop was the dopamine detox option with added health features. It completely changed my routines. It’s sleep and strain analysis improved my day scheduling, encouraged real rest, and showed when it’s time to push. Vibration alarm clock is an absolute game changer as well. If it told the time I would never wear anything else on my wrist.",
+    "parent_category_tags": [
+      "sleep_tracking"
+    ],
+    "subcategory_tags": [
+      "sleep_satisfaction"
+    ]
+  },
+  {
+    "review_id": "14684980596",
+    "source": "app_store",
+    "rating": 4,
+    "date": "2026-10-19T03:44:25-07:00",
+    "text": "I love this app and I recommend to everyone all the time! The only downsides are the price, like send me some free stuff or something because your margins are probably huge considering what I pay. The strength training tracker is awkward so I don’t use it but would really love to. I’d also like to add my own habits to track even if it can’t give me biofeedback on it I just want the capabilities.",
+    "parent_category_tags": [
+      "pricing_billing",
+      "ui_ux",
+      "feature_requests"
+    ],
+    "subcategory_tags": [
+      "price_value_perception",
+      "feature_ui_friction",
+      "missing_metrics"
+    ]
+  },
+  {
+    "review_id": "14681798159",
+    "source": "app_store",
+    "rating": 5,
+    "date": "2026-10-18T07:27:19-07:00",
+    "text": "Whoop keeps the healthy living conversation going with family and friends through group shares.  It’s the first thing I check in the morning and I moderate behavior based on feedback which  seems to reduce sickness and increase overall wellbeing.",
+    "parent_category_tags": [
+      "nan"
+    ],
+    "subcategory_tags": [
+      "nan"
+    ]
+  },
+  {
+    "review_id": "14681634763",
+    "source": "app_store",
+    "rating": 5,
+    "date": "2026-10-18T06:41:17-07:00",
+    "text": "Keeps me on track! Boom",
+    "parent_category_tags": [
+      "nan"
+    ],
+    "subcategory_tags": [
+      "nan"
+    ]
+  },
+  {
+    "review_id": "14681469603",
+    "source": "app_store",
+    "rating": 5,
+    "date": "2026-10-18T05:53:25-07:00",
+    "text": "Es lo mejor de lo mejor.!",
+    "parent_category_tags": [
+      "nan"
+    ],
+    "subcategory_tags": [
+      "nan"
+    ]
+  },
+  {
     "review_id": "14679716186",
     "source": "app_store",
     "rating": 1,

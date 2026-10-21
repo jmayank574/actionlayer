@@ -1,6 +1,29 @@
 {
   "pricing_billing": [
     {
+      "review_id": "14688188456",
+      "source": "app_store",
+      "rating": 4,
+      "date": "2026-10-19T23:01:03-07:00",
+      "text": "Creating too much while not needed, understand they want to build loyalty but focus just on sleep and recovery for me it’s what’s matter the most.",
+      "subcategory_tags": [
+        "sleep_satisfaction",
+        "upsell_pressure"
+      ]
+    },
+    {
+      "review_id": "14684980596",
+      "source": "app_store",
+      "rating": 4,
+      "date": "2026-10-19T03:44:25-07:00",
+      "text": "I love this app and I recommend to everyone all the time! The only downsides are the price, like send me some free stuff or something because your margins are probably huge considering what I pay. The strength training tracker is awkward so I don’t use it but would really love to. I’d also like to add my own habits to track even if it can’t give me biofeedback on it I just want the capabilities.",
+      "subcategory_tags": [
+        "price_value_perception",
+        "feature_ui_friction",
+        "missing_metrics"
+      ]
+    },
+    {
       "review_id": "14679716186",
       "source": "app_store",
       "rating": 1,
@@ -319,29 +342,21 @@
         "personalization_use_case_fit",
         "price_value_perception"
       ]
-    },
-    {
-      "review_id": "694d2cfc-310c-42ee-bcde-5cb3b410f90a",
-      "source": "google_play",
-      "rating": 4,
-      "date": "2026-09-19T08:11:52+00:00",
-      "text": "Soweit alles gut, ein bisschen teuer vielleicht - falls jemand neu einsteigt: Mit 5571C038 ein Monat frei für uns beide.",
-      "subcategory_tags": [
-        "price_value_perception"
-      ]
-    },
-    {
-      "review_id": "62f44061-3417-45f2-af50-5234011683e2",
-      "source": "google_play",
-      "rating": 3,
-      "date": "2026-09-19T08:04:14+00:00",
-      "text": "Renewal fee is exorbitantly high when compared with equivalent bands.",
-      "subcategory_tags": [
-        "price_value_perception"
-      ]
     }
   ],
   "price_value_perception": [
+    {
+      "review_id": "14684980596",
+      "source": "app_store",
+      "rating": 4,
+      "date": "2026-10-19T03:44:25-07:00",
+      "text": "I love this app and I recommend to everyone all the time! The only downsides are the price, like send me some free stuff or something because your margins are probably huge considering what I pay. The strength training tracker is awkward so I don’t use it but would really love to. I’d also like to add my own habits to track even if it can’t give me biofeedback on it I just want the capabilities.",
+      "subcategory_tags": [
+        "price_value_perception",
+        "feature_ui_friction",
+        "missing_metrics"
+      ]
+    },
     {
       "review_id": "14673442014",
       "source": "app_store",
@@ -671,17 +686,6 @@
         "billing_disputes",
         "price_value_perception",
         "support_responsiveness"
-      ]
-    },
-    {
-      "review_id": "14528799839",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-09-09T04:32:43-07:00",
-      "text": "I continuously need to remove the app and add it back so it updates & allows me to see my daily results. Annoying for any app but one I pay over $300 for? The product and app are trash",
-      "subcategory_tags": [
-        "crashes_freezes",
-        "price_value_perception"
       ]
     }
   ],
@@ -1385,6 +1389,17 @@
   ],
   "upsell_pressure": [
     {
+      "review_id": "14688188456",
+      "source": "app_store",
+      "rating": 4,
+      "date": "2026-10-19T23:01:03-07:00",
+      "text": "Creating too much while not needed, understand they want to build loyalty but focus just on sleep and recovery for me it’s what’s matter the most.",
+      "subcategory_tags": [
+        "sleep_satisfaction",
+        "upsell_pressure"
+      ]
+    },
+    {
       "review_id": "14679716186",
       "source": "app_store",
       "rating": 1,
@@ -1713,20 +1728,50 @@
         "data_sync_delays",
         "upsell_pressure"
       ]
-    },
-    {
-      "review_id": "13882873283",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-03-24T11:51:45-07:00",
-      "text": "First day using Whoop- all the buttons keep moving and just keeps asking if I want to gift someone a membership. Terrible first impression, let’s see how the device works.",
-      "subcategory_tags": [
-        "onboarding_pairing",
-        "upsell_pressure"
-      ]
     }
   ],
   "sleep_tracking": [
+    {
+      "review_id": "14689591077",
+      "source": "app_store",
+      "rating": 5,
+      "date": "2026-10-20T07:39:32-07:00",
+      "text": "Thanks to whoop I know the habits that can help me with my sleep and recovery! Now I am feeling great",
+      "subcategory_tags": [
+        "sleep_satisfaction"
+      ]
+    },
+    {
+      "review_id": "14688188456",
+      "source": "app_store",
+      "rating": 4,
+      "date": "2026-10-19T23:01:03-07:00",
+      "text": "Creating too much while not needed, understand they want to build loyalty but focus just on sleep and recovery for me it’s what’s matter the most.",
+      "subcategory_tags": [
+        "sleep_satisfaction",
+        "upsell_pressure"
+      ]
+    },
+    {
+      "review_id": "14685153453",
+      "source": "app_store",
+      "rating": 5,
+      "date": "2026-10-19T04:45:22-07:00",
+      "text": "I am religiously track my sleep, recovery, and strain. Very helpful to keep my sleep check especially.",
+      "subcategory_tags": [
+        "sleep_satisfaction"
+      ]
+    },
+    {
+      "review_id": "14685072154",
+      "source": "app_store",
+      "rating": 5,
+      "date": "2026-10-19T04:17:31-07:00",
+      "text": "As a die-hard Schmapple Watch wearer, Whoop was the dopamine detox option with added health features. It completely changed my routines. It’s sleep and strain analysis improved my day scheduling, encouraged real rest, and showed when it’s time to push. Vibration alarm clock is an absolute game changer as well. If it told the time I would never wear anything else on my wrist.",
+      "subcategory_tags": [
+        "sleep_satisfaction"
+      ]
+    },
     {
       "review_id": "14674278892",
       "source": "app_store",
@@ -2012,51 +2057,6 @@
       "text": "Whoop has helped me recover better. I didn’t realize I was over training. I have also been able to dial in my sleep schedule after years of poor sleep. Data guides change and shows the results of the changes",
       "subcategory_tags": [
         "sleep_satisfaction"
-      ]
-    },
-    {
-      "review_id": "14530315996",
-      "source": "app_store",
-      "rating": 2,
-      "date": "2026-09-09T12:11:51-07:00",
-      "text": "Been wearing since the beginning of this year and time and time again the whoop will advise me of needing more sleep (length)",
-      "subcategory_tags": [
-        "sleep_accuracy"
-      ]
-    },
-    {
-      "review_id": "14528644288",
-      "source": "app_store",
-      "rating": 5,
-      "date": "2026-09-09T03:39:02-07:00",
-      "text": "The whoop is just a great tool to have if your an athlete but even if you just use it to track your sleep! I’d recommend it to anyone!",
-      "subcategory_tags": [
-        "sleep_satisfaction"
-      ]
-    },
-    {
-      "review_id": "14519069277",
-      "source": "app_store",
-      "rating": 3,
-      "date": "2026-09-06T14:17:04-07:00",
-      "text": "I tried whoop for 6months. I found the actual hardware to be uncomfortable on my wrist. I found the sports band that was $50 to work, but it broke within the 6months. I initially like the tracking bout found that at least 20% of the time it was inaccurate - saying I only got 4hrs of sleep, then took a 3hr nap staring at 2am, or would cut off work outs. Then I would have to manually fix things. I ultimately think the app was pretty good, but combined with the cheap hardware I think this is 3 stars.",
-      "subcategory_tags": [
-        "comfort_fit",
-        "strap_clasp_durability",
-        "sleep_accuracy",
-        "activity_detection",
-        "build_quality_perception"
-      ]
-    },
-    {
-      "review_id": "14517581952",
-      "source": "app_store",
-      "rating": 4,
-      "date": "2026-09-06T06:30:42-07:00",
-      "text": "I have had my whoop for 4 years now.  I like it better than the Fit Bit.  I do wish it tracked my activities better though.  And when I take a nap, it does not automatically register, I have to manually add it. It used to adjust the time they suggest I go to sleep but the past 6 months now for some reason it is not changing the time after I have a nap 🤷🏼‍♀️",
-      "subcategory_tags": [
-        "activity_detection",
-        "sleep_accuracy"
       ]
     }
   ],
@@ -2411,6 +2411,47 @@
   ],
   "sleep_satisfaction": [
     {
+      "review_id": "14689591077",
+      "source": "app_store",
+      "rating": 5,
+      "date": "2026-10-20T07:39:32-07:00",
+      "text": "Thanks to whoop I know the habits that can help me with my sleep and recovery! Now I am feeling great",
+      "subcategory_tags": [
+        "sleep_satisfaction"
+      ]
+    },
+    {
+      "review_id": "14688188456",
+      "source": "app_store",
+      "rating": 4,
+      "date": "2026-10-19T23:01:03-07:00",
+      "text": "Creating too much while not needed, understand they want to build loyalty but focus just on sleep and recovery for me it’s what’s matter the most.",
+      "subcategory_tags": [
+        "sleep_satisfaction",
+        "upsell_pressure"
+      ]
+    },
+    {
+      "review_id": "14685153453",
+      "source": "app_store",
+      "rating": 5,
+      "date": "2026-10-19T04:45:22-07:00",
+      "text": "I am religiously track my sleep, recovery, and strain. Very helpful to keep my sleep check especially.",
+      "subcategory_tags": [
+        "sleep_satisfaction"
+      ]
+    },
+    {
+      "review_id": "14685072154",
+      "source": "app_store",
+      "rating": 5,
+      "date": "2026-10-19T04:17:31-07:00",
+      "text": "As a die-hard Schmapple Watch wearer, Whoop was the dopamine detox option with added health features. It completely changed my routines. It’s sleep and strain analysis improved my day scheduling, encouraged real rest, and showed when it’s time to push. Vibration alarm clock is an absolute game changer as well. If it told the time I would never wear anything else on my wrist.",
+      "subcategory_tags": [
+        "sleep_satisfaction"
+      ]
+    },
+    {
       "review_id": "14665818872",
       "source": "app_store",
       "rating": 5,
@@ -2690,49 +2731,6 @@
         "battery_life",
         "sleep_satisfaction",
         "comfort_fit"
-      ]
-    },
-    {
-      "review_id": "14423078152",
-      "source": "app_store",
-      "rating": 5,
-      "date": "2026-08-13T08:10:52-07:00",
-      "text": "I was someone who was mildly impressed with the Apple Watch and I really didn’t find it functional. I also struggled to charge it and put it back on and there were significant gaps in my data in the day time. Also, tracking sleep was something that was important to me and if I’m wearing my watch in the day and I have to charge it at night, I’m losing all the data. Tracking my menstrual cycle was something that I also wanted to do and when I was gifted WHOOP for my birthday from my boyfriend I put it on and committed incredibly. I now have over 400 days of consistent data. I have been working to decrease my health age while also tracking my cycles with great detail and I will be enrolling in advanced labs in the next year to get my bio markers for any health concerns.",
-      "subcategory_tags": [
-        "sleep_satisfaction",
-        "personalization_use_case_fit",
-        "battery_life"
-      ]
-    },
-    {
-      "review_id": "14414559487",
-      "source": "app_store",
-      "rating": 5,
-      "date": "2026-08-11T06:16:54-07:00",
-      "text": "I learned about WHOOP after watching a video showing professional athletes, wearing it for training and monitoring their physical well-being and performance. I’m in my 70s and focusing on fitness nutrition, but I mainly but the WHOOP to help me sleep better. \nIt gives me suggestions on sleep consistency, and nudges me to take even better care of my body.\nI have not taken it off since I bought it 90 days ago. Lots of data that is relevant to my goals. Ultimately, I hope to live longer and live a better life using WHOOP as one of my tools.",
-      "subcategory_tags": [
-        "sleep_satisfaction"
-      ]
-    },
-    {
-      "review_id": "14413949076",
-      "source": "app_store",
-      "rating": 5,
-      "date": "2026-08-11T03:01:52-07:00",
-      "text": "I have been wearing in my room for four years now and it just keeps me on track. I love the fact that it tells me if I could work out again basically in my recovery or if I’m overworking myself. But my biggest thing is keeping up with my HRV and my resting heart rate in my sleep. I have worn Fitbit and Garmin and WHOOP is my absolute favorite as far as accuracy.",
-      "subcategory_tags": [
-        "sleep_satisfaction",
-        "metric_accuracy"
-      ]
-    },
-    {
-      "review_id": "14410841263",
-      "source": "app_store",
-      "rating": 5,
-      "date": "2026-08-10T07:56:55-07:00",
-      "text": "I ended up with a whoop through a research study in 2023 and have been addicted to the data ever since. The sleep recovery information is the most helpful. As a physician, I’ve been able to add about an hour to my sleep schedule just by understanding the trends and tendencies that I probably felt but hadn’t seen in big data form.",
-      "subcategory_tags": [
-        "sleep_satisfaction"
       ]
     }
   ],
@@ -3088,6 +3086,17 @@
   ],
   "hardware_wearability": [
     {
+      "review_id": "14688049140",
+      "source": "app_store",
+      "rating": 5,
+      "date": "2026-10-19T21:53:36-07:00",
+      "text": "I recently upgraded from my 4.0 to the mg and had it for about a month and the battery started to only last for 1 day max. I only sent 2 emails and they had another one at my door in 3 days. AND THEN later on i received a HANDWRITTEN note from a rep apologizing for the inconvenience and wishing me luck. absolutely wonderful",
+      "subcategory_tags": [
+        "battery_life",
+        "support_satisfaction"
+      ]
+    },
+    {
       "review_id": "14664547671",
       "source": "app_store",
       "rating": 1,
@@ -3429,17 +3438,6 @@
       "subcategory_tags": [
         "data_sync_delays",
         "battery_life"
-      ]
-    },
-    {
-      "review_id": "14306529208",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-07-15T08:10:01-07:00",
-      "text": "Battery dies after 2 days in my whoop 4. The whoop 5 was supposed to be a free upgrade. Switching to google.",
-      "subcategory_tags": [
-        "battery_life",
-        "build_quality_perception"
       ]
     }
   ],
@@ -4149,6 +4147,17 @@
   ],
   "battery_life": [
     {
+      "review_id": "14688049140",
+      "source": "app_store",
+      "rating": 5,
+      "date": "2026-10-19T21:53:36-07:00",
+      "text": "I recently upgraded from my 4.0 to the mg and had it for about a month and the battery started to only last for 1 day max. I only sent 2 emails and they had another one at my door in 3 days. AND THEN later on i received a HANDWRITTEN note from a rep apologizing for the inconvenience and wishing me luck. absolutely wonderful",
+      "subcategory_tags": [
+        "battery_life",
+        "support_satisfaction"
+      ]
+    },
+    {
       "review_id": "14664547671",
       "source": "app_store",
       "rating": 1,
@@ -4484,17 +4493,6 @@
       "date": "2025-12-31T13:33:31-07:00",
       "text": "Battery may show 6,255% charged one minute then 1% the next minute. Obviously glitchy. When charger is applied to charge it, it doesn’t even show as charging so you never know if it’s charging or not.",
       "subcategory_tags": [
-        "battery_life"
-      ]
-    },
-    {
-      "review_id": "bc2c47b6-e491-4209-a46e-bf831aeb8cd3",
-      "source": "google_play",
-      "rating": 3,
-      "date": "2025-12-11T06:32:08",
-      "text": "like it but keeps draining my phone and I have to reinstall it to keep it working. I'm on day 46",
-      "subcategory_tags": [
-        "crashes_freezes",
         "battery_life"
       ]
     }
@@ -6220,6 +6218,16 @@
   ],
   "data_accuracy": [
     {
+      "review_id": "949820ad-124e-48fd-a582-76760a6a1d76",
+      "source": "google_play",
+      "rating": 5,
+      "date": "2026-10-20T10:08:03+00:00",
+      "text": "تحديث الخطوات أفضل بكثير، الدقة تحسنت وبشكل واضح جدًا. البعض ممن اعتاد على الخوارزمية القديمة قد يشتكي ظنًّا منه أنها أسوء، لكن مِن تجربتي هي أحسن بكثير.",
+      "subcategory_tags": [
+        "metric_accuracy"
+      ]
+    },
+    {
       "review_id": "14674278892",
       "source": "app_store",
       "rating": 1,
@@ -6560,20 +6568,19 @@
         "metric_accuracy",
         "price_value_perception"
       ]
-    },
-    {
-      "review_id": "14497552463",
-      "source": "app_store",
-      "rating": 5,
-      "date": "2026-09-01T04:58:22-07:00",
-      "text": "Loving my Whoop!!  Keeps track of my steps, analyzes my sleep & training. It’s helpful with designing workouts on demand. It’s gotten to know my movements so if I forget to start an activity, it will automatically know I’ve started & will process the data anyway.",
-      "subcategory_tags": [
-        "sleep_satisfaction",
-        "activity_detection"
-      ]
     }
   ],
   "metric_accuracy": [
+    {
+      "review_id": "949820ad-124e-48fd-a582-76760a6a1d76",
+      "source": "google_play",
+      "rating": 5,
+      "date": "2026-10-20T10:08:03+00:00",
+      "text": "تحديث الخطوات أفضل بكثير، الدقة تحسنت وبشكل واضح جدًا. البعض ممن اعتاد على الخوارزمية القديمة قد يشتكي ظنًّا منه أنها أسوء، لكن مِن تجربتي هي أحسن بكثير.",
+      "subcategory_tags": [
+        "metric_accuracy"
+      ]
+    },
     {
       "review_id": "14674278892",
       "source": "app_store",
@@ -6913,16 +6920,6 @@
       "subcategory_tags": [
         "metric_accuracy",
         "price_value_perception"
-      ]
-    },
-    {
-      "review_id": "14429516194",
-      "source": "app_store",
-      "rating": 3,
-      "date": "2026-08-14T22:23:45-07:00",
-      "text": "During this time, I haven’t been satisfied with the step counter or strain data. There were days when I hadn’t even gotten out of bed yet, but it had already recorded 1,600 steps.",
-      "subcategory_tags": [
-        "metric_accuracy"
       ]
     }
   ],
@@ -9376,6 +9373,17 @@
   ],
   "customer_support": [
     {
+      "review_id": "14688049140",
+      "source": "app_store",
+      "rating": 5,
+      "date": "2026-10-19T21:53:36-07:00",
+      "text": "I recently upgraded from my 4.0 to the mg and had it for about a month and the battery started to only last for 1 day max. I only sent 2 emails and they had another one at my door in 3 days. AND THEN later on i received a HANDWRITTEN note from a rep apologizing for the inconvenience and wishing me luck. absolutely wonderful",
+      "subcategory_tags": [
+        "battery_life",
+        "support_satisfaction"
+      ]
+    },
+    {
       "review_id": "0f171849-4799-4579-8fd6-23ea031298e3",
       "source": "google_play",
       "rating": 1,
@@ -9726,18 +9734,6 @@
         "support_satisfaction",
         "ai_positive_reception",
         "personalization_use_case_fit"
-      ]
-    },
-    {
-      "review_id": "14426493523",
-      "source": "app_store",
-      "rating": 3,
-      "date": "2026-08-14T05:10:28-07:00",
-      "text": "Unsure why, but lost sleep tracking for 4 days..Took 45 minutes with helpful Customer Service rep to try to resolve…still trying to confirm I’m back connected",
-      "subcategory_tags": [
-        "sleep_accuracy",
-        "data_sync_delays",
-        "support_responsiveness"
       ]
     }
   ],
@@ -10842,6 +10838,17 @@
   ],
   "support_satisfaction": [
     {
+      "review_id": "14688049140",
+      "source": "app_store",
+      "rating": 5,
+      "date": "2026-10-19T21:53:36-07:00",
+      "text": "I recently upgraded from my 4.0 to the mg and had it for about a month and the battery started to only last for 1 day max. I only sent 2 emails and they had another one at my door in 3 days. AND THEN later on i received a HANDWRITTEN note from a rep apologizing for the inconvenience and wishing me luck. absolutely wonderful",
+      "subcategory_tags": [
+        "battery_life",
+        "support_satisfaction"
+      ]
+    },
+    {
       "review_id": "14626078911",
       "source": "app_store",
       "rating": 5,
@@ -11149,16 +11156,6 @@
       "rating": 4,
       "date": "2021-04-13T01:09:34",
       "text": "App is pretty good.... Customer service has been extremely good.",
-      "subcategory_tags": [
-        "support_satisfaction"
-      ]
-    },
-    {
-      "review_id": "9b4654cb-c471-4b7b-bca0-6c8c9b4903a3",
-      "source": "google_play",
-      "rating": 5,
-      "date": "2021-03-29T16:29:51",
-      "text": "Great product, technology and customer service.",
       "subcategory_tags": [
         "support_satisfaction"
       ]
@@ -12193,6 +12190,18 @@
   ],
   "ui_ux": [
     {
+      "review_id": "14684980596",
+      "source": "app_store",
+      "rating": 4,
+      "date": "2026-10-19T03:44:25-07:00",
+      "text": "I love this app and I recommend to everyone all the time! The only downsides are the price, like send me some free stuff or something because your margins are probably huge considering what I pay. The strength training tracker is awkward so I don’t use it but would really love to. I’d also like to add my own habits to track even if it can’t give me biofeedback on it I just want the capabilities.",
+      "subcategory_tags": [
+        "price_value_perception",
+        "feature_ui_friction",
+        "missing_metrics"
+      ]
+    },
+    {
       "review_id": "1ea9686c-fb6e-44a6-9911-f5581bbbb3fc",
       "source": "google_play",
       "rating": 5,
@@ -12515,17 +12524,6 @@
         "notification_community_issues",
         "billing_disputes",
         "price_value_perception"
-      ]
-    },
-    {
-      "review_id": "2a51e99a-ae5a-40c9-b3ec-ff9f4b274857",
-      "source": "google_play",
-      "rating": 2,
-      "date": "2026-08-17T13:51:27+00:00",
-      "text": "whoop rules. i love the product and features but the app has a relentlessly annoying and useless auto rotate feature that pulls up charts you don't want when you inadvertently tip your phone slightly to any angle and then you have to hit a tiny X to get it, but it takes you back to the home screen, not where you were. and the response time in screen rotates is slow. it CANNOT BE DISABLED. I've sent this feedback to devs. maybe they'll read reviews. in the meantime I'll enjoy this frustration",
-      "subcategory_tags": [
-        "feature_ui_friction",
-        "ai_autonomy"
       ]
     }
   ],
@@ -13202,6 +13200,18 @@
   ],
   "feature_ui_friction": [
     {
+      "review_id": "14684980596",
+      "source": "app_store",
+      "rating": 4,
+      "date": "2026-10-19T03:44:25-07:00",
+      "text": "I love this app and I recommend to everyone all the time! The only downsides are the price, like send me some free stuff or something because your margins are probably huge considering what I pay. The strength training tracker is awkward so I don’t use it but would really love to. I’d also like to add my own habits to track even if it can’t give me biofeedback on it I just want the capabilities.",
+      "subcategory_tags": [
+        "price_value_perception",
+        "feature_ui_friction",
+        "missing_metrics"
+      ]
+    },
+    {
       "review_id": "1ea9686c-fb6e-44a6-9911-f5581bbbb3fc",
       "source": "google_play",
       "rating": 5,
@@ -13532,17 +13542,6 @@
       "text": "The workout tracker is not very intuitive. Also why do I have to start, stop, start, stop im between each set 🙄",
       "subcategory_tags": [
         "feature_ui_friction"
-      ]
-    },
-    {
-      "review_id": "14233941572",
-      "source": "app_store",
-      "rating": 2,
-      "date": "2026-06-27T12:12:23-07:00",
-      "text": "App is cool just horrible for tracking an actual workout. You end up having to click the phone way to much and it auto advances to the next set sometimes even when you wanna do another set so you gotta go back and undo. Doesn’t have every workout should let you track a cardio with weight lifting. Needs to just be better the Hevy app is way better for workout tracking",
-      "subcategory_tags": [
-        "feature_ui_friction",
-        "missing_activity_types"
       ]
     }
   ],
@@ -15609,6 +15608,18 @@
   ],
   "feature_requests": [
     {
+      "review_id": "14684980596",
+      "source": "app_store",
+      "rating": 4,
+      "date": "2026-10-19T03:44:25-07:00",
+      "text": "I love this app and I recommend to everyone all the time! The only downsides are the price, like send me some free stuff or something because your margins are probably huge considering what I pay. The strength training tracker is awkward so I don’t use it but would really love to. I’d also like to add my own habits to track even if it can’t give me biofeedback on it I just want the capabilities.",
+      "subcategory_tags": [
+        "price_value_perception",
+        "feature_ui_friction",
+        "missing_metrics"
+      ]
+    },
+    {
       "review_id": "1ea9686c-fb6e-44a6-9911-f5581bbbb3fc",
       "source": "google_play",
       "rating": 5,
@@ -15932,18 +15943,6 @@
         "personalization_use_case_fit",
         "missing_metrics",
         "feature_ui_friction"
-      ]
-    },
-    {
-      "review_id": "92e7e263-3ef5-4d26-91d8-9c5f7283a212",
-      "source": "google_play",
-      "rating": 3,
-      "date": "2026-09-04T20:03:32+00:00",
-      "text": "The software is very unrefined and often lags heavily. It either runs slowly or doesn't work at all. The AI leaves much to be desired: first, it makes mistakes, and second, it processes information very slowly. I am 60 years old with a specific medical history and health issues. Nevertheless, the app stubbornly requires me to reach a strain level of 18.6, even though I started using WHOOP only two weeks ago.",
-      "subcategory_tags": [
-        "crashes_freezes",
-        "ai_reliability_bugs",
-        "personalization_use_case_fit"
       ]
     }
   ],
@@ -16283,6 +16282,18 @@
   ],
   "missing_metrics": [
     {
+      "review_id": "14684980596",
+      "source": "app_store",
+      "rating": 4,
+      "date": "2026-10-19T03:44:25-07:00",
+      "text": "I love this app and I recommend to everyone all the time! The only downsides are the price, like send me some free stuff or something because your margins are probably huge considering what I pay. The strength training tracker is awkward so I don’t use it but would really love to. I’d also like to add my own habits to track even if it can’t give me biofeedback on it I just want the capabilities.",
+      "subcategory_tags": [
+        "price_value_perception",
+        "feature_ui_friction",
+        "missing_metrics"
+      ]
+    },
+    {
       "review_id": "1ea9686c-fb6e-44a6-9911-f5581bbbb3fc",
       "source": "google_play",
       "rating": 5,
@@ -16605,19 +16616,6 @@
       "date": "2026-07-21T16:49:32",
       "text": "it tell you how your mental health is?",
       "subcategory_tags": [
-        "missing_metrics"
-      ]
-    },
-    {
-      "review_id": "992e472e-3f9f-494f-858e-adb0495c9864",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2026-07-15T17:03:30",
-      "text": "inaccurate & should do better research on women, I replaced the 1st whoop as big difference in counting steps, sleeping time & quality, and detecting me was taking a nap while I was having dinner with my family. the replacement doesn't seem to work well with me also. The app has no function for the women to switch between taking birth control pills and not. when you off the birth control pills, the past data all changed to off birth control pills. and birth control pills have 21 pills & 24 pills",
-      "subcategory_tags": [
-        "metric_accuracy",
-        "sleep_accuracy",
-        "personalization_use_case_fit",
         "missing_metrics"
       ]
     }
