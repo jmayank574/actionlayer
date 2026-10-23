@@ -1,6 +1,17 @@
 {
   "pricing_billing": [
     {
+      "review_id": "77c135fb-29c7-487f-b235-bf0cb5b59ab9",
+      "source": "google_play",
+      "rating": 1,
+      "date": "2026-10-22T03:17:34+00:00",
+      "text": "poor step count for such a premium product and app. I have tested manually and with other devices, mobile phone and smart watch and the difference at times reaches up to 50%. This is serious issue for Whoop which must be fixed soon.",
+      "subcategory_tags": [
+        "metric_accuracy",
+        "price_value_perception"
+      ]
+    },
+    {
       "review_id": "14688188456",
       "source": "app_store",
       "rating": 4,
@@ -331,20 +342,20 @@
         "price_value_perception",
         "support_responsiveness"
       ]
-    },
-    {
-      "review_id": "14576374822",
-      "source": "app_store",
-      "rating": 2,
-      "date": "2026-09-21T07:16:24-07:00",
-      "text": "For something that you cannot dial in for your specific lifestyle it’s awfully expensive. I work nights, my workouts are not always the at the same time (sometimes it’s mornings and some sometimes it’s afternoons) it depends on he’s that I work vs sleep. I had an otlrigin whoop years ago and I loved it so I thought I’d buy the new updated version. I wish I had waited for the new Apple Ultra 3 to come out.",
-      "subcategory_tags": [
-        "personalization_use_case_fit",
-        "price_value_perception"
-      ]
     }
   ],
   "price_value_perception": [
+    {
+      "review_id": "77c135fb-29c7-487f-b235-bf0cb5b59ab9",
+      "source": "google_play",
+      "rating": 1,
+      "date": "2026-10-22T03:17:34+00:00",
+      "text": "poor step count for such a premium product and app. I have tested manually and with other devices, mobile phone and smart watch and the difference at times reaches up to 50%. This is serious issue for Whoop which must be fixed soon.",
+      "subcategory_tags": [
+        "metric_accuracy",
+        "price_value_perception"
+      ]
+    },
     {
       "review_id": "14684980596",
       "source": "app_store",
@@ -674,18 +685,6 @@
         "battery_life",
         "support_resolution_quality",
         "price_value_perception"
-      ]
-    },
-    {
-      "review_id": "14529226115",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-09-09T06:40:53-07:00",
-      "text": "Beware of subscription scam. Cool product if you love pissing away money. Customer service sucks.",
-      "subcategory_tags": [
-        "billing_disputes",
-        "price_value_perception",
-        "support_responsiveness"
       ]
     }
   ],
@@ -4859,6 +4858,17 @@
   ],
   "sync_connectivity": [
     {
+      "review_id": "14696700643",
+      "source": "app_store",
+      "rating": 3,
+      "date": "2026-10-22T03:42:44-07:00",
+      "text": "The device has been working fine for about three weeks, but since yesterday it has suddenly started having connectivity issues. I lost hours of data from overnight. The system is inly as good as it is reliable, so hopefully this isn’t the start of bigger problems.",
+      "subcategory_tags": [
+        "ongoing_disconnects",
+        "data_sync_delays"
+      ]
+    },
+    {
       "review_id": "14672914795",
       "source": "app_store",
       "rating": 2,
@@ -5184,16 +5194,6 @@
       "rating": 1,
       "date": "2026-07-31T05:44:53",
       "text": "cant pair it back here after pairing w iphone, tried everything this is rly fristrating the qebsite instructions kot working",
-      "subcategory_tags": [
-        "ongoing_disconnects"
-      ]
-    },
-    {
-      "review_id": "76951661-5545-42ac-8115-71a3cba2f848",
-      "source": "google_play",
-      "rating": 2,
-      "date": "2026-07-30T12:05:20",
-      "text": "Very good, but flawed. The layout and information provided is one of the best designs I've tried. It's easy to correlate actions with consequences in your health. Unfortunately the hardware integration is fundamentally broken. If the whoop can't connect to the phone for several hours it basically stops syncing. This means on most mornings when I wake up I need to repair it with my phone. This is not an issue with any of the other apps/trackers I have, so must be fatal flaw they can't patch.",
       "subcategory_tags": [
         "ongoing_disconnects"
       ]
@@ -5532,6 +5532,17 @@
   ],
   "ongoing_disconnects": [
     {
+      "review_id": "14696700643",
+      "source": "app_store",
+      "rating": 3,
+      "date": "2026-10-22T03:42:44-07:00",
+      "text": "The device has been working fine for about three weeks, but since yesterday it has suddenly started having connectivity issues. I lost hours of data from overnight. The system is inly as good as it is reliable, so hopefully this isn’t the start of bigger problems.",
+      "subcategory_tags": [
+        "ongoing_disconnects",
+        "data_sync_delays"
+      ]
+    },
+    {
       "review_id": "0f171849-4799-4579-8fd6-23ea031298e3",
       "source": "google_play",
       "rating": 1,
@@ -5857,20 +5868,20 @@
         "personalization_use_case_fit",
         "ongoing_disconnects"
       ]
-    },
-    {
-      "review_id": "f6eefe6a-1a28-4266-a6fe-77c11d18da9b",
-      "source": "google_play",
-      "rating": 4,
-      "date": "2025-12-28T01:17:48",
-      "text": "Although the service is expensive the app is amazing and makes the service worthwhile. I only wish the Bluetooth connectivity with the whoop was more consistent. sometimes I have to reboot the device or reconnect the pairing. I hope when I eventually upgrade to the 5.0 this is no longer an issue.",
-      "subcategory_tags": [
-        "price_value_perception",
-        "ongoing_disconnects"
-      ]
     }
   ],
   "data_sync_delays": [
+    {
+      "review_id": "14696700643",
+      "source": "app_store",
+      "rating": 3,
+      "date": "2026-10-22T03:42:44-07:00",
+      "text": "The device has been working fine for about three weeks, but since yesterday it has suddenly started having connectivity issues. I lost hours of data from overnight. The system is inly as good as it is reliable, so hopefully this isn’t the start of bigger problems.",
+      "subcategory_tags": [
+        "ongoing_disconnects",
+        "data_sync_delays"
+      ]
+    },
     {
       "review_id": "14672914795",
       "source": "app_store",
@@ -6203,20 +6214,30 @@
         "sleep_accuracy",
         "data_sync_delays"
       ]
-    },
-    {
-      "review_id": "14204212771",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-06-19T23:56:22-07:00",
-      "text": "I made the mistake of buying into WHOOP.\n\nit simply doesn't work. I wear it. It's connected to Bluetooth. And it tells you it hasn't received any data.\n\nAnd there's nothing you can do. \n\nExcept regret buying this useless app.\n\nWell deserved one stars.\n\nAnd a waste of money",
-      "subcategory_tags": [
-        "data_sync_delays",
-        "price_value_perception"
-      ]
     }
   ],
   "data_accuracy": [
+    {
+      "review_id": "3ec551ea-324d-4041-91a8-67f98c6b7bc1",
+      "source": "google_play",
+      "rating": 1,
+      "date": "2026-10-22T05:47:59+00:00",
+      "text": "Inaccurate changed my data without permission.",
+      "subcategory_tags": [
+        "metric_accuracy"
+      ]
+    },
+    {
+      "review_id": "77c135fb-29c7-487f-b235-bf0cb5b59ab9",
+      "source": "google_play",
+      "rating": 1,
+      "date": "2026-10-22T03:17:34+00:00",
+      "text": "poor step count for such a premium product and app. I have tested manually and with other devices, mobile phone and smart watch and the difference at times reaches up to 50%. This is serious issue for Whoop which must be fixed soon.",
+      "subcategory_tags": [
+        "metric_accuracy",
+        "price_value_perception"
+      ]
+    },
     {
       "review_id": "949820ad-124e-48fd-a582-76760a6a1d76",
       "source": "google_play",
@@ -6545,32 +6566,30 @@
         "billing_disputes",
         "price_value_perception"
       ]
-    },
-    {
-      "review_id": "14509084380",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-09-04T03:55:19-07:00",
-      "text": "Never consistent!! Depending on where it is worn and what activity you are doing. Picks up false stain and activity. Don’t waste your time or money on this device. Garmin is tried and true !!",
-      "subcategory_tags": [
-        "metric_accuracy",
-        "activity_detection",
-        "price_value_perception"
-      ]
-    },
-    {
-      "review_id": "14505238659",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-09-03T04:08:59-07:00",
-      "text": "I was told that Whoop changed their algorithm to help track heart rate better, but since it's done that, it's done a horrible job of tracking my real heart rate. \n\nI compare it against my Apple Watch, which is usually bad, but now I lean on it much more than my Whoop. I can be having a high-intensity interval training session, heart rate skyrocketing, and it doesn't even show me past zone 1. It's pretty ridiculous. \n\nI'm not renewing. This algorithm change messed things up.",
-      "subcategory_tags": [
-        "metric_accuracy",
-        "price_value_perception"
-      ]
     }
   ],
   "metric_accuracy": [
+    {
+      "review_id": "3ec551ea-324d-4041-91a8-67f98c6b7bc1",
+      "source": "google_play",
+      "rating": 1,
+      "date": "2026-10-22T05:47:59+00:00",
+      "text": "Inaccurate changed my data without permission.",
+      "subcategory_tags": [
+        "metric_accuracy"
+      ]
+    },
+    {
+      "review_id": "77c135fb-29c7-487f-b235-bf0cb5b59ab9",
+      "source": "google_play",
+      "rating": 1,
+      "date": "2026-10-22T03:17:34+00:00",
+      "text": "poor step count for such a premium product and app. I have tested manually and with other devices, mobile phone and smart watch and the difference at times reaches up to 50%. This is serious issue for Whoop which must be fixed soon.",
+      "subcategory_tags": [
+        "metric_accuracy",
+        "price_value_perception"
+      ]
+    },
     {
       "review_id": "949820ad-124e-48fd-a582-76760a6a1d76",
       "source": "google_play",
@@ -6898,27 +6917,6 @@
         "metric_accuracy",
         "notification_community_issues",
         "billing_disputes",
-        "price_value_perception"
-      ]
-    },
-    {
-      "review_id": "14441431730",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-08-17T21:41:28-07:00",
-      "text": "Its inaccuracy is a distraction when working out. A reading of 160 bpm then 90 bpm a minute later…terrible.",
-      "subcategory_tags": [
-        "metric_accuracy"
-      ]
-    },
-    {
-      "review_id": "14434639447",
-      "source": "app_store",
-      "rating": 2,
-      "date": "2026-08-16T05:45:21-07:00",
-      "text": "I got this, hoping that the extra data provided would allow me to gain insight onto how to deal with stress. The stress score is really don’t match with how my body feels either physically or mentally. I can have an extremely difficult day at work and it gives me a low stress score. I can have an easy day at work and have a hard workout it gives me a high stress score.\n\nThose two things are very different and how my body feels them. Additionally, the most stressful day at work can have a score of 4.2 and a 30 minute ride at 60% heart rate gives a 4.2 score. Those are extremely different issues. \n\nAlso, it is difficult to understand because the scores don’t really jibe or relate to how you’re feeling. It produces a lot of data, but I’m not sure if it’s actually reliable or accurate so it’s not worth the extra money or commitment to wearing it at night.",
-      "subcategory_tags": [
-        "metric_accuracy",
         "price_value_perception"
       ]
     }
@@ -11163,6 +11161,16 @@
   ],
   "app_stability": [
     {
+      "review_id": "f699e2c3-63c8-4472-b73d-dbc6cc9c8cd3",
+      "source": "google_play",
+      "rating": 2,
+      "date": "2026-10-22T14:07:33+00:00",
+      "text": "I love the product the Whoop delivers. My gripe is that the app itself constantly freezes. If I go to open the app to log something or view something, there is consistently a 50/50 chance of it freezing. Granted, all I have to do to remedy this force stop the app and reopen (until it happens the very next time I open the app) but this is the ONLY app on my phone that does this. would be nice to have it be reliable.",
+      "subcategory_tags": [
+        "crashes_freezes"
+      ]
+    },
+    {
       "review_id": "b8444113-bfce-47de-9d62-f03407aadb30",
       "source": "google_play",
       "rating": 2,
@@ -11491,21 +11499,19 @@
         "support_responsiveness",
         "crashes_freezes"
       ]
-    },
-    {
-      "review_id": "45d54263-92f7-4249-aa6e-85d24be3cc50",
-      "source": "google_play",
-      "rating": 5,
-      "date": "2026-08-01T07:25:19",
-      "text": "Latest bug with Strength Trainer resetting current set when the app goes to background - awful. Also, the small convenient notification widget now disappeared and replaced with a useless \"Workout in progress\" notification when running in the background. Please fix this vibecode.",
-      "subcategory_tags": [
-        "feature_ui_friction",
-        "crashes_freezes",
-        "notification_community_issues"
-      ]
     }
   ],
   "crashes_freezes": [
+    {
+      "review_id": "f699e2c3-63c8-4472-b73d-dbc6cc9c8cd3",
+      "source": "google_play",
+      "rating": 2,
+      "date": "2026-10-22T14:07:33+00:00",
+      "text": "I love the product the Whoop delivers. My gripe is that the app itself constantly freezes. If I go to open the app to log something or view something, there is consistently a 50/50 chance of it freezing. Granted, all I have to do to remedy this force stop the app and reopen (until it happens the very next time I open the app) but this is the ONLY app on my phone that does this. would be nice to have it be reliable.",
+      "subcategory_tags": [
+        "crashes_freezes"
+      ]
+    },
     {
       "review_id": "127969b5-e07f-4aae-bcb5-e20fd9b4eef6",
       "source": "google_play",
@@ -11827,17 +11833,6 @@
       "text": "I love your product. I love your app. But it crashes on me almost every time if I have the app open longer than 2 minutes.",
       "subcategory_tags": [
         "crashes_freezes"
-      ]
-    },
-    {
-      "review_id": "14290900505",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-07-11T10:09:34-07:00",
-      "text": "Love this app, but now it won’t open and won’t update.",
-      "subcategory_tags": [
-        "crashes_freezes",
-        "update_failures"
       ]
     }
   ],

@@ -1,5 +1,87 @@
 [
   {
+    "review_id": "f699e2c3-63c8-4472-b73d-dbc6cc9c8cd3",
+    "source": "google_play",
+    "rating": 2,
+    "date": "2026-10-22T14:07:33+00:00",
+    "text": "I love the product the Whoop delivers. My gripe is that the app itself constantly freezes. If I go to open the app to log something or view something, there is consistently a 50/50 chance of it freezing. Granted, all I have to do to remedy this force stop the app and reopen (until it happens the very next time I open the app) but this is the ONLY app on my phone that does this. would be nice to have it be reliable.",
+    "parent_category_tags": [
+      "app_stability"
+    ],
+    "subcategory_tags": [
+      "crashes_freezes"
+    ]
+  },
+  {
+    "review_id": "14696793449",
+    "source": "app_store",
+    "rating": 5,
+    "date": "2026-10-22T04:14:35-07:00",
+    "text": "I love this. Tracks everything so well vs a Fitbit air.",
+    "parent_category_tags": [
+      "nan"
+    ],
+    "subcategory_tags": [
+      "nan"
+    ]
+  },
+  {
+    "review_id": "14696700643",
+    "source": "app_store",
+    "rating": 3,
+    "date": "2026-10-22T03:42:44-07:00",
+    "text": "The device has been working fine for about three weeks, but since yesterday it has suddenly started having connectivity issues. I lost hours of data from overnight. The system is inly as good as it is reliable, so hopefully this isn’t the start of bigger problems.",
+    "parent_category_tags": [
+      "sync_connectivity",
+      "sync_connectivity"
+    ],
+    "subcategory_tags": [
+      "ongoing_disconnects",
+      "data_sync_delays"
+    ]
+  },
+  {
+    "review_id": "f68c9946-93fd-4b29-9a23-6da4e00280cc",
+    "source": "google_play",
+    "rating": 5,
+    "date": "2026-10-22T06:12:55+00:00",
+    "text": "absolutely love it massive upgrade from my fitbit",
+    "parent_category_tags": [
+      "nan"
+    ],
+    "subcategory_tags": [
+      "nan"
+    ]
+  },
+  {
+    "review_id": "3ec551ea-324d-4041-91a8-67f98c6b7bc1",
+    "source": "google_play",
+    "rating": 1,
+    "date": "2026-10-22T05:47:59+00:00",
+    "text": "Inaccurate changed my data without permission.",
+    "parent_category_tags": [
+      "data_accuracy"
+    ],
+    "subcategory_tags": [
+      "metric_accuracy"
+    ]
+  },
+  {
+    "review_id": "77c135fb-29c7-487f-b235-bf0cb5b59ab9",
+    "source": "google_play",
+    "rating": 1,
+    "date": "2026-10-22T03:17:34+00:00",
+    "text": "poor step count for such a premium product and app. I have tested manually and with other devices, mobile phone and smart watch and the difference at times reaches up to 50%. This is serious issue for Whoop which must be fixed soon.",
+    "parent_category_tags": [
+      "data_accuracy",
+      "pricing_billing"
+    ],
+    "subcategory_tags": [
+      "metric_accuracy",
+      "price_value_perception"
+    ]
+  },
+  {
     "review_id": "14689591077",
     "source": "app_store",
     "rating": 5,
