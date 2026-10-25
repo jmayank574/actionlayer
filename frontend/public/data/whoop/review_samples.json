@@ -1,6 +1,28 @@
 {
   "pricing_billing": [
     {
+      "review_id": "14703363192",
+      "source": "app_store",
+      "rating": 2,
+      "date": "2026-10-23T17:42:41-07:00",
+      "text": "Love the features, loves the tracking and historical data mapping. \n\nNow the bad stuff…. When accessing the iOS app a lot of the text is cut off and you can’t scroll over to see it or flip to landscape mode. Then there’s the constant marketing notifications. Needs work on the dynamic text as I need my iPhone set to enlarge text and it affects my Whoop app display. At this point either fix the issue or issue a full refund.",
+      "subcategory_tags": [
+        "device_rendering_bugs",
+        "upsell_pressure",
+        "billing_disputes"
+      ]
+    },
+    {
+      "review_id": "14702140110",
+      "source": "app_store",
+      "rating": 4,
+      "date": "2026-10-23T10:46:02-07:00",
+      "text": "I think I can get same or better from another brand.",
+      "subcategory_tags": [
+        "price_value_perception"
+      ]
+    },
+    {
       "review_id": "77c135fb-29c7-487f-b235-bf0cb5b59ab9",
       "source": "google_play",
       "rating": 1,
@@ -320,31 +342,19 @@
         "upsell_pressure",
         "missing_metrics"
       ]
-    },
-    {
-      "review_id": "4a2cc4dc-ba82-4c1b-85d5-fe498c447b7f",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2026-09-25T15:20:47+00:00",
-      "text": "I'm glad my subscription ends next year. The quality of the app declined over time. The sliders in the journal are especially jumping all around, barely usable. At the price point of the subscription, this is just unacceptable.",
-      "subcategory_tags": [
-        "feature_ui_friction",
-        "price_value_perception"
-      ]
-    },
-    {
-      "review_id": "4ac7e56a-1b5a-46aa-bfb2-2c15fa2c02c4",
-      "source": "google_play",
-      "rating": 4,
-      "date": "2026-09-22T17:38:33+00:00",
-      "text": "Nice b-day gift, wife started me off with the Life membership but too many features and information, expensive, and unnecessary so i switched to $200 One membership. Still high priced. 4 stars because I like watching my numbers. Zone 0-5 feature is very helpful. For the price I'm paying customer service should be a lot better easier to get a hold of.",
-      "subcategory_tags": [
-        "price_value_perception",
-        "support_responsiveness"
-      ]
     }
   ],
   "price_value_perception": [
+    {
+      "review_id": "14702140110",
+      "source": "app_store",
+      "rating": 4,
+      "date": "2026-10-23T10:46:02-07:00",
+      "text": "I think I can get same or better from another brand.",
+      "subcategory_tags": [
+        "price_value_perception"
+      ]
+    },
     {
       "review_id": "77c135fb-29c7-487f-b235-bf0cb5b59ab9",
       "source": "google_play",
@@ -672,23 +682,21 @@
       "subcategory_tags": [
         "price_value_perception"
       ]
-    },
-    {
-      "review_id": "14535272719",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-09-10T18:35:33-07:00",
-      "text": "This is my 2nd Whoop device and I’ve had nothing but issues from the start. I have the 4.0 and it constantly shows as off-body, no matter where I wear it. The firmware never updates successfully, no matter how hard I try. It never holds a charge. And all I’m ever offered when I talk to customer service is a free extra month or two. It’s gotten so bad that I’ve given up contacting them and now I just use the darn thing as an alarm clock. Useless and expensive for no good reason.",
-      "subcategory_tags": [
-        "data_sync_delays",
-        "update_failures",
-        "battery_life",
-        "support_resolution_quality",
-        "price_value_perception"
-      ]
     }
   ],
   "billing_disputes": [
+    {
+      "review_id": "14703363192",
+      "source": "app_store",
+      "rating": 2,
+      "date": "2026-10-23T17:42:41-07:00",
+      "text": "Love the features, loves the tracking and historical data mapping. \n\nNow the bad stuff…. When accessing the iOS app a lot of the text is cut off and you can’t scroll over to see it or flip to landscape mode. Then there’s the constant marketing notifications. Needs work on the dynamic text as I need my iPhone set to enlarge text and it affects my Whoop app display. At this point either fix the issue or issue a full refund.",
+      "subcategory_tags": [
+        "device_rendering_bugs",
+        "upsell_pressure",
+        "billing_disputes"
+      ]
+    },
     {
       "review_id": "14664547671",
       "source": "app_store",
@@ -1027,19 +1035,6 @@
       "date": "2026-08-10T21:41:50-07:00",
       "text": "I did the one month free trail. Then I went to monthly subscription, and kept it for another month. Now I am trying to cancel my membership and they are trying to charge me for a full year.",
       "subcategory_tags": [
-        "billing_disputes"
-      ]
-    },
-    {
-      "review_id": "682c6f55-0c48-48a1-b8ce-4d9f630ce9a5",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2026-08-08T18:13:35+00:00",
-      "text": "The Whoop wristband is clingly. You can't take it off without it sending annoying messages about your wristband being off, so notifications have to be turned off entirely. Then Whoop processes your data through AI when opening pages and forces its AI slop without a way to opt out. After reaching out to customer service for the first time, I received a clueless AI-generated response. After that, I cancelled my subscription and threw my Whoop wristband in the trash.",
-      "subcategory_tags": [
-        "notification_community_issues",
-        "ai_autonomy",
-        "ai_only_support_channel",
         "billing_disputes"
       ]
     }
@@ -1388,6 +1383,18 @@
   ],
   "upsell_pressure": [
     {
+      "review_id": "14703363192",
+      "source": "app_store",
+      "rating": 2,
+      "date": "2026-10-23T17:42:41-07:00",
+      "text": "Love the features, loves the tracking and historical data mapping. \n\nNow the bad stuff…. When accessing the iOS app a lot of the text is cut off and you can’t scroll over to see it or flip to landscape mode. Then there’s the constant marketing notifications. Needs work on the dynamic text as I need my iPhone set to enlarge text and it affects my Whoop app display. At this point either fix the issue or issue a full refund.",
+      "subcategory_tags": [
+        "device_rendering_bugs",
+        "upsell_pressure",
+        "billing_disputes"
+      ]
+    },
+    {
       "review_id": "14688188456",
       "source": "app_store",
       "rating": 4,
@@ -1715,17 +1722,6 @@
         "redesign_regression",
         "upsell_pressure",
         "notification_community_issues"
-      ]
-    },
-    {
-      "review_id": "13907649445",
-      "source": "app_store",
-      "rating": 3,
-      "date": "2026-03-31T10:17:27-07:00",
-      "text": "Seems to be getting unreliable and not updating properly   If you are trying to get us to upgrade - all you will achieve is subscription cancellation",
-      "subcategory_tags": [
-        "data_sync_delays",
-        "upsell_pressure"
       ]
     }
   ],
@@ -6218,6 +6214,29 @@
   ],
   "data_accuracy": [
     {
+      "review_id": "f2f522d9-2308-4957-997b-b43173e6110b",
+      "source": "google_play",
+      "rating": 5,
+      "date": "2026-10-24T15:21:25+00:00",
+      "text": "fantastic app and band. the longer I use it the more accurate it seems to be. But of course nothing is perfect. my personal issue is that as of late, the last few weeks, it doesn't recognize me walking. Granted, the problem occurs after I've worked out and am walking home. maybe my heart beat hasn't lowered enough to distinguish between the walking and lifting weights. either way it's whatever, I just enter in the info myself. Takes me like 30 secs. so again great job with the app and thanks",
+      "subcategory_tags": [
+        "activity_detection"
+      ]
+    },
+    {
+      "review_id": "14702630668",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-10-23T13:28:11-07:00",
+      "text": "Great product, worked well for 6 months and then started missing events, mis reporting and then changes to the interface.  6 emails to support, received AI patronizing emails, each response was over 24 hours and restated the same solution, which was I must be wearing it incorrectly.  6 months no issues then complete breakdown.  6 emails and no resolution.  Worst customer service ever - they had a great product but after you hook your customers and integrating into their daily life’s you end losing them for life as opposed to having happy customers for life. Don’t blame the AI for poor leadership.",
+      "subcategory_tags": [
+        "metric_accuracy",
+        "ai_only_support_channel",
+        "support_responsiveness",
+        "support_resolution_quality"
+      ]
+    },
+    {
       "review_id": "3ec551ea-324d-4041-91a8-67f98c6b7bc1",
       "source": "google_play",
       "rating": 1,
@@ -6540,35 +6559,22 @@
         "activity_detection",
         "sleep_accuracy"
       ]
-    },
-    {
-      "review_id": "14513233118",
-      "source": "app_store",
-      "rating": 3,
-      "date": "2026-09-05T04:40:29-07:00",
-      "text": "Doesn’t sense and pick up my workout unless I manually start an activity. Other products are more sensitive and do this for you. Not very user friendly making me remember to start an activity and then I have to tend to end the activity and if I forget I get these 23 hour workouts. For the price point this feature shouldn’t be so faulty. Unless fixed I won’t be renewing next year.",
-      "subcategory_tags": [
-        "activity_detection",
-        "price_value_perception"
-      ]
-    },
-    {
-      "review_id": "14509772320",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-09-04T07:21:18-07:00",
-      "text": "Got this band plus 1 year membership with Chase Sapphire Reserve perk. Not even worth the tax I had to pay on this benefit. The most basic feature, counting steps, is wildly inaccurate. So how can I trust anything else coming from this device. The narrative content provided in app is just AI slop and worthless. Battery life is good and recharging while wearing device is cool. These features allow you to wear band almost 24/7 which is nice but the band starts to stink after wearing in the shower a few times (which defeats purpose of having strong battery and charging features). I canceled after giving this 5 months into a 1 year membership. Much happier with cheaper, more accurate fitness band with no subscription fees.",
-      "subcategory_tags": [
-        "metric_accuracy",
-        "ai_reliability_bugs",
-        "battery_life",
-        "comfort_fit",
-        "billing_disputes",
-        "price_value_perception"
-      ]
     }
   ],
   "metric_accuracy": [
+    {
+      "review_id": "14702630668",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-10-23T13:28:11-07:00",
+      "text": "Great product, worked well for 6 months and then started missing events, mis reporting and then changes to the interface.  6 emails to support, received AI patronizing emails, each response was over 24 hours and restated the same solution, which was I must be wearing it incorrectly.  6 months no issues then complete breakdown.  6 emails and no resolution.  Worst customer service ever - they had a great product but after you hook your customers and integrating into their daily life’s you end losing them for life as opposed to having happy customers for life. Don’t blame the AI for poor leadership.",
+      "subcategory_tags": [
+        "metric_accuracy",
+        "ai_only_support_channel",
+        "support_responsiveness",
+        "support_resolution_quality"
+      ]
+    },
     {
       "review_id": "3ec551ea-324d-4041-91a8-67f98c6b7bc1",
       "source": "google_play",
@@ -6906,22 +6912,19 @@
         "missing_activity_types",
         "sleep_satisfaction"
       ]
-    },
-    {
-      "review_id": "14442499498",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-08-18T04:52:00-07:00",
-      "text": "I loved it until I started to realize the data is inaccurate and misleading.  You get what it’s trying to teach you and after a while it can cause you to second guess yourself. I wanted a low tech “watch”that didn’t show notifications on my wrist. Which is this buuut the app bombards you with notifications and requested inputs. So it’s not really a low interaction device. \n\nI would have happily not reviewed this but the canceling process of your membership is predatory and motivated me to write this. \n\nThere are better cheaper competitors.",
-      "subcategory_tags": [
-        "metric_accuracy",
-        "notification_community_issues",
-        "billing_disputes",
-        "price_value_perception"
-      ]
     }
   ],
   "activity_detection": [
+    {
+      "review_id": "f2f522d9-2308-4957-997b-b43173e6110b",
+      "source": "google_play",
+      "rating": 5,
+      "date": "2026-10-24T15:21:25+00:00",
+      "text": "fantastic app and band. the longer I use it the more accurate it seems to be. But of course nothing is perfect. my personal issue is that as of late, the last few weeks, it doesn't recognize me walking. Granted, the problem occurs after I've worked out and am walking home. maybe my heart beat hasn't lowered enough to distinguish between the walking and lifting weights. either way it's whatever, I just enter in the info myself. Takes me like 30 secs. so again great job with the app and thanks",
+      "subcategory_tags": [
+        "activity_detection"
+      ]
+    },
     {
       "review_id": "6d935b03-5e38-4724-8d6b-c12af74d9c8f",
       "source": "google_play",
@@ -7271,18 +7274,6 @@
         "activity_detection",
         "billing_disputes",
         "feature_ui_friction"
-      ]
-    },
-    {
-      "review_id": "14284225480",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-07-09T18:25:11-07:00",
-      "text": "Nothing meaningful has been added to the app in so long. The device constantly logs workouts incorrectly - I just vacuumed and it thought I was weightlifting. This used to be a cutting edge company and now it’s average. This is not worth the exorbitant price tag, and I will not be renewing my subscription.",
-      "subcategory_tags": [
-        "activity_detection",
-        "price_value_perception",
-        "missing_metrics"
       ]
     }
   ],
@@ -9371,6 +9362,19 @@
   ],
   "customer_support": [
     {
+      "review_id": "14702630668",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-10-23T13:28:11-07:00",
+      "text": "Great product, worked well for 6 months and then started missing events, mis reporting and then changes to the interface.  6 emails to support, received AI patronizing emails, each response was over 24 hours and restated the same solution, which was I must be wearing it incorrectly.  6 months no issues then complete breakdown.  6 emails and no resolution.  Worst customer service ever - they had a great product but after you hook your customers and integrating into their daily life’s you end losing them for life as opposed to having happy customers for life. Don’t blame the AI for poor leadership.",
+      "subcategory_tags": [
+        "metric_accuracy",
+        "ai_only_support_channel",
+        "support_responsiveness",
+        "support_resolution_quality"
+      ]
+    },
+    {
       "review_id": "14688049140",
       "source": "app_store",
       "rating": 5,
@@ -9718,24 +9722,22 @@
         "ai_only_support_channel",
         "support_resolution_quality"
       ]
-    },
-    {
-      "review_id": "14426655685",
-      "source": "app_store",
-      "rating": 3,
-      "date": "2026-08-14T05:59:49-07:00",
-      "text": "I love my Whoop band! It helps me to stay motivated and gives me clear insights into my health. The AI is getting better and they are putting a lot of effort into developing the product/app more.\n\nMy main issues are is that I feel like there are multiple features that you would think are basic features for a health device that are missing. For example, I have to track activities twice. Once in the actual activity section and then another time in my daily journal. It seems like the activity section should automatically update the Journal so you don’t have to repeat efforts speaking of the activity section, there are times where it misses the activity that I’m doing, especially low strength, activities like blah, blah blah, remember there are times when I’m sitting on the couch and open my app to 15 potential activity spotted messages. Also, the app doesn’t track basic things like blood oxygen levels throughout the day. Want to see the average lifespan of your battery? Sorry, can’t see that. Wanna ask the AI the average length of your dog walks, running, or other physical activity? Sorry, even though it attracts the data attracts your route, you are unable to see this either. Lastly, all the replacement bands are $100 or more. My band that I have now, which is my original band that I came with, desperately needs to be replaced, but because there are no cost-effective replacement I have yet to pull the trigger.\n\nIt’s not all doom and gloom, though. I love the band, which is fairly comfortable and looks good, the WHOOP support team are very responsive and efficient, who is amazing at giving you daily strained targets that feel accurate and attainable, but still push you for training, and the app does genuinely encourage me to look at it each day, which helps with me staying consistent with my daily goals. I do really like the way. The AI is developing as well, being more responsive and being able to help with setting goals and adjusting goals as necessary based on what’s going on in life. \n\nWell, there are a lot of things that need to be developed or fixed, I would still highly recommend the WHOOP to anybody looking for a Fitness device. The speed at which WHOOP developing their app and product gives me hope that the things that I’m asking for will one day soon be features and overall I really do love my WHOOP band. I would probably recommend it best for those who are already moderately active and looking to bring their fitness to the next level, those looking to track and maintain daily habits, or those who generally want more insights into their health. I do still think that other brands might be better for women looking to track their cycles in fertility, or for those who don’t want to wait for the features that I mentioned above.",
-      "subcategory_tags": [
-        "activity_detection",
-        "missing_metrics",
-        "price_value_perception",
-        "support_satisfaction",
-        "ai_positive_reception",
-        "personalization_use_case_fit"
-      ]
     }
   ],
   "support_responsiveness": [
+    {
+      "review_id": "14702630668",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-10-23T13:28:11-07:00",
+      "text": "Great product, worked well for 6 months and then started missing events, mis reporting and then changes to the interface.  6 emails to support, received AI patronizing emails, each response was over 24 hours and restated the same solution, which was I must be wearing it incorrectly.  6 months no issues then complete breakdown.  6 emails and no resolution.  Worst customer service ever - they had a great product but after you hook your customers and integrating into their daily life’s you end losing them for life as opposed to having happy customers for life. Don’t blame the AI for poor leadership.",
+      "subcategory_tags": [
+        "metric_accuracy",
+        "ai_only_support_channel",
+        "support_responsiveness",
+        "support_resolution_quality"
+      ]
+    },
     {
       "review_id": "b8444113-bfce-47de-9d62-f03407aadb30",
       "source": "google_play",
@@ -10084,21 +10086,22 @@
         "support_responsiveness",
         "support_resolution_quality"
       ]
-    },
-    {
-      "review_id": "6d4e24c3-81e7-4bd6-a15d-d6ad1c1b2145",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2026-05-05T13:03:10",
-      "text": "The Whoop Coach is useless. It provides inaccurate info. After I raised a number of issues and incidents, it deleted the incident log to hide the evidence. It provided incorrect calculations for weight, calories and water intake which would have been harmful if someone followed them. When I raised issues to the Membership Services, they ignored me.",
-      "subcategory_tags": [
-        "ai_reliability_bugs",
-        "metric_accuracy",
-        "support_responsiveness"
-      ]
     }
   ],
   "support_resolution_quality": [
+    {
+      "review_id": "14702630668",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-10-23T13:28:11-07:00",
+      "text": "Great product, worked well for 6 months and then started missing events, mis reporting and then changes to the interface.  6 emails to support, received AI patronizing emails, each response was over 24 hours and restated the same solution, which was I must be wearing it incorrectly.  6 months no issues then complete breakdown.  6 emails and no resolution.  Worst customer service ever - they had a great product but after you hook your customers and integrating into their daily life’s you end losing them for life as opposed to having happy customers for life. Don’t blame the AI for poor leadership.",
+      "subcategory_tags": [
+        "metric_accuracy",
+        "ai_only_support_channel",
+        "support_responsiveness",
+        "support_resolution_quality"
+      ]
+    },
     {
       "review_id": "0f171849-4799-4579-8fd6-23ea031298e3",
       "source": "google_play",
@@ -10446,20 +10449,22 @@
         "sleep_accuracy",
         "support_resolution_quality"
       ]
-    },
-    {
-      "review_id": "14249360457",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-07-01T05:52:19-07:00",
-      "text": "Watch out if you need customer service help because your device doesn’t work correctly… as a life member I’d assume good support but nope.",
-      "subcategory_tags": [
-        "support_responsiveness",
-        "support_resolution_quality"
-      ]
     }
   ],
   "ai_only_support_channel": [
+    {
+      "review_id": "14702630668",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-10-23T13:28:11-07:00",
+      "text": "Great product, worked well for 6 months and then started missing events, mis reporting and then changes to the interface.  6 emails to support, received AI patronizing emails, each response was over 24 hours and restated the same solution, which was I must be wearing it incorrectly.  6 months no issues then complete breakdown.  6 emails and no resolution.  Worst customer service ever - they had a great product but after you hook your customers and integrating into their daily life’s you end losing them for life as opposed to having happy customers for life. Don’t blame the AI for poor leadership.",
+      "subcategory_tags": [
+        "metric_accuracy",
+        "ai_only_support_channel",
+        "support_responsiveness",
+        "support_resolution_quality"
+      ]
+    },
     {
       "review_id": "14664547671",
       "source": "app_store",
@@ -10819,18 +10824,6 @@
         "ai_only_support_channel",
         "support_resolution_quality",
         "data_sync_delays"
-      ]
-    },
-    {
-      "review_id": "13756473261",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-02-16T10:57:41-07:00",
-      "text": "This app is a scam and meant to trick customers into paying for things they don’t want to. There no way to speak to a real person. I had a two years membership and when I tried to cancel they charged my card without my permission. Now I can’t get a response from anyone to help me solve this issue. \nThe reason they do this is because they know the product is not as good as they advertise so they have to trick you into paying for a full year because most people realize it’s a waste of money and want to quit using whoop after a few months. Don’t do it!",
-      "subcategory_tags": [
-        "billing_disputes",
-        "ai_only_support_channel",
-        "price_value_perception"
       ]
     }
   ],
@@ -12185,6 +12178,38 @@
   ],
   "ui_ux": [
     {
+      "review_id": "14703363192",
+      "source": "app_store",
+      "rating": 2,
+      "date": "2026-10-23T17:42:41-07:00",
+      "text": "Love the features, loves the tracking and historical data mapping. \n\nNow the bad stuff…. When accessing the iOS app a lot of the text is cut off and you can’t scroll over to see it or flip to landscape mode. Then there’s the constant marketing notifications. Needs work on the dynamic text as I need my iPhone set to enlarge text and it affects my Whoop app display. At this point either fix the issue or issue a full refund.",
+      "subcategory_tags": [
+        "device_rendering_bugs",
+        "upsell_pressure",
+        "billing_disputes"
+      ]
+    },
+    {
+      "review_id": "14702086943",
+      "source": "app_store",
+      "rating": 4,
+      "date": "2026-10-23T10:29:33-07:00",
+      "text": "We all want the weekly community stats posted, which you took down a few months ago in August 2026.",
+      "subcategory_tags": [
+        "notification_community_issues"
+      ]
+    },
+    {
+      "review_id": "14700849548",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-10-23T04:34:36-07:00",
+      "text": "Layout completely messed up and unusable on iPhone dop",
+      "subcategory_tags": [
+        "device_rendering_bugs"
+      ]
+    },
+    {
       "review_id": "14684980596",
       "source": "app_store",
       "rating": 4,
@@ -12485,40 +12510,6 @@
       "text": "add search option on Start Activities",
       "subcategory_tags": [
         "feature_ui_friction"
-      ]
-    },
-    {
-      "review_id": "14471561674",
-      "source": "app_store",
-      "rating": 3,
-      "date": "2026-08-25T12:46:38-07:00",
-      "text": "The calendar view is not responsive on mainstream models",
-      "subcategory_tags": [
-        "device_rendering_bugs"
-      ]
-    },
-    {
-      "review_id": "3330561f-d9b7-438c-bfdc-30822753515e",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2026-08-19T16:03:22+00:00",
-      "text": "Would probably be 5 stars if there was an option to eliminate the stupid Whoop AI bar from the bottom of the analysis screens. It constantly in the way and makes some info impossible to read. Makes the app a nightmare to use. Someone please fix",
-      "subcategory_tags": [
-        "ai_autonomy",
-        "feature_ui_friction"
-      ]
-    },
-    {
-      "review_id": "14442499498",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-08-18T04:52:00-07:00",
-      "text": "I loved it until I started to realize the data is inaccurate and misleading.  You get what it’s trying to teach you and after a while it can cause you to second guess yourself. I wanted a low tech “watch”that didn’t show notifications on my wrist. Which is this buuut the app bombards you with notifications and requested inputs. So it’s not really a low interaction device. \n\nI would have happily not reviewed this but the canceling process of your membership is predatory and motivated me to write this. \n\nThere are better cheaper competitors.",
-      "subcategory_tags": [
-        "metric_accuracy",
-        "notification_community_issues",
-        "billing_disputes",
-        "price_value_perception"
       ]
     }
   ],
@@ -12872,6 +12863,28 @@
   ],
   "device_rendering_bugs": [
     {
+      "review_id": "14703363192",
+      "source": "app_store",
+      "rating": 2,
+      "date": "2026-10-23T17:42:41-07:00",
+      "text": "Love the features, loves the tracking and historical data mapping. \n\nNow the bad stuff…. When accessing the iOS app a lot of the text is cut off and you can’t scroll over to see it or flip to landscape mode. Then there’s the constant marketing notifications. Needs work on the dynamic text as I need my iPhone set to enlarge text and it affects my Whoop app display. At this point either fix the issue or issue a full refund.",
+      "subcategory_tags": [
+        "device_rendering_bugs",
+        "upsell_pressure",
+        "billing_disputes"
+      ]
+    },
+    {
+      "review_id": "14700849548",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-10-23T04:34:36-07:00",
+      "text": "Layout completely messed up and unusable on iPhone dop",
+      "subcategory_tags": [
+        "device_rendering_bugs"
+      ]
+    },
+    {
       "review_id": "606eb9e6-15e1-4b59-993e-4731cd3278d0",
       "source": "google_play",
       "rating": 1,
@@ -13167,28 +13180,6 @@
       "date": "2025-10-13T12:00:36",
       "text": "Many UI issues on modern phones like the Pixel 10. some items are off the screen and unclickable.",
       "subcategory_tags": [
-        "device_rendering_bugs"
-      ]
-    },
-    {
-      "review_id": "946f9f3b-2920-4fbb-b1e5-5614c5e9cdda",
-      "source": "google_play",
-      "rating": 3,
-      "date": "2025-10-08T18:32:58",
-      "text": "Find the AI \"coach\" obnoxious and unusably slow, and it's never told me anything useful or novel. Not particularly comfortable with my health data being fed to an LLM. My biggest issue is the uh, landscape mode? Turning my auto rotation on is a pain, I usually have to back out of the app and spin my phone around like an idiot for a few minutes for it to finally show me my daily HR chart. I wish it was just a button like everything else.",
-      "subcategory_tags": [
-        "ai_reliability_bugs",
-        "device_rendering_bugs"
-      ]
-    },
-    {
-      "review_id": "f662f56c-d286-4ebd-9b3b-af59d6ef9c81",
-      "source": "google_play",
-      "rating": 3,
-      "date": "2025-09-29T10:37:35",
-      "text": "I’m writing to share some feedback regarding your app, which I’ve been trying out on my Android device, the Galaxy Fold7 and S24 Iltra Specifically, I’ve noticed that the chat section doesn’t display my friends’ comments at all. Even after testing and reinstalling the app, the issue persists.",
-      "subcategory_tags": [
-        "notification_community_issues",
         "device_rendering_bugs"
       ]
     }
@@ -13542,6 +13533,16 @@
   ],
   "notification_community_issues": [
     {
+      "review_id": "14702086943",
+      "source": "app_store",
+      "rating": 4,
+      "date": "2026-10-23T10:29:33-07:00",
+      "text": "We all want the weekly community stats posted, which you took down a few months ago in August 2026.",
+      "subcategory_tags": [
+        "notification_community_issues"
+      ]
+    },
+    {
       "review_id": "5c51884b-66c1-4a15-89f6-bd69e3ab56e0",
       "source": "google_play",
       "rating": 1,
@@ -13867,16 +13868,6 @@
       "subcategory_tags": [
         "redesign_regression",
         "upsell_pressure",
-        "notification_community_issues"
-      ]
-    },
-    {
-      "review_id": "c0f53c9b-ae88-436f-b5a2-eaad3b87070f",
-      "source": "google_play",
-      "rating": 4,
-      "date": "2026-04-02T13:28:46",
-      "text": "I love everything about my whoop. One star off because my goodness... I see all these chat notifications for the communities I'm in but I don't get to see them in the chat when I open the app. 😢",
-      "subcategory_tags": [
         "notification_community_issues"
       ]
     }

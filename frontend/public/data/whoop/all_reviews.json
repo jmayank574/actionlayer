@@ -1,5 +1,93 @@
 [
   {
+    "review_id": "f2f522d9-2308-4957-997b-b43173e6110b",
+    "source": "google_play",
+    "rating": 5,
+    "date": "2026-10-24T15:21:25+00:00",
+    "text": "fantastic app and band. the longer I use it the more accurate it seems to be. But of course nothing is perfect. my personal issue is that as of late, the last few weeks, it doesn't recognize me walking. Granted, the problem occurs after I've worked out and am walking home. maybe my heart beat hasn't lowered enough to distinguish between the walking and lifting weights. either way it's whatever, I just enter in the info myself. Takes me like 30 secs. so again great job with the app and thanks",
+    "parent_category_tags": [
+      "data_accuracy"
+    ],
+    "subcategory_tags": [
+      "activity_detection"
+    ]
+  },
+  {
+    "review_id": "14703363192",
+    "source": "app_store",
+    "rating": 2,
+    "date": "2026-10-23T17:42:41-07:00",
+    "text": "Love the features, loves the tracking and historical data mapping. \n\nNow the bad stuff…. When accessing the iOS app a lot of the text is cut off and you can’t scroll over to see it or flip to landscape mode. Then there’s the constant marketing notifications. Needs work on the dynamic text as I need my iPhone set to enlarge text and it affects my Whoop app display. At this point either fix the issue or issue a full refund.",
+    "parent_category_tags": [
+      "ui_ux",
+      "pricing_billing",
+      "pricing_billing"
+    ],
+    "subcategory_tags": [
+      "device_rendering_bugs",
+      "upsell_pressure",
+      "billing_disputes"
+    ]
+  },
+  {
+    "review_id": "14702630668",
+    "source": "app_store",
+    "rating": 1,
+    "date": "2026-10-23T13:28:11-07:00",
+    "text": "Great product, worked well for 6 months and then started missing events, mis reporting and then changes to the interface.  6 emails to support, received AI patronizing emails, each response was over 24 hours and restated the same solution, which was I must be wearing it incorrectly.  6 months no issues then complete breakdown.  6 emails and no resolution.  Worst customer service ever - they had a great product but after you hook your customers and integrating into their daily life’s you end losing them for life as opposed to having happy customers for life. Don’t blame the AI for poor leadership.",
+    "parent_category_tags": [
+      "data_accuracy",
+      "customer_support",
+      "customer_support",
+      "customer_support"
+    ],
+    "subcategory_tags": [
+      "metric_accuracy",
+      "ai_only_support_channel",
+      "support_responsiveness",
+      "support_resolution_quality"
+    ]
+  },
+  {
+    "review_id": "14702140110",
+    "source": "app_store",
+    "rating": 4,
+    "date": "2026-10-23T10:46:02-07:00",
+    "text": "I think I can get same or better from another brand.",
+    "parent_category_tags": [
+      "pricing_billing"
+    ],
+    "subcategory_tags": [
+      "price_value_perception"
+    ]
+  },
+  {
+    "review_id": "14702086943",
+    "source": "app_store",
+    "rating": 4,
+    "date": "2026-10-23T10:29:33-07:00",
+    "text": "We all want the weekly community stats posted, which you took down a few months ago in August 2026.",
+    "parent_category_tags": [
+      "ui_ux"
+    ],
+    "subcategory_tags": [
+      "notification_community_issues"
+    ]
+  },
+  {
+    "review_id": "14700849548",
+    "source": "app_store",
+    "rating": 1,
+    "date": "2026-10-23T04:34:36-07:00",
+    "text": "Layout completely messed up and unusable on iPhone dop",
+    "parent_category_tags": [
+      "ui_ux"
+    ],
+    "subcategory_tags": [
+      "device_rendering_bugs"
+    ]
+  },
+  {
     "review_id": "f699e2c3-63c8-4472-b73d-dbc6cc9c8cd3",
     "source": "google_play",
     "rating": 2,
