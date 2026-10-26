@@ -1,42 +1,42 @@
 # WHOOP review dataset
 
-Generated 2026-10-25T16:59:54.988286
+Generated 2026-10-26T19:04:42.144825
 
 Every row below came from a live Google Play or Apple App Store response — nothing in this dataset is model-generated, inferred, or backfilled. Counts reflect exactly what each source returned.
 
 ## Since last pull
 
-- New reviews: **6**
+- New reviews: **4**
 - Edited since last seen: 0
-- Returned again, unchanged: 3403
-- Carried over from a prior pull (not returned this time, e.g. aged out of Apple's ~500-review RSS window): 316
+- Returned again, unchanged: 3406
+- Carried over from a prior pull (not returned this time, e.g. aged out of Apple's ~500-review RSS window): 319
 
 ## By source
 
 ### google_play
 
-- Total reviews: **2974**
-- Date range: 2017-08-25T20:34:31 to 2026-10-24T15:21:25
-- Rating distribution: 1★: 1123 | 2★: 374 | 3★: 330 | 4★: 281 | 5★: 866
+- Total reviews: **2976**
+- Date range: 2017-08-25T20:34:31 to 2026-10-24T23:42:18
+- Rating distribution: 1★: 1123 | 2★: 375 | 3★: 330 | 4★: 281 | 5★: 867
 - Average review length: 37.8 words
 
 ### app_store
 
-- Total reviews: **751**
-- Date range: 2025-11-17T19:06:49 to 2026-10-23T17:42:41
-- Rating distribution: 1★: 217 | 2★: 64 | 3★: 69 | 4★: 77 | 5★: 324
+- Total reviews: **753**
+- Date range: 2025-11-17T19:06:49 to 2026-10-24T07:43:42
+- Rating distribution: 1★: 218 | 2★: 64 | 3★: 69 | 4★: 77 | 5★: 325
 - Average review length: 52.7 words
 
 ## Combined
 
-- Total reviews: **3725**
-- Date range: 2017-08-25T20:34:31 to 2026-10-24T15:21:25
-- Rating distribution: 1★: 1340 | 2★: 438 | 3★: 399 | 4★: 358 | 5★: 1190
+- Total reviews: **3729**
+- Date range: 2017-08-25T20:34:31 to 2026-10-24T23:42:18
+- Rating distribution: 1★: 1341 | 2★: 439 | 3★: 399 | 4★: 358 | 5★: 1192
 - Average review length: 40.8 words
 
 ## Filtering applied
 
-- Dropped as empty/near-empty (<5 words): 494
+- Dropped as empty/near-empty (<5 words): 495
 - Dropped as duplicates (same review_id + text): 0
 - No filtering by rating, sentiment, or topic — this is the full unfiltered distribution, 5-star reviews included.
 
