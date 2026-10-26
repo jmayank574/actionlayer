@@ -1,6 +1,19 @@
 {
   "pricing_billing": [
     {
+      "review_id": "b977b702-19c0-4648-ac69-9800c548d47c",
+      "source": "google_play",
+      "rating": 2,
+      "date": "2026-10-24T19:11:44+00:00",
+      "text": "★★☆☆☆ After nearly a year with WHOOP, I'm disappointed. Before CPAP, it frequently recorded only 1–2 hours of sleep or missed entire nights. Step counts were inaccurate compared with a pedometer and treadmill. Heart rate was 12 bpm above manual checks, and resting HR was often 10–15 bpm above my Sleep Number bed. Its recovery algorithm doesn't adequately account for sleep disorders or individual circumstances. For the subscription price, I expect more reliable measurements.",
+      "subcategory_tags": [
+        "sleep_accuracy",
+        "metric_accuracy",
+        "personalization_use_case_fit",
+        "price_value_perception"
+      ]
+    },
+    {
       "review_id": "14703363192",
       "source": "app_store",
       "rating": 2,
@@ -331,20 +344,22 @@
         "price_value_perception",
         "missing_metrics"
       ]
-    },
-    {
-      "review_id": "14595044390",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-09-26T03:17:11-07:00",
-      "text": "You can't remove all the ridiculous banner ads, and I can't just look at my heartbeat continually, on demand. Terrible app. I through by brand new device in the trash. \nIntrusive banners you can't hide: \n- “First Week with WHOOP” - no way to hide banner \n- Refer & Earn banners (multiple) \n- Share a Free Trial banners (I'm not marketing your stupid app) \n- Shop / Shop All Accessories\n- Gift a Membership (I'm not your marketing department)\n- Extend Membership (I already paid for a year)\n- Stress Monitor - can't disable and I could care less about a meaningless made up score",
-      "subcategory_tags": [
-        "upsell_pressure",
-        "missing_metrics"
-      ]
     }
   ],
   "price_value_perception": [
+    {
+      "review_id": "b977b702-19c0-4648-ac69-9800c548d47c",
+      "source": "google_play",
+      "rating": 2,
+      "date": "2026-10-24T19:11:44+00:00",
+      "text": "★★☆☆☆ After nearly a year with WHOOP, I'm disappointed. Before CPAP, it frequently recorded only 1–2 hours of sleep or missed entire nights. Step counts were inaccurate compared with a pedometer and treadmill. Heart rate was 12 bpm above manual checks, and resting HR was often 10–15 bpm above my Sleep Number bed. Its recovery algorithm doesn't adequately account for sleep disorders or individual circumstances. For the subscription price, I expect more reliable measurements.",
+      "subcategory_tags": [
+        "sleep_accuracy",
+        "metric_accuracy",
+        "personalization_use_case_fit",
+        "price_value_perception"
+      ]
+    },
     {
       "review_id": "14702140110",
       "source": "app_store",
@@ -669,16 +684,6 @@
       "rating": 5,
       "date": "2026-09-11T08:27:21-07:00",
       "text": "its all good, but the PRICE is what kick me out!!",
-      "subcategory_tags": [
-        "price_value_perception"
-      ]
-    },
-    {
-      "review_id": "14536497450",
-      "source": "app_store",
-      "rating": 5,
-      "date": "2026-09-11T03:36:05-07:00",
-      "text": "I think that this is best fitness tracker out there. Despite what people say. The money you pay for the subscription is worth. I have seen other fitness trackers out there some may come close, but there is always something that Whoop does that I like better that makes me stay.",
       "subcategory_tags": [
         "price_value_perception"
       ]
@@ -1727,6 +1732,19 @@
   ],
   "sleep_tracking": [
     {
+      "review_id": "b977b702-19c0-4648-ac69-9800c548d47c",
+      "source": "google_play",
+      "rating": 2,
+      "date": "2026-10-24T19:11:44+00:00",
+      "text": "★★☆☆☆ After nearly a year with WHOOP, I'm disappointed. Before CPAP, it frequently recorded only 1–2 hours of sleep or missed entire nights. Step counts were inaccurate compared with a pedometer and treadmill. Heart rate was 12 bpm above manual checks, and resting HR was often 10–15 bpm above my Sleep Number bed. Its recovery algorithm doesn't adequately account for sleep disorders or individual circumstances. For the subscription price, I expect more reliable measurements.",
+      "subcategory_tags": [
+        "sleep_accuracy",
+        "metric_accuracy",
+        "personalization_use_case_fit",
+        "price_value_perception"
+      ]
+    },
+    {
       "review_id": "14689591077",
       "source": "app_store",
       "rating": 5,
@@ -2043,19 +2061,22 @@
         "data_sync_delays",
         "sleep_accuracy"
       ]
-    },
-    {
-      "review_id": "14532558182",
-      "source": "app_store",
-      "rating": 5,
-      "date": "2026-09-10T03:27:40-07:00",
-      "text": "Whoop has helped me recover better. I didn’t realize I was over training. I have also been able to dial in my sleep schedule after years of poor sleep. Data guides change and shows the results of the changes",
-      "subcategory_tags": [
-        "sleep_satisfaction"
-      ]
     }
   ],
   "sleep_accuracy": [
+    {
+      "review_id": "b977b702-19c0-4648-ac69-9800c548d47c",
+      "source": "google_play",
+      "rating": 2,
+      "date": "2026-10-24T19:11:44+00:00",
+      "text": "★★☆☆☆ After nearly a year with WHOOP, I'm disappointed. Before CPAP, it frequently recorded only 1–2 hours of sleep or missed entire nights. Step counts were inaccurate compared with a pedometer and treadmill. Heart rate was 12 bpm above manual checks, and resting HR was often 10–15 bpm above my Sleep Number bed. Its recovery algorithm doesn't adequately account for sleep disorders or individual circumstances. For the subscription price, I expect more reliable measurements.",
+      "subcategory_tags": [
+        "sleep_accuracy",
+        "metric_accuracy",
+        "personalization_use_case_fit",
+        "price_value_perception"
+      ]
+    },
     {
       "review_id": "14674278892",
       "source": "app_store",
@@ -2390,17 +2411,6 @@
         "sleep_accuracy",
         "billing_disputes",
         "ai_reliability_bugs"
-      ]
-    },
-    {
-      "review_id": "14385199016",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-08-03T20:04:21-07:00",
-      "text": "Inaccurate readings. Doesn’t recognize and process sleep accurately. Heart rate is hit or miss during a workout.",
-      "subcategory_tags": [
-        "sleep_accuracy",
-        "metric_accuracy"
       ]
     }
   ],
@@ -6214,6 +6224,19 @@
   ],
   "data_accuracy": [
     {
+      "review_id": "b977b702-19c0-4648-ac69-9800c548d47c",
+      "source": "google_play",
+      "rating": 2,
+      "date": "2026-10-24T19:11:44+00:00",
+      "text": "★★☆☆☆ After nearly a year with WHOOP, I'm disappointed. Before CPAP, it frequently recorded only 1–2 hours of sleep or missed entire nights. Step counts were inaccurate compared with a pedometer and treadmill. Heart rate was 12 bpm above manual checks, and resting HR was often 10–15 bpm above my Sleep Number bed. Its recovery algorithm doesn't adequately account for sleep disorders or individual circumstances. For the subscription price, I expect more reliable measurements.",
+      "subcategory_tags": [
+        "sleep_accuracy",
+        "metric_accuracy",
+        "personalization_use_case_fit",
+        "price_value_perception"
+      ]
+    },
+    {
       "review_id": "f2f522d9-2308-4957-997b-b43173e6110b",
       "source": "google_play",
       "rating": 5,
@@ -6548,20 +6571,22 @@
         "activity_detection",
         "build_quality_perception"
       ]
-    },
-    {
-      "review_id": "14517581952",
-      "source": "app_store",
-      "rating": 4,
-      "date": "2026-09-06T06:30:42-07:00",
-      "text": "I have had my whoop for 4 years now.  I like it better than the Fit Bit.  I do wish it tracked my activities better though.  And when I take a nap, it does not automatically register, I have to manually add it. It used to adjust the time they suggest I go to sleep but the past 6 months now for some reason it is not changing the time after I have a nap 🤷🏼‍♀️",
-      "subcategory_tags": [
-        "activity_detection",
-        "sleep_accuracy"
-      ]
     }
   ],
   "metric_accuracy": [
+    {
+      "review_id": "b977b702-19c0-4648-ac69-9800c548d47c",
+      "source": "google_play",
+      "rating": 2,
+      "date": "2026-10-24T19:11:44+00:00",
+      "text": "★★☆☆☆ After nearly a year with WHOOP, I'm disappointed. Before CPAP, it frequently recorded only 1–2 hours of sleep or missed entire nights. Step counts were inaccurate compared with a pedometer and treadmill. Heart rate was 12 bpm above manual checks, and resting HR was often 10–15 bpm above my Sleep Number bed. Its recovery algorithm doesn't adequately account for sleep disorders or individual circumstances. For the subscription price, I expect more reliable measurements.",
+      "subcategory_tags": [
+        "sleep_accuracy",
+        "metric_accuracy",
+        "personalization_use_case_fit",
+        "price_value_perception"
+      ]
+    },
     {
       "review_id": "14702630668",
       "source": "app_store",
@@ -6899,18 +6924,6 @@
         "missing_metrics",
         "metric_accuracy",
         "price_value_perception"
-      ]
-    },
-    {
-      "review_id": "14442900365",
-      "source": "app_store",
-      "rating": 4,
-      "date": "2026-08-18T06:52:07-07:00",
-      "text": "Needs better privacy guarantees, needs better HR tracking and estimates for short intense interval workouts. Needs ability to switch between two or more active strength training activities. Otherwise good sleep gauging app.",
-      "subcategory_tags": [
-        "metric_accuracy",
-        "missing_activity_types",
-        "sleep_satisfaction"
       ]
     }
   ],
@@ -8023,6 +8036,17 @@
   ],
   "ai_coach": [
     {
+      "review_id": "14705718569",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-10-24T07:43:42-07:00",
+      "text": "Seems like there’s some good functionality in here somewhere, but the app is impossible to navigate and the AI can’t create anything that it’s supposed to. It says it will create workouts for you and then it never does and you’ll have to enter them manually. just really, really impossible to navigate",
+      "subcategory_tags": [
+        "redesign_regression",
+        "ai_reliability_bugs"
+      ]
+    },
+    {
       "review_id": "14669595485",
       "source": "app_store",
       "rating": 5,
@@ -8345,19 +8369,20 @@
         "metric_accuracy",
         "price_value_perception"
       ]
-    },
-    {
-      "review_id": "14454449879",
-      "source": "app_store",
-      "rating": 5,
-      "date": "2026-08-21T04:32:11-07:00",
-      "text": "I’m really impressed with WHOOP Live. It’s surprisingly accurate, especially considering how little input it requires from me. It seems to understand my activity, recovery, and how I’m feeling with minimal effort on my part. The insights feel relevant and personalized without requiring constant logging. Definitely a feature I’ve been enjoying!",
-      "subcategory_tags": [
-        "ai_positive_reception"
-      ]
     }
   ],
   "ai_reliability_bugs": [
+    {
+      "review_id": "14705718569",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-10-24T07:43:42-07:00",
+      "text": "Seems like there’s some good functionality in here somewhere, but the app is impossible to navigate and the AI can’t create anything that it’s supposed to. It says it will create workouts for you and then it never does and you’ll have to enter them manually. just really, really impossible to navigate",
+      "subcategory_tags": [
+        "redesign_regression",
+        "ai_reliability_bugs"
+      ]
+    },
     {
       "review_id": "6d935b03-5e38-4724-8d6b-c12af74d9c8f",
       "source": "google_play",
@@ -8688,21 +8713,6 @@
         "metric_accuracy",
         "ai_reliability_bugs",
         "price_value_perception"
-      ]
-    },
-    {
-      "review_id": "abc20aac-c89c-4824-9d67-43c978fcbc3e",
-      "source": "google_play",
-      "rating": 4,
-      "date": "2026-08-02T16:08:49",
-      "text": "Monitoring of sleep and recovery ,HRV ,are very good. But many rooms of improvement for the expensive cost of memberships. Ai advice are mainly push you to more exercise and sleep. And data collections , diary are time consuming. It cannot detect activities uncless you log in. customer service are slow. Multiple lag time and hang of app requiring forced close and restore. Ai advice of activities are not medical advice , but its act like one. So I use it just baseline daily monitor.",
-      "subcategory_tags": [
-        "sleep_satisfaction",
-        "price_value_perception",
-        "ai_reliability_bugs",
-        "activity_detection",
-        "support_responsiveness",
-        "crashes_freezes"
       ]
     }
   ],
@@ -12178,6 +12188,17 @@
   ],
   "ui_ux": [
     {
+      "review_id": "14705718569",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-10-24T07:43:42-07:00",
+      "text": "Seems like there’s some good functionality in here somewhere, but the app is impossible to navigate and the AI can’t create anything that it’s supposed to. It says it will create workouts for you and then it never does and you’ll have to enter them manually. just really, really impossible to navigate",
+      "subcategory_tags": [
+        "redesign_regression",
+        "ai_reliability_bugs"
+      ]
+    },
+    {
       "review_id": "14703363192",
       "source": "app_store",
       "rating": 2,
@@ -12501,19 +12522,20 @@
         "activity_detection",
         "notification_community_issues"
       ]
-    },
-    {
-      "review_id": "05662742-39f3-4ec7-8315-f2bc46ac37dd",
-      "source": "google_play",
-      "rating": 4,
-      "date": "2026-08-29T13:54:22+00:00",
-      "text": "add search option on Start Activities",
-      "subcategory_tags": [
-        "feature_ui_friction"
-      ]
     }
   ],
   "redesign_regression": [
+    {
+      "review_id": "14705718569",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-10-24T07:43:42-07:00",
+      "text": "Seems like there’s some good functionality in here somewhere, but the app is impossible to navigate and the AI can’t create anything that it’s supposed to. It says it will create workouts for you and then it never does and you’ll have to enter them manually. just really, really impossible to navigate",
+      "subcategory_tags": [
+        "redesign_regression",
+        "ai_reliability_bugs"
+      ]
+    },
     {
       "review_id": "c3e1cd19-ce90-43a4-9479-1823268f36ff",
       "source": "google_play",
@@ -12845,18 +12867,6 @@
         "data_sync_delays",
         "metric_accuracy",
         "third_party_integration",
-        "redesign_regression"
-      ]
-    },
-    {
-      "review_id": "14094682167",
-      "source": "app_store",
-      "rating": 4,
-      "date": "2026-05-22T16:32:43-07:00",
-      "text": "Some limitations still. Not great step counting. Can’t differentiate between assault bike and echo bike. Can’t log workouts exactly as they were done sometimes. UI is mostly good but sometimes it’s difficult to find something I’m looking for with lots of design changes over the years.",
-      "subcategory_tags": [
-        "metric_accuracy",
-        "missing_activity_types",
         "redesign_regression"
       ]
     }
@@ -15594,6 +15604,19 @@
   ],
   "feature_requests": [
     {
+      "review_id": "b977b702-19c0-4648-ac69-9800c548d47c",
+      "source": "google_play",
+      "rating": 2,
+      "date": "2026-10-24T19:11:44+00:00",
+      "text": "★★☆☆☆ After nearly a year with WHOOP, I'm disappointed. Before CPAP, it frequently recorded only 1–2 hours of sleep or missed entire nights. Step counts were inaccurate compared with a pedometer and treadmill. Heart rate was 12 bpm above manual checks, and resting HR was often 10–15 bpm above my Sleep Number bed. Its recovery algorithm doesn't adequately account for sleep disorders or individual circumstances. For the subscription price, I expect more reliable measurements.",
+      "subcategory_tags": [
+        "sleep_accuracy",
+        "metric_accuracy",
+        "personalization_use_case_fit",
+        "price_value_perception"
+      ]
+    },
+    {
       "review_id": "14684980596",
       "source": "app_store",
       "rating": 4,
@@ -15917,18 +15940,6 @@
       "text": "This is a wonderful idea and product. It offers great feedback, however, it is not designed for people over 60. There is a lot of room for improvement in that department. If I were 35 it would be five stars!",
       "subcategory_tags": [
         "personalization_use_case_fit"
-      ]
-    },
-    {
-      "review_id": "bcc09854-cb43-4abd-a580-1f829fcfac00",
-      "source": "google_play",
-      "rating": 3,
-      "date": "2026-09-06T18:18:27+00:00",
-      "text": "Neurodivergent here. App is not intuitive when adding behaviors and daily life activity to your journal. Data should be on a 5 pt scale for pain, mood, motivation etc. so that you can better track it. The Daylio app for tracking and journaling should be a model to use for improvement on this app, please integrate features from that app. Your list of behaviors is not in any order that makes sense, you can't personalize anything, menstrual cycle tracking is just clunky. It's all way too boring.",
-      "subcategory_tags": [
-        "personalization_use_case_fit",
-        "missing_metrics",
-        "feature_ui_friction"
       ]
     }
   ],
@@ -16608,6 +16619,19 @@
   ],
   "personalization_use_case_fit": [
     {
+      "review_id": "b977b702-19c0-4648-ac69-9800c548d47c",
+      "source": "google_play",
+      "rating": 2,
+      "date": "2026-10-24T19:11:44+00:00",
+      "text": "★★☆☆☆ After nearly a year with WHOOP, I'm disappointed. Before CPAP, it frequently recorded only 1–2 hours of sleep or missed entire nights. Step counts were inaccurate compared with a pedometer and treadmill. Heart rate was 12 bpm above manual checks, and resting HR was often 10–15 bpm above my Sleep Number bed. Its recovery algorithm doesn't adequately account for sleep disorders or individual circumstances. For the subscription price, I expect more reliable measurements.",
+      "subcategory_tags": [
+        "sleep_accuracy",
+        "metric_accuracy",
+        "personalization_use_case_fit",
+        "price_value_perception"
+      ]
+    },
+    {
       "review_id": "14674278892",
       "source": "app_store",
       "rating": 1,
@@ -16941,19 +16965,6 @@
         "activity_detection",
         "personalization_use_case_fit",
         "price_value_perception"
-      ]
-    },
-    {
-      "review_id": "14334223660",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-07-22T05:43:14-07:00",
-      "text": "Don’t waste you money or time. I got this because my son thinks, or thought it was a good thing. I think the chatty nature of the whole application is pure nonsense. It just repeats itself no matter what you may ask. I have challenged the AI and it doesn’t even come back with anything instructive or educational to improve. It’s says “if you don’t like my style then I’ll give you the basics”. Well then, if it’s basics why even get this?  You want a critic of your sleep patterns? This is it. Based on studies dating back to 2003, the app doesn’t not fit the customization you will need. It wants to bunch you up into the group of people who apparently need to sleep 9 hours to feel “healthy”. It says I’m aging quickly (10 years older). 😂 yet I feel like an ox. I’m intense in my workouts, I’m intense in my work, I don’t need a nap, and I’m extremely productive with 5-6 hours sleep and age 64. Whoop needs to offer a refund option if not happy once you’ve signed up. 50 days into this venture and I definitely feel I wasted my time and money. In one word:  garbage",
-      "subcategory_tags": [
-        "ai_reliability_bugs",
-        "personalization_use_case_fit",
-        "price_value_perception",
-        "billing_disputes"
       ]
     }
   ],

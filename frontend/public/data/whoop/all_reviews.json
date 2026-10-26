@@ -1,5 +1,37 @@
 [
   {
+    "review_id": "c4a98bf0-9735-4181-a3b5-6817906834e5",
+    "source": "google_play",
+    "rating": 5,
+    "date": "2026-10-24T23:42:18+00:00",
+    "text": "the app runs smoothly, highly recommended",
+    "parent_category_tags": [
+      "nan"
+    ],
+    "subcategory_tags": [
+      "nan"
+    ]
+  },
+  {
+    "review_id": "b977b702-19c0-4648-ac69-9800c548d47c",
+    "source": "google_play",
+    "rating": 2,
+    "date": "2026-10-24T19:11:44+00:00",
+    "text": "★★☆☆☆ After nearly a year with WHOOP, I'm disappointed. Before CPAP, it frequently recorded only 1–2 hours of sleep or missed entire nights. Step counts were inaccurate compared with a pedometer and treadmill. Heart rate was 12 bpm above manual checks, and resting HR was often 10–15 bpm above my Sleep Number bed. Its recovery algorithm doesn't adequately account for sleep disorders or individual circumstances. For the subscription price, I expect more reliable measurements.",
+    "parent_category_tags": [
+      "sleep_tracking",
+      "data_accuracy",
+      "feature_requests",
+      "pricing_billing"
+    ],
+    "subcategory_tags": [
+      "sleep_accuracy",
+      "metric_accuracy",
+      "personalization_use_case_fit",
+      "price_value_perception"
+    ]
+  },
+  {
     "review_id": "f2f522d9-2308-4957-997b-b43173e6110b",
     "source": "google_play",
     "rating": 5,
@@ -10,6 +42,34 @@
     ],
     "subcategory_tags": [
       "activity_detection"
+    ]
+  },
+  {
+    "review_id": "14705718569",
+    "source": "app_store",
+    "rating": 1,
+    "date": "2026-10-24T07:43:42-07:00",
+    "text": "Seems like there’s some good functionality in here somewhere, but the app is impossible to navigate and the AI can’t create anything that it’s supposed to. It says it will create workouts for you and then it never does and you’ll have to enter them manually. just really, really impossible to navigate",
+    "parent_category_tags": [
+      "ui_ux",
+      "ai_coach"
+    ],
+    "subcategory_tags": [
+      "redesign_regression",
+      "ai_reliability_bugs"
+    ]
+  },
+  {
+    "review_id": "14705626636",
+    "source": "app_store",
+    "rating": 5,
+    "date": "2026-10-24T07:19:36-07:00",
+    "text": "It’s the most incredible thing i promise It will make your life better",
+    "parent_category_tags": [
+      "nan"
+    ],
+    "subcategory_tags": [
+      "nan"
     ]
   },
   {
