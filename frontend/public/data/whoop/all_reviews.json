@@ -1,5 +1,31 @@
 [
   {
+    "review_id": "9f97daa4-76e6-43f1-982f-d50190f1e119",
+    "source": "google_play",
+    "rating": 5,
+    "date": "2026-10-26T03:12:20+00:00",
+    "text": "awesome metrics, real time data, graphs sets super cool expectations",
+    "parent_category_tags": [
+      "nan"
+    ],
+    "subcategory_tags": [
+      "nan"
+    ]
+  },
+  {
+    "review_id": "14711993111",
+    "source": "app_store",
+    "rating": 5,
+    "date": "2026-10-25T19:19:18-07:00",
+    "text": "Excelente monitor de actividades, salud y ejercicios. Su IA te permite ir más allá de monitoreo tradicional, día a día vas alimentando con información detallada a tu historial, permitiendo a Whoop producir soluciones más precisas para tu salud integral.",
+    "parent_category_tags": [
+      "ai_coach"
+    ],
+    "subcategory_tags": [
+      "ai_positive_reception"
+    ]
+  },
+  {
     "review_id": "c4a98bf0-9735-4181-a3b5-6817906834e5",
     "source": "google_play",
     "rating": 5,
