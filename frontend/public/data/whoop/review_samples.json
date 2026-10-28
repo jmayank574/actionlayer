@@ -1,6 +1,16 @@
 {
   "pricing_billing": [
     {
+      "review_id": "14715975388",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-10-26T19:05:15-07:00",
+      "text": "Forcing you to input cc on file even you have 12months of credit",
+      "subcategory_tags": [
+        "billing_disputes"
+      ]
+    },
+    {
       "review_id": "b977b702-19c0-4648-ac69-9800c548d47c",
       "source": "google_play",
       "rating": 2,
@@ -332,17 +342,6 @@
         "support_responsiveness",
         "support_resolution_quality",
         "billing_disputes"
-      ]
-    },
-    {
-      "review_id": "0576d094-b523-4712-95ce-f7ec8ce62315",
-      "source": "google_play",
-      "rating": 2,
-      "date": "2026-09-26T22:42:39+00:00",
-      "text": "A bit crazy that for the current price you don't get a heartrate graph where you can see your Heathrow from today and the previous days.",
-      "subcategory_tags": [
-        "price_value_perception",
-        "missing_metrics"
       ]
     }
   ],
@@ -691,6 +690,16 @@
   ],
   "billing_disputes": [
     {
+      "review_id": "14715975388",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-10-26T19:05:15-07:00",
+      "text": "Forcing you to input cc on file even you have 12months of credit",
+      "subcategory_tags": [
+        "billing_disputes"
+      ]
+    },
+    {
       "review_id": "14703363192",
       "source": "app_store",
       "rating": 2,
@@ -1030,16 +1039,6 @@
       "text": "overrated devise, the app features some ads of available free integrations with other apps, but turns out is it not available for all regions. so why am I seeing them ? False advertising all over again, same as with free trial and return",
       "subcategory_tags": [
         "third_party_integration",
-        "billing_disputes"
-      ]
-    },
-    {
-      "review_id": "14413156567",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-08-10T21:41:50-07:00",
-      "text": "I did the one month free trail. Then I went to monthly subscription, and kept it for another month. Now I am trying to cancel my membership and they are trying to charge me for a full year.",
-      "subcategory_tags": [
         "billing_disputes"
       ]
     }
@@ -12183,6 +12182,16 @@
   ],
   "ui_ux": [
     {
+      "review_id": "14714878991",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-10-26T12:41:39-07:00",
+      "text": "Layout messed up in iPhone duo",
+      "subcategory_tags": [
+        "device_rendering_bugs"
+      ]
+    },
+    {
       "review_id": "14705718569",
       "source": "app_store",
       "rating": 1,
@@ -12505,17 +12514,6 @@
       "subcategory_tags": [
         "ai_autonomy",
         "redesign_regression"
-      ]
-    },
-    {
-      "review_id": "bb7c406c-f23d-40dc-aaba-deeae1e7d666",
-      "source": "google_play",
-      "rating": 3,
-      "date": "2026-08-30T20:42:54+00:00",
-      "text": "activity detection is very bad lately. it detects walking as an activity and spams you w notifications about you walking to grab a beer. this is ridiculous. and it is also ruining autodetection of some real activities, adding walking before and after session to the detected activity.",
-      "subcategory_tags": [
-        "activity_detection",
-        "notification_community_issues"
       ]
     }
   ],
@@ -12868,6 +12866,16 @@
   ],
   "device_rendering_bugs": [
     {
+      "review_id": "14714878991",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-10-26T12:41:39-07:00",
+      "text": "Layout messed up in iPhone duo",
+      "subcategory_tags": [
+        "device_rendering_bugs"
+      ]
+    },
+    {
       "review_id": "14703363192",
       "source": "app_store",
       "rating": 2,
@@ -13175,16 +13183,6 @@
       "text": "this app is consistently buggy, especially with sharing features. some examples: 1) if there is a reply in a community message, further messages stop showing up 2) Ux hides the strain of the leader when you look at community strain due to overlapping components. I really expect better from a software company",
       "subcategory_tags": [
         "notification_community_issues",
-        "device_rendering_bugs"
-      ]
-    },
-    {
-      "review_id": "22b81775-1a30-4dd8-a1b6-5210fc802e3f",
-      "source": "google_play",
-      "rating": 3,
-      "date": "2025-10-13T12:00:36",
-      "text": "Many UI issues on modern phones like the Pixel 10. some items are off the screen and unclickable.",
-      "subcategory_tags": [
         "device_rendering_bugs"
       ]
     }
