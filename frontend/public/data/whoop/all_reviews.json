@@ -1,5 +1,44 @@
 [
   {
+    "review_id": "14721725974",
+    "source": "app_store",
+    "rating": 5,
+    "date": "2026-10-28T06:32:22-07:00",
+    "text": "My whoop was a present from my 😻wife and since 210~ days I’m getting stronger, trying to sleep better and liking for my health. I really love my device! And I order also a new one for her. 🫶🏼🥳🙌 thanks for the new era of this devices!",
+    "parent_category_tags": [
+      "nan"
+    ],
+    "subcategory_tags": [
+      "nan"
+    ]
+  },
+  {
+    "review_id": "de5ed524-a425-465c-bb64-44f413c08010",
+    "source": "google_play",
+    "rating": 5,
+    "date": "2026-10-28T12:50:12+00:00",
+    "text": "Brilliant analytics that push me towards taking care of myself. Some of the things you see are an eye opener.",
+    "parent_category_tags": [
+      "nan"
+    ],
+    "subcategory_tags": [
+      "nan"
+    ]
+  },
+  {
+    "review_id": "135f6d5c-08ec-42ed-8ca9-779da071e7a0",
+    "source": "google_play",
+    "rating": 1,
+    "date": "2026-10-28T02:47:44+00:00",
+    "text": "A half-finished app packed with political messaging and patronising 'coaching'.",
+    "parent_category_tags": [
+      "ai_coach"
+    ],
+    "subcategory_tags": [
+      "ai_autonomy"
+    ]
+  },
+  {
     "review_id": "14715975388",
     "source": "app_store",
     "rating": 1,

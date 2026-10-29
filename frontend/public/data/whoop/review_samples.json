@@ -8035,6 +8035,16 @@
   ],
   "ai_coach": [
     {
+      "review_id": "135f6d5c-08ec-42ed-8ca9-779da071e7a0",
+      "source": "google_play",
+      "rating": 1,
+      "date": "2026-10-28T02:47:44+00:00",
+      "text": "A half-finished app packed with political messaging and patronising 'coaching'.",
+      "subcategory_tags": [
+        "ai_autonomy"
+      ]
+    },
+    {
       "review_id": "14711993111",
       "source": "app_store",
       "rating": 5,
@@ -8353,17 +8363,6 @@
       "text": "ai bug the ai window gets stuck on full screen and I can't exit it and rest of app becomes inaccessible...",
       "subcategory_tags": [
         "ai_reliability_bugs"
-      ]
-    },
-    {
-      "review_id": "c1784e8a-f45c-419d-b6f9-4374ae268aa5",
-      "source": "google_play",
-      "rating": 2,
-      "date": "2026-08-23T12:18:55+00:00",
-      "text": "Unsure what's been going on with the AI coach for the past week, but my God it's become unreliable. If you want to upload your workout for it to map to an activity, good luck - constant hallucinations, misreading text in one version but then reading it correctly when uploading the second time, glitchy memory, inconsistent analysis of what you upload. Really not impressed considering how much I pay for a Whoop subscription",
-      "subcategory_tags": [
-        "ai_reliability_bugs",
-        "price_value_perception"
       ]
     }
   ],
@@ -8713,6 +8712,16 @@
     }
   ],
   "ai_autonomy": [
+    {
+      "review_id": "135f6d5c-08ec-42ed-8ca9-779da071e7a0",
+      "source": "google_play",
+      "rating": 1,
+      "date": "2026-10-28T02:47:44+00:00",
+      "text": "A half-finished app packed with political messaging and patronising 'coaching'.",
+      "subcategory_tags": [
+        "ai_autonomy"
+      ]
+    },
     {
       "review_id": "14576383074",
       "source": "app_store",
