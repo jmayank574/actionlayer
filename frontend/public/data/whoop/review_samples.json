@@ -1,6 +1,17 @@
 {
   "pricing_billing": [
     {
+      "review_id": "14724090626",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-10-28T19:53:59-07:00",
+      "text": "Not worth $359, Apple Watch Ultra does better job, device whoop provided for $359 was horrible band keeps coming off often a little hard the band it will break it so be gentle. Over all not at all a good product. Oura Ring or Apple Watch does far better job then whoop",
+      "subcategory_tags": [
+        "price_value_perception",
+        "strap_clasp_durability"
+      ]
+    },
+    {
       "review_id": "14715975388",
       "source": "app_store",
       "rating": 1,
@@ -329,23 +340,20 @@
         "upsell_pressure",
         "billing_disputes"
       ]
-    },
-    {
-      "review_id": "2f4e903c-4631-4609-b7e5-c3c4add428ac",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2026-09-27T23:02:27+00:00",
-      "text": "problematic tracking, constant off body errors, have been back and forth with customer service for days on two occasions with no resolution found, they will not provide any further assistance and I am now paying another 8 months of subscription for nothing but a paper weight, extremely disappointed with this company especially how big they are.",
-      "subcategory_tags": [
-        "metric_accuracy",
-        "data_sync_delays",
-        "support_responsiveness",
-        "support_resolution_quality",
-        "billing_disputes"
-      ]
     }
   ],
   "price_value_perception": [
+    {
+      "review_id": "14724090626",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-10-28T19:53:59-07:00",
+      "text": "Not worth $359, Apple Watch Ultra does better job, device whoop provided for $359 was horrible band keeps coming off often a little hard the band it will break it so be gentle. Over all not at all a good product. Oura Ring or Apple Watch does far better job then whoop",
+      "subcategory_tags": [
+        "price_value_perception",
+        "strap_clasp_durability"
+      ]
+    },
     {
       "review_id": "b977b702-19c0-4648-ac69-9800c548d47c",
       "source": "google_play",
@@ -674,16 +682,6 @@
       "text": "Bought with a year's subscription included — but there's a dark pattern here. To use the device, you have to hand over card details so they can auto-charge you £350 in a year's time unless you remember to cancel. That's backwards: the burden should be on them to earn my renewal, not on me to remember to stop the charge. Also — no PayPal option, card only, which makes the auto-charge feel even more deliberate.",
       "subcategory_tags": [
         "billing_disputes",
-        "price_value_perception"
-      ]
-    },
-    {
-      "review_id": "14537454923",
-      "source": "app_store",
-      "rating": 5,
-      "date": "2026-09-11T08:27:21-07:00",
-      "text": "its all good, but the PRICE is what kick me out!!",
-      "subcategory_tags": [
         "price_value_perception"
       ]
     }
@@ -1731,6 +1729,18 @@
   ],
   "sleep_tracking": [
     {
+      "review_id": "14722102564",
+      "source": "app_store",
+      "rating": 2,
+      "date": "2026-10-28T08:18:52-07:00",
+      "text": "Feedback seems to be on a roulette wheel. Days I have no sleep it tells me how great my recovery was. A relaxing day tells me I was the highest stress ever. Extra sleep and it shows me less. Regularly wear and tells me it’s off body.",
+      "subcategory_tags": [
+        "sleep_accuracy",
+        "metric_accuracy",
+        "data_sync_delays"
+      ]
+    },
+    {
       "review_id": "b977b702-19c0-4648-ac69-9800c548d47c",
       "source": "google_play",
       "rating": 2,
@@ -2049,20 +2059,21 @@
         "missing_activity_types",
         "sleep_alarm_ui"
       ]
-    },
-    {
-      "review_id": "05dbc152-92c0-4389-9e67-1a0218825825",
-      "source": "google_play",
-      "rating": 2,
-      "date": "2026-09-12T13:32:50+00:00",
-      "text": "used to work really well but now stops tracking randomly while im still wearing it, especially in my sleep",
-      "subcategory_tags": [
-        "data_sync_delays",
-        "sleep_accuracy"
-      ]
     }
   ],
   "sleep_accuracy": [
+    {
+      "review_id": "14722102564",
+      "source": "app_store",
+      "rating": 2,
+      "date": "2026-10-28T08:18:52-07:00",
+      "text": "Feedback seems to be on a roulette wheel. Days I have no sleep it tells me how great my recovery was. A relaxing day tells me I was the highest stress ever. Extra sleep and it shows me less. Regularly wear and tells me it’s off body.",
+      "subcategory_tags": [
+        "sleep_accuracy",
+        "metric_accuracy",
+        "data_sync_delays"
+      ]
+    },
     {
       "review_id": "b977b702-19c0-4648-ac69-9800c548d47c",
       "source": "google_play",
@@ -2398,18 +2409,6 @@
         "sleep_accuracy",
         "activity_detection",
         "metric_accuracy"
-      ]
-    },
-    {
-      "review_id": "14398184389",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-08-07T02:01:26-07:00",
-      "text": "This device continues to miss my sleep even though it is placed correctly, and charged how it should be. I have had it replaced and changed the strap. I made the mistake of paying for a year… and they will not refund me. I will not do that again. Also the AI feature is generic and unhelpful. It doesn’t even notice that the data isn’t accurate.",
-      "subcategory_tags": [
-        "sleep_accuracy",
-        "billing_disputes",
-        "ai_reliability_bugs"
       ]
     }
   ],
@@ -3090,6 +3089,17 @@
   ],
   "hardware_wearability": [
     {
+      "review_id": "14724090626",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-10-28T19:53:59-07:00",
+      "text": "Not worth $359, Apple Watch Ultra does better job, device whoop provided for $359 was horrible band keeps coming off often a little hard the band it will break it so be gentle. Over all not at all a good product. Oura Ring or Apple Watch does far better job then whoop",
+      "subcategory_tags": [
+        "price_value_perception",
+        "strap_clasp_durability"
+      ]
+    },
+    {
       "review_id": "14688049140",
       "source": "app_store",
       "rating": 5,
@@ -3432,20 +3442,20 @@
         "price_value_perception",
         "comfort_fit"
       ]
-    },
-    {
-      "review_id": "14309865765",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-07-16T04:44:11-07:00",
-      "text": "Data is constantly delayed when syncing. Not reliable. Battery life ok. But the syncing is the issue. I need something that is reliable. This isn’t it!",
-      "subcategory_tags": [
-        "data_sync_delays",
-        "battery_life"
-      ]
     }
   ],
   "strap_clasp_durability": [
+    {
+      "review_id": "14724090626",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-10-28T19:53:59-07:00",
+      "text": "Not worth $359, Apple Watch Ultra does better job, device whoop provided for $359 was horrible band keeps coming off often a little hard the band it will break it so be gentle. Over all not at all a good product. Oura Ring or Apple Watch does far better job then whoop",
+      "subcategory_tags": [
+        "price_value_perception",
+        "strap_clasp_durability"
+      ]
+    },
     {
       "review_id": "14639418333",
       "source": "app_store",
@@ -3787,17 +3797,6 @@
       "text": "They have ruined a good product... the 3.0 was easy reliable and just worked.... the 4.0 is pure trash on my 3rd in little under 2 months will most likely be moving to a different product after much subscription is up",
       "subcategory_tags": [
         "build_quality_perception",
-        "strap_clasp_durability"
-      ]
-    },
-    {
-      "review_id": "dc8b4cb4-6789-4b65-b90c-5253d496151d",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2021-12-12T23:19:29",
-      "text": "Stopped working. Strap wouldn't stay connected.",
-      "subcategory_tags": [
-        "ongoing_disconnects",
         "strap_clasp_durability"
       ]
     }
@@ -4863,6 +4862,18 @@
   ],
   "sync_connectivity": [
     {
+      "review_id": "14722102564",
+      "source": "app_store",
+      "rating": 2,
+      "date": "2026-10-28T08:18:52-07:00",
+      "text": "Feedback seems to be on a roulette wheel. Days I have no sleep it tells me how great my recovery was. A relaxing day tells me I was the highest stress ever. Extra sleep and it shows me less. Regularly wear and tells me it’s off body.",
+      "subcategory_tags": [
+        "sleep_accuracy",
+        "metric_accuracy",
+        "data_sync_delays"
+      ]
+    },
+    {
       "review_id": "14696700643",
       "source": "app_store",
       "rating": 3,
@@ -5191,16 +5202,6 @@
       "subcategory_tags": [
         "ecg_bp_feature_reliability",
         "data_sync_delays"
-      ]
-    },
-    {
-      "review_id": "1d2b158b-65fe-4654-aded-1fdbc925e51a",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2026-07-31T05:44:53",
-      "text": "cant pair it back here after pairing w iphone, tried everything this is rly fristrating the qebsite instructions kot working",
-      "subcategory_tags": [
-        "ongoing_disconnects"
       ]
     }
   ],
@@ -5877,6 +5878,18 @@
   ],
   "data_sync_delays": [
     {
+      "review_id": "14722102564",
+      "source": "app_store",
+      "rating": 2,
+      "date": "2026-10-28T08:18:52-07:00",
+      "text": "Feedback seems to be on a roulette wheel. Days I have no sleep it tells me how great my recovery was. A relaxing day tells me I was the highest stress ever. Extra sleep and it shows me less. Regularly wear and tells me it’s off body.",
+      "subcategory_tags": [
+        "sleep_accuracy",
+        "metric_accuracy",
+        "data_sync_delays"
+      ]
+    },
+    {
       "review_id": "14696700643",
       "source": "app_store",
       "rating": 3,
@@ -6207,21 +6220,21 @@
         "personalization_use_case_fit",
         "missing_metrics"
       ]
-    },
-    {
-      "review_id": "ff9da5ad-2cba-4278-9b58-ef41cbb32a0a",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2026-06-28T03:10:16",
-      "text": "after the last update it has stopped reviewing my sleep and recovery and didn't even update my lifespan. this definitely needs to be fixed",
-      "subcategory_tags": [
-        "update_failures",
-        "sleep_accuracy",
-        "data_sync_delays"
-      ]
     }
   ],
   "data_accuracy": [
+    {
+      "review_id": "14722102564",
+      "source": "app_store",
+      "rating": 2,
+      "date": "2026-10-28T08:18:52-07:00",
+      "text": "Feedback seems to be on a roulette wheel. Days I have no sleep it tells me how great my recovery was. A relaxing day tells me I was the highest stress ever. Extra sleep and it shows me less. Regularly wear and tells me it’s off body.",
+      "subcategory_tags": [
+        "sleep_accuracy",
+        "metric_accuracy",
+        "data_sync_delays"
+      ]
+    },
     {
       "review_id": "b977b702-19c0-4648-ac69-9800c548d47c",
       "source": "google_play",
@@ -6556,23 +6569,21 @@
         "metric_accuracy",
         "feature_ui_friction"
       ]
-    },
-    {
-      "review_id": "14519069277",
-      "source": "app_store",
-      "rating": 3,
-      "date": "2026-09-06T14:17:04-07:00",
-      "text": "I tried whoop for 6months. I found the actual hardware to be uncomfortable on my wrist. I found the sports band that was $50 to work, but it broke within the 6months. I initially like the tracking bout found that at least 20% of the time it was inaccurate - saying I only got 4hrs of sleep, then took a 3hr nap staring at 2am, or would cut off work outs. Then I would have to manually fix things. I ultimately think the app was pretty good, but combined with the cheap hardware I think this is 3 stars.",
-      "subcategory_tags": [
-        "comfort_fit",
-        "strap_clasp_durability",
-        "sleep_accuracy",
-        "activity_detection",
-        "build_quality_perception"
-      ]
     }
   ],
   "metric_accuracy": [
+    {
+      "review_id": "14722102564",
+      "source": "app_store",
+      "rating": 2,
+      "date": "2026-10-28T08:18:52-07:00",
+      "text": "Feedback seems to be on a roulette wheel. Days I have no sleep it tells me how great my recovery was. A relaxing day tells me I was the highest stress ever. Extra sleep and it shows me less. Regularly wear and tells me it’s off body.",
+      "subcategory_tags": [
+        "sleep_accuracy",
+        "metric_accuracy",
+        "data_sync_delays"
+      ]
+    },
     {
       "review_id": "b977b702-19c0-4648-ac69-9800c548d47c",
       "source": "google_play",
@@ -6907,20 +6918,6 @@
       "subcategory_tags": [
         "sleep_accuracy",
         "ai_reliability_bugs",
-        "metric_accuracy",
-        "price_value_perception"
-      ]
-    },
-    {
-      "review_id": "14449428710",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-08-19T21:33:08-07:00",
-      "text": "This app used to detect activities, naps, and helped me track my period after years of tracking it on other apps. Now none of those things happen, weight and periods are not recorded same with activities and naps. The metrics aren’t even correct. Don’t waste you’re money it’s all marketing and a scam",
-      "subcategory_tags": [
-        "activity_detection",
-        "sleep_accuracy",
-        "missing_metrics",
         "metric_accuracy",
         "price_value_perception"
       ]
@@ -9375,6 +9372,16 @@
   ],
   "customer_support": [
     {
+      "review_id": "a8bfec1d-6fb4-4e52-8039-f0767367082d",
+      "source": "google_play",
+      "rating": 1,
+      "date": "2026-10-29T10:00:40+00:00",
+      "text": "there customer service is pathetic and there is absolutely no response despite repeated reminders in mails and via website.",
+      "subcategory_tags": [
+        "support_responsiveness"
+      ]
+    },
+    {
       "review_id": "14702630668",
       "source": "app_store",
       "rating": 1,
@@ -9723,21 +9730,19 @@
         "support_resolution_quality",
         "personalization_use_case_fit"
       ]
-    },
-    {
-      "review_id": "6f0bda1f-76a7-4117-8db4-a124e1713abb",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2026-08-16T06:29:51+00:00",
-      "text": "I decided to upgrade after a free trial with a borrowed device. I pushed the in-app upgrade button to find that no device will be sent, and I now don't have one as I returned my friends. Within 5-minutes, I email customer service who says we can cancel the subscription and order a new one with watch. Then they change their minds! I send a follow up email explaining my situation. They respond with a template AI email. Shows what they think about their customers.",
-      "subcategory_tags": [
-        "billing_disputes",
-        "ai_only_support_channel",
-        "support_resolution_quality"
-      ]
     }
   ],
   "support_responsiveness": [
+    {
+      "review_id": "a8bfec1d-6fb4-4e52-8039-f0767367082d",
+      "source": "google_play",
+      "rating": 1,
+      "date": "2026-10-29T10:00:40+00:00",
+      "text": "there customer service is pathetic and there is absolutely no response despite repeated reminders in mails and via website.",
+      "subcategory_tags": [
+        "support_responsiveness"
+      ]
+    },
     {
       "review_id": "14702630668",
       "source": "app_store",
@@ -10086,18 +10091,6 @@
         "support_responsiveness",
         "support_resolution_quality",
         "billing_disputes"
-      ]
-    },
-    {
-      "review_id": "14082917543",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-05-19T11:20:52-07:00",
-      "text": "I’m about 200 days into the Whoop Life Plan. The data insights are excellent, and the software experience has generally been very good.\n\nFrom day one, however, I experienced issues with inaccurate heart rate tracking. Customer support walked me through several troubleshooting steps that initially seemed to help, although the tracking still never felt as accurate as my Apple Watch.\n\nMore recently, the device began producing obviously false heart rate readings again. I contacted support, but unfortunately the customer service experience has been disappointing. My device has now been unusable for nearly two weeks, and I’ve been told it could take another two weeks before I receive a replacement. For a premium health and fitness product, that level of downtime is extremely frustrating.",
-      "subcategory_tags": [
-        "metric_accuracy",
-        "support_responsiveness",
-        "support_resolution_quality"
       ]
     }
   ],
@@ -13886,6 +13879,16 @@
   ],
   "platform_parity": [
     {
+      "review_id": "cebdaf43-af76-4a8a-bb90-911823dd7d6b",
+      "source": "google_play",
+      "rating": 3,
+      "date": "2026-10-29T03:36:20+00:00",
+      "text": "When I start an activity, there’s no way to search for an activity like there is in the iPhone version",
+      "subcategory_tags": [
+        "android_feature_gaps"
+      ]
+    },
+    {
       "review_id": "171bd3b0-9080-4129-9e64-95eb1f8302ab",
       "source": "google_play",
       "rating": 2,
@@ -14214,20 +14217,19 @@
         "android_specific_bugs",
         "price_value_perception"
       ]
-    },
-    {
-      "review_id": "b981c27c-4871-49f1-b2bb-dc7259813095",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2025-09-30T23:25:51",
-      "text": "app very very buggy on the Pixel after latest update",
-      "subcategory_tags": [
-        "update_failures",
-        "android_specific_bugs"
-      ]
     }
   ],
   "android_feature_gaps": [
+    {
+      "review_id": "cebdaf43-af76-4a8a-bb90-911823dd7d6b",
+      "source": "google_play",
+      "rating": 3,
+      "date": "2026-10-29T03:36:20+00:00",
+      "text": "When I start an activity, there’s no way to search for an activity like there is in the iPhone version",
+      "subcategory_tags": [
+        "android_feature_gaps"
+      ]
+    },
     {
       "review_id": "171bd3b0-9080-4129-9e64-95eb1f8302ab",
       "source": "google_play",
@@ -14539,16 +14541,6 @@
       "rating": 3,
       "date": "2022-07-14T09:40:25",
       "text": "Good, app, missing Google wear app.",
-      "subcategory_tags": [
-        "android_feature_gaps"
-      ]
-    },
-    {
-      "review_id": "17eb9584-dacc-4624-934f-9a66348111be",
-      "source": "google_play",
-      "rating": 3,
-      "date": "2022-07-07T03:36:56",
-      "text": "App works great but outrageous there's no widget for Android.",
       "subcategory_tags": [
         "android_feature_gaps"
       ]
@@ -14903,6 +14895,16 @@
   ],
   "localization": [
     {
+      "review_id": "0f8c7248-4e9b-4444-9ee4-ad097ea25e17",
+      "source": "google_play",
+      "rating": 3,
+      "date": "2026-10-29T14:20:41+00:00",
+      "text": "add Arabic language to the app.",
+      "subcategory_tags": [
+        "missing_language_support"
+      ]
+    },
+    {
       "review_id": "14652289530",
       "source": "app_store",
       "rating": 3,
@@ -15200,19 +15202,19 @@
       "subcategory_tags": [
         "missing_language_support"
       ]
-    },
-    {
-      "review_id": "13805357082",
-      "source": "app_store",
-      "rating": 3,
-      "date": "2026-03-02T01:57:30-07:00",
-      "text": "Dear developers, pls add russian language, it’s not huge work for your team.🇷🇺🇷🇺🇷🇺",
-      "subcategory_tags": [
-        "missing_language_support"
-      ]
     }
   ],
   "missing_language_support": [
+    {
+      "review_id": "0f8c7248-4e9b-4444-9ee4-ad097ea25e17",
+      "source": "google_play",
+      "rating": 3,
+      "date": "2026-10-29T14:20:41+00:00",
+      "text": "add Arabic language to the app.",
+      "subcategory_tags": [
+        "missing_language_support"
+      ]
+    },
     {
       "review_id": "14652289530",
       "source": "app_store",
@@ -15507,16 +15509,6 @@
       "rating": 3,
       "date": "2026-03-02T01:57:30-07:00",
       "text": "Dear developers, pls add russian language, it’s not huge work for your team.🇷🇺🇷🇺🇷🇺",
-      "subcategory_tags": [
-        "missing_language_support"
-      ]
-    },
-    {
-      "review_id": "25d9d63b-ecb1-4736-a097-edda51cf237a",
-      "source": "google_play",
-      "rating": 4,
-      "date": "2026-02-22T04:05:54",
-      "text": "everything is great in this app, but I'm from India and in this app when your sign-in up the app ask where do you live and most of the country's are missing from that please add more country's option",
       "subcategory_tags": [
         "missing_language_support"
       ]
