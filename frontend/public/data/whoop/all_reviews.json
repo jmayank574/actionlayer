@@ -1,5 +1,87 @@
 [
   {
+    "review_id": "b42f18e5-e4bd-44f2-bf8a-4752b8394951",
+    "source": "google_play",
+    "rating": 5,
+    "date": "2026-10-30T12:41:26+00:00",
+    "text": "Whoop helps improve my health in so many ways. Quality and quantity of sleep, what affects recovery, activity strain, heart health, how my body handles different foods and timing of eating, stress management, I absolutely love it.",
+    "parent_category_tags": [
+      "sleep_tracking"
+    ],
+    "subcategory_tags": [
+      "sleep_satisfaction"
+    ]
+  },
+  {
+    "review_id": "14729255653",
+    "source": "app_store",
+    "rating": 4,
+    "date": "2026-10-30T04:39:13-07:00",
+    "text": "I’ve been using WHOOP for a total of one month now and overall I’ve gotten all the specs I needed and learned a lot about my body the sleep stuff a little annoying because it will ask me to get 10 hours of sleep sometimes and I can’t change my schedule for that but it’s brutally honest and I like it",
+    "parent_category_tags": [
+      "feature_requests"
+    ],
+    "subcategory_tags": [
+      "personalization_use_case_fit"
+    ]
+  },
+  {
+    "review_id": "80bfce73-1e3c-4e67-a3d9-7ced163d6f54",
+    "source": "google_play",
+    "rating": 5,
+    "date": "2026-10-30T07:34:14+00:00",
+    "text": "whoop provides the info, it's up to the user what they make of it.",
+    "parent_category_tags": [
+      "nan"
+    ],
+    "subcategory_tags": [
+      "nan"
+    ]
+  },
+  {
+    "review_id": "14728300407",
+    "source": "app_store",
+    "rating": 1,
+    "date": "2026-10-29T21:59:47-07:00",
+    "text": "Stop the calorie counting, Whoop. Showing I burned my BMR daily despite exercising and moving, tracking strain, is dangerous!! Imagine I was a young impressionable mind or  someone with a bad relationship with food, you want them to eat 800 calories a day to lose weight?? Do better. Your algorithm isn't all that.",
+    "parent_category_tags": [
+      "data_accuracy",
+      "feature_requests"
+    ],
+    "subcategory_tags": [
+      "metric_accuracy",
+      "personalization_use_case_fit"
+    ]
+  },
+  {
+    "review_id": "10a0acf9-6b3c-4317-96c0-e5508e323955",
+    "source": "google_play",
+    "rating": 1,
+    "date": "2026-10-29T20:51:16+00:00",
+    "text": "Membership was charged during trial. I returned the device on Oct 6 within the 30-day return window and I am still waiting for the membership refund. Support has not replied to my emails for weeks. Please fix the refund process.",
+    "parent_category_tags": [
+      "pricing_billing",
+      "customer_support"
+    ],
+    "subcategory_tags": [
+      "billing_disputes",
+      "support_responsiveness"
+    ]
+  },
+  {
+    "review_id": "72762bcd-ca53-46ea-99c4-da660c2016a6",
+    "source": "google_play",
+    "rating": 5,
+    "date": "2026-10-29T19:24:29+00:00",
+    "text": "6 stars if there is an option xd",
+    "parent_category_tags": [
+      "nan"
+    ],
+    "subcategory_tags": [
+      "nan"
+    ]
+  },
+  {
     "review_id": "0f8c7248-4e9b-4444-9ee4-ad097ea25e17",
     "source": "google_play",
     "rating": 3,
@@ -10,6 +92,21 @@
     ],
     "subcategory_tags": [
       "missing_language_support"
+    ]
+  },
+  {
+    "review_id": "14725534590",
+    "source": "app_store",
+    "rating": 2,
+    "date": "2026-10-29T05:48:19-07:00",
+    "text": "I love whoop and have used it for years. I will continue to use it, however, very disappointed in the company for going the money grabbing route and distributing a wired charger with the new generation devices and asking users to pay an extra $50 for the wireless charger which was their standard with previous generations. Part of the appeal of the product was that you never have to take it off and have truly continuous data for years on end. Intentional charger regression in order to make a quick buck selling extra chargers seems to go against the whole ethos of the original company and product.",
+    "parent_category_tags": [
+      "pricing_billing",
+      "hardware_wearability"
+    ],
+    "subcategory_tags": [
+      "price_value_perception",
+      "build_quality_perception"
     ]
   },
   {

@@ -1,6 +1,28 @@
 {
   "pricing_billing": [
     {
+      "review_id": "10a0acf9-6b3c-4317-96c0-e5508e323955",
+      "source": "google_play",
+      "rating": 1,
+      "date": "2026-10-29T20:51:16+00:00",
+      "text": "Membership was charged during trial. I returned the device on Oct 6 within the 30-day return window and I am still waiting for the membership refund. Support has not replied to my emails for weeks. Please fix the refund process.",
+      "subcategory_tags": [
+        "billing_disputes",
+        "support_responsiveness"
+      ]
+    },
+    {
+      "review_id": "14725534590",
+      "source": "app_store",
+      "rating": 2,
+      "date": "2026-10-29T05:48:19-07:00",
+      "text": "I love whoop and have used it for years. I will continue to use it, however, very disappointed in the company for going the money grabbing route and distributing a wired charger with the new generation devices and asking users to pay an extra $50 for the wireless charger which was their standard with previous generations. Part of the appeal of the product was that you never have to take it off and have truly continuous data for years on end. Intentional charger regression in order to make a quick buck selling extra chargers seems to go against the whole ethos of the original company and product.",
+      "subcategory_tags": [
+        "price_value_perception",
+        "build_quality_perception"
+      ]
+    },
+    {
       "review_id": "14724090626",
       "source": "app_store",
       "rating": 1,
@@ -318,31 +340,20 @@
         "upsell_pressure",
         "ongoing_disconnects"
       ]
-    },
-    {
-      "review_id": "fb26315c-3f17-48ba-978d-99012156ce8b",
-      "source": "google_play",
-      "rating": 3,
-      "date": "2026-09-30T09:06:15+00:00",
-      "text": "happy with the product and services. But the subscription is expensive. Given the other similar products available, Whoop needs to revise the price and services.",
-      "subcategory_tags": [
-        "price_value_perception"
-      ]
-    },
-    {
-      "review_id": "14609970255",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-09-30T00:06:32-07:00",
-      "text": "OK for what it is but overpriced, constant upsell, locking your own biometric data into their ecosystem. Looking into the alternative band without a sub subscription. I don’t recommend this one, especially with their dark patterns and practices.",
-      "subcategory_tags": [
-        "price_value_perception",
-        "upsell_pressure",
-        "billing_disputes"
-      ]
     }
   ],
   "price_value_perception": [
+    {
+      "review_id": "14725534590",
+      "source": "app_store",
+      "rating": 2,
+      "date": "2026-10-29T05:48:19-07:00",
+      "text": "I love whoop and have used it for years. I will continue to use it, however, very disappointed in the company for going the money grabbing route and distributing a wired charger with the new generation devices and asking users to pay an extra $50 for the wireless charger which was their standard with previous generations. Part of the appeal of the product was that you never have to take it off and have truly continuous data for years on end. Intentional charger regression in order to make a quick buck selling extra chargers seems to go against the whole ethos of the original company and product.",
+      "subcategory_tags": [
+        "price_value_perception",
+        "build_quality_perception"
+      ]
+    },
     {
       "review_id": "14724090626",
       "source": "app_store",
@@ -673,20 +684,20 @@
         "price_value_perception",
         "billing_disputes"
       ]
-    },
-    {
-      "review_id": "516d891d-f053-4a7d-81d8-fd67bbe135fd",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2026-09-12T10:49:23+00:00",
-      "text": "Bought with a year's subscription included — but there's a dark pattern here. To use the device, you have to hand over card details so they can auto-charge you £350 in a year's time unless you remember to cancel. That's backwards: the burden should be on them to earn my renewal, not on me to remember to stop the charge. Also — no PayPal option, card only, which makes the auto-charge feel even more deliberate.",
-      "subcategory_tags": [
-        "billing_disputes",
-        "price_value_perception"
-      ]
     }
   ],
   "billing_disputes": [
+    {
+      "review_id": "10a0acf9-6b3c-4317-96c0-e5508e323955",
+      "source": "google_play",
+      "rating": 1,
+      "date": "2026-10-29T20:51:16+00:00",
+      "text": "Membership was charged during trial. I returned the device on Oct 6 within the 30-day return window and I am still waiting for the membership refund. Support has not replied to my emails for weeks. Please fix the refund process.",
+      "subcategory_tags": [
+        "billing_disputes",
+        "support_responsiveness"
+      ]
+    },
     {
       "review_id": "14715975388",
       "source": "app_store",
@@ -1026,17 +1037,6 @@
       "text": "The Whoop is an interesting tool that helped me to gain valuable insight regarding my sleep and training. After a couple of months I feel it no longer serves it purpose. I’d return it and save the $27 per month but I am committed to one year so that’s not an option. It is an expensive toy, for what I need. Looks good.",
       "subcategory_tags": [
         "price_value_perception",
-        "billing_disputes"
-      ]
-    },
-    {
-      "review_id": "ab0bc044-1d17-445e-b662-a8892b2d1dea",
-      "source": "google_play",
-      "rating": 2,
-      "date": "2026-08-12T12:49:06+00:00",
-      "text": "overrated devise, the app features some ads of available free integrations with other apps, but turns out is it not available for all regions. so why am I seeing them ? False advertising all over again, same as with free trial and return",
-      "subcategory_tags": [
-        "third_party_integration",
         "billing_disputes"
       ]
     }
@@ -1729,6 +1729,16 @@
   ],
   "sleep_tracking": [
     {
+      "review_id": "b42f18e5-e4bd-44f2-bf8a-4752b8394951",
+      "source": "google_play",
+      "rating": 5,
+      "date": "2026-10-30T12:41:26+00:00",
+      "text": "Whoop helps improve my health in so many ways. Quality and quantity of sleep, what affects recovery, activity strain, heart health, how my body handles different foods and timing of eating, stress management, I absolutely love it.",
+      "subcategory_tags": [
+        "sleep_satisfaction"
+      ]
+    },
+    {
       "review_id": "14722102564",
       "source": "app_store",
       "rating": 2,
@@ -2046,17 +2056,6 @@
       "text": "The app can wake you up by setting an alarm and having the device vibrate at that time. Though this works well and Bluetooth shows it connected, you have to actually open the app almost every day to get it to sync. Seems to be intentional given the alarm system works and Bluetooth is connected. Annoying, impractical, and questionable purpose from the vendor.",
       "subcategory_tags": [
         "data_sync_delays",
-        "sleep_alarm_ui"
-      ]
-    },
-    {
-      "review_id": "14541419111",
-      "source": "app_store",
-      "rating": 4,
-      "date": "2026-09-12T08:19:12-07:00",
-      "text": "i love it but i wish it had a small clock on it and had a way to set more alarms",
-      "subcategory_tags": [
-        "missing_activity_types",
         "sleep_alarm_ui"
       ]
     }
@@ -2414,6 +2413,16 @@
   ],
   "sleep_satisfaction": [
     {
+      "review_id": "b42f18e5-e4bd-44f2-bf8a-4752b8394951",
+      "source": "google_play",
+      "rating": 5,
+      "date": "2026-10-30T12:41:26+00:00",
+      "text": "Whoop helps improve my health in so many ways. Quality and quantity of sleep, what affects recovery, activity strain, heart health, how my body handles different foods and timing of eating, stress management, I absolutely love it.",
+      "subcategory_tags": [
+        "sleep_satisfaction"
+      ]
+    },
+    {
       "review_id": "14689591077",
       "source": "app_store",
       "rating": 5,
@@ -2722,18 +2731,6 @@
         "price_value_perception",
         "ai_positive_reception",
         "sleep_satisfaction"
-      ]
-    },
-    {
-      "review_id": "14426595707",
-      "source": "app_store",
-      "rating": 5,
-      "date": "2026-08-14T05:41:49-07:00",
-      "text": "I have tried all the big name wearables over the years, but this is by far the best! The battery lasts a week or more. I put it on and forget I’m wearing it. It’s the most accurate and detailed recovery and sleep analysis I’ve ever had.  I also love that it helps me trend my blood pressure too.",
-      "subcategory_tags": [
-        "battery_life",
-        "sleep_satisfaction",
-        "comfort_fit"
       ]
     }
   ],
@@ -3089,6 +3086,17 @@
   ],
   "hardware_wearability": [
     {
+      "review_id": "14725534590",
+      "source": "app_store",
+      "rating": 2,
+      "date": "2026-10-29T05:48:19-07:00",
+      "text": "I love whoop and have used it for years. I will continue to use it, however, very disappointed in the company for going the money grabbing route and distributing a wired charger with the new generation devices and asking users to pay an extra $50 for the wireless charger which was their standard with previous generations. Part of the appeal of the product was that you never have to take it off and have truly continuous data for years on end. Intentional charger regression in order to make a quick buck selling extra chargers seems to go against the whole ethos of the original company and product.",
+      "subcategory_tags": [
+        "price_value_perception",
+        "build_quality_perception"
+      ]
+    },
+    {
       "review_id": "14724090626",
       "source": "app_store",
       "rating": 1,
@@ -3429,17 +3437,6 @@
       "date": "2026-07-28T04:01:32-07:00",
       "text": "The insights and information has really helped me to improve my health and fitness. \n\nThe wristband Weil ingenious but very cumbersome",
       "subcategory_tags": [
-        "comfort_fit"
-      ]
-    },
-    {
-      "review_id": "14333940271",
-      "source": "app_store",
-      "rating": 3,
-      "date": "2026-07-22T04:10:21-07:00",
-      "text": "Improve pricing and band design",
-      "subcategory_tags": [
-        "price_value_perception",
         "comfort_fit"
       ]
     }
@@ -4502,6 +4499,17 @@
   ],
   "build_quality_perception": [
     {
+      "review_id": "14725534590",
+      "source": "app_store",
+      "rating": 2,
+      "date": "2026-10-29T05:48:19-07:00",
+      "text": "I love whoop and have used it for years. I will continue to use it, however, very disappointed in the company for going the money grabbing route and distributing a wired charger with the new generation devices and asking users to pay an extra $50 for the wireless charger which was their standard with previous generations. Part of the appeal of the product was that you never have to take it off and have truly continuous data for years on end. Intentional charger regression in order to make a quick buck selling extra chargers seems to go against the whole ethos of the original company and product.",
+      "subcategory_tags": [
+        "price_value_perception",
+        "build_quality_perception"
+      ]
+    },
+    {
       "review_id": "14664547671",
       "source": "app_store",
       "rating": 1,
@@ -4846,16 +4854,6 @@
       "text": "I’ve been a Whoop user for over two years, and I genuinely believe it's a great device. Unfortunately, my recent experience with the Whoop 5.0 has been very frustrating. After just two weeks of using the new device, it suddenly stopped working. The replacement device now frequently disconnects from my phone and has eventually stopped connecting altogether, leaving me unable to access any of my data through the app. The only solution offered was to unpair and reconnect the device each time.",
       "subcategory_tags": [
         "ongoing_disconnects",
-        "build_quality_perception"
-      ]
-    },
-    {
-      "review_id": "3ee3114b-590d-4640-9104-0783331dca77",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2025-05-13T11:50:38",
-      "text": "Whoop 5 is a downgrade from 4",
-      "subcategory_tags": [
         "build_quality_perception"
       ]
     }
@@ -6224,6 +6222,17 @@
   ],
   "data_accuracy": [
     {
+      "review_id": "14728300407",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-10-29T21:59:47-07:00",
+      "text": "Stop the calorie counting, Whoop. Showing I burned my BMR daily despite exercising and moving, tracking strain, is dangerous!! Imagine I was a young impressionable mind or  someone with a bad relationship with food, you want them to eat 800 calories a day to lose weight?? Do better. Your algorithm isn't all that.",
+      "subcategory_tags": [
+        "metric_accuracy",
+        "personalization_use_case_fit"
+      ]
+    },
+    {
       "review_id": "14722102564",
       "source": "app_store",
       "rating": 2,
@@ -6557,21 +6566,20 @@
         "support_resolution_quality",
         "metric_accuracy"
       ]
-    },
-    {
-      "review_id": "14528621274",
-      "source": "app_store",
-      "rating": 3,
-      "date": "2026-09-09T03:30:17-07:00",
-      "text": "This is a good app but really needs direct integrations to Claude and ChatGPT health.  \n\nAlso heart rate is definitely not accurate and often is far from being even remotely correct.\n\nLastly you cannot access the rest of the app while recording an activity",
-      "subcategory_tags": [
-        "third_party_integration",
-        "metric_accuracy",
-        "feature_ui_friction"
-      ]
     }
   ],
   "metric_accuracy": [
+    {
+      "review_id": "14728300407",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-10-29T21:59:47-07:00",
+      "text": "Stop the calorie counting, Whoop. Showing I burned my BMR daily despite exercising and moving, tracking strain, is dangerous!! Imagine I was a young impressionable mind or  someone with a bad relationship with food, you want them to eat 800 calories a day to lose weight?? Do better. Your algorithm isn't all that.",
+      "subcategory_tags": [
+        "metric_accuracy",
+        "personalization_use_case_fit"
+      ]
+    },
     {
       "review_id": "14722102564",
       "source": "app_store",
@@ -6907,19 +6915,6 @@
       "text": "I love the app, but now they have changed the algorithm, and a 40 minute walk results in ZERO strain. It used to be around 4.5. Either you were lying before, or you are lying now. Zero strain should be me sitting on my couch watching Netflix.",
       "subcategory_tags": [
         "metric_accuracy"
-      ]
-    },
-    {
-      "review_id": "3b2df189-fe72-4d0c-bfd7-9e7dd77b91e7",
-      "source": "google_play",
-      "rating": 3,
-      "date": "2026-08-21T22:50:47+00:00",
-      "text": "I've used WHOOP for nearly 3 months and have been frustrated with it more than a few times. Like other users, I’ve had to manually add sleep records because WHOOP fails to auto detect it. The AI uses inconsistent and sometimes contradictory language and observations. I'm paying a subscription fee for this product and expect higher data accuracy and analysis than I'm getting. I'm undecided if I'll renew my subscription.",
-      "subcategory_tags": [
-        "sleep_accuracy",
-        "ai_reliability_bugs",
-        "metric_accuracy",
-        "price_value_perception"
       ]
     }
   ],
@@ -9372,6 +9367,17 @@
   ],
   "customer_support": [
     {
+      "review_id": "10a0acf9-6b3c-4317-96c0-e5508e323955",
+      "source": "google_play",
+      "rating": 1,
+      "date": "2026-10-29T20:51:16+00:00",
+      "text": "Membership was charged during trial. I returned the device on Oct 6 within the 30-day return window and I am still waiting for the membership refund. Support has not replied to my emails for weeks. Please fix the refund process.",
+      "subcategory_tags": [
+        "billing_disputes",
+        "support_responsiveness"
+      ]
+    },
+    {
       "review_id": "a8bfec1d-6fb4-4e52-8039-f0767367082d",
       "source": "google_play",
       "rating": 1,
@@ -9718,21 +9724,20 @@
         "crashes_freezes",
         "support_resolution_quality"
       ]
-    },
-    {
-      "review_id": "14440002686",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-08-17T12:34:55-07:00",
-      "text": "Whoop support sucks. I keep experiencing the same issues over and over again. The app’s backend records everything correctly, but the data often doesn’t appear in the app until a day later.\n\nI’ve had Whoop for about seven months, and I’ve consistently experienced syncing issues. Unfortunately, the support experience has been just as frustrating. The support team often seems either unwilling to properly troubleshoot the issue or lacking sufficient product knowledge, and the same can be said about phone support.\n\nFor someone whose schedule frequently changes, Whoop also seems unable to adapt properly. In comparison, my Apple Watch paired with Bevel handles changing schedules and data much better and provides a far more reliable experience.",
-      "subcategory_tags": [
-        "data_sync_delays",
-        "support_resolution_quality",
-        "personalization_use_case_fit"
-      ]
     }
   ],
   "support_responsiveness": [
+    {
+      "review_id": "10a0acf9-6b3c-4317-96c0-e5508e323955",
+      "source": "google_play",
+      "rating": 1,
+      "date": "2026-10-29T20:51:16+00:00",
+      "text": "Membership was charged during trial. I returned the device on Oct 6 within the 30-day return window and I am still waiting for the membership refund. Support has not replied to my emails for weeks. Please fix the refund process.",
+      "subcategory_tags": [
+        "billing_disputes",
+        "support_responsiveness"
+      ]
+    },
     {
       "review_id": "a8bfec1d-6fb4-4e52-8039-f0767367082d",
       "source": "google_play",
@@ -10078,19 +10083,6 @@
         "strap_clasp_durability",
         "support_responsiveness",
         "support_resolution_quality"
-      ]
-    },
-    {
-      "review_id": "6897fb8a-76ef-4665-8cc4-299704eca3ce",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2026-05-23T05:05:31",
-      "text": "customer support really really bad, my device is showing inaccurate reading, all numbers are wrong! whoop support doesn't care, ignoring me totally giving unacceptable solutions! they refused to change the device! and refused to refund my subscription! unfortunately whoop now is only money driving, they show you how supportive they are one you do the purchase everything is changed after! they are not like how they use to be!",
-      "subcategory_tags": [
-        "metric_accuracy",
-        "support_responsiveness",
-        "support_resolution_quality",
-        "billing_disputes"
       ]
     }
   ],
@@ -15598,6 +15590,27 @@
   ],
   "feature_requests": [
     {
+      "review_id": "14729255653",
+      "source": "app_store",
+      "rating": 4,
+      "date": "2026-10-30T04:39:13-07:00",
+      "text": "I’ve been using WHOOP for a total of one month now and overall I’ve gotten all the specs I needed and learned a lot about my body the sleep stuff a little annoying because it will ask me to get 10 hours of sleep sometimes and I can’t change my schedule for that but it’s brutally honest and I like it",
+      "subcategory_tags": [
+        "personalization_use_case_fit"
+      ]
+    },
+    {
+      "review_id": "14728300407",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-10-29T21:59:47-07:00",
+      "text": "Stop the calorie counting, Whoop. Showing I burned my BMR daily despite exercising and moving, tracking strain, is dangerous!! Imagine I was a young impressionable mind or  someone with a bad relationship with food, you want them to eat 800 calories a day to lose weight?? Do better. Your algorithm isn't all that.",
+      "subcategory_tags": [
+        "metric_accuracy",
+        "personalization_use_case_fit"
+      ]
+    },
+    {
       "review_id": "b977b702-19c0-4648-ac69-9800c548d47c",
       "source": "google_play",
       "rating": 2,
@@ -15913,27 +15926,6 @@
         "third_party_integration",
         "metric_accuracy",
         "feature_ui_friction"
-      ]
-    },
-    {
-      "review_id": "14521987861",
-      "source": "app_store",
-      "rating": 4,
-      "date": "2026-09-07T09:19:50-07:00",
-      "text": "The devices battery lasts forever, which is really really helpful. It provides a lot of great information. The one thing that it desperately needs is the ability to track and trend blood pressure. Without this, it really is an imperfect device. That said, that’s why I give it four stars instead of five.",
-      "subcategory_tags": [
-        "battery_life",
-        "missing_metrics"
-      ]
-    },
-    {
-      "review_id": "14521116556",
-      "source": "app_store",
-      "rating": 3,
-      "date": "2026-09-07T05:02:42-07:00",
-      "text": "This is a wonderful idea and product. It offers great feedback, however, it is not designed for people over 60. There is a lot of room for improvement in that department. If I were 35 it would be five stars!",
-      "subcategory_tags": [
-        "personalization_use_case_fit"
       ]
     }
   ],
@@ -16613,6 +16605,27 @@
   ],
   "personalization_use_case_fit": [
     {
+      "review_id": "14729255653",
+      "source": "app_store",
+      "rating": 4,
+      "date": "2026-10-30T04:39:13-07:00",
+      "text": "I’ve been using WHOOP for a total of one month now and overall I’ve gotten all the specs I needed and learned a lot about my body the sleep stuff a little annoying because it will ask me to get 10 hours of sleep sometimes and I can’t change my schedule for that but it’s brutally honest and I like it",
+      "subcategory_tags": [
+        "personalization_use_case_fit"
+      ]
+    },
+    {
+      "review_id": "14728300407",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-10-29T21:59:47-07:00",
+      "text": "Stop the calorie counting, Whoop. Showing I burned my BMR daily despite exercising and moving, tracking strain, is dangerous!! Imagine I was a young impressionable mind or  someone with a bad relationship with food, you want them to eat 800 calories a day to lose weight?? Do better. Your algorithm isn't all that.",
+      "subcategory_tags": [
+        "metric_accuracy",
+        "personalization_use_case_fit"
+      ]
+    },
+    {
       "review_id": "b977b702-19c0-4648-ac69-9800c548d47c",
       "source": "google_play",
       "rating": 2,
@@ -16936,29 +16949,6 @@
       "subcategory_tags": [
         "ai_reliability_bugs",
         "personalization_use_case_fit"
-      ]
-    },
-    {
-      "review_id": "6fbe5271-092f-4a3f-a305-9e6b2e5d2bd3",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2026-07-23T10:05:58",
-      "text": "I don't like the new AI - it used to be data-driven, focused on facts. Now the \"coach\" is routinely berating me for not doing enough, not being perfect, not sleeping better, not even acknowledging improvements or context (e.g. disease keeping me awake). I told the AI several times but it remains critical and berates on a daily basis. This is seriously making me consider abandoning Whoop for another wearable. This may be great for professional athletes but normal people need leeway not perfection",
-      "subcategory_tags": [
-        "ai_reliability_bugs",
-        "personalization_use_case_fit"
-      ]
-    },
-    {
-      "review_id": "14335307574",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-07-22T11:00:08-07:00",
-      "text": "It’s cool to see the tracking for like simple workouts and jogs, but if you do intense physical contact sports like mma it does a horrible job of tracking your stats. I have had multiple sessions where it just gives me a blank time period when I’m working out and it’s very frustrating. Sometimes it works but it’s very in consistent. Also the price is so much for something so simple. Buying an Apple Watch is the same thing but no subscription.",
-      "subcategory_tags": [
-        "activity_detection",
-        "personalization_use_case_fit",
-        "price_value_perception"
       ]
     }
   ],
