@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T17:33:11.734084",
+  "generated_at": "2026-11-01T18:18:15.251338",
   "product": "WHOOP",
   "sources": {
     "google_play": {
@@ -49,14 +49,16 @@
     "avg_length_words": 40.8
   },
   "drop_counts": {
-    "dropped_empty_or_short": 451,
+    "dropped_empty_or_short": 444,
     "dropped_duplicate": 0
   },
-  "issues": [],
+  "issues": [
+    "App Store: page 1 returned 0 entries (HTTP 200) -- likely a transient per-storefront throttle from Apple, not a real empty feed. No reviews collected this pull; prior data was left untouched by the upsert."
+  ],
   "merge_counts": {
-    "new": 7,
+    "new": 0,
     "updated": 0,
-    "unchanged": 3014,
-    "carried_over": 727
+    "unchanged": 2978,
+    "carried_over": 770
   }
 }

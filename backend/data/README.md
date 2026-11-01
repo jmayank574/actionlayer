@@ -1,15 +1,15 @@
 # WHOOP review dataset
 
-Generated 2026-10-31T17:33:11.734084
+Generated 2026-11-01T18:18:15.251338
 
 Every row below came from a live Google Play or Apple App Store response — nothing in this dataset is model-generated, inferred, or backfilled. Counts reflect exactly what each source returned.
 
 ## Since last pull
 
-- New reviews: **7**
+- New reviews: **0**
 - Edited since last seen: 0
-- Returned again, unchanged: 3014
-- Carried over from a prior pull (not returned this time, e.g. aged out of Apple's ~500-review RSS window): 727
+- Returned again, unchanged: 2978
+- Carried over from a prior pull (not returned this time, e.g. aged out of Apple's ~500-review RSS window): 770
 
 ## By source
 
@@ -36,10 +36,10 @@ Every row below came from a live Google Play or Apple App Store response — not
 
 ## Filtering applied
 
-- Dropped as empty/near-empty (<5 words): 451
+- Dropped as empty/near-empty (<5 words): 444
 - Dropped as duplicates (same review_id + text): 0
 - No filtering by rating, sentiment, or topic — this is the full unfiltered distribution, 5-star reviews included.
 
 ## Rate-limiting / access issues hit during this pull
 
-- None.
+- App Store: page 1 returned 0 entries (HTTP 200) -- likely a transient per-storefront throttle from Apple, not a real empty feed. No reviews collected this pull; prior data was left untouched by the upsert.
