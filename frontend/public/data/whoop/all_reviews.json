@@ -1,5 +1,114 @@
 [
   {
+    "review_id": "df590e37-10ab-4d02-b492-eaefa7316201",
+    "source": "google_play",
+    "rating": 5,
+    "date": "2026-10-31T20:22:25+00:00",
+    "text": "Its been a game changer!",
+    "parent_category_tags": [
+      "nan"
+    ],
+    "subcategory_tags": [
+      "nan"
+    ]
+  },
+  {
+    "review_id": "14733709530",
+    "source": "app_store",
+    "rating": 1,
+    "date": "2026-10-31T06:34:08-07:00",
+    "text": "If you want a tracker for calorie counting, steps and overall activity, this is not the device for you. I have used a health tracker for years and this is the worst. The information is inaccurate on a regular basis. The only thing I find it is useful for is tracking sleep but the device is very expensive to be so inaccurate on everything else.",
+    "parent_category_tags": [
+      "data_accuracy",
+      "sleep_tracking",
+      "pricing_billing"
+    ],
+    "subcategory_tags": [
+      "metric_accuracy",
+      "sleep_satisfaction",
+      "price_value_perception"
+    ]
+  },
+  {
+    "review_id": "14733590321",
+    "source": "app_store",
+    "rating": 5,
+    "date": "2026-10-31T06:01:17-07:00",
+    "text": "I love my Whoop. I love the data it provides and how it helps me approach my health. I love that it is one of the only health devices that takes into account women’s health and menstrual cycles as part of the picture. I have had my whoop for a year and a half. It is the best tool out there for those who are interested in overall health or increasing healthspan. When the renewal came up I admit I seriously debated. When you first get the whoop you get something physical with the cost—but at renewal you are dropping the same price and receive nothing physical in return, and that was a little difficult to wrap my mind around. I personally think if Whoop sent a new band out at renewal they would increase their renewal rate because it is a psychological thing. However, I do love all that my whoop provides. You get as much out of it as you put into it. I wish there was more option for custom behavior tracking",
+    "parent_category_tags": [
+      "pricing_billing",
+      "feature_requests",
+      "feature_requests"
+    ],
+    "subcategory_tags": [
+      "price_value_perception",
+      "personalization_use_case_fit",
+      "missing_activity_types"
+    ]
+  },
+  {
+    "review_id": "14733473666",
+    "source": "app_store",
+    "rating": 4,
+    "date": "2026-10-31T05:27:33-07:00",
+    "text": "Whoop provides meaningful and actionable insights. Nonetheless also suggests very well structured plans in how to improve your heath metrics. The hardware still is not at its best. Not so comfortable and during runs it dislocate and provide wrong information.",
+    "parent_category_tags": [
+      "hardware_wearability",
+      "data_accuracy",
+      "hardware_wearability"
+    ],
+    "subcategory_tags": [
+      "comfort_fit",
+      "metric_accuracy",
+      "build_quality_perception"
+    ]
+  },
+  {
+    "review_id": "14732806449",
+    "source": "app_store",
+    "rating": 5,
+    "date": "2026-10-31T01:28:47-07:00",
+    "text": "Accompagne et assure un suivis par sois mm",
+    "parent_category_tags": [
+      "nan"
+    ],
+    "subcategory_tags": [
+      "nan"
+    ]
+  },
+  {
+    "review_id": "14732390346",
+    "source": "app_store",
+    "rating": 4,
+    "date": "2026-10-30T22:26:30-07:00",
+    "text": "I noticed whoop is very generous with sleep evaluations.. I get up 2-3 times and I feel bad in the morning and still I get fabulous report about recovery and catching up on my sleep. Many times I noticed whoop concluding my yoga and walking sessions  falsely while I am sitting on the couch",
+    "parent_category_tags": [
+      "sleep_tracking",
+      "data_accuracy"
+    ],
+    "subcategory_tags": [
+      "sleep_accuracy",
+      "activity_detection"
+    ]
+  },
+  {
+    "review_id": "14732202299",
+    "source": "app_store",
+    "rating": 1,
+    "date": "2026-10-30T21:01:52-07:00",
+    "text": "Just be aware that many Whoop’s don’t actually work. They give you wrong data or no data which calls in to question all their data. Then when you try to replace the faulty product you get a long list of ridiculous actions to perform.  Don’t waste your money. And there is no real guarantee.",
+    "parent_category_tags": [
+      "data_accuracy",
+      "customer_support",
+      "pricing_billing"
+    ],
+    "subcategory_tags": [
+      "metric_accuracy",
+      "support_resolution_quality",
+      "price_value_perception"
+    ]
+  },
+  {
     "review_id": "b42f18e5-e4bd-44f2-bf8a-4752b8394951",
     "source": "google_play",
     "rating": 5,
