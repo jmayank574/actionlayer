@@ -1,64 +1,64 @@
 {
-  "generated_at": "2026-11-01T18:18:15.251338",
+  "generated_at": "2026-11-02T22:13:30.246969",
   "product": "WHOOP",
   "sources": {
     "google_play": {
-      "total": 2986,
+      "total": 2987,
       "date_range": [
         "2017-08-25T20:34:31",
-        "2026-10-30T12:41:26"
+        "2026-10-31T20:22:25"
       ],
       "rating_distribution": {
         "1": 1127,
         "2": 374,
         "3": 332,
         "4": 281,
-        "5": 872
+        "5": 873
       },
-      "avg_length_words": 37.8
+      "avg_length_words": 37.7
     },
     "app_store": {
-      "total": 762,
+      "total": 768,
       "date_range": [
         "2025-11-17T19:06:49",
-        "2026-10-30T04:39:13"
+        "2026-10-31T06:34:08"
       ],
       "rating_distribution": {
-        "1": 222,
+        "1": 224,
         "2": 66,
         "3": 69,
-        "4": 78,
-        "5": 327
+        "4": 80,
+        "5": 329
       },
-      "avg_length_words": 52.6
+      "avg_length_words": 52.7
     }
   },
   "combined": {
-    "total": 3748,
+    "total": 3755,
     "date_range": [
       "2017-08-25T20:34:31",
-      "2026-10-30T12:41:26"
+      "2026-10-31T20:22:25"
     ],
     "rating_distribution": {
-      "1": 1349,
+      "1": 1351,
       "2": 440,
       "3": 401,
-      "4": 359,
-      "5": 1199
+      "4": 361,
+      "5": 1202
     },
     "avg_length_words": 40.8
   },
   "drop_counts": {
-    "dropped_empty_or_short": 444,
+    "dropped_empty_or_short": 500,
     "dropped_duplicate": 0
   },
   "issues": [
-    "App Store: page 1 returned 0 entries (HTTP 200) -- likely a transient per-storefront throttle from Apple, not a real empty feed. No reviews collected this pull; prior data was left untouched by the upsert."
+    "App Store: hit Apple's 10-page RSS cap (~500 reviews) \u2014 this is a limit of Apple's public feed, not a failure of the pull. Apple does not expose full review history through any public endpoint."
   ],
   "merge_counts": {
-    "new": 0,
+    "new": 7,
     "updated": 0,
-    "unchanged": 2978,
-    "carried_over": 770
+    "unchanged": 3415,
+    "carried_over": 333
   }
 }
