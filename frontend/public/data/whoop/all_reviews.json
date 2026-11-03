@@ -1,5 +1,63 @@
 [
   {
+    "review_id": "e100d880-0182-4eb4-930b-bf1831b4ba33",
+    "source": "google_play",
+    "rating": 5,
+    "date": "2026-11-02T14:33:13+00:00",
+    "text": "still feeling it out, BUT I'm impressed so far",
+    "parent_category_tags": [
+      "nan"
+    ],
+    "subcategory_tags": [
+      "nan"
+    ]
+  },
+  {
+    "review_id": "14740743663",
+    "source": "app_store",
+    "rating": 1,
+    "date": "2026-11-01T23:07:48-07:00",
+    "text": "I have been using the wolf for about five years, and I upgraded last year to the newer one, and I will say I’m not as happy with it as I was with the previous model. Especially since I’m paying more money",
+    "parent_category_tags": [
+      "hardware_wearability",
+      "pricing_billing"
+    ],
+    "subcategory_tags": [
+      "build_quality_perception",
+      "price_value_perception"
+    ]
+  },
+  {
+    "review_id": "14739600253",
+    "source": "app_store",
+    "rating": 1,
+    "date": "2026-11-01T15:08:30-07:00",
+    "text": "Software engineer here. Love whoop (or did) I’ve been using it for over a year now. Bugs happen and are unavoidable but over the past ~3 months there has been a noticeable decrease in the quality of updates with a significant number of bugs. For example: I had a late night and was trying to adjust my alarm on the whoop app (normally set to 5:30) but the alarm option had completely disappeared for a day :/. On top of this they’ve added an AI assistant and it seems there is no way to disable it.",
+    "parent_category_tags": [
+      "sleep_tracking",
+      "ai_coach",
+      "app_stability"
+    ],
+    "subcategory_tags": [
+      "sleep_alarm_ui",
+      "ai_autonomy",
+      "crashes_freezes"
+    ]
+  },
+  {
+    "review_id": "14738915260",
+    "source": "app_store",
+    "rating": 4,
+    "date": "2026-11-01T11:09:22-07:00",
+    "text": "I love my whoop, I love all the health tracking insights and advice it gives only thing that could make it better is a screen or ignited gps tracking",
+    "parent_category_tags": [
+      "feature_requests"
+    ],
+    "subcategory_tags": [
+      "missing_metrics"
+    ]
+  },
+  {
     "review_id": "df590e37-10ab-4d02-b492-eaefa7316201",
     "source": "google_play",
     "rating": 5,

@@ -1,20 +1,20 @@
 {
-  "total_reviews": 3755,
-  "newly_tagged_this_run": 7,
-  "carried_over_this_run": 3748,
-  "tagged_ok": 3755,
+  "total_reviews": 3759,
+  "newly_tagged_this_run": 4,
+  "carried_over_this_run": 3755,
+  "tagged_ok": 3759,
   "failed": 0,
   "coverage_pct_this_run": 100.0,
   "invalid_subcategory_ids_dropped": 0,
   "unexpected_review_ids_dropped": 0,
-  "other_ungrouped_count": 767,
+  "other_ungrouped_count": 768,
   "other_ungrouped_rate": 0.2043,
   "other_ungrouped_reference_range": [
     0.1,
     0.15
   ],
   "other_ungrouped_out_of_reference_range": true,
-  "multi_label_count": 1817,
+  "multi_label_count": 1819,
   "multi_label_rate": 0.4839,
   "multi_label_reference_range": [
     0.35,

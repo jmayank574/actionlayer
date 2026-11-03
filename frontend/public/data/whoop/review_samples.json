@@ -1,6 +1,17 @@
 {
   "pricing_billing": [
     {
+      "review_id": "14740743663",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-11-01T23:07:48-07:00",
+      "text": "I have been using the wolf for about five years, and I upgraded last year to the newer one, and I will say I’m not as happy with it as I was with the previous model. Especially since I’m paying more money",
+      "subcategory_tags": [
+        "build_quality_perception",
+        "price_value_perception"
+      ]
+    },
+    {
       "review_id": "14733709530",
       "source": "app_store",
       "rating": 1,
@@ -333,19 +344,20 @@
         "update_failures",
         "billing_disputes"
       ]
-    },
-    {
-      "review_id": "14625197501",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-10-03T20:20:11-07:00",
-      "text": "In the age of way more secure digital pay options, I shouldn’t need to enter my credit card information to sign up. Digital wallets are more secure. Please get up to speed and integrate those payment options.",
-      "subcategory_tags": [
-        "billing_disputes"
-      ]
     }
   ],
   "price_value_perception": [
+    {
+      "review_id": "14740743663",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-11-01T23:07:48-07:00",
+      "text": "I have been using the wolf for about five years, and I upgraded last year to the newer one, and I will say I’m not as happy with it as I was with the previous model. Especially since I’m paying more money",
+      "subcategory_tags": [
+        "build_quality_perception",
+        "price_value_perception"
+      ]
+    },
     {
       "review_id": "14733709530",
       "source": "app_store",
@@ -673,18 +685,6 @@
       "date": "2026-09-18T07:38:44+00:00",
       "text": "It's super expensive for it. There are better options at a similar level. Or if you're lucky to get it at a very good discounted price; perfect.",
       "subcategory_tags": [
-        "price_value_perception"
-      ]
-    },
-    {
-      "review_id": "c67d4d27-c4f7-453d-88b8-8b7f67795dad",
-      "source": "google_play",
-      "rating": 2,
-      "date": "2026-09-16T07:21:17+00:00",
-      "text": "the app and watch has been so inconsistent in working i tried to return it however unfortunately due to some issues in my own personal life I missed the threshold for reimbursing my money for the 2 year payment. I have now attempted to use the watch again (as an athlete and performer, I thought it would aid my recovery and fitness/wellness) however unfortunately this second attempt has been just as inconsistent. alot of days there are hours of missing data and often no data is given at all.",
-      "subcategory_tags": [
-        "data_sync_delays",
-        "billing_disputes",
         "price_value_perception"
       ]
     }
@@ -1732,6 +1732,18 @@
   ],
   "sleep_tracking": [
     {
+      "review_id": "14739600253",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-11-01T15:08:30-07:00",
+      "text": "Software engineer here. Love whoop (or did) I’ve been using it for over a year now. Bugs happen and are unavoidable but over the past ~3 months there has been a noticeable decrease in the quality of updates with a significant number of bugs. For example: I had a late night and was trying to adjust my alarm on the whoop app (normally set to 5:30) but the alarm option had completely disappeared for a day :/. On top of this they’ve added an AI assistant and it seems there is no way to disable it.",
+      "subcategory_tags": [
+        "sleep_alarm_ui",
+        "ai_autonomy",
+        "crashes_freezes"
+      ]
+    },
+    {
       "review_id": "14733709530",
       "source": "app_store",
       "rating": 1,
@@ -2050,18 +2062,6 @@
       "subcategory_tags": [
         "sleep_satisfaction",
         "personalization_use_case_fit"
-      ]
-    },
-    {
-      "review_id": "515f1ebe-8d99-44b6-a405-917474dc49ec",
-      "source": "google_play",
-      "rating": 2,
-      "date": "2026-09-18T04:09:46+00:00",
-      "text": "Very inaccurate tracking and frequent synchronization issues I’m quite disappointed with the OP app. The activity and health tracking is frequently inaccurate. While I’m driving, the app sometimes records the activity as yoga or exercise, which makes the activity data unreliable. The sleep tracking is also inaccurate. For example, if I actually sleep at around 12 AM, the app may record my sleep as starting at 11 PM. Sleep duration is sometimes overstated, and naps are not detected or recorded",
-      "subcategory_tags": [
-        "activity_detection",
-        "sleep_accuracy",
-        "data_sync_delays"
       ]
     }
   ],
@@ -2740,6 +2740,18 @@
   ],
   "sleep_alarm_ui": [
     {
+      "review_id": "14739600253",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-11-01T15:08:30-07:00",
+      "text": "Software engineer here. Love whoop (or did) I’ve been using it for over a year now. Bugs happen and are unavoidable but over the past ~3 months there has been a noticeable decrease in the quality of updates with a significant number of bugs. For example: I had a late night and was trying to adjust my alarm on the whoop app (normally set to 5:30) but the alarm option had completely disappeared for a day :/. On top of this they’ve added an AI assistant and it seems there is no way to disable it.",
+      "subcategory_tags": [
+        "sleep_alarm_ui",
+        "ai_autonomy",
+        "crashes_freezes"
+      ]
+    },
+    {
       "review_id": "14661621739",
       "source": "app_store",
       "rating": 1,
@@ -3073,22 +3085,20 @@
         "data_sync_delays",
         "sleep_alarm_ui"
       ]
-    },
-    {
-      "review_id": "8ffe25ff-7686-4b8d-8ff7-8965c822aea8",
-      "source": "google_play",
-      "rating": 2,
-      "date": "2024-04-23T07:30:46",
-      "text": "Difficult to navigate, and now the Strength Trainer feature crashes the app. I cannot find the alarm clock unless the app happens to present it to me. There are features I forget about because they're hidden in some tab I never use. Otherwise, It seems to handle lack of Internet and Bluetooth connectivity well.",
-      "subcategory_tags": [
-        "redesign_regression",
-        "crashes_freezes",
-        "sleep_alarm_ui",
-        "feature_ui_friction"
-      ]
     }
   ],
   "hardware_wearability": [
+    {
+      "review_id": "14740743663",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-11-01T23:07:48-07:00",
+      "text": "I have been using the wolf for about five years, and I upgraded last year to the newer one, and I will say I’m not as happy with it as I was with the previous model. Especially since I’m paying more money",
+      "subcategory_tags": [
+        "build_quality_perception",
+        "price_value_perception"
+      ]
+    },
     {
       "review_id": "14733473666",
       "source": "app_store",
@@ -3434,16 +3444,6 @@
         "comfort_fit",
         "price_value_perception",
         "personalization_use_case_fit"
-      ]
-    },
-    {
-      "review_id": "14357959186",
-      "source": "app_store",
-      "rating": 3,
-      "date": "2026-07-28T04:08:25-07:00",
-      "text": "Band isn’t even black anymore",
-      "subcategory_tags": [
-        "build_quality_perception"
       ]
     }
   ],
@@ -4502,6 +4502,17 @@
   ],
   "build_quality_perception": [
     {
+      "review_id": "14740743663",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-11-01T23:07:48-07:00",
+      "text": "I have been using the wolf for about five years, and I upgraded last year to the newer one, and I will say I’m not as happy with it as I was with the previous model. Especially since I’m paying more money",
+      "subcategory_tags": [
+        "build_quality_perception",
+        "price_value_perception"
+      ]
+    },
+    {
       "review_id": "14733473666",
       "source": "app_store",
       "rating": 4,
@@ -4847,18 +4858,6 @@
         "price_value_perception",
         "build_quality_perception",
         "billing_disputes"
-      ]
-    },
-    {
-      "review_id": "ba73886b-f77b-42a0-897f-e17c4077beb0",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2025-06-14T09:07:25",
-      "text": "Will not renew. Device is way overpriced and doesn't work well. 5.0 constantly disconnects for no reason. Device is 7% smaller which adds no benefit to the user but forces you to buy more straps so they can milk their customers dry. Any company that treats their consumers like this won't last very long.",
-      "subcategory_tags": [
-        "price_value_perception",
-        "ongoing_disconnects",
-        "build_quality_perception"
       ]
     }
   ],
@@ -8036,6 +8035,18 @@
   ],
   "ai_coach": [
     {
+      "review_id": "14739600253",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-11-01T15:08:30-07:00",
+      "text": "Software engineer here. Love whoop (or did) I’ve been using it for over a year now. Bugs happen and are unavoidable but over the past ~3 months there has been a noticeable decrease in the quality of updates with a significant number of bugs. For example: I had a late night and was trying to adjust my alarm on the whoop app (normally set to 5:30) but the alarm option had completely disappeared for a day :/. On top of this they’ve added an AI assistant and it seems there is no way to disable it.",
+      "subcategory_tags": [
+        "sleep_alarm_ui",
+        "ai_autonomy",
+        "crashes_freezes"
+      ]
+    },
+    {
       "review_id": "135f6d5c-08ec-42ed-8ca9-779da071e7a0",
       "source": "google_play",
       "rating": 1,
@@ -8352,16 +8363,6 @@
       "rating": 4,
       "date": "2026-08-25T10:39:00-07:00",
       "text": "It’s great does a good job, but I wish the AI was a little more aware on my workouts and plans we discussed and executed together. Kind of just does its own unless I remind it. Other than that it’s good",
-      "subcategory_tags": [
-        "ai_reliability_bugs"
-      ]
-    },
-    {
-      "review_id": "2955ad1b-6478-4de9-9ffd-6abee47d43e6",
-      "source": "google_play",
-      "rating": 2,
-      "date": "2026-08-24T14:07:45+00:00",
-      "text": "ai bug the ai window gets stuck on full screen and I can't exit it and rest of app becomes inaccessible...",
       "subcategory_tags": [
         "ai_reliability_bugs"
       ]
@@ -8714,6 +8715,18 @@
   ],
   "ai_autonomy": [
     {
+      "review_id": "14739600253",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-11-01T15:08:30-07:00",
+      "text": "Software engineer here. Love whoop (or did) I’ve been using it for over a year now. Bugs happen and are unavoidable but over the past ~3 months there has been a noticeable decrease in the quality of updates with a significant number of bugs. For example: I had a late night and was trying to adjust my alarm on the whoop app (normally set to 5:30) but the alarm option had completely disappeared for a day :/. On top of this they’ve added an AI assistant and it seems there is no way to disable it.",
+      "subcategory_tags": [
+        "sleep_alarm_ui",
+        "ai_autonomy",
+        "crashes_freezes"
+      ]
+    },
+    {
       "review_id": "135f6d5c-08ec-42ed-8ca9-779da071e7a0",
       "source": "google_play",
       "rating": 1,
@@ -9034,17 +9047,6 @@
         "upsell_pressure",
         "ai_autonomy",
         "notification_community_issues"
-      ]
-    },
-    {
-      "review_id": "e0d0cecf-29f9-4c31-90cc-9d93db370d5b",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2022-12-23T19:26:35",
-      "text": "Too many useless notifications. \"Features\" I don't want with no way to disable. I just edited wanted a fitness tracker not a clingy girlfriend.",
-      "subcategory_tags": [
-        "notification_community_issues",
-        "ai_autonomy"
       ]
     }
   ],
@@ -11163,6 +11165,18 @@
   ],
   "app_stability": [
     {
+      "review_id": "14739600253",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-11-01T15:08:30-07:00",
+      "text": "Software engineer here. Love whoop (or did) I’ve been using it for over a year now. Bugs happen and are unavoidable but over the past ~3 months there has been a noticeable decrease in the quality of updates with a significant number of bugs. For example: I had a late night and was trying to adjust my alarm on the whoop app (normally set to 5:30) but the alarm option had completely disappeared for a day :/. On top of this they’ve added an AI assistant and it seems there is no way to disable it.",
+      "subcategory_tags": [
+        "sleep_alarm_ui",
+        "ai_autonomy",
+        "crashes_freezes"
+      ]
+    },
+    {
       "review_id": "f699e2c3-63c8-4472-b73d-dbc6cc9c8cd3",
       "source": "google_play",
       "rating": 2,
@@ -11486,24 +11500,21 @@
         "update_failures",
         "crashes_freezes"
       ]
-    },
-    {
-      "review_id": "abc20aac-c89c-4824-9d67-43c978fcbc3e",
-      "source": "google_play",
-      "rating": 4,
-      "date": "2026-08-02T16:08:49",
-      "text": "Monitoring of sleep and recovery ,HRV ,are very good. But many rooms of improvement for the expensive cost of memberships. Ai advice are mainly push you to more exercise and sleep. And data collections , diary are time consuming. It cannot detect activities uncless you log in. customer service are slow. Multiple lag time and hang of app requiring forced close and restore. Ai advice of activities are not medical advice , but its act like one. So I use it just baseline daily monitor.",
-      "subcategory_tags": [
-        "sleep_satisfaction",
-        "price_value_perception",
-        "ai_reliability_bugs",
-        "activity_detection",
-        "support_responsiveness",
-        "crashes_freezes"
-      ]
     }
   ],
   "crashes_freezes": [
+    {
+      "review_id": "14739600253",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-11-01T15:08:30-07:00",
+      "text": "Software engineer here. Love whoop (or did) I’ve been using it for over a year now. Bugs happen and are unavoidable but over the past ~3 months there has been a noticeable decrease in the quality of updates with a significant number of bugs. For example: I had a late night and was trying to adjust my alarm on the whoop app (normally set to 5:30) but the alarm option had completely disappeared for a day :/. On top of this they’ve added an AI assistant and it seems there is no way to disable it.",
+      "subcategory_tags": [
+        "sleep_alarm_ui",
+        "ai_autonomy",
+        "crashes_freezes"
+      ]
+    },
     {
       "review_id": "f699e2c3-63c8-4472-b73d-dbc6cc9c8cd3",
       "source": "google_play",
@@ -11825,16 +11836,6 @@
       "subcategory_tags": [
         "crashes_freezes",
         "android_specific_bugs"
-      ]
-    },
-    {
-      "review_id": "14328610401",
-      "source": "app_store",
-      "rating": 4,
-      "date": "2026-07-20T19:21:05-07:00",
-      "text": "I love your product. I love your app. But it crashes on me almost every time if I have the app open longer than 2 minutes.",
-      "subcategory_tags": [
-        "crashes_freezes"
       ]
     }
   ],
@@ -15601,6 +15602,16 @@
   ],
   "feature_requests": [
     {
+      "review_id": "14738915260",
+      "source": "app_store",
+      "rating": 4,
+      "date": "2026-11-01T11:09:22-07:00",
+      "text": "I love my whoop, I love all the health tracking insights and advice it gives only thing that could make it better is a screen or ignited gps tracking",
+      "subcategory_tags": [
+        "missing_metrics"
+      ]
+    },
+    {
       "review_id": "14733590321",
       "source": "app_store",
       "rating": 5,
@@ -15926,17 +15937,6 @@
       "subcategory_tags": [
         "missing_activity_types",
         "sleep_alarm_ui"
-      ]
-    },
-    {
-      "review_id": "d20107ed-a0dc-420d-894c-284346d61968",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2026-09-11T23:53:17+00:00",
-      "text": "app doesnt show calories burned by activity. ai support says tap on the activity but my app doesnt show it even after an update!",
-      "subcategory_tags": [
-        "missing_metrics",
-        "ai_only_support_channel"
       ]
     }
   ],
@@ -16277,6 +16277,16 @@
   ],
   "missing_metrics": [
     {
+      "review_id": "14738915260",
+      "source": "app_store",
+      "rating": 4,
+      "date": "2026-11-01T11:09:22-07:00",
+      "text": "I love my whoop, I love all the health tracking insights and advice it gives only thing that could make it better is a screen or ignited gps tracking",
+      "subcategory_tags": [
+        "missing_metrics"
+      ]
+    },
+    {
       "review_id": "14684980596",
       "source": "app_store",
       "rating": 4,
@@ -16601,16 +16611,6 @@
       "text": "We love WHOOP but we need more update. It’s not giving us everything and there is no Arabic language.",
       "subcategory_tags": [
         "missing_language_support",
-        "missing_metrics"
-      ]
-    },
-    {
-      "review_id": "8ff6c65d-3262-48aa-888f-041709c0ee97",
-      "source": "google_play",
-      "rating": 5,
-      "date": "2026-07-21T16:49:32",
-      "text": "it tell you how your mental health is?",
-      "subcategory_tags": [
         "missing_metrics"
       ]
     }
