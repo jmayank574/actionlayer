@@ -1732,6 +1732,16 @@
   ],
   "sleep_tracking": [
     {
+      "review_id": "14743092014",
+      "source": "app_store",
+      "rating": 5,
+      "date": "2026-11-02T12:24:45-07:00",
+      "text": "This strap has been apart of my life for four years now I’ve upgraded through out usage, it’s very helpful with judging how my workouts or sleep have effected my day or the days to come highly recommend",
+      "subcategory_tags": [
+        "sleep_satisfaction"
+      ]
+    },
+    {
       "review_id": "14739600253",
       "source": "app_store",
       "rating": 1,
@@ -2051,17 +2061,6 @@
       "subcategory_tags": [
         "sleep_satisfaction",
         "data_sync_delays"
-      ]
-    },
-    {
-      "review_id": "14563984011",
-      "source": "app_store",
-      "rating": 5,
-      "date": "2026-09-18T04:59:30-07:00",
-      "text": "Whoop is so great in so many ways. From telling me that my body needs more rest, to telling me my body is fighting off a sickness because my recovery is low and I have had adequate and not overstrained myself, but to sleep and to take it easy. \n\nIt lows my regular menstrual cycles and will start telling me up to five days ahead that it is coming and usually in day two before it arrives, it tells me that my body’s symptoms and they are usually perfectly on point. \n\nI love that it tells me what I my strain should be and if I surpass what the goal was for the day, it tells me keep pushing to hit a certain number to give it an all out day.",
-      "subcategory_tags": [
-        "sleep_satisfaction",
-        "personalization_use_case_fit"
       ]
     }
   ],
@@ -2417,6 +2416,16 @@
   ],
   "sleep_satisfaction": [
     {
+      "review_id": "14743092014",
+      "source": "app_store",
+      "rating": 5,
+      "date": "2026-11-02T12:24:45-07:00",
+      "text": "This strap has been apart of my life for four years now I’ve upgraded through out usage, it’s very helpful with judging how my workouts or sleep have effected my day or the days to come highly recommend",
+      "subcategory_tags": [
+        "sleep_satisfaction"
+      ]
+    },
+    {
       "review_id": "14733709530",
       "source": "app_store",
       "rating": 1,
@@ -2724,17 +2733,6 @@
         "metric_accuracy",
         "missing_activity_types",
         "sleep_satisfaction"
-      ]
-    },
-    {
-      "review_id": "14442444743",
-      "source": "app_store",
-      "rating": 5,
-      "date": "2026-08-18T04:33:59-07:00",
-      "text": "Love this app and device. I have the base level newest model. It’s awesome for tracking my fitness, sleep, and recovery. I primarily use the strength trainer with the AI coach and my results are awesome.",
-      "subcategory_tags": [
-        "sleep_satisfaction",
-        "ai_positive_reception"
       ]
     }
   ],
@@ -14899,6 +14897,16 @@
   ],
   "localization": [
     {
+      "review_id": "f3a60bc2-6b02-4c64-894b-cdd86b59de47",
+      "source": "google_play",
+      "rating": 1,
+      "date": "2026-11-03T18:08:03+00:00",
+      "text": "I would give it 5 starts but it doesn't have my country (Namibia) on the sign up services so I can't even use it",
+      "subcategory_tags": [
+        "missing_language_support"
+      ]
+    },
+    {
       "review_id": "0f8c7248-4e9b-4444-9ee4-ad097ea25e17",
       "source": "google_play",
       "rating": 3,
@@ -15196,19 +15204,19 @@
         "onboarding_pairing",
         "missing_language_support"
       ]
-    },
-    {
-      "review_id": "13861911363",
-      "source": "app_store",
-      "rating": 2,
-      "date": "2026-03-18T11:16:02-07:00",
-      "text": "“How could they not make the interface available in different languages?",
-      "subcategory_tags": [
-        "missing_language_support"
-      ]
     }
   ],
   "missing_language_support": [
+    {
+      "review_id": "f3a60bc2-6b02-4c64-894b-cdd86b59de47",
+      "source": "google_play",
+      "rating": 1,
+      "date": "2026-11-03T18:08:03+00:00",
+      "text": "I would give it 5 starts but it doesn't have my country (Namibia) on the sign up services so I can't even use it",
+      "subcategory_tags": [
+        "missing_language_support"
+      ]
+    },
     {
       "review_id": "0f8c7248-4e9b-4444-9ee4-ad097ea25e17",
       "source": "google_play",
@@ -15503,16 +15511,6 @@
       "rating": 2,
       "date": "2026-03-18T11:16:02-07:00",
       "text": "“How could they not make the interface available in different languages?",
-      "subcategory_tags": [
-        "missing_language_support"
-      ]
-    },
-    {
-      "review_id": "13805357082",
-      "source": "app_store",
-      "rating": 3,
-      "date": "2026-03-02T01:57:30-07:00",
-      "text": "Dear developers, pls add russian language, it’s not huge work for your team.🇷🇺🇷🇺🇷🇺",
       "subcategory_tags": [
         "missing_language_support"
       ]
