@@ -1732,6 +1732,28 @@
   ],
   "sleep_tracking": [
     {
+      "review_id": "14749820230",
+      "source": "app_store",
+      "rating": 3,
+      "date": "2026-11-04T05:52:11-07:00",
+      "text": "I absolutely love it when it works. It’s very inconsistent with tracking heart rate during workouts. I can do a set of kettlebell swings and my heart rate will read in the 120s or 130s. I can increase the weight and perform the same amount of reps and it will read that my heart rate is in the 90s. The band is positioned in the exact same place so makes no sense. The sleep tracker seems to be consistent.",
+      "subcategory_tags": [
+        "metric_accuracy",
+        "sleep_satisfaction"
+      ]
+    },
+    {
+      "review_id": "aed1a744-96d5-4ff6-a93e-23e0eb97b020",
+      "source": "google_play",
+      "rating": 3,
+      "date": "2026-11-04T00:05:45+00:00",
+      "text": "Mostly good. Near useless for night-shift. Just a short while ago I'd have given this Whoop 5 stars. The app and sensor are mostly very reliable, with lots of great features. However, I've recently started working night-shifts - meaning I sleep during day. The app doesn't know what to do with that. Despite having set my new sleep window/alarm, and even talking to the built in AI - Whoop nearly consistently fails at properly capturing and displaying my new sleep cycle.",
+      "subcategory_tags": [
+        "sleep_accuracy",
+        "personalization_use_case_fit"
+      ]
+    },
+    {
       "review_id": "14743092014",
       "source": "app_store",
       "rating": 5,
@@ -2040,31 +2062,20 @@
         "sleep_accuracy",
         "metric_accuracy"
       ]
-    },
-    {
-      "review_id": "49d094da-58cd-4626-bd1d-cb62063741d4",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2026-09-20T17:10:16+00:00",
-      "text": "full of bad ux and incorrect suggestions. naps still don't work 100 percent.",
-      "subcategory_tags": [
-        "redesign_regression",
-        "sleep_accuracy"
-      ]
-    },
-    {
-      "review_id": "14566965178",
-      "source": "app_store",
-      "rating": 4,
-      "date": "2026-09-18T22:10:00-07:00",
-      "text": "Review:\n\n“As a busy manager, the insights WHOOP provides are life-changing. I love the recovery and sleep tracking. HOWEVER, I had a terrible experience recently: I lost my phone, and upon re-installing the app on a new device, ALL my historical data was gone. Losing that long-term analysis is a dealbreaker. If this cloud sync/data migration issue gets fixed, it’s easily a 5-star app. Please improve your data retention and account syncing policy so users don’t lose their hard-earned progress.”",
-      "subcategory_tags": [
-        "sleep_satisfaction",
-        "data_sync_delays"
-      ]
     }
   ],
   "sleep_accuracy": [
+    {
+      "review_id": "aed1a744-96d5-4ff6-a93e-23e0eb97b020",
+      "source": "google_play",
+      "rating": 3,
+      "date": "2026-11-04T00:05:45+00:00",
+      "text": "Mostly good. Near useless for night-shift. Just a short while ago I'd have given this Whoop 5 stars. The app and sensor are mostly very reliable, with lots of great features. However, I've recently started working night-shifts - meaning I sleep during day. The app doesn't know what to do with that. Despite having set my new sleep window/alarm, and even talking to the built in AI - Whoop nearly consistently fails at properly capturing and displaying my new sleep cycle.",
+      "subcategory_tags": [
+        "sleep_accuracy",
+        "personalization_use_case_fit"
+      ]
+    },
     {
       "review_id": "14732390346",
       "source": "app_store",
@@ -2400,21 +2411,20 @@
         "data_sync_delays",
         "support_responsiveness"
       ]
-    },
-    {
-      "review_id": "5bdb40c4-0c75-4c7a-b5f9-22177bb898c4",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2026-08-11T04:17:03+00:00",
-      "text": "poor accuracy measuring sleep. Really bad GenAi experiencie. The worse I have seen. it does not worth the money.",
-      "subcategory_tags": [
-        "sleep_accuracy",
-        "ai_reliability_bugs",
-        "price_value_perception"
-      ]
     }
   ],
   "sleep_satisfaction": [
+    {
+      "review_id": "14749820230",
+      "source": "app_store",
+      "rating": 3,
+      "date": "2026-11-04T05:52:11-07:00",
+      "text": "I absolutely love it when it works. It’s very inconsistent with tracking heart rate during workouts. I can do a set of kettlebell swings and my heart rate will read in the 120s or 130s. I can increase the weight and perform the same amount of reps and it will read that my heart rate is in the 90s. The band is positioned in the exact same place so makes no sense. The sleep tracker seems to be consistent.",
+      "subcategory_tags": [
+        "metric_accuracy",
+        "sleep_satisfaction"
+      ]
+    },
     {
       "review_id": "14743092014",
       "source": "app_store",
@@ -2720,18 +2730,6 @@
       "date": "2026-08-18T17:09:14+00:00",
       "text": "Fabulous. The data is deep and has made such a difference in my ability to track and understand my sleep, work out, and stress patterns and see how they interact with each other.",
       "subcategory_tags": [
-        "sleep_satisfaction"
-      ]
-    },
-    {
-      "review_id": "14442900365",
-      "source": "app_store",
-      "rating": 4,
-      "date": "2026-08-18T06:52:07-07:00",
-      "text": "Needs better privacy guarantees, needs better HR tracking and estimates for short intense interval workouts. Needs ability to switch between two or more active strength training activities. Otherwise good sleep gauging app.",
-      "subcategory_tags": [
-        "metric_accuracy",
-        "missing_activity_types",
         "sleep_satisfaction"
       ]
     }
@@ -4861,6 +4859,17 @@
   ],
   "sync_connectivity": [
     {
+      "review_id": "14748766717",
+      "source": "app_store",
+      "rating": 2,
+      "date": "2026-11-03T23:23:54-07:00",
+      "text": "كل ساع لازم ادخل عالبرنامج اكنك الجهاز من جديد لان البلوتوث يبقى كونكت بس مينطيني اي معلومة",
+      "subcategory_tags": [
+        "ongoing_disconnects",
+        "data_sync_delays"
+      ]
+    },
+    {
       "review_id": "14722102564",
       "source": "app_store",
       "rating": 2,
@@ -5190,17 +5199,6 @@
       "text": "Upset that my connection was lost for 3 days",
       "subcategory_tags": [
         "ongoing_disconnects"
-      ]
-    },
-    {
-      "review_id": "14394671016",
-      "source": "app_store",
-      "rating": 2,
-      "date": "2026-08-06T04:55:42-07:00",
-      "text": "It’s overall performance is good instead of small snap shops. I bought it to track O2, heart rate, possible heart symptoms as they happen in real time. It doesn’t do that. While it will take a EKG test but first you need your phone, open the app, get to the section that will do the EKG then try to get the reading as it takes 30 seconds to snyc and that’s only if it reads it the first attempt.",
-      "subcategory_tags": [
-        "ecg_bp_feature_reliability",
-        "data_sync_delays"
       ]
     }
   ],
@@ -5537,6 +5535,17 @@
   ],
   "ongoing_disconnects": [
     {
+      "review_id": "14748766717",
+      "source": "app_store",
+      "rating": 2,
+      "date": "2026-11-03T23:23:54-07:00",
+      "text": "كل ساع لازم ادخل عالبرنامج اكنك الجهاز من جديد لان البلوتوث يبقى كونكت بس مينطيني اي معلومة",
+      "subcategory_tags": [
+        "ongoing_disconnects",
+        "data_sync_delays"
+      ]
+    },
+    {
       "review_id": "14696700643",
       "source": "app_store",
       "rating": 3,
@@ -5862,20 +5871,20 @@
         "support_satisfaction",
         "ongoing_disconnects"
       ]
-    },
-    {
-      "review_id": "13573640349",
-      "source": "app_store",
-      "rating": 4,
-      "date": "2025-12-30T09:29:15-07:00",
-      "text": "I have the WHOOP life band. The features are perfect for me. It really has been interesting to see how much my workouts improve on Green days.  It is also helped me to dial in a more consistent sleep pattern.\n\nThere are two things that really don’t make sense about WHOOP. First thing is, WHOOP thinks I’m pregnant.  I’m a man. I know we live in a modern age, but I’m not pregnant.  I even checked my profile and I am marked as a male.\n\nSecond thing is the constant disconnection from Bluetooth.  I am having to reconnect my device once or twice a week.  A small but annoying inconvenience.",
-      "subcategory_tags": [
-        "personalization_use_case_fit",
-        "ongoing_disconnects"
-      ]
     }
   ],
   "data_sync_delays": [
+    {
+      "review_id": "14748766717",
+      "source": "app_store",
+      "rating": 2,
+      "date": "2026-11-03T23:23:54-07:00",
+      "text": "كل ساع لازم ادخل عالبرنامج اكنك الجهاز من جديد لان البلوتوث يبقى كونكت بس مينطيني اي معلومة",
+      "subcategory_tags": [
+        "ongoing_disconnects",
+        "data_sync_delays"
+      ]
+    },
     {
       "review_id": "14722102564",
       "source": "app_store",
@@ -6207,21 +6216,20 @@
       "subcategory_tags": [
         "data_sync_delays"
       ]
-    },
-    {
-      "review_id": "14269590906",
-      "source": "app_store",
-      "rating": 2,
-      "date": "2026-07-06T04:22:56-07:00",
-      "text": "Data in the screen is delayed when exercising. ‘Hormonal insight’ has no value at all for women in menopause. Also, blood pressure should be a feature to explore for Whoop",
-      "subcategory_tags": [
-        "data_sync_delays",
-        "personalization_use_case_fit",
-        "missing_metrics"
-      ]
     }
   ],
   "data_accuracy": [
+    {
+      "review_id": "14749820230",
+      "source": "app_store",
+      "rating": 3,
+      "date": "2026-11-04T05:52:11-07:00",
+      "text": "I absolutely love it when it works. It’s very inconsistent with tracking heart rate during workouts. I can do a set of kettlebell swings and my heart rate will read in the 120s or 130s. I can increase the weight and perform the same amount of reps and it will read that my heart rate is in the 90s. The band is positioned in the exact same place so makes no sense. The sleep tracker seems to be consistent.",
+      "subcategory_tags": [
+        "metric_accuracy",
+        "sleep_satisfaction"
+      ]
+    },
     {
       "review_id": "14733709530",
       "source": "app_store",
@@ -6559,20 +6567,20 @@
         "battery_life",
         "activity_detection"
       ]
-    },
-    {
-      "review_id": "14576341015",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-09-21T07:06:27-07:00",
-      "text": "Somehow whoops ability to detect and analyze sleep continues to get worse.  It doesnt detect wake-ups; it misreads non-sleep hours as rest and greatly overstates directional indicators and analysis like a cable news commentator.  Feel like product improvements have been a bell curve over last couple years.  Appreciate the battery life and lack of 'smart watch' type functionality but its missing the target on tracking key metrics.",
-      "subcategory_tags": [
-        "sleep_accuracy",
-        "metric_accuracy"
-      ]
     }
   ],
   "metric_accuracy": [
+    {
+      "review_id": "14749820230",
+      "source": "app_store",
+      "rating": 3,
+      "date": "2026-11-04T05:52:11-07:00",
+      "text": "I absolutely love it when it works. It’s very inconsistent with tracking heart rate during workouts. I can do a set of kettlebell swings and my heart rate will read in the 120s or 130s. I can increase the weight and perform the same amount of reps and it will read that my heart rate is in the 90s. The band is positioned in the exact same place so makes no sense. The sleep tracker seems to be consistent.",
+      "subcategory_tags": [
+        "metric_accuracy",
+        "sleep_satisfaction"
+      ]
+    },
     {
       "review_id": "14733709530",
       "source": "app_store",
@@ -6910,18 +6918,6 @@
         "battery_life",
         "comfort_fit",
         "billing_disputes",
-        "price_value_perception"
-      ]
-    },
-    {
-      "review_id": "14509084380",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-09-04T03:55:19-07:00",
-      "text": "Never consistent!! Depending on where it is worn and what activity you are doing. Picks up false stain and activity. Don’t waste your time or money on this device. Garmin is tried and true !!",
-      "subcategory_tags": [
-        "metric_accuracy",
-        "activity_detection",
         "price_value_perception"
       ]
     }
@@ -14897,6 +14893,16 @@
   ],
   "localization": [
     {
+      "review_id": "14747363627",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-11-03T13:48:54-07:00",
+      "text": "Very disappointed. Russian language is still not available, even after more than a year. It’s ridiculous that adding a language seems to be such a difficult task. Russian-speaking users deserve to be able to use this app in their own language. Extremely frustrating and unacceptable. One star until Russian language support is added.",
+      "subcategory_tags": [
+        "missing_language_support"
+      ]
+    },
+    {
       "review_id": "f3a60bc2-6b02-4c64-894b-cdd86b59de47",
       "source": "google_play",
       "rating": 1,
@@ -15193,20 +15199,19 @@
       "subcategory_tags": [
         "missing_language_support"
       ]
-    },
-    {
-      "review_id": "13897599009",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-03-28T14:06:05-07:00",
-      "text": "Мені зробили подарунок, пробував підключитися, важко працювати з ним незрозуміло що і як. \nЗа якістю роботи не буде відгуків. Відчуваю себе обманутим. Гарного дня",
-      "subcategory_tags": [
-        "onboarding_pairing",
-        "missing_language_support"
-      ]
     }
   ],
   "missing_language_support": [
+    {
+      "review_id": "14747363627",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-11-03T13:48:54-07:00",
+      "text": "Very disappointed. Russian language is still not available, even after more than a year. It’s ridiculous that adding a language seems to be such a difficult task. Russian-speaking users deserve to be able to use this app in their own language. Extremely frustrating and unacceptable. One star until Russian language support is added.",
+      "subcategory_tags": [
+        "missing_language_support"
+      ]
+    },
     {
       "review_id": "f3a60bc2-6b02-4c64-894b-cdd86b59de47",
       "source": "google_play",
@@ -15502,16 +15507,6 @@
       "text": "Мені зробили подарунок, пробував підключитися, важко працювати з ним незрозуміло що і як. \nЗа якістю роботи не буде відгуків. Відчуваю себе обманутим. Гарного дня",
       "subcategory_tags": [
         "onboarding_pairing",
-        "missing_language_support"
-      ]
-    },
-    {
-      "review_id": "13861911363",
-      "source": "app_store",
-      "rating": 2,
-      "date": "2026-03-18T11:16:02-07:00",
-      "text": "“How could they not make the interface available in different languages?",
-      "subcategory_tags": [
         "missing_language_support"
       ]
     }
@@ -15599,6 +15594,17 @@
     }
   ],
   "feature_requests": [
+    {
+      "review_id": "aed1a744-96d5-4ff6-a93e-23e0eb97b020",
+      "source": "google_play",
+      "rating": 3,
+      "date": "2026-11-04T00:05:45+00:00",
+      "text": "Mostly good. Near useless for night-shift. Just a short while ago I'd have given this Whoop 5 stars. The app and sensor are mostly very reliable, with lots of great features. However, I've recently started working night-shifts - meaning I sleep during day. The app doesn't know what to do with that. Despite having set my new sleep window/alarm, and even talking to the built in AI - Whoop nearly consistently fails at properly capturing and displaying my new sleep cycle.",
+      "subcategory_tags": [
+        "sleep_accuracy",
+        "personalization_use_case_fit"
+      ]
+    },
     {
       "review_id": "14738915260",
       "source": "app_store",
@@ -15924,17 +15930,6 @@
       "subcategory_tags": [
         "sleep_satisfaction",
         "personalization_use_case_fit"
-      ]
-    },
-    {
-      "review_id": "14541419111",
-      "source": "app_store",
-      "rating": 4,
-      "date": "2026-09-12T08:19:12-07:00",
-      "text": "i love it but i wish it had a small clock on it and had a way to set more alarms",
-      "subcategory_tags": [
-        "missing_activity_types",
-        "sleep_alarm_ui"
       ]
     }
   ],
@@ -16615,6 +16610,17 @@
   ],
   "personalization_use_case_fit": [
     {
+      "review_id": "aed1a744-96d5-4ff6-a93e-23e0eb97b020",
+      "source": "google_play",
+      "rating": 3,
+      "date": "2026-11-04T00:05:45+00:00",
+      "text": "Mostly good. Near useless for night-shift. Just a short while ago I'd have given this Whoop 5 stars. The app and sensor are mostly very reliable, with lots of great features. However, I've recently started working night-shifts - meaning I sleep during day. The app doesn't know what to do with that. Despite having set my new sleep window/alarm, and even talking to the built in AI - Whoop nearly consistently fails at properly capturing and displaying my new sleep cycle.",
+      "subcategory_tags": [
+        "sleep_accuracy",
+        "personalization_use_case_fit"
+      ]
+    },
+    {
       "review_id": "14733590321",
       "source": "app_store",
       "rating": 5,
@@ -16948,17 +16954,6 @@
       "date": "2026-07-28T09:31:44-07:00",
       "text": "I’ve been a Type 1 Diabetic for 19+ years and I’ve always been curious and focused on my health in all aspects. Whoop gives me answers, helps me stay on track and gives me metrics I can understand. If you are looking to improve your health, sleep, stress and state of mind.. Whoop is the answer!",
       "subcategory_tags": [
-        "personalization_use_case_fit"
-      ]
-    },
-    {
-      "review_id": "14350986677",
-      "source": "app_store",
-      "rating": 5,
-      "date": "2026-07-26T09:35:25-07:00",
-      "text": "I’m not a bug athelete but for me Whoop is a health coach. My recovery score usually confirms when I’m sick and this helps me listen to my body more. Sleep detection is super accurate.",
-      "subcategory_tags": [
-        "sleep_satisfaction",
         "personalization_use_case_fit"
       ]
     }

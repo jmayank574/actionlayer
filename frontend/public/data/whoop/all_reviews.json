@@ -1,5 +1,63 @@
 [
   {
+    "review_id": "14749820230",
+    "source": "app_store",
+    "rating": 3,
+    "date": "2026-11-04T05:52:11-07:00",
+    "text": "I absolutely love it when it works. It’s very inconsistent with tracking heart rate during workouts. I can do a set of kettlebell swings and my heart rate will read in the 120s or 130s. I can increase the weight and perform the same amount of reps and it will read that my heart rate is in the 90s. The band is positioned in the exact same place so makes no sense. The sleep tracker seems to be consistent.",
+    "parent_category_tags": [
+      "data_accuracy",
+      "sleep_tracking"
+    ],
+    "subcategory_tags": [
+      "metric_accuracy",
+      "sleep_satisfaction"
+    ]
+  },
+  {
+    "review_id": "14748766717",
+    "source": "app_store",
+    "rating": 2,
+    "date": "2026-11-03T23:23:54-07:00",
+    "text": "كل ساع لازم ادخل عالبرنامج اكنك الجهاز من جديد لان البلوتوث يبقى كونكت بس مينطيني اي معلومة",
+    "parent_category_tags": [
+      "sync_connectivity",
+      "sync_connectivity"
+    ],
+    "subcategory_tags": [
+      "ongoing_disconnects",
+      "data_sync_delays"
+    ]
+  },
+  {
+    "review_id": "aed1a744-96d5-4ff6-a93e-23e0eb97b020",
+    "source": "google_play",
+    "rating": 3,
+    "date": "2026-11-04T00:05:45+00:00",
+    "text": "Mostly good. Near useless for night-shift. Just a short while ago I'd have given this Whoop 5 stars. The app and sensor are mostly very reliable, with lots of great features. However, I've recently started working night-shifts - meaning I sleep during day. The app doesn't know what to do with that. Despite having set my new sleep window/alarm, and even talking to the built in AI - Whoop nearly consistently fails at properly capturing and displaying my new sleep cycle.",
+    "parent_category_tags": [
+      "sleep_tracking",
+      "feature_requests"
+    ],
+    "subcategory_tags": [
+      "sleep_accuracy",
+      "personalization_use_case_fit"
+    ]
+  },
+  {
+    "review_id": "14747363627",
+    "source": "app_store",
+    "rating": 1,
+    "date": "2026-11-03T13:48:54-07:00",
+    "text": "Very disappointed. Russian language is still not available, even after more than a year. It’s ridiculous that adding a language seems to be such a difficult task. Russian-speaking users deserve to be able to use this app in their own language. Extremely frustrating and unacceptable. One star until Russian language support is added.",
+    "parent_category_tags": [
+      "localization"
+    ],
+    "subcategory_tags": [
+      "missing_language_support"
+    ]
+  },
+  {
     "review_id": "f3a60bc2-6b02-4c64-894b-cdd86b59de47",
     "source": "google_play",
     "rating": 1,
