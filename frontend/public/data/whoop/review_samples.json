@@ -12182,6 +12182,16 @@
   ],
   "ui_ux": [
     {
+      "review_id": "9c81af93-65be-49c0-afad-8caaa8104dc6",
+      "source": "google_play",
+      "rating": 4,
+      "date": "2026-11-05T12:42:55+00:00",
+      "text": "pls fix your app everytime I open it lands on streak page, just open the homepage on launch of app. If this is intentional 👎, sorry not a good UX",
+      "subcategory_tags": [
+        "redesign_regression"
+      ]
+    },
+    {
       "review_id": "14714878991",
       "source": "app_store",
       "rating": 1,
@@ -12504,20 +12514,19 @@
         "ai_autonomy",
         "feature_ui_friction"
       ]
-    },
-    {
-      "review_id": "b055d79f-144f-4f82-a43f-42a1c7ba4312",
-      "source": "google_play",
-      "rating": 3,
-      "date": "2026-08-31T14:55:31+00:00",
-      "text": "AI bloat makes some of the functions not work. I cannot view my Sleep or Recovery metric windows within the app because the AI analysis pop-up windows are non-dissmissable so about a third of the data I can't access.",
-      "subcategory_tags": [
-        "ai_autonomy",
-        "redesign_regression"
-      ]
     }
   ],
   "redesign_regression": [
+    {
+      "review_id": "9c81af93-65be-49c0-afad-8caaa8104dc6",
+      "source": "google_play",
+      "rating": 4,
+      "date": "2026-11-05T12:42:55+00:00",
+      "text": "pls fix your app everytime I open it lands on streak page, just open the homepage on launch of app. If this is intentional 👎, sorry not a good UX",
+      "subcategory_tags": [
+        "redesign_regression"
+      ]
+    },
     {
       "review_id": "14705718569",
       "source": "app_store",
@@ -12847,19 +12856,6 @@
       "subcategory_tags": [
         "billing_disputes",
         "price_value_perception",
-        "redesign_regression"
-      ]
-    },
-    {
-      "review_id": "10b12d2a-87ba-4852-9146-3c3aed580da2",
-      "source": "google_play",
-      "rating": 3,
-      "date": "2026-06-01T07:40:29",
-      "text": "Sleep and step syncing is perpetually delayed despite all troubleshooting. It's spotty enough that all my data is off and my whoop age is +2 yrs. Samsung health and Google fit only logged 1100 of the 26000 steps from Saturday. It's thrown off my carb and calorie tracker. I don't need to the net gains/losses days after I drop out of ketosis. Also, the app looks like it was organized by a hoarder with untreated Schizophrenia and ADHD. Convoluted, disorganized, and random. Make it allcustomizable!",
-      "subcategory_tags": [
-        "data_sync_delays",
-        "metric_accuracy",
-        "third_party_integration",
         "redesign_regression"
       ]
     }
@@ -15595,6 +15591,16 @@
   ],
   "feature_requests": [
     {
+      "review_id": "14753099940",
+      "source": "app_store",
+      "rating": 5,
+      "date": "2026-11-05T02:14:15-07:00",
+      "text": "It’s a tool I use daily. I like to know how I’m doing because I have a tendency to always push through. It has taught me how to be kind to myself & not alway push hard. When it tells me I’m in the green I love to push myself.",
+      "subcategory_tags": [
+        "personalization_use_case_fit"
+      ]
+    },
+    {
       "review_id": "aed1a744-96d5-4ff6-a93e-23e0eb97b020",
       "source": "google_play",
       "rating": 3,
@@ -15919,17 +15925,6 @@
       "text": "The device is accurate and the app is full of insights.  I just hate the fact that it’s impossible to import activities recorded on other devices.  I just don’t want to wear my whoop to BJJ class. You should make it easy to import activities.  You know it’s the right thing to do.",
       "subcategory_tags": [
         "third_party_integration"
-      ]
-    },
-    {
-      "review_id": "14563984011",
-      "source": "app_store",
-      "rating": 5,
-      "date": "2026-09-18T04:59:30-07:00",
-      "text": "Whoop is so great in so many ways. From telling me that my body needs more rest, to telling me my body is fighting off a sickness because my recovery is low and I have had adequate and not overstrained myself, but to sleep and to take it easy. \n\nIt lows my regular menstrual cycles and will start telling me up to five days ahead that it is coming and usually in day two before it arrives, it tells me that my body’s symptoms and they are usually perfectly on point. \n\nI love that it tells me what I my strain should be and if I surpass what the goal was for the day, it tells me keep pushing to hit a certain number to give it an all out day.",
-      "subcategory_tags": [
-        "sleep_satisfaction",
-        "personalization_use_case_fit"
       ]
     }
   ],
@@ -16610,6 +16605,16 @@
   ],
   "personalization_use_case_fit": [
     {
+      "review_id": "14753099940",
+      "source": "app_store",
+      "rating": 5,
+      "date": "2026-11-05T02:14:15-07:00",
+      "text": "It’s a tool I use daily. I like to know how I’m doing because I have a tendency to always push through. It has taught me how to be kind to myself & not alway push hard. When it tells me I’m in the green I love to push myself.",
+      "subcategory_tags": [
+        "personalization_use_case_fit"
+      ]
+    },
+    {
       "review_id": "aed1a744-96d5-4ff6-a93e-23e0eb97b020",
       "source": "google_play",
       "rating": 3,
@@ -16944,16 +16949,6 @@
       "subcategory_tags": [
         "comfort_fit",
         "price_value_perception",
-        "personalization_use_case_fit"
-      ]
-    },
-    {
-      "review_id": "14359049688",
-      "source": "app_store",
-      "rating": 5,
-      "date": "2026-07-28T09:31:44-07:00",
-      "text": "I’ve been a Type 1 Diabetic for 19+ years and I’ve always been curious and focused on my health in all aspects. Whoop gives me answers, helps me stay on track and gives me metrics I can understand. If you are looking to improve your health, sleep, stress and state of mind.. Whoop is the answer!",
-      "subcategory_tags": [
         "personalization_use_case_fit"
       ]
     }
