@@ -1,6 +1,18 @@
 {
   "pricing_billing": [
     {
+      "review_id": "6f1c869c-2017-4c25-b05c-cd4b00b3bc28",
+      "source": "google_play",
+      "rating": 2,
+      "date": "2026-11-07T10:14:00+00:00",
+      "text": "Several display issues and highly inaccurate estimates. This is marketed as a high-end product, but it falls well short of expectations. Not worth the price.",
+      "subcategory_tags": [
+        "device_rendering_bugs",
+        "metric_accuracy",
+        "price_value_perception"
+      ]
+    },
+    {
       "review_id": "14740743663",
       "source": "app_store",
       "rating": 1,
@@ -332,21 +344,21 @@
         "redesign_regression",
         "price_value_perception"
       ]
-    },
-    {
-      "review_id": "14629488102",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-10-04T22:54:58-07:00",
-      "text": "I have an older iPhone. I’ve been using a whoop for over three years and it has definitely helped me improve my health and sleep quality. \n\nI’ve been tracking my whoop data consistently for these three years and making actionable lifestyle changes based on the data. For example, while I knew that eating before bed negatively impacts sleep, but I was able to see the effect clearly from my data. And now I usually can tell when I’m about to get sick a day or two early and can prioritize rest and make cold season less impactful.\n\nBut the fact that I have to update my iOS to keep using the app is ridiculous. I don’t want to buy a new phone when this one works perfectly well for everything else. I know that they only mess with the app for job security and to justify price increases because some stressed out zyn-addicted kid from Makenzie promised some disconnected self-important C-Suite employee at Whoop that they would be Deloited at the quarterly reports if they made some unnecessary change. \n\nI really got value from my Whoop, but I will be canceling my subscription and get off of Whoop when my version of the app is discontinued later this month.\n\nDo better Whoop. Actually, just do less, the product is good enough. Don’t listen to people who don’t care, listen to athletes using the app. You don’t need to change the software, just focus on making the hardware more accurate and ergonomic.",
-      "subcategory_tags": [
-        "price_value_perception",
-        "update_failures",
-        "billing_disputes"
-      ]
     }
   ],
   "price_value_perception": [
+    {
+      "review_id": "6f1c869c-2017-4c25-b05c-cd4b00b3bc28",
+      "source": "google_play",
+      "rating": 2,
+      "date": "2026-11-07T10:14:00+00:00",
+      "text": "Several display issues and highly inaccurate estimates. This is marketed as a high-end product, but it falls well short of expectations. Not worth the price.",
+      "subcategory_tags": [
+        "device_rendering_bugs",
+        "metric_accuracy",
+        "price_value_perception"
+      ]
+    },
     {
       "review_id": "14740743663",
       "source": "app_store",
@@ -674,16 +686,6 @@
       "rating": 3,
       "date": "2026-09-19T08:04:14+00:00",
       "text": "Renewal fee is exorbitantly high when compared with equivalent bands.",
-      "subcategory_tags": [
-        "price_value_perception"
-      ]
-    },
-    {
-      "review_id": "a0ac51be-efe1-4690-a895-055b108f91cd",
-      "source": "google_play",
-      "rating": 5,
-      "date": "2026-09-18T07:38:44+00:00",
-      "text": "It's super expensive for it. There are better options at a similar level. Or if you're lucky to get it at a very good discounted price; perfect.",
       "subcategory_tags": [
         "price_value_perception"
       ]
@@ -1732,6 +1734,19 @@
   ],
   "sleep_tracking": [
     {
+      "review_id": "f6109929-88c7-4a57-ad88-f0b63fbbaf35",
+      "source": "google_play",
+      "rating": 3,
+      "date": "2026-11-06T20:37:10+00:00",
+      "text": "good, but lacks auto nap logging most of times i log it manually and have few issues with auto walking sessions (latest ones not showing in my home although recorded and support told me to update app)",
+      "subcategory_tags": [
+        "sleep_accuracy",
+        "activity_detection",
+        "data_sync_delays",
+        "support_resolution_quality"
+      ]
+    },
+    {
       "review_id": "14749820230",
       "source": "app_store",
       "rating": 3,
@@ -2051,20 +2066,22 @@
         "ai_reliability_bugs",
         "support_responsiveness"
       ]
-    },
-    {
-      "review_id": "14576341015",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-09-21T07:06:27-07:00",
-      "text": "Somehow whoops ability to detect and analyze sleep continues to get worse.  It doesnt detect wake-ups; it misreads non-sleep hours as rest and greatly overstates directional indicators and analysis like a cable news commentator.  Feel like product improvements have been a bell curve over last couple years.  Appreciate the battery life and lack of 'smart watch' type functionality but its missing the target on tracking key metrics.",
-      "subcategory_tags": [
-        "sleep_accuracy",
-        "metric_accuracy"
-      ]
     }
   ],
   "sleep_accuracy": [
+    {
+      "review_id": "f6109929-88c7-4a57-ad88-f0b63fbbaf35",
+      "source": "google_play",
+      "rating": 3,
+      "date": "2026-11-06T20:37:10+00:00",
+      "text": "good, but lacks auto nap logging most of times i log it manually and have few issues with auto walking sessions (latest ones not showing in my home although recorded and support told me to update app)",
+      "subcategory_tags": [
+        "sleep_accuracy",
+        "activity_detection",
+        "data_sync_delays",
+        "support_resolution_quality"
+      ]
+    },
     {
       "review_id": "aed1a744-96d5-4ff6-a93e-23e0eb97b020",
       "source": "google_play",
@@ -2398,18 +2415,6 @@
         "ai_reliability_bugs",
         "sleep_accuracy",
         "price_value_perception"
-      ]
-    },
-    {
-      "review_id": "14426493523",
-      "source": "app_store",
-      "rating": 3,
-      "date": "2026-08-14T05:10:28-07:00",
-      "text": "Unsure why, but lost sleep tracking for 4 days..Took 45 minutes with helpful Customer Service rep to try to resolve…still trying to confirm I’m back connected",
-      "subcategory_tags": [
-        "sleep_accuracy",
-        "data_sync_delays",
-        "support_responsiveness"
       ]
     }
   ],
@@ -4859,6 +4864,19 @@
   ],
   "sync_connectivity": [
     {
+      "review_id": "f6109929-88c7-4a57-ad88-f0b63fbbaf35",
+      "source": "google_play",
+      "rating": 3,
+      "date": "2026-11-06T20:37:10+00:00",
+      "text": "good, but lacks auto nap logging most of times i log it manually and have few issues with auto walking sessions (latest ones not showing in my home although recorded and support told me to update app)",
+      "subcategory_tags": [
+        "sleep_accuracy",
+        "activity_detection",
+        "data_sync_delays",
+        "support_resolution_quality"
+      ]
+    },
+    {
       "review_id": "14748766717",
       "source": "app_store",
       "rating": 2,
@@ -5189,16 +5207,6 @@
       "text": "Nu se conectează, nu recunoaște parola",
       "subcategory_tags": [
         "onboarding_pairing"
-      ]
-    },
-    {
-      "review_id": "14410286017",
-      "source": "app_store",
-      "rating": 4,
-      "date": "2026-08-10T05:11:37-07:00",
-      "text": "Upset that my connection was lost for 3 days",
-      "subcategory_tags": [
-        "ongoing_disconnects"
       ]
     }
   ],
@@ -5875,6 +5883,19 @@
   ],
   "data_sync_delays": [
     {
+      "review_id": "f6109929-88c7-4a57-ad88-f0b63fbbaf35",
+      "source": "google_play",
+      "rating": 3,
+      "date": "2026-11-06T20:37:10+00:00",
+      "text": "good, but lacks auto nap logging most of times i log it manually and have few issues with auto walking sessions (latest ones not showing in my home although recorded and support told me to update app)",
+      "subcategory_tags": [
+        "sleep_accuracy",
+        "activity_detection",
+        "data_sync_delays",
+        "support_resolution_quality"
+      ]
+    },
+    {
       "review_id": "14748766717",
       "source": "app_store",
       "rating": 2,
@@ -6206,19 +6227,34 @@
         "data_sync_delays",
         "battery_life"
       ]
-    },
-    {
-      "review_id": "14307354118",
-      "source": "app_store",
-      "rating": 4,
-      "date": "2026-07-15T12:20:42-07:00",
-      "text": "Whoop is fully charged and positioned on wrist close to skin and it goes long periods without tracking!",
-      "subcategory_tags": [
-        "data_sync_delays"
-      ]
     }
   ],
   "data_accuracy": [
+    {
+      "review_id": "6f1c869c-2017-4c25-b05c-cd4b00b3bc28",
+      "source": "google_play",
+      "rating": 2,
+      "date": "2026-11-07T10:14:00+00:00",
+      "text": "Several display issues and highly inaccurate estimates. This is marketed as a high-end product, but it falls well short of expectations. Not worth the price.",
+      "subcategory_tags": [
+        "device_rendering_bugs",
+        "metric_accuracy",
+        "price_value_perception"
+      ]
+    },
+    {
+      "review_id": "f6109929-88c7-4a57-ad88-f0b63fbbaf35",
+      "source": "google_play",
+      "rating": 3,
+      "date": "2026-11-06T20:37:10+00:00",
+      "text": "good, but lacks auto nap logging most of times i log it manually and have few issues with auto walking sessions (latest ones not showing in my home although recorded and support told me to update app)",
+      "subcategory_tags": [
+        "sleep_accuracy",
+        "activity_detection",
+        "data_sync_delays",
+        "support_resolution_quality"
+      ]
+    },
     {
       "review_id": "14749820230",
       "source": "app_store",
@@ -6545,31 +6581,21 @@
         "support_resolution_quality",
         "billing_disputes"
       ]
-    },
-    {
-      "review_id": "14582627849",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-09-22T21:28:09-07:00",
-      "text": "I’ve used WHOOP 4.0 for 1600 days consecutively and then recently switched to WHOOP 5.0. I used WHOOP specifically to track my caloric expenditure relative to my daily caloric intake using MyFitnessPal. This method worked very well and was very accurate and allowed me to achieve my weight loss goals consistently based on maintaining a daily caloric deficit of 400 cal when I was cutting. Fast forward to August 25 when I switched from 4.0 to WHOOP 5.0 and all of a sudden with no meaningful change in my routine, my caloric expenditure according to WHOOP 5.0 dropped by about 1000 cal per day. Now, even as my weight is flat, WHOOP 5.0 is showing about 1000 cal per day surplus. Very disappointing. I can no longer use WHOOP as an accurate gauge of my daily caloric expenditure.",
-      "subcategory_tags": [
-        "metric_accuracy",
-        "third_party_integration"
-      ]
-    },
-    {
-      "review_id": "14576408227",
-      "source": "app_store",
-      "rating": 5,
-      "date": "2026-09-21T07:26:10-07:00",
-      "text": "I really love this. Im a geek for health stats and I just love being in tune with my body. Pretty accurate. The only bad thing was that my whoop would randomly turn off at night if it wasn’t fully charged. It could be at 50% and it would turn off idk why. Maybe cuz I would take it to the sauna. But other than that I love it. I love how it auto tracks my random activity’s like soccer, yoga, swimming.",
-      "subcategory_tags": [
-        "battery_life",
-        "activity_detection"
-      ]
     }
   ],
   "metric_accuracy": [
+    {
+      "review_id": "6f1c869c-2017-4c25-b05c-cd4b00b3bc28",
+      "source": "google_play",
+      "rating": 2,
+      "date": "2026-11-07T10:14:00+00:00",
+      "text": "Several display issues and highly inaccurate estimates. This is marketed as a high-end product, but it falls well short of expectations. Not worth the price.",
+      "subcategory_tags": [
+        "device_rendering_bugs",
+        "metric_accuracy",
+        "price_value_perception"
+      ]
+    },
     {
       "review_id": "14749820230",
       "source": "app_store",
@@ -6905,24 +6931,22 @@
         "metric_accuracy",
         "feature_ui_friction"
       ]
-    },
-    {
-      "review_id": "14509772320",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-09-04T07:21:18-07:00",
-      "text": "Got this band plus 1 year membership with Chase Sapphire Reserve perk. Not even worth the tax I had to pay on this benefit. The most basic feature, counting steps, is wildly inaccurate. So how can I trust anything else coming from this device. The narrative content provided in app is just AI slop and worthless. Battery life is good and recharging while wearing device is cool. These features allow you to wear band almost 24/7 which is nice but the band starts to stink after wearing in the shower a few times (which defeats purpose of having strong battery and charging features). I canceled after giving this 5 months into a 1 year membership. Much happier with cheaper, more accurate fitness band with no subscription fees.",
-      "subcategory_tags": [
-        "metric_accuracy",
-        "ai_reliability_bugs",
-        "battery_life",
-        "comfort_fit",
-        "billing_disputes",
-        "price_value_perception"
-      ]
     }
   ],
   "activity_detection": [
+    {
+      "review_id": "f6109929-88c7-4a57-ad88-f0b63fbbaf35",
+      "source": "google_play",
+      "rating": 3,
+      "date": "2026-11-06T20:37:10+00:00",
+      "text": "good, but lacks auto nap logging most of times i log it manually and have few issues with auto walking sessions (latest ones not showing in my home although recorded and support told me to update app)",
+      "subcategory_tags": [
+        "sleep_accuracy",
+        "activity_detection",
+        "data_sync_delays",
+        "support_resolution_quality"
+      ]
+    },
     {
       "review_id": "14732390346",
       "source": "app_store",
@@ -7266,20 +7290,6 @@
       "subcategory_tags": [
         "activity_detection",
         "ai_reliability_bugs"
-      ]
-    },
-    {
-      "review_id": "14292329722",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-07-11T18:48:48-07:00",
-      "text": "Really do I take naps but I’ve taken two in the last month and the WHOOP doesn’t even detect the nap, but my Apple Watch does.  Then I manually added it in the apps and somehow it makes up data of deep sleep, light sleep… Etc.\nIt has my HRV in the 20s. Yet, when I have worn other. Devices, including the Apple Watch Ultra, I’m in the 40s 50s and sometimes 70s because the Apple Watch measures it throughout the day at different times. \nI exercise six days a week. Sometimes I go for runs, and it doesn’t detect the run. I have to manually input it and then it makes up which zone I was in all of a sudden.  The same with lifting weights, I always have to insert the data manually.  \nI took my blood pressure three times and input the data. When I take my blood pressure manually with the arm wrap the whoop isn’t close most of the time.   I get that it takes your blood pressure in the middle of the night but I don’t see this being a blood pressure device.  \nI have visited with three different doctors and all of them say the Apple Watch is the best and they have gone to medical conferences and the discussion has come up and  the Apple Watch is always discussed as being the most accurate.  \nWhat you’re buying with the WHOOP is a glorified nighttime sleep tracker.  \nI’m sure people love their WHOOP and I know they have a cult following   \nIf you’re thinking about getting it, save your money and just wear your Apple Watch or your Google watch  \nHonestly, if you get a good nights sleep, you eat right and you exercise you don’t even need one of these device to track stuff   \nJust pay attention to what your body tells you with how you feel",
-      "subcategory_tags": [
-        "sleep_accuracy",
-        "metric_accuracy",
-        "activity_detection",
-        "ecg_bp_feature_reliability",
-        "price_value_perception"
       ]
     }
   ],
@@ -9372,6 +9382,19 @@
   ],
   "customer_support": [
     {
+      "review_id": "f6109929-88c7-4a57-ad88-f0b63fbbaf35",
+      "source": "google_play",
+      "rating": 3,
+      "date": "2026-11-06T20:37:10+00:00",
+      "text": "good, but lacks auto nap logging most of times i log it manually and have few issues with auto walking sessions (latest ones not showing in my home although recorded and support told me to update app)",
+      "subcategory_tags": [
+        "sleep_accuracy",
+        "activity_detection",
+        "data_sync_delays",
+        "support_resolution_quality"
+      ]
+    },
+    {
       "review_id": "14732202299",
       "source": "app_store",
       "rating": 1,
@@ -9717,17 +9740,6 @@
       "subcategory_tags": [
         "billing_disputes",
         "support_responsiveness",
-        "support_resolution_quality"
-      ]
-    },
-    {
-      "review_id": "14441034641",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-08-17T19:00:54-07:00",
-      "text": "It used to label activities correctly after detecting them. Now it doesn’t. Support staff doesn’t seem to care after going back and fourth in the issue.",
-      "subcategory_tags": [
-        "activity_detection",
         "support_resolution_quality"
       ]
     }
@@ -10094,6 +10106,19 @@
   ],
   "support_resolution_quality": [
     {
+      "review_id": "f6109929-88c7-4a57-ad88-f0b63fbbaf35",
+      "source": "google_play",
+      "rating": 3,
+      "date": "2026-11-06T20:37:10+00:00",
+      "text": "good, but lacks auto nap logging most of times i log it manually and have few issues with auto walking sessions (latest ones not showing in my home although recorded and support told me to update app)",
+      "subcategory_tags": [
+        "sleep_accuracy",
+        "activity_detection",
+        "data_sync_delays",
+        "support_resolution_quality"
+      ]
+    },
+    {
       "review_id": "14732202299",
       "source": "app_store",
       "rating": 1,
@@ -10441,18 +10466,6 @@
         "support_responsiveness",
         "support_resolution_quality",
         "ongoing_disconnects"
-      ]
-    },
-    {
-      "review_id": "14267468364",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-07-05T14:03:09-07:00",
-      "text": "I have been a loyal WHOOP member for over six years and have recommended the product to countless friends, family members, athletes, and business colleagues. Unfortunately, my experience with their customer support has completely destroyed the trust I had in the company.\n\nMy account was deleted, resulting in the loss of approximately six years of health, recovery, training, and biometric data. For a company whose entire value proposition revolves around collecting and analyzing long-term personal health data, this is an unacceptable failure.\n\nWhat made the situation even worse was the customer support experience. It took nearly two months of repeated emails and messages just to get meaningful responses and traction on the issue. The support process felt fragmented, slow, and heavily outsourced, with little ownership of the problem and no sense of urgency despite the severity of losing years of irreplaceable data.\n\nAfter months of frustration, the resolution offered was two free months of service. To be clear, six years of personal health history cannot be replaced by two months of membership credit.\n\nThe most disappointing part is that I wasn’t a casual customer. I genuinely believed in WHOOP, paid for the service for years, and actively promoted it to others. Losing my data was devastating. Feeling ignored for two months while trying to get help was even worse.\n\nThe hardware and insights may be good when everything works, but a company’s true character is revealed when something goes wrong. Based on my experience, WHOOP’s customer support and account recovery processes fell far short of what customers should expect from a premium subscription service.\n\nI sincerely hope WHOOP improves its support systems, data protection practices, and escalation procedures so that no other long-term member has to go through what I experienced.",
-      "subcategory_tags": [
-        "support_responsiveness",
-        "support_resolution_quality",
-        "missing_metrics"
       ]
     }
   ],
@@ -12182,6 +12195,18 @@
   ],
   "ui_ux": [
     {
+      "review_id": "6f1c869c-2017-4c25-b05c-cd4b00b3bc28",
+      "source": "google_play",
+      "rating": 2,
+      "date": "2026-11-07T10:14:00+00:00",
+      "text": "Several display issues and highly inaccurate estimates. This is marketed as a high-end product, but it falls well short of expectations. Not worth the price.",
+      "subcategory_tags": [
+        "device_rendering_bugs",
+        "metric_accuracy",
+        "price_value_perception"
+      ]
+    },
+    {
       "review_id": "9c81af93-65be-49c0-afad-8caaa8104dc6",
       "source": "google_play",
       "rating": 4,
@@ -12502,17 +12527,6 @@
         "redesign_regression",
         "price_value_perception",
         "sleep_satisfaction"
-      ]
-    },
-    {
-      "review_id": "ad4bbc81-07f9-4d20-af41-1448ab5eb456",
-      "source": "google_play",
-      "rating": 2,
-      "date": "2026-09-03T07:16:08+00:00",
-      "text": "The AI overlays are buggy. They restrict being able to use the screens e. g. The Sleep metric screen cannot be scrolled as the AI overlay tile prevents any touches to be detected by the main screen. On the screens where the AI overlay do not have this buy the tile is still large enough to feel they are intruding readability of the page. Only on the Home page does the Overlay minimise to the small W logo and stay put on the right hand side. The AI overlay should also be on demand only.",
-      "subcategory_tags": [
-        "ai_autonomy",
-        "feature_ui_friction"
       ]
     }
   ],
@@ -12862,6 +12876,18 @@
   ],
   "device_rendering_bugs": [
     {
+      "review_id": "6f1c869c-2017-4c25-b05c-cd4b00b3bc28",
+      "source": "google_play",
+      "rating": 2,
+      "date": "2026-11-07T10:14:00+00:00",
+      "text": "Several display issues and highly inaccurate estimates. This is marketed as a high-end product, but it falls well short of expectations. Not worth the price.",
+      "subcategory_tags": [
+        "device_rendering_bugs",
+        "metric_accuracy",
+        "price_value_perception"
+      ]
+    },
+    {
       "review_id": "14714878991",
       "source": "app_store",
       "rating": 1,
@@ -13168,17 +13194,6 @@
       "date": "2025-10-22T07:51:05",
       "text": "with the latest update, when starting an activity the bottom of the screen is blocked by navigation buttons",
       "subcategory_tags": [
-        "device_rendering_bugs"
-      ]
-    },
-    {
-      "review_id": "96dd5628-6490-45ba-8a00-40979bb9fe59",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2025-10-18T09:32:40",
-      "text": "this app is consistently buggy, especially with sharing features. some examples: 1) if there is a reply in a community message, further messages stop showing up 2) Ux hides the strain of the leader when you look at community strain due to overlapping components. I really expect better from a software company",
-      "subcategory_tags": [
-        "notification_community_issues",
         "device_rendering_bugs"
       ]
     }

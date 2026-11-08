@@ -1,5 +1,54 @@
 [
   {
+    "review_id": "6f1c869c-2017-4c25-b05c-cd4b00b3bc28",
+    "source": "google_play",
+    "rating": 2,
+    "date": "2026-11-07T10:14:00+00:00",
+    "text": "Several display issues and highly inaccurate estimates. This is marketed as a high-end product, but it falls well short of expectations. Not worth the price.",
+    "parent_category_tags": [
+      "ui_ux",
+      "data_accuracy",
+      "pricing_billing"
+    ],
+    "subcategory_tags": [
+      "device_rendering_bugs",
+      "metric_accuracy",
+      "price_value_perception"
+    ]
+  },
+  {
+    "review_id": "9d02ebf4-34bb-4278-9325-fd1c7510023c",
+    "source": "google_play",
+    "rating": 5,
+    "date": "2026-11-07T03:48:47+00:00",
+    "text": "Monitoring our life with stlye and accurate",
+    "parent_category_tags": [
+      "nan"
+    ],
+    "subcategory_tags": [
+      "nan"
+    ]
+  },
+  {
+    "review_id": "f6109929-88c7-4a57-ad88-f0b63fbbaf35",
+    "source": "google_play",
+    "rating": 3,
+    "date": "2026-11-06T20:37:10+00:00",
+    "text": "good, but lacks auto nap logging most of times i log it manually and have few issues with auto walking sessions (latest ones not showing in my home although recorded and support told me to update app)",
+    "parent_category_tags": [
+      "sleep_tracking",
+      "data_accuracy",
+      "sync_connectivity",
+      "customer_support"
+    ],
+    "subcategory_tags": [
+      "sleep_accuracy",
+      "activity_detection",
+      "data_sync_delays",
+      "support_resolution_quality"
+    ]
+  },
+  {
     "review_id": "178af1e6-923a-4db9-92cd-4fe1175e381f",
     "source": "google_play",
     "rating": 5,
