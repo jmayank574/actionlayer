@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-11-07T17:58:06.199650",
+  "generated_at": "2026-11-08T18:15:17.957970",
   "product": "WHOOP",
   "sources": {
     "google_play": {
-      "total": 2992,
+      "total": 2995,
       "date_range": [
         "2017-08-25T20:34:31",
-        "2026-11-06T05:15:30"
+        "2026-11-07T10:14:00"
       ],
       "rating_distribution": {
         "1": 1128,
-        "2": 374,
-        "3": 333,
+        "2": 375,
+        "3": 334,
         "4": 282,
-        "5": 875
+        "5": 876
       },
       "avg_length_words": 37.7
     },
@@ -26,39 +26,37 @@
       "rating_distribution": {
         "1": 227,
         "2": 68,
-        "3": 69,
+        "3": 70,
         "4": 81,
-        "5": 333
+        "5": 332
       },
       "avg_length_words": 52.6
     }
   },
   "combined": {
-    "total": 3770,
+    "total": 3773,
     "date_range": [
       "2017-08-25T20:34:31",
-      "2026-11-06T05:15:30"
+      "2026-11-07T10:14:00"
     ],
     "rating_distribution": {
       "1": 1355,
-      "2": 442,
-      "3": 402,
+      "2": 443,
+      "3": 404,
       "4": 363,
       "5": 1208
     },
     "avg_length_words": 40.8
   },
   "drop_counts": {
-    "dropped_empty_or_short": 501,
+    "dropped_empty_or_short": 469,
     "dropped_duplicate": 0
   },
-  "issues": [
-    "App Store: hit Apple's 10-page RSS cap (~500 reviews) \u2014 this is a limit of Apple's public feed, not a failure of the pull. Apple does not expose full review history through any public endpoint."
-  ],
+  "issues": [],
   "merge_counts": {
-    "new": 1,
-    "updated": 0,
-    "unchanged": 3427,
-    "carried_over": 342
+    "new": 3,
+    "updated": 1,
+    "unchanged": 3161,
+    "carried_over": 608
   }
 }
