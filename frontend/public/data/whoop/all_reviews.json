@@ -1,5 +1,130 @@
 [
   {
+    "review_id": "5b05b13e-f70f-42f4-9329-b2ce6f36372f",
+    "source": "google_play",
+    "rating": 5,
+    "date": "2026-11-08T16:11:27+00:00",
+    "text": "If you use it usefully, then your life may change ✨️",
+    "parent_category_tags": [
+      "nan"
+    ],
+    "subcategory_tags": [
+      "nan"
+    ]
+  },
+  {
+    "review_id": "14766424914",
+    "source": "app_store",
+    "rating": 2,
+    "date": "2026-11-08T09:02:25-07:00",
+    "text": "The step count has been messed up since the update, I tried contacting customer service but they were unable to help",
+    "parent_category_tags": [
+      "data_accuracy",
+      "customer_support"
+    ],
+    "subcategory_tags": [
+      "metric_accuracy",
+      "support_resolution_quality"
+    ]
+  },
+  {
+    "review_id": "14766122852",
+    "source": "app_store",
+    "rating": 5,
+    "date": "2026-11-08T07:35:30-07:00",
+    "text": "I’ve been using whoop for more than 6 years now. I couldn’t imagine a life without it. It helps my training, recovery, and sleep so much.",
+    "parent_category_tags": [
+      "sleep_tracking"
+    ],
+    "subcategory_tags": [
+      "sleep_satisfaction"
+    ]
+  },
+  {
+    "review_id": "14765492466",
+    "source": "app_store",
+    "rating": 1,
+    "date": "2026-11-08T04:30:57-07:00",
+    "text": "Not great interface on duo.",
+    "parent_category_tags": [
+      "ui_ux"
+    ],
+    "subcategory_tags": [
+      "device_rendering_bugs"
+    ]
+  },
+  {
+    "review_id": "01a8613c-5f1c-4eb6-aca2-e9019630d0e3",
+    "source": "google_play",
+    "rating": 5,
+    "date": "2026-11-08T09:10:25+00:00",
+    "text": "2 years now...helps me maintain and improve my overall health and fitness",
+    "parent_category_tags": [
+      "nan"
+    ],
+    "subcategory_tags": [
+      "nan"
+    ]
+  },
+  {
+    "review_id": "b578bf7a-8ac3-4bb0-a3a0-6907d9017162",
+    "source": "google_play",
+    "rating": 5,
+    "date": "2026-11-08T00:09:26+00:00",
+    "text": "Best health investment I ever made, 1085 days later and still love it",
+    "parent_category_tags": [
+      "nan"
+    ],
+    "subcategory_tags": [
+      "nan"
+    ]
+  },
+  {
+    "review_id": "14762901161",
+    "source": "app_store",
+    "rating": 1,
+    "date": "2026-11-07T11:52:01-07:00",
+    "text": "The data used to be solid, but then they changed the algorithm in July and it flattened the data so much that my heart rate that on other devices shows 175 on my whoop no longer gets above 150 even on extreme work outs. It’s practically useless since July.",
+    "parent_category_tags": [
+      "data_accuracy",
+      "app_stability"
+    ],
+    "subcategory_tags": [
+      "metric_accuracy",
+      "update_failures"
+    ]
+  },
+  {
+    "review_id": "14761815056",
+    "source": "app_store",
+    "rating": 1,
+    "date": "2026-11-07T06:31:34-07:00",
+    "text": "The data it collects is interesting but I’m not convinced it’s totally accurate. Customer service is atrocious and the AI is practically useless. It often gives you contradictory advice. In fairness I’ve been using the whoop for over 5 years, it wasn’t until the AI came that I started to question the data",
+    "parent_category_tags": [
+      "data_accuracy",
+      "ai_coach",
+      "customer_support"
+    ],
+    "subcategory_tags": [
+      "metric_accuracy",
+      "ai_reliability_bugs",
+      "support_resolution_quality"
+    ]
+  },
+  {
+    "review_id": "14761595744",
+    "source": "app_store",
+    "rating": 3,
+    "date": "2026-11-07T05:30:46-07:00",
+    "text": "I think this would be a better app if we had the capability to log our calories. It would be very simple. Use the camera so that I can scan the SKU of the food you’re going to eat you should have all the information needed",
+    "parent_category_tags": [
+      "feature_requests"
+    ],
+    "subcategory_tags": [
+      "missing_metrics"
+    ]
+  },
+  {
     "review_id": "6f1c869c-2017-4c25-b05c-cd4b00b3bc28",
     "source": "google_play",
     "rating": 2,
