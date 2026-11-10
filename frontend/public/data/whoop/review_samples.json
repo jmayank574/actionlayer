@@ -8035,6 +8035,16 @@
   ],
   "ai_coach": [
     {
+      "review_id": "14770052010",
+      "source": "app_store",
+      "rating": 5,
+      "date": "2026-11-09T07:38:49-07:00",
+      "text": "Whoop has been a game changer for me love the AI aspect of it very insightful",
+      "subcategory_tags": [
+        "ai_positive_reception"
+      ]
+    },
+    {
       "review_id": "14761815056",
       "source": "app_store",
       "rating": 1,
@@ -8356,17 +8366,6 @@
       "subcategory_tags": [
         "ai_autonomy",
         "redesign_regression"
-      ]
-    },
-    {
-      "review_id": "14486435203",
-      "source": "app_store",
-      "rating": 5,
-      "date": "2026-08-29T08:34:58-07:00",
-      "text": "Whoop was recommended to me by a friend, I did the trial & it’s been a wrap ever since. There are so many benefits wrapped into one band, the long lasting battery is great, the insights and tracking, and the AI feature does a wonderful job giving recommendations and adjustments",
-      "subcategory_tags": [
-        "battery_life",
-        "ai_positive_reception"
       ]
     }
   ],
@@ -9054,6 +9053,16 @@
   ],
   "ai_positive_reception": [
     {
+      "review_id": "14770052010",
+      "source": "app_store",
+      "rating": 5,
+      "date": "2026-11-09T07:38:49-07:00",
+      "text": "Whoop has been a game changer for me love the AI aspect of it very insightful",
+      "subcategory_tags": [
+        "ai_positive_reception"
+      ]
+    },
+    {
       "review_id": "14711993111",
       "source": "app_store",
       "rating": 5,
@@ -9364,16 +9373,6 @@
       "text": "Excelente me ha permitido conocerme desde punto de vista importante como es mi sueño y como debo mejorarlo, mi entrenamiento diario y recuperación. Mi coach espectacular dándome consejos para ir cada día mejor, muy atinado",
       "subcategory_tags": [
         "sleep_satisfaction",
-        "ai_positive_reception"
-      ]
-    },
-    {
-      "review_id": "8a288f1a-a7c2-4137-9af0-140346b28edd",
-      "source": "google_play",
-      "rating": 5,
-      "date": "2026-06-27T03:16:46",
-      "text": "great AI insights, easy tracking of habits, responsive app, very informative",
-      "subcategory_tags": [
         "ai_positive_reception"
       ]
     }
@@ -15598,6 +15597,16 @@
   ],
   "feature_requests": [
     {
+      "review_id": "14768325643",
+      "source": "app_store",
+      "rating": 5,
+      "date": "2026-11-08T20:23:08-07:00",
+      "text": "I’m 5 days in and enjoying the information so far, but I’m noticing that journal items designated to auto import from Apple health are not importing properly no matter what I do. It’s missing a lot of that information. There’s other variances I’m noticing compared to my Apple Watch (opposite wrist), but I’m chocking those up to the expected differences in calculation methods.\n\nImportant: I have verified multiple times per day that the permissions are there for whoop to import data from Apple health to the whoop journal, the only thing left to try is to completely disconnect Apple health from whoop and reconnect it.\n\nEdit: turned off all Apple sync and reenabled. That seems to have done the trick with getting the journal to properly sync.",
+      "subcategory_tags": [
+        "third_party_integration"
+      ]
+    },
+    {
       "review_id": "14761595744",
       "source": "app_store",
       "rating": 3,
@@ -15921,17 +15930,6 @@
       "subcategory_tags": [
         "ai_autonomy",
         "third_party_integration"
-      ]
-    },
-    {
-      "review_id": "14576374822",
-      "source": "app_store",
-      "rating": 2,
-      "date": "2026-09-21T07:16:24-07:00",
-      "text": "For something that you cannot dial in for your specific lifestyle it’s awfully expensive. I work nights, my workouts are not always the at the same time (sometimes it’s mornings and some sometimes it’s afternoons) it depends on he’s that I work vs sleep. I had an otlrigin whoop years ago and I loved it so I thought I’d buy the new updated version. I wish I had waited for the new Apple Ultra 3 to come out.",
-      "subcategory_tags": [
-        "personalization_use_case_fit",
-        "price_value_perception"
       ]
     }
   ],
@@ -16961,6 +16959,16 @@
   ],
   "third_party_integration": [
     {
+      "review_id": "14768325643",
+      "source": "app_store",
+      "rating": 5,
+      "date": "2026-11-08T20:23:08-07:00",
+      "text": "I’m 5 days in and enjoying the information so far, but I’m noticing that journal items designated to auto import from Apple health are not importing properly no matter what I do. It’s missing a lot of that information. There’s other variances I’m noticing compared to my Apple Watch (opposite wrist), but I’m chocking those up to the expected differences in calculation methods.\n\nImportant: I have verified multiple times per day that the permissions are there for whoop to import data from Apple health to the whoop journal, the only thing left to try is to completely disconnect Apple health from whoop and reconnect it.\n\nEdit: turned off all Apple sync and reenabled. That seems to have done the trick with getting the journal to properly sync.",
+      "subcategory_tags": [
+        "third_party_integration"
+      ]
+    },
+    {
       "review_id": "1ea9686c-fb6e-44a6-9911-f5581bbbb3fc",
       "source": "google_play",
       "rating": 5,
@@ -17284,16 +17292,6 @@
         "price_value_perception",
         "ai_positive_reception",
         "missing_metrics",
-        "third_party_integration"
-      ]
-    },
-    {
-      "review_id": "13805673790",
-      "source": "app_store",
-      "rating": 5,
-      "date": "2026-03-02T04:16:39-07:00",
-      "text": "Whoop has been the single biggest game changer for my health journey to understand what’s happening in my body and how to stay “in the zone”. 50+ lbs down since I started using Whoop about a year ago! My only request is integration with the Hevy app. That would be killer!",
-      "subcategory_tags": [
         "third_party_integration"
       ]
     }

@@ -1,5 +1,57 @@
 [
   {
+    "review_id": "14770052010",
+    "source": "app_store",
+    "rating": 5,
+    "date": "2026-11-09T07:38:49-07:00",
+    "text": "Whoop has been a game changer for me love the AI aspect of it very insightful",
+    "parent_category_tags": [
+      "ai_coach"
+    ],
+    "subcategory_tags": [
+      "ai_positive_reception"
+    ]
+  },
+  {
+    "review_id": "14769523492",
+    "source": "app_store",
+    "rating": 5,
+    "date": "2026-11-09T04:58:02-07:00",
+    "text": "I’ve had my Whoop for years and will have it for many more. Having daily feedback about what’s going on in my body is incredible.",
+    "parent_category_tags": [
+      "nan"
+    ],
+    "subcategory_tags": [
+      "nan"
+    ]
+  },
+  {
+    "review_id": "14768325643",
+    "source": "app_store",
+    "rating": 5,
+    "date": "2026-11-08T20:23:08-07:00",
+    "text": "I’m 5 days in and enjoying the information so far, but I’m noticing that journal items designated to auto import from Apple health are not importing properly no matter what I do. It’s missing a lot of that information. There’s other variances I’m noticing compared to my Apple Watch (opposite wrist), but I’m chocking those up to the expected differences in calculation methods.\n\nImportant: I have verified multiple times per day that the permissions are there for whoop to import data from Apple health to the whoop journal, the only thing left to try is to completely disconnect Apple health from whoop and reconnect it.\n\nEdit: turned off all Apple sync and reenabled. That seems to have done the trick with getting the journal to properly sync.",
+    "parent_category_tags": [
+      "feature_requests"
+    ],
+    "subcategory_tags": [
+      "third_party_integration"
+    ]
+  },
+  {
+    "review_id": "51880437-2779-4892-8f72-26f633b82c8a",
+    "source": "google_play",
+    "rating": 4,
+    "date": "2026-11-09T02:19:17+00:00",
+    "text": "workable but sometimes difficult to adjust when forgot to waer the watch",
+    "parent_category_tags": [
+      "nan"
+    ],
+    "subcategory_tags": [
+      "nan"
+    ]
+  },
+  {
     "review_id": "5b05b13e-f70f-42f4-9329-b2ce6f36372f",
     "source": "google_play",
     "rating": 5,
