@@ -1,6 +1,40 @@
 {
   "pricing_billing": [
     {
+      "review_id": "da4579d4-0663-4d50-8ab3-818922b348e0",
+      "source": "google_play",
+      "rating": 1,
+      "date": "2026-11-11T06:29:40+00:00",
+      "text": "I dont think it deserves this much expencive and then every yearly subscriptions not worth it the blood pressure and some other things I think i does from assumptions I would recommend those huwai ,samsung or app watches much better than this",
+      "subcategory_tags": [
+        "price_value_perception",
+        "ecg_bp_feature_reliability",
+        "metric_accuracy"
+      ]
+    },
+    {
+      "review_id": "14775353162",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-11-10T15:51:04-07:00",
+      "text": "Take note of the lawsuits against Whoop before signing your year commitment.",
+      "subcategory_tags": [
+        "billing_disputes"
+      ]
+    },
+    {
+      "review_id": "14774927517",
+      "source": "app_store",
+      "rating": 3,
+      "date": "2026-11-10T13:09:29-07:00",
+      "text": "After three years as a WHOOP member and an impressive, 1200 day streak I finally decided to cancel my subscription\n\nFor a long time, I was a huge advocate of WHOOP. I genuinely believed in the product and the value it offered, however, over the past year, I’ve increasingly questioned whether it’s keeping pace with the competition, particularly when it comes to accuracy, consistency, and innovation. I recently switched to the Apple Watch Ultra 4 and the difference in both the readings and the depth of data available have been significant. It’s made me question just how much value I was getting from WHOOP.\n\nAt $52 a month it’s becoming increasingly difficult to justify the expense, especially for a device without a screen when competitors are offering considerably more functionality without the same ongoing subscript costs\n\nWhat disappoints me is the apparent shift in priorities WHOOP seems increasingly focused on celebrity, partnerships, endorsements, and marketing rather than delivering meaningful product from my perspective, the pace of improvement has slowed considerably while the cost of membership has continued to rise\n\nIt’s a real shame because I spent three years champion the brand building WHOOP into my daily routine walking away after 1200 consecutive days of tracking isn’t something I expected to do\n\nBut ultimately Brown loyalty only goes so far when the competition improves and the value proposition becomes harder to defend something has to give\n\nFor me, WHOOP has lost the competitive edge that made it so compelling in the first place",
+      "subcategory_tags": [
+        "price_value_perception",
+        "metric_accuracy",
+        "build_quality_perception"
+      ]
+    },
+    {
       "review_id": "6f1c869c-2017-4c25-b05c-cd4b00b3bc28",
       "source": "google_play",
       "rating": 2,
@@ -308,45 +342,33 @@
         "support_resolution_quality",
         "ai_only_support_channel"
       ]
-    },
-    {
-      "review_id": "14635632736",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-10-06T13:10:16-07:00",
-      "text": "Terrible app and terrible service. I tried to sign up for a free blood test, but I was charged $69. When I contacted support, they asked me to return a device I don't even have. There are no real people available in support, and I can't get a clear answer from the AI; it just keeps telling me to cancel the subscription in the app (which I had to download specifically for this), but those options aren't even there for me! Now I have to cancel everything through my bank and get a new card to prevent any further charges. I’m shocked by this kind of service.",
-      "subcategory_tags": [
-        "billing_disputes",
-        "ai_only_support_channel",
-        "support_resolution_quality",
-        "upsell_pressure"
-      ]
-    },
-    {
-      "review_id": "ad9c6eb6-0f02-4193-b90e-2a12f9c4ad92",
-      "source": "google_play",
-      "rating": 4,
-      "date": "2026-10-06T05:18:44+00:00",
-      "text": "got very detail data's, but will be great if lower down the subscription fee.",
-      "subcategory_tags": [
-        "price_value_perception"
-      ]
-    },
-    {
-      "review_id": "14632497555",
-      "source": "app_store",
-      "rating": 2,
-      "date": "2026-10-05T17:25:14-07:00",
-      "text": "Doesn’t capture naps reliably and when it does, doesn’t subtract from sleep debt which is illogical.\nShows often low oxygen 88%. Dedicated oximeter shows 98-99%.\nOverly complicated menu.\nI would’ve given it 3 stars for accuracy but comparing “medical grade” subscription cost to basic Fitbit Charge 3 which is more accurate in heart rate, steps and detecting sleep, I give it 2.",
-      "subcategory_tags": [
-        "sleep_accuracy",
-        "metric_accuracy",
-        "redesign_regression",
-        "price_value_perception"
-      ]
     }
   ],
   "price_value_perception": [
+    {
+      "review_id": "da4579d4-0663-4d50-8ab3-818922b348e0",
+      "source": "google_play",
+      "rating": 1,
+      "date": "2026-11-11T06:29:40+00:00",
+      "text": "I dont think it deserves this much expencive and then every yearly subscriptions not worth it the blood pressure and some other things I think i does from assumptions I would recommend those huwai ,samsung or app watches much better than this",
+      "subcategory_tags": [
+        "price_value_perception",
+        "ecg_bp_feature_reliability",
+        "metric_accuracy"
+      ]
+    },
+    {
+      "review_id": "14774927517",
+      "source": "app_store",
+      "rating": 3,
+      "date": "2026-11-10T13:09:29-07:00",
+      "text": "After three years as a WHOOP member and an impressive, 1200 day streak I finally decided to cancel my subscription\n\nFor a long time, I was a huge advocate of WHOOP. I genuinely believed in the product and the value it offered, however, over the past year, I’ve increasingly questioned whether it’s keeping pace with the competition, particularly when it comes to accuracy, consistency, and innovation. I recently switched to the Apple Watch Ultra 4 and the difference in both the readings and the depth of data available have been significant. It’s made me question just how much value I was getting from WHOOP.\n\nAt $52 a month it’s becoming increasingly difficult to justify the expense, especially for a device without a screen when competitors are offering considerably more functionality without the same ongoing subscript costs\n\nWhat disappoints me is the apparent shift in priorities WHOOP seems increasingly focused on celebrity, partnerships, endorsements, and marketing rather than delivering meaningful product from my perspective, the pace of improvement has slowed considerably while the cost of membership has continued to rise\n\nIt’s a real shame because I spent three years champion the brand building WHOOP into my daily routine walking away after 1200 consecutive days of tracking isn’t something I expected to do\n\nBut ultimately Brown loyalty only goes so far when the competition improves and the value proposition becomes harder to defend something has to give\n\nFor me, WHOOP has lost the competitive edge that made it so compelling in the first place",
+      "subcategory_tags": [
+        "price_value_perception",
+        "metric_accuracy",
+        "build_quality_perception"
+      ]
+    },
     {
       "review_id": "6f1c869c-2017-4c25-b05c-cd4b00b3bc28",
       "source": "google_play",
@@ -669,29 +691,19 @@
         "personalization_use_case_fit",
         "price_value_perception"
       ]
-    },
-    {
-      "review_id": "694d2cfc-310c-42ee-bcde-5cb3b410f90a",
-      "source": "google_play",
-      "rating": 4,
-      "date": "2026-09-19T08:11:52+00:00",
-      "text": "Soweit alles gut, ein bisschen teuer vielleicht - falls jemand neu einsteigt: Mit 5571C038 ein Monat frei für uns beide.",
-      "subcategory_tags": [
-        "price_value_perception"
-      ]
-    },
-    {
-      "review_id": "62f44061-3417-45f2-af50-5234011683e2",
-      "source": "google_play",
-      "rating": 3,
-      "date": "2026-09-19T08:04:14+00:00",
-      "text": "Renewal fee is exorbitantly high when compared with equivalent bands.",
-      "subcategory_tags": [
-        "price_value_perception"
-      ]
     }
   ],
   "billing_disputes": [
+    {
+      "review_id": "14775353162",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-11-10T15:51:04-07:00",
+      "text": "Take note of the lawsuits against Whoop before signing your year commitment.",
+      "subcategory_tags": [
+        "billing_disputes"
+      ]
+    },
     {
       "review_id": "10a0acf9-6b3c-4317-96c0-e5508e323955",
       "source": "google_play",
@@ -1032,17 +1044,6 @@
         "billing_disputes",
         "ai_only_support_channel",
         "support_resolution_quality"
-      ]
-    },
-    {
-      "review_id": "14430227958",
-      "source": "app_store",
-      "rating": 2,
-      "date": "2026-08-15T03:18:31-07:00",
-      "text": "The Whoop is an interesting tool that helped me to gain valuable insight regarding my sleep and training. After a couple of months I feel it no longer serves it purpose. I’d return it and save the $27 per month but I am committed to one year so that’s not an option. It is an expensive toy, for what I need. Looks good.",
-      "subcategory_tags": [
-        "price_value_perception",
-        "billing_disputes"
       ]
     }
   ],
@@ -3088,6 +3089,18 @@
   ],
   "hardware_wearability": [
     {
+      "review_id": "14774927517",
+      "source": "app_store",
+      "rating": 3,
+      "date": "2026-11-10T13:09:29-07:00",
+      "text": "After three years as a WHOOP member and an impressive, 1200 day streak I finally decided to cancel my subscription\n\nFor a long time, I was a huge advocate of WHOOP. I genuinely believed in the product and the value it offered, however, over the past year, I’ve increasingly questioned whether it’s keeping pace with the competition, particularly when it comes to accuracy, consistency, and innovation. I recently switched to the Apple Watch Ultra 4 and the difference in both the readings and the depth of data available have been significant. It’s made me question just how much value I was getting from WHOOP.\n\nAt $52 a month it’s becoming increasingly difficult to justify the expense, especially for a device without a screen when competitors are offering considerably more functionality without the same ongoing subscript costs\n\nWhat disappoints me is the apparent shift in priorities WHOOP seems increasingly focused on celebrity, partnerships, endorsements, and marketing rather than delivering meaningful product from my perspective, the pace of improvement has slowed considerably while the cost of membership has continued to rise\n\nIt’s a real shame because I spent three years champion the brand building WHOOP into my daily routine walking away after 1200 consecutive days of tracking isn’t something I expected to do\n\nBut ultimately Brown loyalty only goes so far when the competition improves and the value proposition becomes harder to defend something has to give\n\nFor me, WHOOP has lost the competitive edge that made it so compelling in the first place",
+      "subcategory_tags": [
+        "price_value_perception",
+        "metric_accuracy",
+        "build_quality_perception"
+      ]
+    },
+    {
       "review_id": "14740743663",
       "source": "app_store",
       "rating": 1,
@@ -3431,18 +3444,6 @@
       "subcategory_tags": [
         "support_resolution_quality",
         "build_quality_perception"
-      ]
-    },
-    {
-      "review_id": "14365927486",
-      "source": "app_store",
-      "rating": 3,
-      "date": "2026-07-30T03:17:50-07:00",
-      "text": "Committed to using the band this year but it’s uncomfortable even with upgrading to a nicer one which makes Whoop even more expensive. Interface is better for serious athletes not it’s not for me.",
-      "subcategory_tags": [
-        "comfort_fit",
-        "price_value_perception",
-        "personalization_use_case_fit"
       ]
     }
   ],
@@ -4501,6 +4502,18 @@
   ],
   "build_quality_perception": [
     {
+      "review_id": "14774927517",
+      "source": "app_store",
+      "rating": 3,
+      "date": "2026-11-10T13:09:29-07:00",
+      "text": "After three years as a WHOOP member and an impressive, 1200 day streak I finally decided to cancel my subscription\n\nFor a long time, I was a huge advocate of WHOOP. I genuinely believed in the product and the value it offered, however, over the past year, I’ve increasingly questioned whether it’s keeping pace with the competition, particularly when it comes to accuracy, consistency, and innovation. I recently switched to the Apple Watch Ultra 4 and the difference in both the readings and the depth of data available have been significant. It’s made me question just how much value I was getting from WHOOP.\n\nAt $52 a month it’s becoming increasingly difficult to justify the expense, especially for a device without a screen when competitors are offering considerably more functionality without the same ongoing subscript costs\n\nWhat disappoints me is the apparent shift in priorities WHOOP seems increasingly focused on celebrity, partnerships, endorsements, and marketing rather than delivering meaningful product from my perspective, the pace of improvement has slowed considerably while the cost of membership has continued to rise\n\nIt’s a real shame because I spent three years champion the brand building WHOOP into my daily routine walking away after 1200 consecutive days of tracking isn’t something I expected to do\n\nBut ultimately Brown loyalty only goes so far when the competition improves and the value proposition becomes harder to defend something has to give\n\nFor me, WHOOP has lost the competitive edge that made it so compelling in the first place",
+      "subcategory_tags": [
+        "price_value_perception",
+        "metric_accuracy",
+        "build_quality_perception"
+      ]
+    },
+    {
       "review_id": "14740743663",
       "source": "app_store",
       "rating": 1,
@@ -4845,18 +4858,6 @@
       "subcategory_tags": [
         "ai_reliability_bugs",
         "build_quality_perception"
-      ]
-    },
-    {
-      "review_id": "c59735bc-4197-4cbc-9275-0b0c15d3986a",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2025-06-15T04:43:14",
-      "text": "To use the WHOOP app you also have to subscribe to a WHOOP membership which starts at around 200 Euro/year. With your membership you’ll receive a “free” WHOOP device which also includes free upgrades to new hardware versions. Recently I’ve been upgraded from the WHOOP 4 to the WHOOP 5 and the transition has been terrible. The WHOOP 5 is incompatible with WHOOP 4 accessories like the wristband or battery pack (charger) so all the things I've bought are now junk. Don't sign up for this scam.",
-      "subcategory_tags": [
-        "price_value_perception",
-        "build_quality_perception",
-        "billing_disputes"
       ]
     }
   ],
@@ -6229,6 +6230,30 @@
   ],
   "data_accuracy": [
     {
+      "review_id": "da4579d4-0663-4d50-8ab3-818922b348e0",
+      "source": "google_play",
+      "rating": 1,
+      "date": "2026-11-11T06:29:40+00:00",
+      "text": "I dont think it deserves this much expencive and then every yearly subscriptions not worth it the blood pressure and some other things I think i does from assumptions I would recommend those huwai ,samsung or app watches much better than this",
+      "subcategory_tags": [
+        "price_value_perception",
+        "ecg_bp_feature_reliability",
+        "metric_accuracy"
+      ]
+    },
+    {
+      "review_id": "14774927517",
+      "source": "app_store",
+      "rating": 3,
+      "date": "2026-11-10T13:09:29-07:00",
+      "text": "After three years as a WHOOP member and an impressive, 1200 day streak I finally decided to cancel my subscription\n\nFor a long time, I was a huge advocate of WHOOP. I genuinely believed in the product and the value it offered, however, over the past year, I’ve increasingly questioned whether it’s keeping pace with the competition, particularly when it comes to accuracy, consistency, and innovation. I recently switched to the Apple Watch Ultra 4 and the difference in both the readings and the depth of data available have been significant. It’s made me question just how much value I was getting from WHOOP.\n\nAt $52 a month it’s becoming increasingly difficult to justify the expense, especially for a device without a screen when competitors are offering considerably more functionality without the same ongoing subscript costs\n\nWhat disappoints me is the apparent shift in priorities WHOOP seems increasingly focused on celebrity, partnerships, endorsements, and marketing rather than delivering meaningful product from my perspective, the pace of improvement has slowed considerably while the cost of membership has continued to rise\n\nIt’s a real shame because I spent three years champion the brand building WHOOP into my daily routine walking away after 1200 consecutive days of tracking isn’t something I expected to do\n\nBut ultimately Brown loyalty only goes so far when the competition improves and the value proposition becomes harder to defend something has to give\n\nFor me, WHOOP has lost the competitive edge that made it so compelling in the first place",
+      "subcategory_tags": [
+        "price_value_perception",
+        "metric_accuracy",
+        "build_quality_perception"
+      ]
+    },
+    {
       "review_id": "14766424914",
       "source": "app_store",
       "rating": 2,
@@ -6551,35 +6576,33 @@
       "subcategory_tags": [
         "metric_accuracy"
       ]
-    },
-    {
-      "review_id": "14645702078",
-      "source": "app_store",
-      "rating": 5,
-      "date": "2026-10-09T05:41:58-07:00",
-      "text": "Great fitness and sleep tracker ever . 14 days battery life , snug and light fit that you don't feel like you are wearing it . Amazing stats for sleep and great workout detection . This is a review after 1.5 years of usage . Got rid of my apple watch and started using traditional watches and using whoop for fitness and sleep tracking",
-      "subcategory_tags": [
-        "sleep_satisfaction",
-        "battery_life",
-        "comfort_fit",
-        "activity_detection"
-      ]
-    },
-    {
-      "review_id": "14632497555",
-      "source": "app_store",
-      "rating": 2,
-      "date": "2026-10-05T17:25:14-07:00",
-      "text": "Doesn’t capture naps reliably and when it does, doesn’t subtract from sleep debt which is illogical.\nShows often low oxygen 88%. Dedicated oximeter shows 98-99%.\nOverly complicated menu.\nI would’ve given it 3 stars for accuracy but comparing “medical grade” subscription cost to basic Fitbit Charge 3 which is more accurate in heart rate, steps and detecting sleep, I give it 2.",
-      "subcategory_tags": [
-        "sleep_accuracy",
-        "metric_accuracy",
-        "redesign_regression",
-        "price_value_perception"
-      ]
     }
   ],
   "metric_accuracy": [
+    {
+      "review_id": "da4579d4-0663-4d50-8ab3-818922b348e0",
+      "source": "google_play",
+      "rating": 1,
+      "date": "2026-11-11T06:29:40+00:00",
+      "text": "I dont think it deserves this much expencive and then every yearly subscriptions not worth it the blood pressure and some other things I think i does from assumptions I would recommend those huwai ,samsung or app watches much better than this",
+      "subcategory_tags": [
+        "price_value_perception",
+        "ecg_bp_feature_reliability",
+        "metric_accuracy"
+      ]
+    },
+    {
+      "review_id": "14774927517",
+      "source": "app_store",
+      "rating": 3,
+      "date": "2026-11-10T13:09:29-07:00",
+      "text": "After three years as a WHOOP member and an impressive, 1200 day streak I finally decided to cancel my subscription\n\nFor a long time, I was a huge advocate of WHOOP. I genuinely believed in the product and the value it offered, however, over the past year, I’ve increasingly questioned whether it’s keeping pace with the competition, particularly when it comes to accuracy, consistency, and innovation. I recently switched to the Apple Watch Ultra 4 and the difference in both the readings and the depth of data available have been significant. It’s made me question just how much value I was getting from WHOOP.\n\nAt $52 a month it’s becoming increasingly difficult to justify the expense, especially for a device without a screen when competitors are offering considerably more functionality without the same ongoing subscript costs\n\nWhat disappoints me is the apparent shift in priorities WHOOP seems increasingly focused on celebrity, partnerships, endorsements, and marketing rather than delivering meaningful product from my perspective, the pace of improvement has slowed considerably while the cost of membership has continued to rise\n\nIt’s a real shame because I spent three years champion the brand building WHOOP into my daily routine walking away after 1200 consecutive days of tracking isn’t something I expected to do\n\nBut ultimately Brown loyalty only goes so far when the competition improves and the value proposition becomes harder to defend something has to give\n\nFor me, WHOOP has lost the competitive edge that made it so compelling in the first place",
+      "subcategory_tags": [
+        "price_value_perception",
+        "metric_accuracy",
+        "build_quality_perception"
+      ]
+    },
     {
       "review_id": "14766424914",
       "source": "app_store",
@@ -6905,27 +6928,6 @@
       "subcategory_tags": [
         "metric_accuracy",
         "third_party_integration"
-      ]
-    },
-    {
-      "review_id": "14576341015",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-09-21T07:06:27-07:00",
-      "text": "Somehow whoops ability to detect and analyze sleep continues to get worse.  It doesnt detect wake-ups; it misreads non-sleep hours as rest and greatly overstates directional indicators and analysis like a cable news commentator.  Feel like product improvements have been a bell curve over last couple years.  Appreciate the battery life and lack of 'smart watch' type functionality but its missing the target on tracking key metrics.",
-      "subcategory_tags": [
-        "sleep_accuracy",
-        "metric_accuracy"
-      ]
-    },
-    {
-      "review_id": "bcc42fa3-ff47-4327-b94d-bd443164ddaf",
-      "source": "google_play",
-      "rating": 3,
-      "date": "2026-09-21T10:47:50+00:00",
-      "text": "Apparently it wants me to die in order to reach zone 4-5????? I've done STRENUOUS exercise and it still doesn't register",
-      "subcategory_tags": [
-        "metric_accuracy"
       ]
     }
   ],
@@ -7291,6 +7293,18 @@
   ],
   "health_signal_reliability": [
     {
+      "review_id": "da4579d4-0663-4d50-8ab3-818922b348e0",
+      "source": "google_play",
+      "rating": 1,
+      "date": "2026-11-11T06:29:40+00:00",
+      "text": "I dont think it deserves this much expencive and then every yearly subscriptions not worth it the blood pressure and some other things I think i does from assumptions I would recommend those huwai ,samsung or app watches much better than this",
+      "subcategory_tags": [
+        "price_value_perception",
+        "ecg_bp_feature_reliability",
+        "metric_accuracy"
+      ]
+    },
+    {
       "review_id": "14672914795",
       "source": "app_store",
       "rating": 2,
@@ -7623,17 +7637,6 @@
       "subcategory_tags": [
         "ecg_bp_feature_reliability"
       ]
-    },
-    {
-      "review_id": "13434123486",
-      "source": "app_store",
-      "rating": 4,
-      "date": "2025-11-23T19:54:52-07:00",
-      "text": "I think the Whoop concept is awesome. I have the Life membership and have also purchased blood tests and opted to participate in studies. My one request: continue the partnership/integration with Withings. I have a wireless BP monitor that would be amazing the data could be automatically brought into the Whoop app for tracking.",
-      "subcategory_tags": [
-        "third_party_integration",
-        "ecg_bp_feature_reliability"
-      ]
     }
   ],
   "cardiac_detection_trust": [
@@ -7683,6 +7686,18 @@
     }
   ],
   "ecg_bp_feature_reliability": [
+    {
+      "review_id": "da4579d4-0663-4d50-8ab3-818922b348e0",
+      "source": "google_play",
+      "rating": 1,
+      "date": "2026-11-11T06:29:40+00:00",
+      "text": "I dont think it deserves this much expencive and then every yearly subscriptions not worth it the blood pressure and some other things I think i does from assumptions I would recommend those huwai ,samsung or app watches much better than this",
+      "subcategory_tags": [
+        "price_value_perception",
+        "ecg_bp_feature_reliability",
+        "metric_accuracy"
+      ]
+    },
     {
       "review_id": "14672914795",
       "source": "app_store",
@@ -8020,20 +8035,20 @@
         "third_party_integration",
         "ecg_bp_feature_reliability"
       ]
-    },
-    {
-      "review_id": "008b1a23-2831-4c09-abb2-3545cae26a7e",
-      "source": "google_play",
-      "rating": 5,
-      "date": "2025-11-14T21:16:36",
-      "text": "I have been using Whoop from 2024 and i have never been facing issues with it. Mainly i use it for My sleep, strain and stress and this has been accurate compared to the other smatwatches. Was using life and then updated to peak which is very good with ecg checks and all...i simply love it and happy with it",
-      "subcategory_tags": [
-        "sleep_satisfaction",
-        "ecg_bp_feature_reliability"
-      ]
     }
   ],
   "ai_coach": [
+    {
+      "review_id": "14775823770",
+      "source": "app_store",
+      "rating": 2,
+      "date": "2026-11-10T18:49:11-07:00",
+      "text": "Thought this was going to be a good biometric monitor and health coaching option. The AI algorithm continually lectures me on not enough strain when I have repeatedly reported strain levels that wipe me for hours afterwards. It’s not learning or listening and I am tired of being shamed by an Ai bot.",
+      "subcategory_tags": [
+        "personalization_use_case_fit",
+        "ai_reliability_bugs"
+      ]
+    },
     {
       "review_id": "14770052010",
       "source": "app_store",
@@ -8356,20 +8371,20 @@
         "personalization_use_case_fit",
         "ai_positive_reception"
       ]
-    },
-    {
-      "review_id": "b055d79f-144f-4f82-a43f-42a1c7ba4312",
-      "source": "google_play",
-      "rating": 3,
-      "date": "2026-08-31T14:55:31+00:00",
-      "text": "AI bloat makes some of the functions not work. I cannot view my Sleep or Recovery metric windows within the app because the AI analysis pop-up windows are non-dissmissable so about a third of the data I can't access.",
-      "subcategory_tags": [
-        "ai_autonomy",
-        "redesign_regression"
-      ]
     }
   ],
   "ai_reliability_bugs": [
+    {
+      "review_id": "14775823770",
+      "source": "app_store",
+      "rating": 2,
+      "date": "2026-11-10T18:49:11-07:00",
+      "text": "Thought this was going to be a good biometric monitor and health coaching option. The AI algorithm continually lectures me on not enough strain when I have repeatedly reported strain levels that wipe me for hours afterwards. It’s not learning or listening and I am tired of being shamed by an Ai bot.",
+      "subcategory_tags": [
+        "personalization_use_case_fit",
+        "ai_reliability_bugs"
+      ]
+    },
     {
       "review_id": "14761815056",
       "source": "app_store",
@@ -8698,18 +8713,6 @@
       "text": "The concept sounds amazing. Monitor your vitals and help you improve performance and health. Other than the strain monitor, the other metrics are questionable at best. And the AI Chatbot, which is supposed to give you advice is utterly useless.. You are way better off to just talk with Claude or ChatGPT then waste your time with Whoop.",
       "subcategory_tags": [
         "metric_accuracy",
-        "ai_reliability_bugs"
-      ]
-    },
-    {
-      "review_id": "14398184389",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-08-07T02:01:26-07:00",
-      "text": "This device continues to miss my sleep even though it is placed correctly, and charged how it should be. I have had it replaced and changed the strap. I made the mistake of paying for a year… and they will not refund me. I will not do that again. Also the AI feature is generic and unhelpful. It doesn’t even notice that the data isn’t accurate.",
-      "subcategory_tags": [
-        "sleep_accuracy",
-        "billing_disputes",
         "ai_reliability_bugs"
       ]
     }
@@ -15597,6 +15600,17 @@
   ],
   "feature_requests": [
     {
+      "review_id": "14775823770",
+      "source": "app_store",
+      "rating": 2,
+      "date": "2026-11-10T18:49:11-07:00",
+      "text": "Thought this was going to be a good biometric monitor and health coaching option. The AI algorithm continually lectures me on not enough strain when I have repeatedly reported strain levels that wipe me for hours afterwards. It’s not learning or listening and I am tired of being shamed by an Ai bot.",
+      "subcategory_tags": [
+        "personalization_use_case_fit",
+        "ai_reliability_bugs"
+      ]
+    },
+    {
       "review_id": "14768325643",
       "source": "app_store",
       "rating": 5,
@@ -15919,17 +15933,6 @@
         "redesign_regression",
         "notification_community_issues",
         "personalization_use_case_fit"
-      ]
-    },
-    {
-      "review_id": "14576383074",
-      "source": "app_store",
-      "rating": 2,
-      "date": "2026-09-21T07:18:47-07:00",
-      "text": "disabling the dumb AI chatbot is not possible and Strava integration never worked for me",
-      "subcategory_tags": [
-        "ai_autonomy",
-        "third_party_integration"
       ]
     }
   ],
@@ -16609,6 +16612,17 @@
   ],
   "personalization_use_case_fit": [
     {
+      "review_id": "14775823770",
+      "source": "app_store",
+      "rating": 2,
+      "date": "2026-11-10T18:49:11-07:00",
+      "text": "Thought this was going to be a good biometric monitor and health coaching option. The AI algorithm continually lectures me on not enough strain when I have repeatedly reported strain levels that wipe me for hours afterwards. It’s not learning or listening and I am tired of being shamed by an Ai bot.",
+      "subcategory_tags": [
+        "personalization_use_case_fit",
+        "ai_reliability_bugs"
+      ]
+    },
+    {
       "review_id": "14753099940",
       "source": "app_store",
       "rating": 5,
@@ -16941,18 +16955,6 @@
       "date": "2026-07-30T19:36:29",
       "text": "Stopped using it after few months. it gives not relevant information",
       "subcategory_tags": [
-        "personalization_use_case_fit"
-      ]
-    },
-    {
-      "review_id": "14365927486",
-      "source": "app_store",
-      "rating": 3,
-      "date": "2026-07-30T03:17:50-07:00",
-      "text": "Committed to using the band this year but it’s uncomfortable even with upgrading to a nicer one which makes Whoop even more expensive. Interface is better for serious athletes not it’s not for me.",
-      "subcategory_tags": [
-        "comfort_fit",
-        "price_value_perception",
         "personalization_use_case_fit"
       ]
     }

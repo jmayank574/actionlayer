@@ -1,5 +1,80 @@
 [
   {
+    "review_id": "da4579d4-0663-4d50-8ab3-818922b348e0",
+    "source": "google_play",
+    "rating": 1,
+    "date": "2026-11-11T06:29:40+00:00",
+    "text": "I dont think it deserves this much expencive and then every yearly subscriptions not worth it the blood pressure and some other things I think i does from assumptions I would recommend those huwai ,samsung or app watches much better than this",
+    "parent_category_tags": [
+      "pricing_billing",
+      "health_signal_reliability",
+      "data_accuracy"
+    ],
+    "subcategory_tags": [
+      "price_value_perception",
+      "ecg_bp_feature_reliability",
+      "metric_accuracy"
+    ]
+  },
+  {
+    "review_id": "14775823770",
+    "source": "app_store",
+    "rating": 2,
+    "date": "2026-11-10T18:49:11-07:00",
+    "text": "Thought this was going to be a good biometric monitor and health coaching option. The AI algorithm continually lectures me on not enough strain when I have repeatedly reported strain levels that wipe me for hours afterwards. It’s not learning or listening and I am tired of being shamed by an Ai bot.",
+    "parent_category_tags": [
+      "feature_requests",
+      "ai_coach"
+    ],
+    "subcategory_tags": [
+      "personalization_use_case_fit",
+      "ai_reliability_bugs"
+    ]
+  },
+  {
+    "review_id": "14775641848",
+    "source": "app_store",
+    "rating": 5,
+    "date": "2026-11-10T17:40:17-07:00",
+    "text": "This device supervising your health 24 seven in a way. It’s very good. I love it Toto my sleeve my strength my lifestyle. Everything’s changed since the minute I put it on and I never took off. I’m over 300 days into it already.",
+    "parent_category_tags": [
+      "nan"
+    ],
+    "subcategory_tags": [
+      "nan"
+    ]
+  },
+  {
+    "review_id": "14775353162",
+    "source": "app_store",
+    "rating": 1,
+    "date": "2026-11-10T15:51:04-07:00",
+    "text": "Take note of the lawsuits against Whoop before signing your year commitment.",
+    "parent_category_tags": [
+      "pricing_billing"
+    ],
+    "subcategory_tags": [
+      "billing_disputes"
+    ]
+  },
+  {
+    "review_id": "14774927517",
+    "source": "app_store",
+    "rating": 3,
+    "date": "2026-11-10T13:09:29-07:00",
+    "text": "After three years as a WHOOP member and an impressive, 1200 day streak I finally decided to cancel my subscription\n\nFor a long time, I was a huge advocate of WHOOP. I genuinely believed in the product and the value it offered, however, over the past year, I’ve increasingly questioned whether it’s keeping pace with the competition, particularly when it comes to accuracy, consistency, and innovation. I recently switched to the Apple Watch Ultra 4 and the difference in both the readings and the depth of data available have been significant. It’s made me question just how much value I was getting from WHOOP.\n\nAt $52 a month it’s becoming increasingly difficult to justify the expense, especially for a device without a screen when competitors are offering considerably more functionality without the same ongoing subscript costs\n\nWhat disappoints me is the apparent shift in priorities WHOOP seems increasingly focused on celebrity, partnerships, endorsements, and marketing rather than delivering meaningful product from my perspective, the pace of improvement has slowed considerably while the cost of membership has continued to rise\n\nIt’s a real shame because I spent three years champion the brand building WHOOP into my daily routine walking away after 1200 consecutive days of tracking isn’t something I expected to do\n\nBut ultimately Brown loyalty only goes so far when the competition improves and the value proposition becomes harder to defend something has to give\n\nFor me, WHOOP has lost the competitive edge that made it so compelling in the first place",
+    "parent_category_tags": [
+      "pricing_billing",
+      "data_accuracy",
+      "hardware_wearability"
+    ],
+    "subcategory_tags": [
+      "price_value_perception",
+      "metric_accuracy",
+      "build_quality_perception"
+    ]
+  },
+  {
     "review_id": "14770052010",
     "source": "app_store",
     "rating": 5,

@@ -4356,3 +4356,20 @@ b578bf7a-8ac3-4bb0-a3a0-6907d9017162,google_play,5,2026-11-08T00:09:26+00:00,"Be
 Important: I have verified multiple times per day that the permissions are there for whoop to import data from Apple health to the whoop journal, the only thing left to try is to completely disconnect Apple health from whoop and reconnect it.
 
 Edit: turned off all Apple sync and reenabled. That seems to have done the trick with getting the journal to properly sync.",feature_requests,third_party_integration,high,1,OK
+da4579d4-0663-4d50-8ab3-818922b348e0,google_play,1,2026-11-11T06:29:40+00:00,"I dont think it deserves this much expencive and then every yearly subscriptions not worth it the blood pressure and some other things I think i does from assumptions I would recommend those huwai ,samsung or app watches much better than this",pricing_billing;health_signal_reliability;data_accuracy,price_value_perception;ecg_bp_feature_reliability;metric_accuracy,high;medium;medium,3,OK
+14775823770,app_store,2,2026-11-10T18:49:11-07:00,Thought this was going to be a good biometric monitor and health coaching option. The AI algorithm continually lectures me on not enough strain when I have repeatedly reported strain levels that wipe me for hours afterwards. It’s not learning or listening and I am tired of being shamed by an Ai bot.,feature_requests;ai_coach,personalization_use_case_fit;ai_reliability_bugs,high;low,2,OK
+14775641848,app_store,5,2026-11-10T17:40:17-07:00,This device supervising your health 24 seven in a way. It’s very good. I love it Toto my sleeve my strength my lifestyle. Everything’s changed since the minute I put it on and I never took off. I’m over 300 days into it already.,,,,0,OK
+14775353162,app_store,1,2026-11-10T15:51:04-07:00,Take note of the lawsuits against Whoop before signing your year commitment.,pricing_billing,billing_disputes,medium,1,OK
+14774927517,app_store,3,2026-11-10T13:09:29-07:00,"After three years as a WHOOP member and an impressive, 1200 day streak I finally decided to cancel my subscription
+
+For a long time, I was a huge advocate of WHOOP. I genuinely believed in the product and the value it offered, however, over the past year, I’ve increasingly questioned whether it’s keeping pace with the competition, particularly when it comes to accuracy, consistency, and innovation. I recently switched to the Apple Watch Ultra 4 and the difference in both the readings and the depth of data available have been significant. It’s made me question just how much value I was getting from WHOOP.
+
+At $52 a month it’s becoming increasingly difficult to justify the expense, especially for a device without a screen when competitors are offering considerably more functionality without the same ongoing subscript costs
+
+What disappoints me is the apparent shift in priorities WHOOP seems increasingly focused on celebrity, partnerships, endorsements, and marketing rather than delivering meaningful product from my perspective, the pace of improvement has slowed considerably while the cost of membership has continued to rise
+
+It’s a real shame because I spent three years champion the brand building WHOOP into my daily routine walking away after 1200 consecutive days of tracking isn’t something I expected to do
+
+But ultimately Brown loyalty only goes so far when the competition improves and the value proposition becomes harder to defend something has to give
+
+For me, WHOOP has lost the competitive edge that made it so compelling in the first place",pricing_billing;data_accuracy;hardware_wearability,price_value_perception;metric_accuracy;build_quality_perception,high;medium;low,3,OK
