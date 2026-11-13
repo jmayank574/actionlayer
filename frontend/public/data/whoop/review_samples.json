@@ -1,6 +1,17 @@
 {
   "pricing_billing": [
     {
+      "review_id": "14778386306",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-11-11T10:06:11-07:00",
+      "text": "Returning the unit is obviously intentionally designed to be difficult so they can charge $110 restock fee. I paid for return shipping. None of the links to return labels they sent work. No responses or contact from support. YIKES",
+      "subcategory_tags": [
+        "billing_disputes",
+        "support_responsiveness"
+      ]
+    },
+    {
       "review_id": "da4579d4-0663-4d50-8ab3-818922b348e0",
       "source": "google_play",
       "rating": 1,
@@ -329,18 +340,6 @@
       "subcategory_tags": [
         "plan_trial_structure",
         "missing_metrics"
-      ]
-    },
-    {
-      "review_id": "c5f8b354-07af-4c8d-a981-b55e9b311d66",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2026-10-07T10:45:08+00:00",
-      "text": "Terrible customer service. I requested cancellation before my membership renewed, but I was told to cancel through the app—yet the app only allowed me to change my membership, not cancel it. I spent 7 months and more than 20 requests trying to get this resolved. The membership was eventually cancelled, but WHOOP refuses to refund me for a membership I never used. One representative even promised me a refund, but every new representative refuses to honor it. Extremely frustrating and unacceptable",
-      "subcategory_tags": [
-        "billing_disputes",
-        "support_resolution_quality",
-        "ai_only_support_channel"
       ]
     }
   ],
@@ -695,6 +694,17 @@
   ],
   "billing_disputes": [
     {
+      "review_id": "14778386306",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-11-11T10:06:11-07:00",
+      "text": "Returning the unit is obviously intentionally designed to be difficult so they can charge $110 restock fee. I paid for return shipping. None of the links to return labels they sent work. No responses or contact from support. YIKES",
+      "subcategory_tags": [
+        "billing_disputes",
+        "support_responsiveness"
+      ]
+    },
+    {
       "review_id": "14775353162",
       "source": "app_store",
       "rating": 1,
@@ -1032,18 +1042,6 @@
         "notification_community_issues",
         "billing_disputes",
         "price_value_perception"
-      ]
-    },
-    {
-      "review_id": "6f0bda1f-76a7-4117-8db4-a124e1713abb",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2026-08-16T06:29:51+00:00",
-      "text": "I decided to upgrade after a free trial with a borrowed device. I pushed the in-app upgrade button to find that no device will be sent, and I now don't have one as I returned my friends. Within 5-minutes, I email customer service who says we can cancel the subscription and order a new one with watch. Then they change their minds! I send a follow up email explaining my situation. They respond with a template AI email. Shows what they think about their customers.",
-      "subcategory_tags": [
-        "billing_disputes",
-        "ai_only_support_channel",
-        "support_resolution_quality"
       ]
     }
   ],
@@ -8039,6 +8037,17 @@
   ],
   "ai_coach": [
     {
+      "review_id": "14777298332",
+      "source": "app_store",
+      "rating": 5,
+      "date": "2026-11-11T04:52:11-07:00",
+      "text": "I’ve been an Apple Watch user for 7 years, and Whoop knocks it out of the park when it comes to fitness and longevity tracking.\n\nI picked the Life plan specifically for the Healthspan and Pace of Aging tracking. After 21 days of recovery data, Whoop starts showing you your physiological “age” and Pace of Aging based on your sleep, activity, fitness, and other health metrics. Over time, you can actually see how your habits are impacting your long-term health.\n\nThe optional lab testing takes it even further. It’s not that expensive, and they make sure you’re testing the right biomarkers. Whoop brings your results directly into the app and gives you a comprehensive analysis, including recommendations on what to discuss with your primary care provider. Have questions about any of it? There’s an AI agent throughout the app ready to answer them.\n\nThe agent within the app actually listens. You can tell it how you want to be coached, and it adapts to you. Want to be left alone to do your own thing? Go for it. Want it to hold you accountable and help build workout plans for you to follow? It’ll do that too.\n\nThe only area where Whoop falls short is the lack of built-in GPS. If you want to track your running routes, pace, and splits, you’ll need to bring your phone.\n\nAfter 7 years with Apple Watch, I’m genuinely impressed with how much more Whoop offers when it comes to understanding and improving my health.",
+      "subcategory_tags": [
+        "ai_positive_reception",
+        "missing_metrics"
+      ]
+    },
+    {
       "review_id": "14775823770",
       "source": "app_store",
       "rating": 2,
@@ -8359,17 +8368,6 @@
       "subcategory_tags": [
         "ai_autonomy",
         "feature_ui_friction"
-      ]
-    },
-    {
-      "review_id": "97dd672a-ecc3-4f24-951f-9fbeb849a23b",
-      "source": "google_play",
-      "rating": 5,
-      "date": "2026-09-02T23:20:16+00:00",
-      "text": "Buggy-ness or not, I love this app. Unlike others, I've not used it for much fitness tracking but to manage my ADHD and normally crippling menstrual cycles. In less than 2 months, the coaching is more tailored to my executive dysfunction and has noticeably raised my focused work time. It advises me on handling distractions & to get to bed on time or what to do the next day if I haven't listened. A friend with chronic illness suggested it to me, so it has more to offer besides workout metrics!",
-      "subcategory_tags": [
-        "personalization_use_case_fit",
-        "ai_positive_reception"
       ]
     }
   ],
@@ -9056,6 +9054,17 @@
   ],
   "ai_positive_reception": [
     {
+      "review_id": "14777298332",
+      "source": "app_store",
+      "rating": 5,
+      "date": "2026-11-11T04:52:11-07:00",
+      "text": "I’ve been an Apple Watch user for 7 years, and Whoop knocks it out of the park when it comes to fitness and longevity tracking.\n\nI picked the Life plan specifically for the Healthspan and Pace of Aging tracking. After 21 days of recovery data, Whoop starts showing you your physiological “age” and Pace of Aging based on your sleep, activity, fitness, and other health metrics. Over time, you can actually see how your habits are impacting your long-term health.\n\nThe optional lab testing takes it even further. It’s not that expensive, and they make sure you’re testing the right biomarkers. Whoop brings your results directly into the app and gives you a comprehensive analysis, including recommendations on what to discuss with your primary care provider. Have questions about any of it? There’s an AI agent throughout the app ready to answer them.\n\nThe agent within the app actually listens. You can tell it how you want to be coached, and it adapts to you. Want to be left alone to do your own thing? Go for it. Want it to hold you accountable and help build workout plans for you to follow? It’ll do that too.\n\nThe only area where Whoop falls short is the lack of built-in GPS. If you want to track your running routes, pace, and splits, you’ll need to bring your phone.\n\nAfter 7 years with Apple Watch, I’m genuinely impressed with how much more Whoop offers when it comes to understanding and improving my health.",
+      "subcategory_tags": [
+        "ai_positive_reception",
+        "missing_metrics"
+      ]
+    },
+    {
       "review_id": "14770052010",
       "source": "app_store",
       "rating": 5,
@@ -9367,20 +9376,20 @@
       "subcategory_tags": [
         "ai_positive_reception"
       ]
-    },
-    {
-      "review_id": "14249761681",
-      "source": "app_store",
-      "rating": 5,
-      "date": "2026-07-01T07:41:03-07:00",
-      "text": "Excelente me ha permitido conocerme desde punto de vista importante como es mi sueño y como debo mejorarlo, mi entrenamiento diario y recuperación. Mi coach espectacular dándome consejos para ir cada día mejor, muy atinado",
-      "subcategory_tags": [
-        "sleep_satisfaction",
-        "ai_positive_reception"
-      ]
     }
   ],
   "customer_support": [
+    {
+      "review_id": "14778386306",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-11-11T10:06:11-07:00",
+      "text": "Returning the unit is obviously intentionally designed to be difficult so they can charge $110 restock fee. I paid for return shipping. None of the links to return labels they sent work. No responses or contact from support. YIKES",
+      "subcategory_tags": [
+        "billing_disputes",
+        "support_responsiveness"
+      ]
+    },
     {
       "review_id": "14766424914",
       "source": "app_store",
@@ -9729,20 +9738,20 @@
         "crashes_freezes",
         "support_resolution_quality"
       ]
-    },
-    {
-      "review_id": "14485637035",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-08-29T04:38:07-07:00",
-      "text": "I’ve lost 2 sets of workout data in the last 3 weeks. It was certainly taking the data in and measuring while I was working out. And even registered strain. Whoop people can’t figure it out.  I’ve had one for over a year now, so I’m not new to it.  The whole point of this thing is to measure your workouts and it’s stopped being consistent. Caveat emptor",
-      "subcategory_tags": [
-        "data_sync_delays",
-        "support_resolution_quality"
-      ]
     }
   ],
   "support_responsiveness": [
+    {
+      "review_id": "14778386306",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-11-11T10:06:11-07:00",
+      "text": "Returning the unit is obviously intentionally designed to be difficult so they can charge $110 restock fee. I paid for return shipping. None of the links to return labels they sent work. No responses or contact from support. YIKES",
+      "subcategory_tags": [
+        "billing_disputes",
+        "support_responsiveness"
+      ]
+    },
     {
       "review_id": "10a0acf9-6b3c-4317-96c0-e5508e323955",
       "source": "google_play",
@@ -10087,18 +10096,6 @@
         "support_responsiveness",
         "billing_disputes",
         "price_value_perception"
-      ]
-    },
-    {
-      "review_id": "fc6cbe58-854d-400d-a143-af2874ce7fe9",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2026-05-24T21:30:09",
-      "text": "Terrible support. My WHOOP 5.0 sensor broke (bands won't lock). I’ve dealt with 8 different agents in a week because nobody reads the ticket history. One agent finally approved my warranty replacement and took my shipping address. The next day, a new agent ignored the approval and asked for a troubleshooting video for the 5th time! Zero internal communication and they refuse to honor their own confirmed resolutions. A premium subscription deserves better",
-      "subcategory_tags": [
-        "strap_clasp_durability",
-        "support_responsiveness",
-        "support_resolution_quality"
       ]
     }
   ],
@@ -15600,6 +15597,17 @@
   ],
   "feature_requests": [
     {
+      "review_id": "14777298332",
+      "source": "app_store",
+      "rating": 5,
+      "date": "2026-11-11T04:52:11-07:00",
+      "text": "I’ve been an Apple Watch user for 7 years, and Whoop knocks it out of the park when it comes to fitness and longevity tracking.\n\nI picked the Life plan specifically for the Healthspan and Pace of Aging tracking. After 21 days of recovery data, Whoop starts showing you your physiological “age” and Pace of Aging based on your sleep, activity, fitness, and other health metrics. Over time, you can actually see how your habits are impacting your long-term health.\n\nThe optional lab testing takes it even further. It’s not that expensive, and they make sure you’re testing the right biomarkers. Whoop brings your results directly into the app and gives you a comprehensive analysis, including recommendations on what to discuss with your primary care provider. Have questions about any of it? There’s an AI agent throughout the app ready to answer them.\n\nThe agent within the app actually listens. You can tell it how you want to be coached, and it adapts to you. Want to be left alone to do your own thing? Go for it. Want it to hold you accountable and help build workout plans for you to follow? It’ll do that too.\n\nThe only area where Whoop falls short is the lack of built-in GPS. If you want to track your running routes, pace, and splits, you’ll need to bring your phone.\n\nAfter 7 years with Apple Watch, I’m genuinely impressed with how much more Whoop offers when it comes to understanding and improving my health.",
+      "subcategory_tags": [
+        "ai_positive_reception",
+        "missing_metrics"
+      ]
+    },
+    {
       "review_id": "14775823770",
       "source": "app_store",
       "rating": 2,
@@ -15921,18 +15929,6 @@
       "subcategory_tags": [
         "metric_accuracy",
         "third_party_integration"
-      ]
-    },
-    {
-      "review_id": "ed88b181-e688-4a2b-a23c-e1f2868267f1",
-      "source": "google_play",
-      "rating": 2,
-      "date": "2026-09-22T21:34:25+00:00",
-      "text": "very cluttered app. I get multiple notifications that are difficult to find with so many different \"badges\" or cards. I just don't find the app very intuitive. still trying to make sense of how it's going to help me personally.",
-      "subcategory_tags": [
-        "redesign_regression",
-        "notification_community_issues",
-        "personalization_use_case_fit"
       ]
     }
   ],
@@ -16273,6 +16269,17 @@
   ],
   "missing_metrics": [
     {
+      "review_id": "14777298332",
+      "source": "app_store",
+      "rating": 5,
+      "date": "2026-11-11T04:52:11-07:00",
+      "text": "I’ve been an Apple Watch user for 7 years, and Whoop knocks it out of the park when it comes to fitness and longevity tracking.\n\nI picked the Life plan specifically for the Healthspan and Pace of Aging tracking. After 21 days of recovery data, Whoop starts showing you your physiological “age” and Pace of Aging based on your sleep, activity, fitness, and other health metrics. Over time, you can actually see how your habits are impacting your long-term health.\n\nThe optional lab testing takes it even further. It’s not that expensive, and they make sure you’re testing the right biomarkers. Whoop brings your results directly into the app and gives you a comprehensive analysis, including recommendations on what to discuss with your primary care provider. Have questions about any of it? There’s an AI agent throughout the app ready to answer them.\n\nThe agent within the app actually listens. You can tell it how you want to be coached, and it adapts to you. Want to be left alone to do your own thing? Go for it. Want it to hold you accountable and help build workout plans for you to follow? It’ll do that too.\n\nThe only area where Whoop falls short is the lack of built-in GPS. If you want to track your running routes, pace, and splits, you’ll need to bring your phone.\n\nAfter 7 years with Apple Watch, I’m genuinely impressed with how much more Whoop offers when it comes to understanding and improving my health.",
+      "subcategory_tags": [
+        "ai_positive_reception",
+        "missing_metrics"
+      ]
+    },
+    {
       "review_id": "14761595744",
       "source": "app_store",
       "rating": 3,
@@ -16596,16 +16603,6 @@
         "ai_positive_reception",
         "redesign_regression",
         "feature_ui_friction",
-        "missing_metrics"
-      ]
-    },
-    {
-      "review_id": "a8a93323-a8cb-43a5-bc80-ffa150dce359",
-      "source": "google_play",
-      "rating": 4,
-      "date": "2026-07-25T04:59:25",
-      "text": "The biological age is not good",
-      "subcategory_tags": [
         "missing_metrics"
       ]
     }
