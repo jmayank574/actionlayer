@@ -1,37 +1,37 @@
 # WHOOP review dataset
 
-Generated 2026-11-13T20:23:21.632403
+Generated 2026-11-14T18:40:36.130950
 
 Every row below came from a live Google Play or Apple App Store response — nothing in this dataset is model-generated, inferred, or backfilled. Counts reflect exactly what each source returned.
 
 ## Since last pull
 
-- New reviews: **3**
+- New reviews: **4**
 - Edited since last seen: 0
-- Returned again, unchanged: 3432
-- Carried over from a prior pull (not returned this time, e.g. aged out of Apple's ~500-review RSS window): 359
+- Returned again, unchanged: 3433
+- Carried over from a prior pull (not returned this time, e.g. aged out of Apple's ~500-review RSS window): 361
 
 ## By source
 
 ### google_play
 
-- Total reviews: **3000**
-- Date range: 2017-08-25T20:34:31 to 2026-11-11T06:29:40
-- Rating distribution: 1★: 1129 | 2★: 375 | 3★: 334 | 4★: 283 | 5★: 879
+- Total reviews: **3002**
+- Date range: 2017-08-25T20:34:31 to 2026-11-13T13:27:37
+- Rating distribution: 1★: 1130 | 2★: 375 | 3★: 334 | 4★: 283 | 5★: 880
 - Average review length: 37.7 words
 
 ### app_store
 
-- Total reviews: **794**
-- Date range: 2025-11-17T19:06:49 to 2026-11-11T10:06:11
-- Rating distribution: 1★: 232 | 2★: 70 | 3★: 72 | 4★: 81 | 5★: 339
+- Total reviews: **796**
+- Date range: 2025-11-17T19:06:49 to 2026-11-13T03:57:07
+- Rating distribution: 1★: 232 | 2★: 70 | 3★: 73 | 4★: 81 | 5★: 340
 - Average review length: 52.9 words
 
 ## Combined
 
-- Total reviews: **3794**
-- Date range: 2017-08-25T20:34:31 to 2026-11-11T10:06:11
-- Rating distribution: 1★: 1361 | 2★: 445 | 3★: 406 | 4★: 364 | 5★: 1218
+- Total reviews: **3798**
+- Date range: 2017-08-25T20:34:31 to 2026-11-13T13:27:37
+- Rating distribution: 1★: 1362 | 2★: 445 | 3★: 407 | 4★: 364 | 5★: 1220
 - Average review length: 40.9 words
 
 ## Filtering applied
