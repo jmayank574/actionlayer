@@ -1,5 +1,35 @@
 [
   {
+    "review_id": "71943075-2418-41f7-beaa-7d45e72959c0",
+    "source": "google_play",
+    "rating": 1,
+    "date": "2026-11-14T01:01:23+00:00",
+    "text": "Awful experience so far. as soon as I installed it it prompted me to set up some AI experience. The AI overlay took up the entire screen and would not go away. I had to uninstall and reinstall the app in order to get the AI overlay to go away.",
+    "parent_category_tags": [
+      "ai_coach",
+      "app_stability"
+    ],
+    "subcategory_tags": [
+      "ai_autonomy",
+      "crashes_freezes"
+    ]
+  },
+  {
+    "review_id": "5c4f93b5-1afa-4313-aac7-3334ca7ab9bc",
+    "source": "google_play",
+    "rating": 4,
+    "date": "2026-11-14T00:38:59+00:00",
+    "text": "too many times when I type in changes to what WHOOP says are my sleep hours, it responds telling me it's not working, and to try it again. Yet when I do, it says the same thing. Also it uses the word \"Stress\" in \"sleep stress\", and that word in Australia means being afraid and anxious and under pressure. Thus it is NOT an appropriate way of describing what is actually being measured.",
+    "parent_category_tags": [
+      "sleep_tracking",
+      "localization"
+    ],
+    "subcategory_tags": [
+      "sleep_accuracy",
+      "english_jargon_complexity"
+    ]
+  },
+  {
     "review_id": "941fde64-1a47-450e-9dff-4e3ba4dac595",
     "source": "google_play",
     "rating": 5,
@@ -10,6 +40,25 @@
     ],
     "subcategory_tags": [
       "sleep_satisfaction"
+    ]
+  },
+  {
+    "review_id": "14785561870",
+    "source": "app_store",
+    "rating": 2,
+    "date": "2026-11-13T06:24:47-07:00",
+    "text": "As a professional pianist, I spend hours seated playing music, yet WHOOP repeatedly counts thousands of steps from my hand movements.\n\nI reported this issue several times and warned that replacing the tracker wouldn’t fix an algorithm problem. WHOOP sent a replacement anyway, and the problem continues.\n\nIronically, WHOOP just awarded me a “Steady Stepper” achievement for supposedly exceeding 10,000 steps on 25 days!\n\nMy concern goes beyond steps. How can I trust personalized health recommendations based on questionable activity data?\n\nWHOOP offered two months of membership credit, but the underlying issue remains unresolved.\n\nUnlike my Apple Watch, WHOOP requires an expensive annual subscription. I expected better accuracy and technical support.\n\nPremium subscription prices should come with premium reliability—not misleading statistics and congratulatory badges.",
+    "parent_category_tags": [
+      "data_accuracy",
+      "customer_support",
+      "pricing_billing",
+      "feature_requests"
+    ],
+    "subcategory_tags": [
+      "metric_accuracy",
+      "support_resolution_quality",
+      "price_value_perception",
+      "personalization_use_case_fit"
     ]
   },
   {

@@ -1,6 +1,19 @@
 {
   "pricing_billing": [
     {
+      "review_id": "14785561870",
+      "source": "app_store",
+      "rating": 2,
+      "date": "2026-11-13T06:24:47-07:00",
+      "text": "As a professional pianist, I spend hours seated playing music, yet WHOOP repeatedly counts thousands of steps from my hand movements.\n\nI reported this issue several times and warned that replacing the tracker wouldn’t fix an algorithm problem. WHOOP sent a replacement anyway, and the problem continues.\n\nIronically, WHOOP just awarded me a “Steady Stepper” achievement for supposedly exceeding 10,000 steps on 25 days!\n\nMy concern goes beyond steps. How can I trust personalized health recommendations based on questionable activity data?\n\nWHOOP offered two months of membership credit, but the underlying issue remains unresolved.\n\nUnlike my Apple Watch, WHOOP requires an expensive annual subscription. I expected better accuracy and technical support.\n\nPremium subscription prices should come with premium reliability—not misleading statistics and congratulatory badges.",
+      "subcategory_tags": [
+        "metric_accuracy",
+        "support_resolution_quality",
+        "price_value_perception",
+        "personalization_use_case_fit"
+      ]
+    },
+    {
       "review_id": "b56caffe-67a9-48af-a987-9e0d36e8750f",
       "source": "google_play",
       "rating": 1,
@@ -329,21 +342,22 @@
         "metric_accuracy",
         "personalization_use_case_fit"
       ]
-    },
-    {
-      "review_id": "14639418333",
-      "source": "app_store",
-      "rating": 2,
-      "date": "2026-10-07T12:54:46-07:00",
-      "text": "The core sensor and data tracking itself are fine. However, the hardware ecosystem completely fails over time, the superknit bands degrade within 2 months, if you’re active and sweat on them, and customer support offers not much flexibility or accountability for subscribers. If you're paying a premium membership price, you expect bands that last more than a few months and a support team that cares when they fail.",
-      "subcategory_tags": [
-        "strap_clasp_durability",
-        "support_resolution_quality",
-        "price_value_perception"
-      ]
     }
   ],
   "price_value_perception": [
+    {
+      "review_id": "14785561870",
+      "source": "app_store",
+      "rating": 2,
+      "date": "2026-11-13T06:24:47-07:00",
+      "text": "As a professional pianist, I spend hours seated playing music, yet WHOOP repeatedly counts thousands of steps from my hand movements.\n\nI reported this issue several times and warned that replacing the tracker wouldn’t fix an algorithm problem. WHOOP sent a replacement anyway, and the problem continues.\n\nIronically, WHOOP just awarded me a “Steady Stepper” achievement for supposedly exceeding 10,000 steps on 25 days!\n\nMy concern goes beyond steps. How can I trust personalized health recommendations based on questionable activity data?\n\nWHOOP offered two months of membership credit, but the underlying issue remains unresolved.\n\nUnlike my Apple Watch, WHOOP requires an expensive annual subscription. I expected better accuracy and technical support.\n\nPremium subscription prices should come with premium reliability—not misleading statistics and congratulatory badges.",
+      "subcategory_tags": [
+        "metric_accuracy",
+        "support_resolution_quality",
+        "price_value_perception",
+        "personalization_use_case_fit"
+      ]
+    },
     {
       "review_id": "b56caffe-67a9-48af-a987-9e0d36e8750f",
       "source": "google_play",
@@ -678,17 +692,6 @@
       "subcategory_tags": [
         "feature_ui_friction",
         "price_value_perception"
-      ]
-    },
-    {
-      "review_id": "4ac7e56a-1b5a-46aa-bfb2-2c15fa2c02c4",
-      "source": "google_play",
-      "rating": 4,
-      "date": "2026-09-22T17:38:33+00:00",
-      "text": "Nice b-day gift, wife started me off with the Life membership but too many features and information, expensive, and unnecessary so i switched to $200 One membership. Still high priced. 4 stars because I like watching my numbers. Zone 0-5 feature is very helpful. For the price I'm paying customer service should be a lot better easier to get a hold of.",
-      "subcategory_tags": [
-        "price_value_perception",
-        "support_responsiveness"
       ]
     }
   ],
@@ -1733,6 +1736,17 @@
   ],
   "sleep_tracking": [
     {
+      "review_id": "5c4f93b5-1afa-4313-aac7-3334ca7ab9bc",
+      "source": "google_play",
+      "rating": 4,
+      "date": "2026-11-14T00:38:59+00:00",
+      "text": "too many times when I type in changes to what WHOOP says are my sleep hours, it responds telling me it's not working, and to try it again. Yet when I do, it says the same thing. Also it uses the word \"Stress\" in \"sleep stress\", and that word in Australia means being afraid and anxious and under pressure. Thus it is NOT an appropriate way of describing what is actually being measured.",
+      "subcategory_tags": [
+        "sleep_accuracy",
+        "english_jargon_complexity"
+      ]
+    },
+    {
       "review_id": "941fde64-1a47-450e-9dff-4e3ba4dac595",
       "source": "google_play",
       "rating": 5,
@@ -2051,20 +2065,20 @@
         "ai_reliability_bugs",
         "sleep_accuracy"
       ]
-    },
-    {
-      "review_id": "14604102201",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-09-28T10:06:50-07:00",
-      "text": "I’ve used WHOOP for multiple nights, and unfortunately, I’m finding the sleep data to be very inaccurate—especially when I actually have a very poor night of sleep.\n\nOn several occasions, WHOOP has reported that I slept great or had a good-quality night, while I personally experienced the opposite. One night in particular was terrible, yet the data didn’t reflect that at all. I’ve now had multiple days where the sleep metrics simply don’t match my actual experience.\n\nFor someone who has significant sleep problems, this is a major issue. If the device is consistently telling me that I slept well when I know I didn’t, it makes the sleep scores difficult to trust or use meaningfully.\n\nIt may work well for people with relatively normal sleep patterns, but based on my experience, I wouldn’t rely on WHOOP for accurately tracking poor or disrupted sleep.",
-      "subcategory_tags": [
-        "sleep_accuracy",
-        "personalization_use_case_fit"
-      ]
     }
   ],
   "sleep_accuracy": [
+    {
+      "review_id": "5c4f93b5-1afa-4313-aac7-3334ca7ab9bc",
+      "source": "google_play",
+      "rating": 4,
+      "date": "2026-11-14T00:38:59+00:00",
+      "text": "too many times when I type in changes to what WHOOP says are my sleep hours, it responds telling me it's not working, and to try it again. Yet when I do, it says the same thing. Also it uses the word \"Stress\" in \"sleep stress\", and that word in Australia means being afraid and anxious and under pressure. Thus it is NOT an appropriate way of describing what is actually being measured.",
+      "subcategory_tags": [
+        "sleep_accuracy",
+        "english_jargon_complexity"
+      ]
+    },
     {
       "review_id": "f6109929-88c7-4a57-ad88-f0b63fbbaf35",
       "source": "google_play",
@@ -2399,18 +2413,6 @@
         "redesign_regression",
         "sleep_accuracy",
         "comfort_fit"
-      ]
-    },
-    {
-      "review_id": "14426558788",
-      "source": "app_store",
-      "rating": 4,
-      "date": "2026-08-14T05:30:37-07:00",
-      "text": "I’ve really enjoyed using WHOOP overall, but there are a few areas where I think it could be significantly better.\n\nWhat I love:\n\nThe UI/UX is excellent. The app feels modern, sleek, and very tech-forward. I genuinely enjoy going through it every morning because everything is intuitive, easy to understand, and presented in a way that feels premium. WHOOP does a great job taking a lot of health and fitness data and making it approachable without feeling overwhelming.\n\nI’ve also been impressed with the Recovery score. Most mornings, my recovery has lined up surprisingly well with how I actually feel when I wake up. That’s probably the feature I’ve found most valuable.\n\nWhere it falls short:\n\nThe WHOOP Coach/AI needs improvement. There have been times when its recommendations didn’t seem to match either my recovery data or how I was feeling. One morning I woke up feeling pretty run down with a 50% yellow recovery, yet WHOOP Coach essentially told me to train as usual. Bevel, using much of the same underlying health data, recommended that I take it easy and prioritize recovery. I followed Bevel’s recommendation, rested, and had a great recovery score the following day.\n\nObviously, one example doesn’t prove one recommendation was definitively better, but it made me much less confident in WHOOP Coach. For a product built so heavily around recovery, I’d like the AI to be more conservative and context-aware when recovery is mediocre and the user reports feeling poorly.\n\nSleep detection has also been disappointing compared with my Apple Watch. One night this past week, I was awake for roughly two hours in the middle of the night. My Apple Watch correctly detected that extended period of wakefulness, while WHOOP essentially treated it as a near-perfect night of sleep. That’s a pretty significant miss for a device where sleep is such an important part of the overall experience and Recovery score. For the amount of money Whoop costs you’d think the sleep detection would be on par with the Apple Watch. \n\nOverall, I really like WHOOP. The design, presentation of data, and Recovery experience are some of the best I’ve used. But for me, the AI coaching and sleep/wake detection need to catch up with the rest of the product. If WHOOP can improve those two areas, the overall experience would be much harder to beat. For the price I’d expect better quality. Especially since there are other apps that do similar things for less money.",
-      "subcategory_tags": [
-        "ai_reliability_bugs",
-        "sleep_accuracy",
-        "price_value_perception"
       ]
     }
   ],
@@ -6227,6 +6229,19 @@
   ],
   "data_accuracy": [
     {
+      "review_id": "14785561870",
+      "source": "app_store",
+      "rating": 2,
+      "date": "2026-11-13T06:24:47-07:00",
+      "text": "As a professional pianist, I spend hours seated playing music, yet WHOOP repeatedly counts thousands of steps from my hand movements.\n\nI reported this issue several times and warned that replacing the tracker wouldn’t fix an algorithm problem. WHOOP sent a replacement anyway, and the problem continues.\n\nIronically, WHOOP just awarded me a “Steady Stepper” achievement for supposedly exceeding 10,000 steps on 25 days!\n\nMy concern goes beyond steps. How can I trust personalized health recommendations based on questionable activity data?\n\nWHOOP offered two months of membership credit, but the underlying issue remains unresolved.\n\nUnlike my Apple Watch, WHOOP requires an expensive annual subscription. I expected better accuracy and technical support.\n\nPremium subscription prices should come with premium reliability—not misleading statistics and congratulatory badges.",
+      "subcategory_tags": [
+        "metric_accuracy",
+        "support_resolution_quality",
+        "price_value_perception",
+        "personalization_use_case_fit"
+      ]
+    },
+    {
       "review_id": "da4579d4-0663-4d50-8ab3-818922b348e0",
       "source": "google_play",
       "rating": 1,
@@ -6563,19 +6578,22 @@
         "metric_accuracy",
         "personalization_use_case_fit"
       ]
-    },
-    {
-      "review_id": "14647279171",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-10-09T13:58:56-07:00",
-      "text": "Something changed with their algorithm at the end of the summer, I walk 20,000 steps in a day according to the WHOOP and burn like 1600 calories.",
-      "subcategory_tags": [
-        "metric_accuracy"
-      ]
     }
   ],
   "metric_accuracy": [
+    {
+      "review_id": "14785561870",
+      "source": "app_store",
+      "rating": 2,
+      "date": "2026-11-13T06:24:47-07:00",
+      "text": "As a professional pianist, I spend hours seated playing music, yet WHOOP repeatedly counts thousands of steps from my hand movements.\n\nI reported this issue several times and warned that replacing the tracker wouldn’t fix an algorithm problem. WHOOP sent a replacement anyway, and the problem continues.\n\nIronically, WHOOP just awarded me a “Steady Stepper” achievement for supposedly exceeding 10,000 steps on 25 days!\n\nMy concern goes beyond steps. How can I trust personalized health recommendations based on questionable activity data?\n\nWHOOP offered two months of membership credit, but the underlying issue remains unresolved.\n\nUnlike my Apple Watch, WHOOP requires an expensive annual subscription. I expected better accuracy and technical support.\n\nPremium subscription prices should come with premium reliability—not misleading statistics and congratulatory badges.",
+      "subcategory_tags": [
+        "metric_accuracy",
+        "support_resolution_quality",
+        "price_value_perception",
+        "personalization_use_case_fit"
+      ]
+    },
     {
       "review_id": "da4579d4-0663-4d50-8ab3-818922b348e0",
       "source": "google_play",
@@ -6914,17 +6932,6 @@
         "support_responsiveness",
         "support_resolution_quality",
         "billing_disputes"
-      ]
-    },
-    {
-      "review_id": "14582627849",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-09-22T21:28:09-07:00",
-      "text": "I’ve used WHOOP 4.0 for 1600 days consecutively and then recently switched to WHOOP 5.0. I used WHOOP specifically to track my caloric expenditure relative to my daily caloric intake using MyFitnessPal. This method worked very well and was very accurate and allowed me to achieve my weight loss goals consistently based on maintaining a daily caloric deficit of 400 cal when I was cutting. Fast forward to August 25 when I switched from 4.0 to WHOOP 5.0 and all of a sudden with no meaningful change in my routine, my caloric expenditure according to WHOOP 5.0 dropped by about 1000 cal per day. Now, even as my weight is flat, WHOOP 5.0 is showing about 1000 cal per day surplus. Very disappointing. I can no longer use WHOOP as an accurate gauge of my daily caloric expenditure.",
-      "subcategory_tags": [
-        "metric_accuracy",
-        "third_party_integration"
       ]
     }
   ],
@@ -8036,6 +8043,17 @@
   ],
   "ai_coach": [
     {
+      "review_id": "71943075-2418-41f7-beaa-7d45e72959c0",
+      "source": "google_play",
+      "rating": 1,
+      "date": "2026-11-14T01:01:23+00:00",
+      "text": "Awful experience so far. as soon as I installed it it prompted me to set up some AI experience. The AI overlay took up the entire screen and would not go away. I had to uninstall and reinstall the app in order to get the AI overlay to go away.",
+      "subcategory_tags": [
+        "ai_autonomy",
+        "crashes_freezes"
+      ]
+    },
+    {
       "review_id": "14783141027",
       "source": "app_store",
       "rating": 3,
@@ -8359,16 +8377,6 @@
       "text": "Luv stats and focus on improving. Their AI is very good",
       "subcategory_tags": [
         "ai_positive_reception"
-      ]
-    },
-    {
-      "review_id": "14505214382",
-      "source": "app_store",
-      "rating": 2,
-      "date": "2026-09-03T04:00:27-07:00",
-      "text": "While the data is great, the AI “coach” nags too much. It can be annoying and sometimes frustrating.\n\nAll I need is the metrics.  I wish I could turn it off.",
-      "subcategory_tags": [
-        "ai_autonomy"
       ]
     }
   ],
@@ -8720,6 +8728,17 @@
   ],
   "ai_autonomy": [
     {
+      "review_id": "71943075-2418-41f7-beaa-7d45e72959c0",
+      "source": "google_play",
+      "rating": 1,
+      "date": "2026-11-14T01:01:23+00:00",
+      "text": "Awful experience so far. as soon as I installed it it prompted me to set up some AI experience. The AI overlay took up the entire screen and would not go away. I had to uninstall and reinstall the app in order to get the AI overlay to go away.",
+      "subcategory_tags": [
+        "ai_autonomy",
+        "crashes_freezes"
+      ]
+    },
+    {
       "review_id": "14783141027",
       "source": "app_store",
       "rating": 3,
@@ -9039,18 +9058,6 @@
       "date": "2025-11-13T00:05:12",
       "text": "I used the app every day, nearly 5 years, and stopped opening it bc they forced AI into everything. Can't ignore it bc it gets in the way of the data. I'm one month away from renewal and I will not be continuing with the service unless I can disable the AI chat. I was able to look at, and interpret, all the data just fine for 1750+ days with no problem, and now it's a hassle. They ruined their app. Please let me disable the AI Remove the buttons that take me to the chat bot They're everywhere",
       "subcategory_tags": [
-        "ai_autonomy"
-      ]
-    },
-    {
-      "review_id": "5c088a02-b8eb-43e7-94a6-500f61c3f341",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2025-04-27T08:24:23",
-      "text": "They continuously spam your email as the onboarding experience. no way to deactivate on the app, no way on the email and you can't chat with support unless you go through AI trash. they made me uninstall the app, block and report emails as spam. way too invasive without an easy way to disable notifications or emails (maybe it's very very hidden). I rarely got triggered so much by a service",
-      "subcategory_tags": [
-        "ai_only_support_channel",
-        "notification_community_issues",
         "ai_autonomy"
       ]
     }
@@ -9382,6 +9389,19 @@
     }
   ],
   "customer_support": [
+    {
+      "review_id": "14785561870",
+      "source": "app_store",
+      "rating": 2,
+      "date": "2026-11-13T06:24:47-07:00",
+      "text": "As a professional pianist, I spend hours seated playing music, yet WHOOP repeatedly counts thousands of steps from my hand movements.\n\nI reported this issue several times and warned that replacing the tracker wouldn’t fix an algorithm problem. WHOOP sent a replacement anyway, and the problem continues.\n\nIronically, WHOOP just awarded me a “Steady Stepper” achievement for supposedly exceeding 10,000 steps on 25 days!\n\nMy concern goes beyond steps. How can I trust personalized health recommendations based on questionable activity data?\n\nWHOOP offered two months of membership credit, but the underlying issue remains unresolved.\n\nUnlike my Apple Watch, WHOOP requires an expensive annual subscription. I expected better accuracy and technical support.\n\nPremium subscription prices should come with premium reliability—not misleading statistics and congratulatory badges.",
+      "subcategory_tags": [
+        "metric_accuracy",
+        "support_resolution_quality",
+        "price_value_perception",
+        "personalization_use_case_fit"
+      ]
+    },
     {
       "review_id": "14778386306",
       "source": "app_store",
@@ -9729,17 +9749,6 @@
         "support_resolution_quality",
         "ongoing_disconnects",
         "missing_metrics"
-      ]
-    },
-    {
-      "review_id": "14491552808",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-08-30T15:03:36-07:00",
-      "text": "It’s been 3 days and the app won’t let me login. Tried changing password, reinstalling app, nothing works. Customer service is not very helpful nor can they fix the problem. Extremely frustrating.",
-      "subcategory_tags": [
-        "crashes_freezes",
-        "support_resolution_quality"
       ]
     }
   ],
@@ -10104,6 +10113,19 @@
   ],
   "support_resolution_quality": [
     {
+      "review_id": "14785561870",
+      "source": "app_store",
+      "rating": 2,
+      "date": "2026-11-13T06:24:47-07:00",
+      "text": "As a professional pianist, I spend hours seated playing music, yet WHOOP repeatedly counts thousands of steps from my hand movements.\n\nI reported this issue several times and warned that replacing the tracker wouldn’t fix an algorithm problem. WHOOP sent a replacement anyway, and the problem continues.\n\nIronically, WHOOP just awarded me a “Steady Stepper” achievement for supposedly exceeding 10,000 steps on 25 days!\n\nMy concern goes beyond steps. How can I trust personalized health recommendations based on questionable activity data?\n\nWHOOP offered two months of membership credit, but the underlying issue remains unresolved.\n\nUnlike my Apple Watch, WHOOP requires an expensive annual subscription. I expected better accuracy and technical support.\n\nPremium subscription prices should come with premium reliability—not misleading statistics and congratulatory badges.",
+      "subcategory_tags": [
+        "metric_accuracy",
+        "support_resolution_quality",
+        "price_value_perception",
+        "personalization_use_case_fit"
+      ]
+    },
+    {
       "review_id": "14766424914",
       "source": "app_store",
       "rating": 2,
@@ -10451,18 +10473,6 @@
         "billing_disputes",
         "ai_only_support_channel",
         "support_resolution_quality"
-      ]
-    },
-    {
-      "review_id": "14314490406",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-07-17T07:27:45-07:00",
-      "text": "I have been trying for almost 11 days to get my whoop to pair with IPhone 17 pro max and not one of the now 6 reps on email has helped a bit. I’ve lost all data and all training facts. This is unacceptable for the “leading” wearable fitness tracker. I’ve done everything they have instructed me to do almost 7x now. Any suggestions??",
-      "subcategory_tags": [
-        "onboarding_pairing",
-        "support_resolution_quality",
-        "data_sync_delays"
       ]
     }
   ],
@@ -11169,6 +11179,17 @@
   ],
   "app_stability": [
     {
+      "review_id": "71943075-2418-41f7-beaa-7d45e72959c0",
+      "source": "google_play",
+      "rating": 1,
+      "date": "2026-11-14T01:01:23+00:00",
+      "text": "Awful experience so far. as soon as I installed it it prompted me to set up some AI experience. The AI overlay took up the entire screen and would not go away. I had to uninstall and reinstall the app in order to get the AI overlay to go away.",
+      "subcategory_tags": [
+        "ai_autonomy",
+        "crashes_freezes"
+      ]
+    },
+    {
       "review_id": "14783141027",
       "source": "app_store",
       "rating": 3,
@@ -11495,19 +11516,20 @@
         "crashes_freezes",
         "support_responsiveness"
       ]
-    },
-    {
-      "review_id": "a94f1719-0ad2-4ab4-8375-dec32dd0be08",
-      "source": "google_play",
-      "rating": 3,
-      "date": "2026-08-08T12:02:04+00:00",
-      "text": "app seems to freeze, almost every time I open it. I have to close it and reopen. quite annoying",
-      "subcategory_tags": [
-        "crashes_freezes"
-      ]
     }
   ],
   "crashes_freezes": [
+    {
+      "review_id": "71943075-2418-41f7-beaa-7d45e72959c0",
+      "source": "google_play",
+      "rating": 1,
+      "date": "2026-11-14T01:01:23+00:00",
+      "text": "Awful experience so far. as soon as I installed it it prompted me to set up some AI experience. The AI overlay took up the entire screen and would not go away. I had to uninstall and reinstall the app in order to get the AI overlay to go away.",
+      "subcategory_tags": [
+        "ai_autonomy",
+        "crashes_freezes"
+      ]
+    },
     {
       "review_id": "14783141027",
       "source": "app_store",
@@ -11831,17 +11853,6 @@
       "date": "2026-07-25T12:20:19-07:00",
       "text": "I hate whoop it keeps on freezing",
       "subcategory_tags": [
-        "crashes_freezes"
-      ]
-    },
-    {
-      "review_id": "14342033977",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-07-24T04:05:37-07:00",
-      "text": "App no longer opens on my phone after latest update",
-      "subcategory_tags": [
-        "update_failures",
         "crashes_freezes"
       ]
     }
@@ -14907,6 +14918,17 @@
   ],
   "localization": [
     {
+      "review_id": "5c4f93b5-1afa-4313-aac7-3334ca7ab9bc",
+      "source": "google_play",
+      "rating": 4,
+      "date": "2026-11-14T00:38:59+00:00",
+      "text": "too many times when I type in changes to what WHOOP says are my sleep hours, it responds telling me it's not working, and to try it again. Yet when I do, it says the same thing. Also it uses the word \"Stress\" in \"sleep stress\", and that word in Australia means being afraid and anxious and under pressure. Thus it is NOT an appropriate way of describing what is actually being measured.",
+      "subcategory_tags": [
+        "sleep_accuracy",
+        "english_jargon_complexity"
+      ]
+    },
+    {
       "review_id": "14747363627",
       "source": "app_store",
       "rating": 1,
@@ -15202,16 +15224,6 @@
       "subcategory_tags": [
         "missing_language_support",
         "english_jargon_complexity"
-      ]
-    },
-    {
-      "review_id": "7ccd666f-8a80-4ccb-a24e-1575d827c99e",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2026-04-08T21:17:22",
-      "text": "it's nice , but the problem not supporting the Arabic language, and we spoke with them more than 1 years and they promised to work on it !! it's major markets , and the ai do all the work for translation the apo easy, why not do it ?",
-      "subcategory_tags": [
-        "missing_language_support"
       ]
     }
   ],
@@ -15527,6 +15539,17 @@
   ],
   "english_jargon_complexity": [
     {
+      "review_id": "5c4f93b5-1afa-4313-aac7-3334ca7ab9bc",
+      "source": "google_play",
+      "rating": 4,
+      "date": "2026-11-14T00:38:59+00:00",
+      "text": "too many times when I type in changes to what WHOOP says are my sleep hours, it responds telling me it's not working, and to try it again. Yet when I do, it says the same thing. Also it uses the word \"Stress\" in \"sleep stress\", and that word in Australia means being afraid and anxious and under pressure. Thus it is NOT an appropriate way of describing what is actually being measured.",
+      "subcategory_tags": [
+        "sleep_accuracy",
+        "english_jargon_complexity"
+      ]
+    },
+    {
       "review_id": "14402367478",
       "source": "app_store",
       "rating": 3,
@@ -15608,6 +15631,19 @@
     }
   ],
   "feature_requests": [
+    {
+      "review_id": "14785561870",
+      "source": "app_store",
+      "rating": 2,
+      "date": "2026-11-13T06:24:47-07:00",
+      "text": "As a professional pianist, I spend hours seated playing music, yet WHOOP repeatedly counts thousands of steps from my hand movements.\n\nI reported this issue several times and warned that replacing the tracker wouldn’t fix an algorithm problem. WHOOP sent a replacement anyway, and the problem continues.\n\nIronically, WHOOP just awarded me a “Steady Stepper” achievement for supposedly exceeding 10,000 steps on 25 days!\n\nMy concern goes beyond steps. How can I trust personalized health recommendations based on questionable activity data?\n\nWHOOP offered two months of membership credit, but the underlying issue remains unresolved.\n\nUnlike my Apple Watch, WHOOP requires an expensive annual subscription. I expected better accuracy and technical support.\n\nPremium subscription prices should come with premium reliability—not misleading statistics and congratulatory badges.",
+      "subcategory_tags": [
+        "metric_accuracy",
+        "support_resolution_quality",
+        "price_value_perception",
+        "personalization_use_case_fit"
+      ]
+    },
     {
       "review_id": "14777298332",
       "source": "app_store",
@@ -15930,17 +15966,6 @@
       "text": "Why no heart rate widget?",
       "subcategory_tags": [
         "missing_metrics"
-      ]
-    },
-    {
-      "review_id": "14582627849",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-09-22T21:28:09-07:00",
-      "text": "I’ve used WHOOP 4.0 for 1600 days consecutively and then recently switched to WHOOP 5.0. I used WHOOP specifically to track my caloric expenditure relative to my daily caloric intake using MyFitnessPal. This method worked very well and was very accurate and allowed me to achieve my weight loss goals consistently based on maintaining a daily caloric deficit of 400 cal when I was cutting. Fast forward to August 25 when I switched from 4.0 to WHOOP 5.0 and all of a sudden with no meaningful change in my routine, my caloric expenditure according to WHOOP 5.0 dropped by about 1000 cal per day. Now, even as my weight is flat, WHOOP 5.0 is showing about 1000 cal per day surplus. Very disappointing. I can no longer use WHOOP as an accurate gauge of my daily caloric expenditure.",
-      "subcategory_tags": [
-        "metric_accuracy",
-        "third_party_integration"
       ]
     }
   ],
@@ -16621,6 +16646,19 @@
   ],
   "personalization_use_case_fit": [
     {
+      "review_id": "14785561870",
+      "source": "app_store",
+      "rating": 2,
+      "date": "2026-11-13T06:24:47-07:00",
+      "text": "As a professional pianist, I spend hours seated playing music, yet WHOOP repeatedly counts thousands of steps from my hand movements.\n\nI reported this issue several times and warned that replacing the tracker wouldn’t fix an algorithm problem. WHOOP sent a replacement anyway, and the problem continues.\n\nIronically, WHOOP just awarded me a “Steady Stepper” achievement for supposedly exceeding 10,000 steps on 25 days!\n\nMy concern goes beyond steps. How can I trust personalized health recommendations based on questionable activity data?\n\nWHOOP offered two months of membership credit, but the underlying issue remains unresolved.\n\nUnlike my Apple Watch, WHOOP requires an expensive annual subscription. I expected better accuracy and technical support.\n\nPremium subscription prices should come with premium reliability—not misleading statistics and congratulatory badges.",
+      "subcategory_tags": [
+        "metric_accuracy",
+        "support_resolution_quality",
+        "price_value_perception",
+        "personalization_use_case_fit"
+      ]
+    },
+    {
       "review_id": "14775823770",
       "source": "app_store",
       "rating": 2,
@@ -16954,16 +16992,6 @@
       "text": "As someone of a certain age… Closer to 60, then 50, it’s been harder to stay in shape with the various responsibilities of taking care of my mom, and age, dog, and helping college kids become responsible professionals. As well as maintaining those relationships that are truly important so with that being said, the WHOOP band has given me the needed motivation and assistance to stay on track. With the AI feature helping me understand what I’m doing right and what I’m doing wrong, it’s really created more balance in my life. Which honestly, I need. And at the end of the day or at the end of the week, I feel better both physically and mentally. So thank you.",
       "subcategory_tags": [
         "ai_positive_reception",
-        "personalization_use_case_fit"
-      ]
-    },
-    {
-      "review_id": "1a8d0a3b-14f7-4dec-8c02-a42e2969e073",
-      "source": "google_play",
-      "rating": 2,
-      "date": "2026-07-30T19:36:29",
-      "text": "Stopped using it after few months. it gives not relevant information",
-      "subcategory_tags": [
         "personalization_use_case_fit"
       ]
     }

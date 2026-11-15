@@ -4394,3 +4394,18 @@ b56caffe-67a9-48af-a987-9e0d36e8750f,google_play,1,2026-11-13T00:16:17+00:00,"So
 And the AI? Don’t get me started on the AI. I can’t decide what’s worse, the nonsense notifications or the hallucinating jet lag suggestions. All I know is neither are useful.
 
 Could we please just have a feature to opt out or turn off the artificial “intelligence”",ui_ux;app_stability;ai_coach;ai_coach,feature_ui_friction;crashes_freezes;ai_reliability_bugs;ai_autonomy,high;high;high;high,4,OK
+71943075-2418-41f7-beaa-7d45e72959c0,google_play,1,2026-11-14T01:01:23+00:00,Awful experience so far. as soon as I installed it it prompted me to set up some AI experience. The AI overlay took up the entire screen and would not go away. I had to uninstall and reinstall the app in order to get the AI overlay to go away.,ai_coach;app_stability,ai_autonomy;crashes_freezes,high;medium,2,OK
+5c4f93b5-1afa-4313-aac7-3334ca7ab9bc,google_play,4,2026-11-14T00:38:59+00:00,"too many times when I type in changes to what WHOOP says are my sleep hours, it responds telling me it's not working, and to try it again. Yet when I do, it says the same thing. Also it uses the word ""Stress"" in ""sleep stress"", and that word in Australia means being afraid and anxious and under pressure. Thus it is NOT an appropriate way of describing what is actually being measured.",sleep_tracking;localization,sleep_accuracy;english_jargon_complexity,medium;medium,2,OK
+14785561870,app_store,2,2026-11-13T06:24:47-07:00,"As a professional pianist, I spend hours seated playing music, yet WHOOP repeatedly counts thousands of steps from my hand movements.
+
+I reported this issue several times and warned that replacing the tracker wouldn’t fix an algorithm problem. WHOOP sent a replacement anyway, and the problem continues.
+
+Ironically, WHOOP just awarded me a “Steady Stepper” achievement for supposedly exceeding 10,000 steps on 25 days!
+
+My concern goes beyond steps. How can I trust personalized health recommendations based on questionable activity data?
+
+WHOOP offered two months of membership credit, but the underlying issue remains unresolved.
+
+Unlike my Apple Watch, WHOOP requires an expensive annual subscription. I expected better accuracy and technical support.
+
+Premium subscription prices should come with premium reliability—not misleading statistics and congratulatory badges.",data_accuracy;customer_support;pricing_billing;feature_requests,metric_accuracy;support_resolution_quality;price_value_perception;personalization_use_case_fit,high;high;high;medium,4,OK
