@@ -1,5 +1,44 @@
 [
   {
+    "review_id": "4871f76b-cd50-46ba-a258-293e8a093028",
+    "source": "google_play",
+    "rating": 5,
+    "date": "2026-11-14T23:39:33+00:00",
+    "text": "if you're into accuracy data about your body ...😁 I don't mind paying for membership..... this is the app you should get",
+    "parent_category_tags": [
+      "nan"
+    ],
+    "subcategory_tags": [
+      "nan"
+    ]
+  },
+  {
+    "review_id": "14790007973",
+    "source": "app_store",
+    "rating": 3,
+    "date": "2026-11-14T07:57:34-07:00",
+    "text": "My experience has been the 5 has been inconsistent compared to 4",
+    "parent_category_tags": [
+      "hardware_wearability"
+    ],
+    "subcategory_tags": [
+      "build_quality_perception"
+    ]
+  },
+  {
+    "review_id": "14789685172",
+    "source": "app_store",
+    "rating": 5,
+    "date": "2026-11-14T06:29:13-07:00",
+    "text": "Me ha ayudado a recuperar y a nivelar mi energía",
+    "parent_category_tags": [
+      "nan"
+    ],
+    "subcategory_tags": [
+      "nan"
+    ]
+  },
+  {
     "review_id": "71943075-2418-41f7-beaa-7d45e72959c0",
     "source": "google_play",
     "rating": 1,

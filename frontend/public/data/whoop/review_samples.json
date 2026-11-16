@@ -3088,6 +3088,16 @@
   ],
   "hardware_wearability": [
     {
+      "review_id": "14790007973",
+      "source": "app_store",
+      "rating": 3,
+      "date": "2026-11-14T07:57:34-07:00",
+      "text": "My experience has been the 5 has been inconsistent compared to 4",
+      "subcategory_tags": [
+        "build_quality_perception"
+      ]
+    },
+    {
       "review_id": "b56caffe-67a9-48af-a987-9e0d36e8750f",
       "source": "google_play",
       "rating": 1,
@@ -3431,18 +3441,6 @@
       "subcategory_tags": [
         "sleep_satisfaction",
         "comfort_fit"
-      ]
-    },
-    {
-      "review_id": "8fd13b4b-f9bb-4d94-813e-8725f36c1871",
-      "source": "google_play",
-      "rating": 5,
-      "date": "2026-08-01T14:58:13",
-      "text": "I've never heard of this product. I was gifted this device for my birthday and I absolutely love it. The battery life is amazing and I love how it tracks my sleep, recovery, strain, stress and body temp, it helps keep me accountable and informed of whats happening withIN me. The more I use this the more I believe it can benefit from improvement. 1) It would be nice to have access to our dashboard while still recording our activity. I cant list anymore bc ive ran out of characters for this review",
-      "subcategory_tags": [
-        "battery_life",
-        "sleep_satisfaction",
-        "missing_metrics"
       ]
     }
   ],
@@ -4501,6 +4499,16 @@
   ],
   "build_quality_perception": [
     {
+      "review_id": "14790007973",
+      "source": "app_store",
+      "rating": 3,
+      "date": "2026-11-14T07:57:34-07:00",
+      "text": "My experience has been the 5 has been inconsistent compared to 4",
+      "subcategory_tags": [
+        "build_quality_perception"
+      ]
+    },
+    {
       "review_id": "b56caffe-67a9-48af-a987-9e0d36e8750f",
       "source": "google_play",
       "rating": 1,
@@ -4842,20 +4850,6 @@
       "date": "2025-08-12T16:57:51",
       "text": "New 5.0 black band is absolute junk. I've had a 3 and a 4. The bands lasted at least a year before they needed replaced mostly because the elastic. The new 5.0 black band is fading so bad it's brown/green. Not even 3 months since I've gotten a 5.",
       "subcategory_tags": [
-        "build_quality_perception"
-      ]
-    },
-    {
-      "review_id": "5947ab33-db70-4761-99ba-3a55a774e3c2",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2025-07-31T05:12:02",
-      "text": "They lied to me about receiving new hardware with a subscription. The measurements are low quality, esp the crucial sleep tracking, so I was looking forward to the next gen hardware. But I'd have to buy another YEAR or subscription, and I just got my subscription not long ago. Anyway the new gen is bad too according to reviews. App is fundamentally bad too, I just lost multiple days of tracking because the battery was empty but it didn't alert me. luckily there are now cheaper alternatives",
-      "subcategory_tags": [
-        "billing_disputes",
-        "price_value_perception",
-        "sleep_accuracy",
-        "battery_life",
         "build_quality_perception"
       ]
     }
