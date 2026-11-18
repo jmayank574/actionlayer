@@ -1,6 +1,29 @@
 {
   "pricing_billing": [
     {
+      "review_id": "e5b7783b-4b0e-482c-93ea-85ade5640497",
+      "source": "google_play",
+      "rating": 1,
+      "date": "2026-11-17T05:54:18+00:00",
+      "text": "god forbid you pay for this forsaken piece of garbage. 400 dollars and it counts my metro and car trips like walking high intensity. yes whoop, i walked 'briskly' for 45 minutes at a speed of 60 miles per hour. true true.",
+      "subcategory_tags": [
+        "metric_accuracy",
+        "activity_detection",
+        "price_value_perception"
+      ]
+    },
+    {
+      "review_id": "14799379615",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-11-16T15:07:27-07:00",
+      "text": "Crazy bad prices and not even formatted for iPhone Duo. Open the display and you’ll get some weird view of your stress. That’s it. No thx.",
+      "subcategory_tags": [
+        "price_value_perception",
+        "device_rendering_bugs"
+      ]
+    },
+    {
       "review_id": "04d1e850-10b3-4f83-89ac-9ba9b73efa5d",
       "source": "google_play",
       "rating": 2,
@@ -323,29 +346,32 @@
         "battery_life",
         "billing_disputes"
       ]
-    },
-    {
-      "review_id": "14664376375",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-10-13T22:24:49-07:00",
-      "text": "WHOOP charged me $258.35 and refused to refund me, even after I canceled my membership and returned the device. They confirmed receiving it and canceled my membership, but kept my money. Terrible customer experience.",
-      "subcategory_tags": [
-        "billing_disputes"
-      ]
-    },
-    {
-      "review_id": "14659583316",
-      "source": "app_store",
-      "rating": 4,
-      "date": "2026-10-12T16:07:55-07:00",
-      "text": "Very good app, highly recommend but expensive\n:(",
-      "subcategory_tags": [
-        "price_value_perception"
-      ]
     }
   ],
   "price_value_perception": [
+    {
+      "review_id": "e5b7783b-4b0e-482c-93ea-85ade5640497",
+      "source": "google_play",
+      "rating": 1,
+      "date": "2026-11-17T05:54:18+00:00",
+      "text": "god forbid you pay for this forsaken piece of garbage. 400 dollars and it counts my metro and car trips like walking high intensity. yes whoop, i walked 'briskly' for 45 minutes at a speed of 60 miles per hour. true true.",
+      "subcategory_tags": [
+        "metric_accuracy",
+        "activity_detection",
+        "price_value_perception"
+      ]
+    },
+    {
+      "review_id": "14799379615",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-11-16T15:07:27-07:00",
+      "text": "Crazy bad prices and not even formatted for iPhone Duo. Open the display and you’ll get some weird view of your stress. That’s it. No thx.",
+      "subcategory_tags": [
+        "price_value_perception",
+        "device_rendering_bugs"
+      ]
+    },
     {
       "review_id": "04d1e850-10b3-4f83-89ac-9ba9b73efa5d",
       "source": "google_play",
@@ -674,28 +700,6 @@
       "subcategory_tags": [
         "price_value_perception",
         "upsell_pressure"
-      ]
-    },
-    {
-      "review_id": "fb26315c-3f17-48ba-978d-99012156ce8b",
-      "source": "google_play",
-      "rating": 3,
-      "date": "2026-09-30T09:06:15+00:00",
-      "text": "happy with the product and services. But the subscription is expensive. Given the other similar products available, Whoop needs to revise the price and services.",
-      "subcategory_tags": [
-        "price_value_perception"
-      ]
-    },
-    {
-      "review_id": "14609970255",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-09-30T00:06:32-07:00",
-      "text": "OK for what it is but overpriced, constant upsell, locking your own biometric data into their ecosystem. Looking into the alternative band without a sub subscription. I don’t recommend this one, especially with their dark patterns and practices.",
-      "subcategory_tags": [
-        "price_value_perception",
-        "upsell_pressure",
-        "billing_disputes"
       ]
     }
   ],
@@ -6230,6 +6234,18 @@
   ],
   "data_accuracy": [
     {
+      "review_id": "e5b7783b-4b0e-482c-93ea-85ade5640497",
+      "source": "google_play",
+      "rating": 1,
+      "date": "2026-11-17T05:54:18+00:00",
+      "text": "god forbid you pay for this forsaken piece of garbage. 400 dollars and it counts my metro and car trips like walking high intensity. yes whoop, i walked 'briskly' for 45 minutes at a speed of 60 miles per hour. true true.",
+      "subcategory_tags": [
+        "metric_accuracy",
+        "activity_detection",
+        "price_value_perception"
+      ]
+    },
+    {
       "review_id": "14796734509",
       "source": "app_store",
       "rating": 5,
@@ -6561,21 +6577,21 @@
         "metric_accuracy",
         "sleep_satisfaction"
       ]
-    },
-    {
-      "review_id": "6d935b03-5e38-4724-8d6b-c12af74d9c8f",
-      "source": "google_play",
-      "rating": 2,
-      "date": "2026-10-14T11:18:20+00:00",
-      "text": "Mainly bought this to track gym workouts, but it completely fails. I lift 8,000 kg across machines in an hour, and it logs it as a run. I have to manually enter every machine, weight, and set into that entry. The built-in AI made a routine, but you can't even copy/paste from the chat. If you lift weights, stay away. My smartwatch already tracks everything else anyway. Totally overhyped.",
-      "subcategory_tags": [
-        "activity_detection",
-        "missing_activity_types",
-        "ai_reliability_bugs"
-      ]
     }
   ],
   "metric_accuracy": [
+    {
+      "review_id": "e5b7783b-4b0e-482c-93ea-85ade5640497",
+      "source": "google_play",
+      "rating": 1,
+      "date": "2026-11-17T05:54:18+00:00",
+      "text": "god forbid you pay for this forsaken piece of garbage. 400 dollars and it counts my metro and car trips like walking high intensity. yes whoop, i walked 'briskly' for 45 minutes at a speed of 60 miles per hour. true true.",
+      "subcategory_tags": [
+        "metric_accuracy",
+        "activity_detection",
+        "price_value_perception"
+      ]
+    },
     {
       "review_id": "14796734509",
       "source": "app_store",
@@ -6915,19 +6931,21 @@
         "metric_accuracy",
         "personalization_use_case_fit"
       ]
-    },
-    {
-      "review_id": "14647279171",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-10-09T13:58:56-07:00",
-      "text": "Something changed with their algorithm at the end of the summer, I walk 20,000 steps in a day according to the WHOOP and burn like 1600 calories.",
-      "subcategory_tags": [
-        "metric_accuracy"
-      ]
     }
   ],
   "activity_detection": [
+    {
+      "review_id": "e5b7783b-4b0e-482c-93ea-85ade5640497",
+      "source": "google_play",
+      "rating": 1,
+      "date": "2026-11-17T05:54:18+00:00",
+      "text": "god forbid you pay for this forsaken piece of garbage. 400 dollars and it counts my metro and car trips like walking high intensity. yes whoop, i walked 'briskly' for 45 minutes at a speed of 60 miles per hour. true true.",
+      "subcategory_tags": [
+        "metric_accuracy",
+        "activity_detection",
+        "price_value_perception"
+      ]
+    },
     {
       "review_id": "04d1e850-10b3-4f83-89ac-9ba9b73efa5d",
       "source": "google_play",
@@ -7275,17 +7293,6 @@
         "activity_detection",
         "sleep_accuracy",
         "ai_reliability_bugs"
-      ]
-    },
-    {
-      "review_id": "14318390982",
-      "source": "app_store",
-      "rating": 2,
-      "date": "2026-07-18T06:47:38-07:00",
-      "text": "Somehow the activity detection and sleep tracking has gotten worse over the last six months.  Getting notifications about playing golf when walking, exercise while driving and just general weirdness.  Also the sleep detection and tracking needs a ton of improvement.  Like the idea, product is just not there yet.",
-      "subcategory_tags": [
-        "activity_detection",
-        "sleep_accuracy"
       ]
     }
   ],
@@ -9384,6 +9391,16 @@
   ],
   "customer_support": [
     {
+      "review_id": "14801472847",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-11-17T05:21:06-07:00",
+      "text": "The CS team might be the most inept group I’ve ever seen. It seems their whole goal is to get you to give up on a resolution.",
+      "subcategory_tags": [
+        "support_resolution_quality"
+      ]
+    },
+    {
       "review_id": "14785561870",
       "source": "app_store",
       "rating": 2,
@@ -9730,19 +9747,6 @@
         "sleep_accuracy",
         "ai_only_support_channel",
         "support_resolution_quality"
-      ]
-    },
-    {
-      "review_id": "14493545320",
-      "source": "app_store",
-      "rating": 2,
-      "date": "2026-08-31T04:45:37-07:00",
-      "text": "As title says, great product and I love it besides the lack of gps. The customer service is terrible. When I had a 4.0, there was a time where it wouldn’t connect to my phone for a few days so I contacted support and they just said to wait and let it run out of battery and try again. So I waited over 2 weeks for this thing to run out and thankfully it connected again. Now with my 5.0, I was at the beach and it fell off while swimming in flat water. I eventually found it with goggles but the clasp was gone (broke off) so I contacted support and they said it’s not covered by warranty so order a new one. Just used $50 to replace with the cheapest band I could. What’s the point of a warranty if it doesn’t cover the band breaking.",
-      "subcategory_tags": [
-        "strap_clasp_durability",
-        "support_resolution_quality",
-        "ongoing_disconnects",
-        "missing_metrics"
       ]
     }
   ],
@@ -10107,6 +10111,16 @@
   ],
   "support_resolution_quality": [
     {
+      "review_id": "14801472847",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-11-17T05:21:06-07:00",
+      "text": "The CS team might be the most inept group I’ve ever seen. It seems their whole goal is to get you to give up on a resolution.",
+      "subcategory_tags": [
+        "support_resolution_quality"
+      ]
+    },
+    {
       "review_id": "14785561870",
       "source": "app_store",
       "rating": 2,
@@ -10453,18 +10467,6 @@
       "text": "The AI advice is terrible.  Customer support is god awful if you even get a response from them it’s the same script each time leading me to believe you’re not even speaking to a human.  They don’t read the emails you send and do nothing to help you with any issues you have.\n\nThey’re great at giving you instructions on how to wear the stupid thing though.",
       "subcategory_tags": [
         "ai_reliability_bugs",
-        "ai_only_support_channel",
-        "support_resolution_quality"
-      ]
-    },
-    {
-      "review_id": "a8474c80-36b2-4aa1-8a49-daaec85dc7b9",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2026-07-18T00:41:28",
-      "text": "I have a gift card voucher, and it is impossible to reedem against my subscription. after so much time and different emails with Whoop didn't get anywhere. I asked whoop to add gift card to my account but apparently you got to do it yourself, altough there is no option of doing it, support not helpful at all, seems like you talking with AI. voucher can be used only for a new purchase which i dont want. i would adise do not buy whoop gift cards.",
-      "subcategory_tags": [
-        "billing_disputes",
         "ai_only_support_channel",
         "support_resolution_quality"
       ]
@@ -12198,6 +12200,28 @@
   ],
   "ui_ux": [
     {
+      "review_id": "14799379615",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-11-16T15:07:27-07:00",
+      "text": "Crazy bad prices and not even formatted for iPhone Duo. Open the display and you’ll get some weird view of your stress. That’s it. No thx.",
+      "subcategory_tags": [
+        "price_value_perception",
+        "device_rendering_bugs"
+      ]
+    },
+    {
+      "review_id": "14799169932",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-11-16T13:46:56-07:00",
+      "text": "Need better iPhone Duo support!",
+      "subcategory_tags": [
+        "android_feature_gaps",
+        "device_rendering_bugs"
+      ]
+    },
+    {
       "review_id": "14783141027",
       "source": "app_store",
       "rating": 3,
@@ -12510,27 +12534,6 @@
         "personalization_use_case_fit",
         "missing_metrics",
         "feature_ui_friction"
-      ]
-    },
-    {
-      "review_id": "14510766011",
-      "source": "app_store",
-      "rating": 4,
-      "date": "2026-09-04T12:27:42-07:00",
-      "text": "Love the features, loves the tracking and historical data mapping. \n\nNow the bad stuff…. When accessing the iOS app a lot of the text is cut off and you can’t scroll over to see it or flip to landscape mode. Then there’s the constant marketing notifications. Needs work",
-      "subcategory_tags": [
-        "device_rendering_bugs",
-        "notification_community_issues"
-      ]
-    },
-    {
-      "review_id": "14509504779",
-      "source": "app_store",
-      "rating": 4,
-      "date": "2026-09-04T06:06:24-07:00",
-      "text": "Still trying to figure it all out however, the screen view is cut off on the sides preventing clear view of data. Changing phone settings screws up my entire phone. Please fix! Thanks!",
-      "subcategory_tags": [
-        "device_rendering_bugs"
       ]
     }
   ],
@@ -12880,6 +12883,28 @@
   ],
   "device_rendering_bugs": [
     {
+      "review_id": "14799379615",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-11-16T15:07:27-07:00",
+      "text": "Crazy bad prices and not even formatted for iPhone Duo. Open the display and you’ll get some weird view of your stress. That’s it. No thx.",
+      "subcategory_tags": [
+        "price_value_perception",
+        "device_rendering_bugs"
+      ]
+    },
+    {
+      "review_id": "14799169932",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-11-16T13:46:56-07:00",
+      "text": "Need better iPhone Duo support!",
+      "subcategory_tags": [
+        "android_feature_gaps",
+        "device_rendering_bugs"
+      ]
+    },
+    {
       "review_id": "14765492466",
       "source": "app_store",
       "rating": 1,
@@ -13174,31 +13199,6 @@
       "subcategory_tags": [
         "device_rendering_bugs",
         "redesign_regression"
-      ]
-    },
-    {
-      "review_id": "c90bb6e5-dd78-4eae-bc6f-9f80dc6bc145",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2025-10-24T07:03:26",
-      "text": "Latest update basically broke the app. poor UAT. 1/Displays under status/notification bar and navigation bar, so buttons in the app that usually are in those positions are now covered. 2/If you move the app to background while recording a workout for long enough, then go back to finish your workout, app crashes, disconnects from the Whoop device, you lose all workout metrics. Whoop is going from bad to worse quickly.",
-      "subcategory_tags": [
-        "update_failures",
-        "device_rendering_bugs",
-        "crashes_freezes",
-        "data_sync_delays"
-      ]
-    },
-    {
-      "review_id": "2c736b01-b6e0-4d2e-9269-6802aad9cda5",
-      "source": "google_play",
-      "rating": 4,
-      "date": "2025-10-23T22:19:06",
-      "text": "overall great app and product but since the most recent update when finished an exercise such as walking or spin able to pause but not finish. have to use the notification box to finish and log it. also the app has gone full screen now especially annoying when trying to start and stop sets using strength trainer as the button is being covered by my phone navigation bar. also have to use the notification drop down. I am sure this will be addressed soon, I can't be the only one.",
-      "subcategory_tags": [
-        "update_failures",
-        "feature_ui_friction",
-        "device_rendering_bugs"
       ]
     }
   ],
@@ -13895,6 +13895,17 @@
   ],
   "platform_parity": [
     {
+      "review_id": "14799169932",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-11-16T13:46:56-07:00",
+      "text": "Need better iPhone Duo support!",
+      "subcategory_tags": [
+        "android_feature_gaps",
+        "device_rendering_bugs"
+      ]
+    },
+    {
       "review_id": "cebdaf43-af76-4a8a-bb90-911823dd7d6b",
       "source": "google_play",
       "rating": 3,
@@ -14220,22 +14231,20 @@
         "feature_ui_friction",
         "android_specific_bugs"
       ]
-    },
-    {
-      "review_id": "dbe777d5-1e87-4441-a007-07f19f7947dd",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2025-10-07T07:55:24",
-      "text": "Schade. Ich liebe Whoop und nutze es jeden Tag (90er Streak so far). Leider ist die App auf Android Geräten teilweise so fehlerhaft. Das Community feature ist bei mir quasi unbrauchbar und der Support sagt mir seit 2 Monaten sie können mir nicht helfen und ich soll auf ein Update warten...letztens kam ein Update und das Problem war noch schlimmer. Für den Preis ein No-Go...falls das Problem behoben wird gerne 5 Sterne. Vorher aber auf gar keinen Fall. Beste Grüße Nico",
-      "subcategory_tags": [
-        "notification_community_issues",
-        "support_resolution_quality",
-        "android_specific_bugs",
-        "price_value_perception"
-      ]
     }
   ],
   "android_feature_gaps": [
+    {
+      "review_id": "14799169932",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-11-16T13:46:56-07:00",
+      "text": "Need better iPhone Duo support!",
+      "subcategory_tags": [
+        "android_feature_gaps",
+        "device_rendering_bugs"
+      ]
+    },
     {
       "review_id": "cebdaf43-af76-4a8a-bb90-911823dd7d6b",
       "source": "google_play",
@@ -14547,16 +14556,6 @@
       "rating": 5,
       "date": "2022-10-31T13:30:51",
       "text": "Please make a widget for android!!!! Great product and service. Would be awesome if you guys can make a widget showing strain for the day and all the other data such as showing heart rate and so forth.",
-      "subcategory_tags": [
-        "android_feature_gaps"
-      ]
-    },
-    {
-      "review_id": "c54b7c82-13bf-497f-88cf-f7e631f2401e",
-      "source": "google_play",
-      "rating": 3,
-      "date": "2022-07-14T09:40:25",
-      "text": "Good, app, missing Google wear app.",
       "subcategory_tags": [
         "android_feature_gaps"
       ]
@@ -14911,6 +14910,16 @@
   ],
   "localization": [
     {
+      "review_id": "14796886767",
+      "source": "app_store",
+      "rating": 5,
+      "date": "2026-11-16T00:56:14-07:00",
+      "text": "البرنامج جيد  ولكن  يحتاج  الى تبسيط اكثر",
+      "subcategory_tags": [
+        "missing_language_support"
+      ]
+    },
+    {
       "review_id": "5c4f93b5-1afa-4313-aac7-3334ca7ab9bc",
       "source": "google_play",
       "rating": 4,
@@ -15207,20 +15216,19 @@
         "english_jargon_complexity",
         "missing_language_support"
       ]
-    },
-    {
-      "review_id": "13957630088",
-      "source": "app_store",
-      "rating": 4,
-      "date": "2026-04-14T09:50:07-07:00",
-      "text": "Сделайте поддержку русского языка, очень тяжело со словарём сидеть и переводить. ИИ ДОСТАТОЧНО  легко может ПЕРЕВЕСТИ",
-      "subcategory_tags": [
-        "missing_language_support",
-        "english_jargon_complexity"
-      ]
     }
   ],
   "missing_language_support": [
+    {
+      "review_id": "14796886767",
+      "source": "app_store",
+      "rating": 5,
+      "date": "2026-11-16T00:56:14-07:00",
+      "text": "البرنامج جيد  ولكن  يحتاج  الى تبسيط اكثر",
+      "subcategory_tags": [
+        "missing_language_support"
+      ]
+    },
     {
       "review_id": "14747363627",
       "source": "app_store",
@@ -15517,17 +15525,6 @@
       "subcategory_tags": [
         "missing_language_support"
       ]
-    },
-    {
-      "review_id": "13897599009",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-03-28T14:06:05-07:00",
-      "text": "Мені зробили подарунок, пробував підключитися, важко працювати з ним незрозуміло що і як. \nЗа якістю роботи не буде відгуків. Відчуваю себе обманутим. Гарного дня",
-      "subcategory_tags": [
-        "onboarding_pairing",
-        "missing_language_support"
-      ]
     }
   ],
   "english_jargon_complexity": [
@@ -15624,6 +15621,26 @@
     }
   ],
   "feature_requests": [
+    {
+      "review_id": "14798514994",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-11-16T10:00:06-07:00",
+      "text": "Why are you making my data searchable to everyone by default? When did I give you permission for that?",
+      "subcategory_tags": [
+        "personalization_use_case_fit"
+      ]
+    },
+    {
+      "review_id": "14798498274",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-11-16T09:54:42-07:00",
+      "text": "I thought you guys knew better. You had a full length explanation about how you value privacy and the you make all my data visible to the world and searchable by default? So you auto opt us in?",
+      "subcategory_tags": [
+        "personalization_use_case_fit"
+      ]
+    },
     {
       "review_id": "14785561870",
       "source": "app_store",
@@ -15937,27 +15954,6 @@
       "text": "A bit crazy that for the current price you don't get a heartrate graph where you can see your Heathrow from today and the previous days.",
       "subcategory_tags": [
         "price_value_perception",
-        "missing_metrics"
-      ]
-    },
-    {
-      "review_id": "14595044390",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-09-26T03:17:11-07:00",
-      "text": "You can't remove all the ridiculous banner ads, and I can't just look at my heartbeat continually, on demand. Terrible app. I through by brand new device in the trash. \nIntrusive banners you can't hide: \n- “First Week with WHOOP” - no way to hide banner \n- Refer & Earn banners (multiple) \n- Share a Free Trial banners (I'm not marketing your stupid app) \n- Shop / Shop All Accessories\n- Gift a Membership (I'm not your marketing department)\n- Extend Membership (I already paid for a year)\n- Stress Monitor - can't disable and I could care less about a meaningless made up score",
-      "subcategory_tags": [
-        "upsell_pressure",
-        "missing_metrics"
-      ]
-    },
-    {
-      "review_id": "cb78b56f-5833-45d4-8fdf-64d5b5dc6899",
-      "source": "google_play",
-      "rating": 4,
-      "date": "2026-09-24T01:31:06+00:00",
-      "text": "Why no heart rate widget?",
-      "subcategory_tags": [
         "missing_metrics"
       ]
     }
@@ -16639,6 +16635,26 @@
   ],
   "personalization_use_case_fit": [
     {
+      "review_id": "14798514994",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-11-16T10:00:06-07:00",
+      "text": "Why are you making my data searchable to everyone by default? When did I give you permission for that?",
+      "subcategory_tags": [
+        "personalization_use_case_fit"
+      ]
+    },
+    {
+      "review_id": "14798498274",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-11-16T09:54:42-07:00",
+      "text": "I thought you guys knew better. You had a full length explanation about how you value privacy and the you make all my data visible to the world and searchable by default? So you auto opt us in?",
+      "subcategory_tags": [
+        "personalization_use_case_fit"
+      ]
+    },
+    {
       "review_id": "14785561870",
       "source": "app_store",
       "rating": 2,
@@ -16962,29 +16978,6 @@
       "text": "Interesting device, but it's too complicated to manage. There are too many settings to get something useful. It should have simple defaults unless someone wants more insights",
       "subcategory_tags": [
         "redesign_regression",
-        "personalization_use_case_fit"
-      ]
-    },
-    {
-      "review_id": "f9993455-852d-4fc7-9eea-c81c93159837",
-      "source": "google_play",
-      "rating": 5,
-      "date": "2026-07-31T23:09:54",
-      "text": "Still awesome overall. My only feedback is adding real time heart rate to the main screen. The AI Strength Trainer is a great feature but it still has a few limitations. It doesn't recognise some basic equipment like ab machines and the workouts don't feel fully personalised even when you give it prompts.",
-      "subcategory_tags": [
-        "missing_activity_types",
-        "personalization_use_case_fit",
-        "feature_ui_friction"
-      ]
-    },
-    {
-      "review_id": "14370528337",
-      "source": "app_store",
-      "rating": 5,
-      "date": "2026-07-31T06:08:36-07:00",
-      "text": "As someone of a certain age… Closer to 60, then 50, it’s been harder to stay in shape with the various responsibilities of taking care of my mom, and age, dog, and helping college kids become responsible professionals. As well as maintaining those relationships that are truly important so with that being said, the WHOOP band has given me the needed motivation and assistance to stay on track. With the AI feature helping me understand what I’m doing right and what I’m doing wrong, it’s really created more balance in my life. Which honestly, I need. And at the end of the day or at the end of the week, I feel better both physically and mentally. So thank you.",
-      "subcategory_tags": [
-        "ai_positive_reception",
         "personalization_use_case_fit"
       ]
     }
