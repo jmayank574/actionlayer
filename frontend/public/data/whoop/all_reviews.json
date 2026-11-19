@@ -1,10 +1,64 @@
 [
   {
+    "review_id": "cabaac20-967b-4ae1-a4ab-48b28bd19b9e",
+    "source": "google_play",
+    "rating": 3,
+    "date": "2026-11-18T02:05:59+00:00",
+    "text": "I think app visually better and AI stuff is good. but the sensors and data collection, I have doubts.",
+    "parent_category_tags": [
+      "ai_coach",
+      "data_accuracy"
+    ],
+    "subcategory_tags": [
+      "ai_positive_reception",
+      "metric_accuracy"
+    ]
+  },
+  {
+    "review_id": "14802901851",
+    "source": "app_store",
+    "rating": 3,
+    "date": "2026-11-17T16:33:12-07:00",
+    "text": "This is a great app, BUT it really needs iPhone Duo support",
+    "parent_category_tags": [
+      "feature_requests"
+    ],
+    "subcategory_tags": [
+      "missing_metrics"
+    ]
+  },
+  {
+    "review_id": "14802402754",
+    "source": "app_store",
+    "rating": 2,
+    "date": "2026-11-17T13:18:20-07:00",
+    "text": "Please update who work with iPhone Duo.",
+    "parent_category_tags": [
+      "feature_requests"
+    ],
+    "subcategory_tags": [
+      "missing_metrics"
+    ]
+  },
+  {
     "review_id": "da926ff9-7f69-4351-82d1-4262cd944df9",
     "source": "google_play",
     "rating": 5,
     "date": "2026-11-17T19:35:31+00:00",
     "text": "best fetnees band in the younywors 🥰🥰🥰",
+    "parent_category_tags": [
+      "nan"
+    ],
+    "subcategory_tags": [
+      "nan"
+    ]
+  },
+  {
+    "review_id": "14801935368",
+    "source": "app_store",
+    "rating": 5,
+    "date": "2026-11-17T07:39:06-07:00",
+    "text": "I’ve totally committed to my health after seeing so much data and really pushing for a definitive change In my health.",
     "parent_category_tags": [
       "nan"
     ],

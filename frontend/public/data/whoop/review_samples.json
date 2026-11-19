@@ -6234,6 +6234,17 @@
   ],
   "data_accuracy": [
     {
+      "review_id": "cabaac20-967b-4ae1-a4ab-48b28bd19b9e",
+      "source": "google_play",
+      "rating": 3,
+      "date": "2026-11-18T02:05:59+00:00",
+      "text": "I think app visually better and AI stuff is good. but the sensors and data collection, I have doubts.",
+      "subcategory_tags": [
+        "ai_positive_reception",
+        "metric_accuracy"
+      ]
+    },
+    {
       "review_id": "e5b7783b-4b0e-482c-93ea-85ade5640497",
       "source": "google_play",
       "rating": 1,
@@ -6566,20 +6577,20 @@
       "subcategory_tags": [
         "metric_accuracy"
       ]
-    },
-    {
-      "review_id": "14665394472",
-      "source": "app_store",
-      "rating": 4,
-      "date": "2026-10-14T05:28:49-07:00",
-      "text": "Love Whoop. Great insights. I have the medical grade. Sometimes the updates don’t always makes sense though clearly they are trying to improve it always. I like seeing the patterns of sleep and working out and how much strain I have on a given day. Sometimes confused though that you can get for example a 13 for a workout with weights and by days end a full strain number barely higher ( after a day of working or errands or a few miles walk).  So occasionally the numbers don’t fully jibe with how I feel my day has gone but overall it’s solid.",
-      "subcategory_tags": [
-        "metric_accuracy",
-        "sleep_satisfaction"
-      ]
     }
   ],
   "metric_accuracy": [
+    {
+      "review_id": "cabaac20-967b-4ae1-a4ab-48b28bd19b9e",
+      "source": "google_play",
+      "rating": 3,
+      "date": "2026-11-18T02:05:59+00:00",
+      "text": "I think app visually better and AI stuff is good. but the sensors and data collection, I have doubts.",
+      "subcategory_tags": [
+        "ai_positive_reception",
+        "metric_accuracy"
+      ]
+    },
     {
       "review_id": "e5b7783b-4b0e-482c-93ea-85ade5640497",
       "source": "google_play",
@@ -6917,19 +6928,6 @@
         "update_failures",
         "metric_accuracy",
         "support_responsiveness"
-      ]
-    },
-    {
-      "review_id": "14653944098",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-10-11T07:03:47-07:00",
-      "text": "Do not get a whoop. It will try to control your life. Tell you when to go to bed. It’s a dumb computer that is rarely ever accurate. Whoop is on the same trajectory as oura ring in the fact that they should be sued for not being accurate. They take your money even when you try to quit the subscription. Whatever you do, do not waste your money on this product",
-      "subcategory_tags": [
-        "price_value_perception",
-        "billing_disputes",
-        "metric_accuracy",
-        "personalization_use_case_fit"
       ]
     }
   ],
@@ -8044,6 +8042,17 @@
   ],
   "ai_coach": [
     {
+      "review_id": "cabaac20-967b-4ae1-a4ab-48b28bd19b9e",
+      "source": "google_play",
+      "rating": 3,
+      "date": "2026-11-18T02:05:59+00:00",
+      "text": "I think app visually better and AI stuff is good. but the sensors and data collection, I have doubts.",
+      "subcategory_tags": [
+        "ai_positive_reception",
+        "metric_accuracy"
+      ]
+    },
+    {
       "review_id": "71943075-2418-41f7-beaa-7d45e72959c0",
       "source": "google_play",
       "rating": 1,
@@ -8368,16 +8377,6 @@
         "comfort_fit",
         "billing_disputes",
         "price_value_perception"
-      ]
-    },
-    {
-      "review_id": "14505542508",
-      "source": "app_store",
-      "rating": 5,
-      "date": "2026-09-03T05:45:55-07:00",
-      "text": "Luv stats and focus on improving. Their AI is very good",
-      "subcategory_tags": [
-        "ai_positive_reception"
       ]
     }
   ],
@@ -9065,6 +9064,17 @@
   ],
   "ai_positive_reception": [
     {
+      "review_id": "cabaac20-967b-4ae1-a4ab-48b28bd19b9e",
+      "source": "google_play",
+      "rating": 3,
+      "date": "2026-11-18T02:05:59+00:00",
+      "text": "I think app visually better and AI stuff is good. but the sensors and data collection, I have doubts.",
+      "subcategory_tags": [
+        "ai_positive_reception",
+        "metric_accuracy"
+      ]
+    },
+    {
       "review_id": "14777298332",
       "source": "app_store",
       "rating": 5,
@@ -9376,16 +9386,6 @@
       "subcategory_tags": [
         "ai_positive_reception",
         "personalization_use_case_fit"
-      ]
-    },
-    {
-      "review_id": "dd1ab3a8-ecc8-4751-870b-773e3a6030d6",
-      "source": "google_play",
-      "rating": 5,
-      "date": "2026-07-04T21:03:27",
-      "text": "amazing personal coach keeps me honest and disciplined",
-      "subcategory_tags": [
-        "ai_positive_reception"
       ]
     }
   ],
@@ -15622,6 +15622,26 @@
   ],
   "feature_requests": [
     {
+      "review_id": "14802901851",
+      "source": "app_store",
+      "rating": 3,
+      "date": "2026-11-17T16:33:12-07:00",
+      "text": "This is a great app, BUT it really needs iPhone Duo support",
+      "subcategory_tags": [
+        "missing_metrics"
+      ]
+    },
+    {
+      "review_id": "14802402754",
+      "source": "app_store",
+      "rating": 2,
+      "date": "2026-11-17T13:18:20-07:00",
+      "text": "Please update who work with iPhone Duo.",
+      "subcategory_tags": [
+        "missing_metrics"
+      ]
+    },
+    {
       "review_id": "14798514994",
       "source": "app_store",
       "rating": 1,
@@ -15933,28 +15953,6 @@
       "text": "The quantity of data is very helpful even for everyday living and aging.  I am fairly active and in my late 50’s.  Not the athlete I once was, for sure. Whoop has helped me find my sources of fatigue and realize how stressful my work is.  It’s providing the information to reshape my life so that I feel better and am more aware of how events and choices  impact me. I truly had no idea how much strain just a day at work is — or meetings with my boss.",
       "subcategory_tags": [
         "personalization_use_case_fit"
-      ]
-    },
-    {
-      "review_id": "14604102201",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-09-28T10:06:50-07:00",
-      "text": "I’ve used WHOOP for multiple nights, and unfortunately, I’m finding the sleep data to be very inaccurate—especially when I actually have a very poor night of sleep.\n\nOn several occasions, WHOOP has reported that I slept great or had a good-quality night, while I personally experienced the opposite. One night in particular was terrible, yet the data didn’t reflect that at all. I’ve now had multiple days where the sleep metrics simply don’t match my actual experience.\n\nFor someone who has significant sleep problems, this is a major issue. If the device is consistently telling me that I slept well when I know I didn’t, it makes the sleep scores difficult to trust or use meaningfully.\n\nIt may work well for people with relatively normal sleep patterns, but based on my experience, I wouldn’t rely on WHOOP for accurately tracking poor or disrupted sleep.",
-      "subcategory_tags": [
-        "sleep_accuracy",
-        "personalization_use_case_fit"
-      ]
-    },
-    {
-      "review_id": "0576d094-b523-4712-95ce-f7ec8ce62315",
-      "source": "google_play",
-      "rating": 2,
-      "date": "2026-09-26T22:42:39+00:00",
-      "text": "A bit crazy that for the current price you don't get a heartrate graph where you can see your Heathrow from today and the previous days.",
-      "subcategory_tags": [
-        "price_value_perception",
-        "missing_metrics"
       ]
     }
   ],
@@ -16295,6 +16293,26 @@
   ],
   "missing_metrics": [
     {
+      "review_id": "14802901851",
+      "source": "app_store",
+      "rating": 3,
+      "date": "2026-11-17T16:33:12-07:00",
+      "text": "This is a great app, BUT it really needs iPhone Duo support",
+      "subcategory_tags": [
+        "missing_metrics"
+      ]
+    },
+    {
+      "review_id": "14802402754",
+      "source": "app_store",
+      "rating": 2,
+      "date": "2026-11-17T13:18:20-07:00",
+      "text": "Please update who work with iPhone Duo.",
+      "subcategory_tags": [
+        "missing_metrics"
+      ]
+    },
+    {
       "review_id": "14777298332",
       "source": "app_store",
       "rating": 5,
@@ -16605,31 +16623,6 @@
         "missing_metrics",
         "ai_reliability_bugs",
         "notification_community_issues"
-      ]
-    },
-    {
-      "review_id": "14367456315",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-07-30T11:04:09-07:00",
-      "text": "I do not recommend the Whoop band if you’re buying it for blood pressure monitoring.\n\nI purchased the lifetime membership because I have high blood pressure and wanted a device to help me track it. I was very disappointed to learn that Whoop does not measure or even estimate your blood pressure. Instead, it asks you to manually enter your blood pressure readings and then simply shows the average of the values you entered yourself.\n\nThere is no real blood pressure monitoring, no estimated readings, and no meaningful tracking beyond your own manual entries. If blood pressure is your main concern, this device will not meet your expectations. I believe this limitation should be made much clearer before customers purchase a membership.",
-      "subcategory_tags": [
-        "ecg_bp_feature_reliability",
-        "missing_metrics",
-        "price_value_perception"
-      ]
-    },
-    {
-      "review_id": "14367054341",
-      "source": "app_store",
-      "rating": 4,
-      "date": "2026-07-30T09:02:05-07:00",
-      "text": "I really like it’s workout feature and AI, hence I keep using it. The only problem I have is with App’s UX, it’s not easy on the eye and checking simple things like steps is a bit over complicated. It’s annoying to see flash cards every day and my ocd kicks in to clean them. You should not make things difficult for users, give options and suggestions to make it more widget based, where user can pick and choose way easy.",
-      "subcategory_tags": [
-        "ai_positive_reception",
-        "redesign_regression",
-        "feature_ui_friction",
-        "missing_metrics"
       ]
     }
   ],
