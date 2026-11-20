@@ -1,5 +1,104 @@
 [
   {
+    "review_id": "8b42f78d-f4b8-47f0-82b8-7d3590175c5f",
+    "source": "google_play",
+    "rating": 5,
+    "date": "2026-11-19T13:53:55+00:00",
+    "text": "I tried a Garmin and the Hume band 2.0. whoop is the best one. hume band gave me a hard time. igniredme abd is not giving my money back.",
+    "parent_category_tags": [
+      "pricing_billing"
+    ],
+    "subcategory_tags": [
+      "billing_disputes"
+    ]
+  },
+  {
+    "review_id": "58d2947d-8e9b-49c3-a160-5fa63bae50ea",
+    "source": "google_play",
+    "rating": 3,
+    "date": "2026-11-19T13:25:44+00:00",
+    "text": "the app is decent. the bands are about the same. I don't trust it all. doesn't record naps for me. I reached out to company and explained my concerns and they sent me out a different band even though that doesn't really seem like the next logical fix for my problem of recording sleep and naps. I love the analytics but the price is ridiculous for what you get. the AI is advanced. it has its pros and cons. I wish they would have replaced my whoop equipment or upgraded it given all the problems.",
+    "parent_category_tags": [
+      "sleep_tracking",
+      "customer_support",
+      "pricing_billing",
+      "ai_coach"
+    ],
+    "subcategory_tags": [
+      "sleep_accuracy",
+      "support_resolution_quality",
+      "price_value_perception",
+      "ai_positive_reception"
+    ]
+  },
+  {
+    "review_id": "5092024e-1ea5-4586-84ad-fbf039858271",
+    "source": "google_play",
+    "rating": 3,
+    "date": "2026-11-19T10:46:23+00:00",
+    "text": "I love my whoop, it has actually made me a better person. BUT things are getting weird. It seems with each update or new model, there is a new feature added that slides the whole system closer to the woo woo side of health tracking. Whoop was nearly perfect when I got it and had the basic plan. You have hard data of your health metrics right there and a great strength trainer program. Now with pace of aging/create a moment features, there's a lot of extra fluff to sort through.",
+    "parent_category_tags": [
+      "feature_requests",
+      "ui_ux"
+    ],
+    "subcategory_tags": [
+      "personalization_use_case_fit",
+      "redesign_regression"
+    ]
+  },
+  {
+    "review_id": "b625b347-bf2f-4b53-a3d6-34a05213e223",
+    "source": "google_play",
+    "rating": 5,
+    "date": "2026-11-19T08:59:24+00:00",
+    "text": "Extremely helpful for Athletes and for general fitness.",
+    "parent_category_tags": [
+      "nan"
+    ],
+    "subcategory_tags": [
+      "nan"
+    ]
+  },
+  {
+    "review_id": "14806476621",
+    "source": "app_store",
+    "rating": 2,
+    "date": "2026-11-18T14:42:57-07:00",
+    "text": "Amongst a ton of other issues, this “premium” health tracker hasn’t been optimized for the most premium iPhone. Cool 👍",
+    "parent_category_tags": [
+      "ui_ux"
+    ],
+    "subcategory_tags": [
+      "device_rendering_bugs"
+    ]
+  },
+  {
+    "review_id": "14805033402",
+    "source": "app_store",
+    "rating": 5,
+    "date": "2026-11-18T06:33:40-07:00",
+    "text": "Helps track workouts and rest",
+    "parent_category_tags": [
+      "nan"
+    ],
+    "subcategory_tags": [
+      "nan"
+    ]
+  },
+  {
+    "review_id": "14804870211",
+    "source": "app_store",
+    "rating": 5,
+    "date": "2026-11-18T05:45:25-07:00",
+    "text": "I’ve had it for four years and I can’t imagine not having it. I love to gamify my sleep and activities to be the healthiest version of myself and there’s no better device on the market",
+    "parent_category_tags": [
+      "nan"
+    ],
+    "subcategory_tags": [
+      "nan"
+    ]
+  },
+  {
     "review_id": "cabaac20-967b-4ae1-a4ab-48b28bd19b9e",
     "source": "google_play",
     "rating": 3,

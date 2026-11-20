@@ -1,6 +1,29 @@
 {
   "pricing_billing": [
     {
+      "review_id": "8b42f78d-f4b8-47f0-82b8-7d3590175c5f",
+      "source": "google_play",
+      "rating": 5,
+      "date": "2026-11-19T13:53:55+00:00",
+      "text": "I tried a Garmin and the Hume band 2.0. whoop is the best one. hume band gave me a hard time. igniredme abd is not giving my money back.",
+      "subcategory_tags": [
+        "billing_disputes"
+      ]
+    },
+    {
+      "review_id": "58d2947d-8e9b-49c3-a160-5fa63bae50ea",
+      "source": "google_play",
+      "rating": 3,
+      "date": "2026-11-19T13:25:44+00:00",
+      "text": "the app is decent. the bands are about the same. I don't trust it all. doesn't record naps for me. I reached out to company and explained my concerns and they sent me out a different band even though that doesn't really seem like the next logical fix for my problem of recording sleep and naps. I love the analytics but the price is ridiculous for what you get. the AI is advanced. it has its pros and cons. I wish they would have replaced my whoop equipment or upgraded it given all the problems.",
+      "subcategory_tags": [
+        "sleep_accuracy",
+        "support_resolution_quality",
+        "price_value_perception",
+        "ai_positive_reception"
+      ]
+    },
+    {
       "review_id": "e5b7783b-4b0e-482c-93ea-85ade5640497",
       "source": "google_play",
       "rating": 1,
@@ -320,35 +343,22 @@
         "support_resolution_quality",
         "price_value_perception"
       ]
-    },
-    {
-      "review_id": "ac377414-6664-41fe-954e-70e6cc596c99",
-      "source": "google_play",
-      "rating": 3,
-      "date": "2026-10-14T11:04:35+00:00",
-      "text": "expensive for nothing market leading",
-      "subcategory_tags": [
-        "price_value_perception"
-      ]
-    },
-    {
-      "review_id": "14664547671",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-10-13T23:46:58-07:00",
-      "text": "This is probably the most expensive annual digital subscription I’ve tried, and the value is just not there. The hardware is cheaply made, the app and data are not very reliable, and the customer support is literally just email replies written by an LLM. The app constantly hounds you in a grindset tone, no matter how you update your profile and goals. The only positive experience I’ve had with it is that the battery does last a couple of weeks. Attempting to turn off annual auto renew is almost impossible, and the cancellation UX they use is probably unlawful in several states with recent regulations.",
-      "subcategory_tags": [
-        "price_value_perception",
-        "build_quality_perception",
-        "metric_accuracy",
-        "ai_only_support_channel",
-        "personalization_use_case_fit",
-        "battery_life",
-        "billing_disputes"
-      ]
     }
   ],
   "price_value_perception": [
+    {
+      "review_id": "58d2947d-8e9b-49c3-a160-5fa63bae50ea",
+      "source": "google_play",
+      "rating": 3,
+      "date": "2026-11-19T13:25:44+00:00",
+      "text": "the app is decent. the bands are about the same. I don't trust it all. doesn't record naps for me. I reached out to company and explained my concerns and they sent me out a different band even though that doesn't really seem like the next logical fix for my problem of recording sleep and naps. I love the analytics but the price is ridiculous for what you get. the AI is advanced. it has its pros and cons. I wish they would have replaced my whoop equipment or upgraded it given all the problems.",
+      "subcategory_tags": [
+        "sleep_accuracy",
+        "support_resolution_quality",
+        "price_value_perception",
+        "ai_positive_reception"
+      ]
+    },
     {
       "review_id": "e5b7783b-4b0e-482c-93ea-85ade5640497",
       "source": "google_play",
@@ -690,20 +700,19 @@
         "update_failures",
         "billing_disputes"
       ]
-    },
-    {
-      "review_id": "14622715587",
-      "source": "app_store",
-      "rating": 5,
-      "date": "2026-10-03T06:04:52-07:00",
-      "text": "I have been using WHOOP for many years now, and I absolutely love it. They are constantly making enhancements to the programming and the adjacent offers, like the biomarker testing (additional cost) is something I would not have pursued on my own, but has really helped in identifying some potential health issues. The coaching to address that as well just my general health and fitness is something I truly value. These guys really take health and fitness seriously, and listen to customer feedback. While, some say it's pricey, it is definitely worth it.",
-      "subcategory_tags": [
-        "price_value_perception",
-        "upsell_pressure"
-      ]
     }
   ],
   "billing_disputes": [
+    {
+      "review_id": "8b42f78d-f4b8-47f0-82b8-7d3590175c5f",
+      "source": "google_play",
+      "rating": 5,
+      "date": "2026-11-19T13:53:55+00:00",
+      "text": "I tried a Garmin and the Hume band 2.0. whoop is the best one. hume band gave me a hard time. igniredme abd is not giving my money back.",
+      "subcategory_tags": [
+        "billing_disputes"
+      ]
+    },
     {
       "review_id": "14778386306",
       "source": "app_store",
@@ -1040,19 +1049,6 @@
       "subcategory_tags": [
         "onboarding_pairing",
         "billing_disputes"
-      ]
-    },
-    {
-      "review_id": "14442499498",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-08-18T04:52:00-07:00",
-      "text": "I loved it until I started to realize the data is inaccurate and misleading.  You get what it’s trying to teach you and after a while it can cause you to second guess yourself. I wanted a low tech “watch”that didn’t show notifications on my wrist. Which is this buuut the app bombards you with notifications and requested inputs. So it’s not really a low interaction device. \n\nI would have happily not reviewed this but the canceling process of your membership is predatory and motivated me to write this. \n\nThere are better cheaper competitors.",
-      "subcategory_tags": [
-        "metric_accuracy",
-        "notification_community_issues",
-        "billing_disputes",
-        "price_value_perception"
       ]
     }
   ],
@@ -1744,6 +1740,19 @@
   ],
   "sleep_tracking": [
     {
+      "review_id": "58d2947d-8e9b-49c3-a160-5fa63bae50ea",
+      "source": "google_play",
+      "rating": 3,
+      "date": "2026-11-19T13:25:44+00:00",
+      "text": "the app is decent. the bands are about the same. I don't trust it all. doesn't record naps for me. I reached out to company and explained my concerns and they sent me out a different band even though that doesn't really seem like the next logical fix for my problem of recording sleep and naps. I love the analytics but the price is ridiculous for what you get. the AI is advanced. it has its pros and cons. I wish they would have replaced my whoop equipment or upgraded it given all the problems.",
+      "subcategory_tags": [
+        "sleep_accuracy",
+        "support_resolution_quality",
+        "price_value_perception",
+        "ai_positive_reception"
+      ]
+    },
+    {
       "review_id": "04d1e850-10b3-4f83-89ac-9ba9b73efa5d",
       "source": "google_play",
       "rating": 2,
@@ -2063,22 +2072,22 @@
       "subcategory_tags": [
         "sleep_satisfaction"
       ]
-    },
-    {
-      "review_id": "14632497555",
-      "source": "app_store",
-      "rating": 2,
-      "date": "2026-10-05T17:25:14-07:00",
-      "text": "Doesn’t capture naps reliably and when it does, doesn’t subtract from sleep debt which is illogical.\nShows often low oxygen 88%. Dedicated oximeter shows 98-99%.\nOverly complicated menu.\nI would’ve given it 3 stars for accuracy but comparing “medical grade” subscription cost to basic Fitbit Charge 3 which is more accurate in heart rate, steps and detecting sleep, I give it 2.",
-      "subcategory_tags": [
-        "sleep_accuracy",
-        "metric_accuracy",
-        "redesign_regression",
-        "price_value_perception"
-      ]
     }
   ],
   "sleep_accuracy": [
+    {
+      "review_id": "58d2947d-8e9b-49c3-a160-5fa63bae50ea",
+      "source": "google_play",
+      "rating": 3,
+      "date": "2026-11-19T13:25:44+00:00",
+      "text": "the app is decent. the bands are about the same. I don't trust it all. doesn't record naps for me. I reached out to company and explained my concerns and they sent me out a different band even though that doesn't really seem like the next logical fix for my problem of recording sleep and naps. I love the analytics but the price is ridiculous for what you get. the AI is advanced. it has its pros and cons. I wish they would have replaced my whoop equipment or upgraded it given all the problems.",
+      "subcategory_tags": [
+        "sleep_accuracy",
+        "support_resolution_quality",
+        "price_value_perception",
+        "ai_positive_reception"
+      ]
+    },
     {
       "review_id": "04d1e850-10b3-4f83-89ac-9ba9b73efa5d",
       "source": "google_play",
@@ -2411,20 +2420,6 @@
       "subcategory_tags": [
         "sleep_accuracy",
         "ai_reliability_bugs",
-        "metric_accuracy",
-        "price_value_perception"
-      ]
-    },
-    {
-      "review_id": "14449428710",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-08-19T21:33:08-07:00",
-      "text": "This app used to detect activities, naps, and helped me track my period after years of tracking it on other apps. Now none of those things happen, weight and periods are not recorded same with activities and naps. The metrics aren’t even correct. Don’t waste you’re money it’s all marketing and a scam",
-      "subcategory_tags": [
-        "activity_detection",
-        "sleep_accuracy",
-        "missing_metrics",
         "metric_accuracy",
         "price_value_perception"
       ]
@@ -8042,6 +8037,19 @@
   ],
   "ai_coach": [
     {
+      "review_id": "58d2947d-8e9b-49c3-a160-5fa63bae50ea",
+      "source": "google_play",
+      "rating": 3,
+      "date": "2026-11-19T13:25:44+00:00",
+      "text": "the app is decent. the bands are about the same. I don't trust it all. doesn't record naps for me. I reached out to company and explained my concerns and they sent me out a different band even though that doesn't really seem like the next logical fix for my problem of recording sleep and naps. I love the analytics but the price is ridiculous for what you get. the AI is advanced. it has its pros and cons. I wish they would have replaced my whoop equipment or upgraded it given all the problems.",
+      "subcategory_tags": [
+        "sleep_accuracy",
+        "support_resolution_quality",
+        "price_value_perception",
+        "ai_positive_reception"
+      ]
+    },
+    {
       "review_id": "cabaac20-967b-4ae1-a4ab-48b28bd19b9e",
       "source": "google_play",
       "rating": 3,
@@ -8362,21 +8370,6 @@
         "crashes_freezes",
         "ai_reliability_bugs",
         "personalization_use_case_fit"
-      ]
-    },
-    {
-      "review_id": "14509772320",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-09-04T07:21:18-07:00",
-      "text": "Got this band plus 1 year membership with Chase Sapphire Reserve perk. Not even worth the tax I had to pay on this benefit. The most basic feature, counting steps, is wildly inaccurate. So how can I trust anything else coming from this device. The narrative content provided in app is just AI slop and worthless. Battery life is good and recharging while wearing device is cool. These features allow you to wear band almost 24/7 which is nice but the band starts to stink after wearing in the shower a few times (which defeats purpose of having strong battery and charging features). I canceled after giving this 5 months into a 1 year membership. Much happier with cheaper, more accurate fitness band with no subscription fees.",
-      "subcategory_tags": [
-        "metric_accuracy",
-        "ai_reliability_bugs",
-        "battery_life",
-        "comfort_fit",
-        "billing_disputes",
-        "price_value_perception"
       ]
     }
   ],
@@ -9064,6 +9057,19 @@
   ],
   "ai_positive_reception": [
     {
+      "review_id": "58d2947d-8e9b-49c3-a160-5fa63bae50ea",
+      "source": "google_play",
+      "rating": 3,
+      "date": "2026-11-19T13:25:44+00:00",
+      "text": "the app is decent. the bands are about the same. I don't trust it all. doesn't record naps for me. I reached out to company and explained my concerns and they sent me out a different band even though that doesn't really seem like the next logical fix for my problem of recording sleep and naps. I love the analytics but the price is ridiculous for what you get. the AI is advanced. it has its pros and cons. I wish they would have replaced my whoop equipment or upgraded it given all the problems.",
+      "subcategory_tags": [
+        "sleep_accuracy",
+        "support_resolution_quality",
+        "price_value_perception",
+        "ai_positive_reception"
+      ]
+    },
+    {
       "review_id": "cabaac20-967b-4ae1-a4ab-48b28bd19b9e",
       "source": "google_play",
       "rating": 3,
@@ -9376,20 +9382,22 @@
       "subcategory_tags": [
         "ai_positive_reception"
       ]
-    },
-    {
-      "review_id": "c654bd09-8f71-4613-9f1e-4b344de5f44a",
-      "source": "google_play",
-      "rating": 5,
-      "date": "2026-07-07T15:34:04",
-      "text": "I find this band very helpful. I use it to track my physiological changes, not for fitness, but for PTSD, anxiety, depression, and FND - PNES. The Ai bot has been phenomenal. I have been in the WSIB process for 10 yrs now, and I now have evidence related to my physical functioning as a result of my mental health. I think the medical field could be using this for a lot of different people for various health reasons.",
-      "subcategory_tags": [
-        "ai_positive_reception",
-        "personalization_use_case_fit"
-      ]
     }
   ],
   "customer_support": [
+    {
+      "review_id": "58d2947d-8e9b-49c3-a160-5fa63bae50ea",
+      "source": "google_play",
+      "rating": 3,
+      "date": "2026-11-19T13:25:44+00:00",
+      "text": "the app is decent. the bands are about the same. I don't trust it all. doesn't record naps for me. I reached out to company and explained my concerns and they sent me out a different band even though that doesn't really seem like the next logical fix for my problem of recording sleep and naps. I love the analytics but the price is ridiculous for what you get. the AI is advanced. it has its pros and cons. I wish they would have replaced my whoop equipment or upgraded it given all the problems.",
+      "subcategory_tags": [
+        "sleep_accuracy",
+        "support_resolution_quality",
+        "price_value_perception",
+        "ai_positive_reception"
+      ]
+    },
     {
       "review_id": "14801472847",
       "source": "app_store",
@@ -9734,18 +9742,6 @@
       "subcategory_tags": [
         "billing_disputes",
         "support_responsiveness",
-        "support_resolution_quality"
-      ]
-    },
-    {
-      "review_id": "14501549600",
-      "source": "app_store",
-      "rating": 2,
-      "date": "2026-09-02T05:13:37-07:00",
-      "text": "I’ve been a Whoop “member” since 2017. It’s been a struggle to watch this company fall into the same traps of most tech companies. The strap’s performance is terrible. I’ve had to adjust my sleep almost every day for 3+ years and this occurred with the 3.0, 4.0, amd now the 5.0. To make matters worse, you have to go through horrendous AI to try and get answers that inevitably doesn’t work. When/if you get a human involved, they will tell you some basic advice that doesn’t consider your particular situation and won’t be helpful.",
-      "subcategory_tags": [
-        "sleep_accuracy",
-        "ai_only_support_channel",
         "support_resolution_quality"
       ]
     }
@@ -10111,6 +10107,19 @@
   ],
   "support_resolution_quality": [
     {
+      "review_id": "58d2947d-8e9b-49c3-a160-5fa63bae50ea",
+      "source": "google_play",
+      "rating": 3,
+      "date": "2026-11-19T13:25:44+00:00",
+      "text": "the app is decent. the bands are about the same. I don't trust it all. doesn't record naps for me. I reached out to company and explained my concerns and they sent me out a different band even though that doesn't really seem like the next logical fix for my problem of recording sleep and naps. I love the analytics but the price is ridiculous for what you get. the AI is advanced. it has its pros and cons. I wish they would have replaced my whoop equipment or upgraded it given all the problems.",
+      "subcategory_tags": [
+        "sleep_accuracy",
+        "support_resolution_quality",
+        "price_value_perception",
+        "ai_positive_reception"
+      ]
+    },
+    {
       "review_id": "14801472847",
       "source": "app_store",
       "rating": 1,
@@ -10457,18 +10466,6 @@
       "subcategory_tags": [
         "support_resolution_quality",
         "build_quality_perception"
-      ]
-    },
-    {
-      "review_id": "14346948790",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-07-25T08:53:44-07:00",
-      "text": "The AI advice is terrible.  Customer support is god awful if you even get a response from them it’s the same script each time leading me to believe you’re not even speaking to a human.  They don’t read the emails you send and do nothing to help you with any issues you have.\n\nThey’re great at giving you instructions on how to wear the stupid thing though.",
-      "subcategory_tags": [
-        "ai_reliability_bugs",
-        "ai_only_support_channel",
-        "support_resolution_quality"
       ]
     }
   ],
@@ -12200,6 +12197,27 @@
   ],
   "ui_ux": [
     {
+      "review_id": "5092024e-1ea5-4586-84ad-fbf039858271",
+      "source": "google_play",
+      "rating": 3,
+      "date": "2026-11-19T10:46:23+00:00",
+      "text": "I love my whoop, it has actually made me a better person. BUT things are getting weird. It seems with each update or new model, there is a new feature added that slides the whole system closer to the woo woo side of health tracking. Whoop was nearly perfect when I got it and had the basic plan. You have hard data of your health metrics right there and a great strength trainer program. Now with pace of aging/create a moment features, there's a lot of extra fluff to sort through.",
+      "subcategory_tags": [
+        "personalization_use_case_fit",
+        "redesign_regression"
+      ]
+    },
+    {
+      "review_id": "14806476621",
+      "source": "app_store",
+      "rating": 2,
+      "date": "2026-11-18T14:42:57-07:00",
+      "text": "Amongst a ton of other issues, this “premium” health tracker hasn’t been optimized for the most premium iPhone. Cool 👍",
+      "subcategory_tags": [
+        "device_rendering_bugs"
+      ]
+    },
+    {
       "review_id": "14799379615",
       "source": "app_store",
       "rating": 1,
@@ -12511,33 +12529,20 @@
         "crashes_freezes",
         "device_rendering_bugs"
       ]
-    },
-    {
-      "review_id": "14528621274",
-      "source": "app_store",
-      "rating": 3,
-      "date": "2026-09-09T03:30:17-07:00",
-      "text": "This is a good app but really needs direct integrations to Claude and ChatGPT health.  \n\nAlso heart rate is definitely not accurate and often is far from being even remotely correct.\n\nLastly you cannot access the rest of the app while recording an activity",
-      "subcategory_tags": [
-        "third_party_integration",
-        "metric_accuracy",
-        "feature_ui_friction"
-      ]
-    },
-    {
-      "review_id": "bcc09854-cb43-4abd-a580-1f829fcfac00",
-      "source": "google_play",
-      "rating": 3,
-      "date": "2026-09-06T18:18:27+00:00",
-      "text": "Neurodivergent here. App is not intuitive when adding behaviors and daily life activity to your journal. Data should be on a 5 pt scale for pain, mood, motivation etc. so that you can better track it. The Daylio app for tracking and journaling should be a model to use for improvement on this app, please integrate features from that app. Your list of behaviors is not in any order that makes sense, you can't personalize anything, menstrual cycle tracking is just clunky. It's all way too boring.",
-      "subcategory_tags": [
-        "personalization_use_case_fit",
-        "missing_metrics",
-        "feature_ui_friction"
-      ]
     }
   ],
   "redesign_regression": [
+    {
+      "review_id": "5092024e-1ea5-4586-84ad-fbf039858271",
+      "source": "google_play",
+      "rating": 3,
+      "date": "2026-11-19T10:46:23+00:00",
+      "text": "I love my whoop, it has actually made me a better person. BUT things are getting weird. It seems with each update or new model, there is a new feature added that slides the whole system closer to the woo woo side of health tracking. Whoop was nearly perfect when I got it and had the basic plan. You have hard data of your health metrics right there and a great strength trainer program. Now with pace of aging/create a moment features, there's a lot of extra fluff to sort through.",
+      "subcategory_tags": [
+        "personalization_use_case_fit",
+        "redesign_regression"
+      ]
+    },
     {
       "review_id": "9c81af93-65be-49c0-afad-8caaa8104dc6",
       "source": "google_play",
@@ -12867,21 +12872,19 @@
       "subcategory_tags": [
         "redesign_regression"
       ]
-    },
-    {
-      "review_id": "047fb682-d7c7-4461-8010-dae0fa00d2a4",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2026-06-02T02:05:21",
-      "text": "1 Star because a simple system notification was enough to reactivate my subscription, no prompt if I'm sure, just touched the notification, app opened, resubscribed. What kind of awful user respect is that? To unsubscribe I have to login on their website, say multiple time no, fill out a survey. This is typical evil corp behaviour. Overall interesting product, way to expensive and ui/ux is hard to get.",
-      "subcategory_tags": [
-        "billing_disputes",
-        "price_value_perception",
-        "redesign_regression"
-      ]
     }
   ],
   "device_rendering_bugs": [
+    {
+      "review_id": "14806476621",
+      "source": "app_store",
+      "rating": 2,
+      "date": "2026-11-18T14:42:57-07:00",
+      "text": "Amongst a ton of other issues, this “premium” health tracker hasn’t been optimized for the most premium iPhone. Cool 👍",
+      "subcategory_tags": [
+        "device_rendering_bugs"
+      ]
+    },
     {
       "review_id": "14799379615",
       "source": "app_store",
@@ -13188,17 +13191,6 @@
         "billing_disputes",
         "support_responsiveness",
         "price_value_perception"
-      ]
-    },
-    {
-      "review_id": "d73b0d1a-33cb-465f-9a8a-9964e4014113",
-      "source": "google_play",
-      "rating": 2,
-      "date": "2025-10-24T07:36:24",
-      "text": "There are several issues with my app. One is that several pieces of information are hidden under the apps graphics, for instance, the first place individual is hidden under the banner of the groups information. Sometimes when I type in information, my text is hidden, until I dismiss the keyboard, and then bring it back. I've raised these issues with Whoop, but they have no solution to date. Hopefully an update fixes these issues. Until then, 2 stars for breaking an app that used to work.",
-      "subcategory_tags": [
-        "device_rendering_bugs",
-        "redesign_regression"
       ]
     }
   ],
@@ -15622,6 +15614,17 @@
   ],
   "feature_requests": [
     {
+      "review_id": "5092024e-1ea5-4586-84ad-fbf039858271",
+      "source": "google_play",
+      "rating": 3,
+      "date": "2026-11-19T10:46:23+00:00",
+      "text": "I love my whoop, it has actually made me a better person. BUT things are getting weird. It seems with each update or new model, there is a new feature added that slides the whole system closer to the woo woo side of health tracking. Whoop was nearly perfect when I got it and had the basic plan. You have hard data of your health metrics right there and a great strength trainer program. Now with pace of aging/create a moment features, there's a lot of extra fluff to sort through.",
+      "subcategory_tags": [
+        "personalization_use_case_fit",
+        "redesign_regression"
+      ]
+    },
+    {
       "review_id": "14802901851",
       "source": "app_store",
       "rating": 3,
@@ -15943,16 +15946,6 @@
       "text": "I really love this product BUT the macro tracking integration option is poor. I much preferred MacroFactor due to the apps user friendliness.",
       "subcategory_tags": [
         "third_party_integration"
-      ]
-    },
-    {
-      "review_id": "14619225240",
-      "source": "app_store",
-      "rating": 5,
-      "date": "2026-10-02T08:10:47-07:00",
-      "text": "The quantity of data is very helpful even for everyday living and aging.  I am fairly active and in my late 50’s.  Not the athlete I once was, for sure. Whoop has helped me find my sources of fatigue and realize how stressful my work is.  It’s providing the information to reshape my life so that I feel better and am more aware of how events and choices  impact me. I truly had no idea how much strain just a day at work is — or meetings with my boss.",
-      "subcategory_tags": [
-        "personalization_use_case_fit"
       ]
     }
   ],
@@ -16628,6 +16621,17 @@
   ],
   "personalization_use_case_fit": [
     {
+      "review_id": "5092024e-1ea5-4586-84ad-fbf039858271",
+      "source": "google_play",
+      "rating": 3,
+      "date": "2026-11-19T10:46:23+00:00",
+      "text": "I love my whoop, it has actually made me a better person. BUT things are getting weird. It seems with each update or new model, there is a new feature added that slides the whole system closer to the woo woo side of health tracking. Whoop was nearly perfect when I got it and had the basic plan. You have hard data of your health metrics right there and a great strength trainer program. Now with pace of aging/create a moment features, there's a lot of extra fluff to sort through.",
+      "subcategory_tags": [
+        "personalization_use_case_fit",
+        "redesign_regression"
+      ]
+    },
+    {
       "review_id": "14798514994",
       "source": "app_store",
       "rating": 1,
@@ -16960,17 +16964,6 @@
       "text": "Love the whoop gives the steps but not mileage\nAlso some inputs as what to do to loose weight with what is already being done.\nExcellent",
       "subcategory_tags": [
         "missing_metrics",
-        "personalization_use_case_fit"
-      ]
-    },
-    {
-      "review_id": "d063a147-6a35-4c75-a10e-a5500eeee655",
-      "source": "google_play",
-      "rating": 2,
-      "date": "2026-08-01T12:53:15",
-      "text": "Interesting device, but it's too complicated to manage. There are too many settings to get something useful. It should have simple defaults unless someone wants more insights",
-      "subcategory_tags": [
-        "redesign_regression",
         "personalization_use_case_fit"
       ]
     }
