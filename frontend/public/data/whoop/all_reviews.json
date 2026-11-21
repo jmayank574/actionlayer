@@ -1,5 +1,50 @@
 [
   {
+    "review_id": "af751d9c-0b1d-4ded-8b39-512d175dac17",
+    "source": "google_play",
+    "rating": 3,
+    "date": "2026-11-19T23:43:48+00:00",
+    "text": "AI seems to ignore the plentiful data. It makes ridiculous recommendations. I would prefer it not have ai if Whoop won't make it worthwhile.",
+    "parent_category_tags": [
+      "ai_coach"
+    ],
+    "subcategory_tags": [
+      "ai_reliability_bugs"
+    ]
+  },
+  {
+    "review_id": "14810338404",
+    "source": "app_store",
+    "rating": 1,
+    "date": "2026-11-19T14:47:47-07:00",
+    "text": "Tells me to make sure I’m wearing my whoop or to have it on when it’s been on my wrist the entire time. Few nights it doesn’t read my sleep when the whoop is on my wrist. 3+ months wearing it should have no issues",
+    "parent_category_tags": [
+      "sync_connectivity",
+      "sleep_tracking"
+    ],
+    "subcategory_tags": [
+      "data_sync_delays",
+      "sleep_accuracy"
+    ]
+  },
+  {
+    "review_id": "14809340998",
+    "source": "app_store",
+    "rating": 3,
+    "date": "2026-11-19T08:53:30-07:00",
+    "text": "I don’t like the constant upselling all throughout the app. Many navigation items are pushed on you with no real way to configure them. For example, I don’t have any real need for Whoop Humans and yet there it is. AI button is front and center and yet it’s not really a center-worthy element. Finally, lacking many basic UX considerations like drag and dropping workout order in Strength Trainer. It doesn’t really behave like a premium tracker brand despite pretending to be one.",
+    "parent_category_tags": [
+      "pricing_billing",
+      "ai_coach",
+      "ui_ux"
+    ],
+    "subcategory_tags": [
+      "upsell_pressure",
+      "ai_autonomy",
+      "feature_ui_friction"
+    ]
+  },
+  {
     "review_id": "8b42f78d-f4b8-47f0-82b8-7d3590175c5f",
     "source": "google_play",
     "rating": 5,
@@ -29,6 +74,21 @@
       "support_resolution_quality",
       "price_value_perception",
       "ai_positive_reception"
+    ]
+  },
+  {
+    "review_id": "14808709508",
+    "source": "app_store",
+    "rating": 1,
+    "date": "2026-11-19T05:42:27-07:00",
+    "text": "No puedo desvincular a un miembro de mi plan familia a pesar que soy el administrador",
+    "parent_category_tags": [
+      "pricing_billing",
+      "pricing_billing"
+    ],
+    "subcategory_tags": [
+      "plan_trial_structure",
+      "billing_disputes"
     ]
   },
   {

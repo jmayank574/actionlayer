@@ -1,6 +1,18 @@
 {
   "pricing_billing": [
     {
+      "review_id": "14809340998",
+      "source": "app_store",
+      "rating": 3,
+      "date": "2026-11-19T08:53:30-07:00",
+      "text": "I don’t like the constant upselling all throughout the app. Many navigation items are pushed on you with no real way to configure them. For example, I don’t have any real need for Whoop Humans and yet there it is. AI button is front and center and yet it’s not really a center-worthy element. Finally, lacking many basic UX considerations like drag and dropping workout order in Strength Trainer. It doesn’t really behave like a premium tracker brand despite pretending to be one.",
+      "subcategory_tags": [
+        "upsell_pressure",
+        "ai_autonomy",
+        "feature_ui_friction"
+      ]
+    },
+    {
       "review_id": "8b42f78d-f4b8-47f0-82b8-7d3590175c5f",
       "source": "google_play",
       "rating": 5,
@@ -21,6 +33,17 @@
         "support_resolution_quality",
         "price_value_perception",
         "ai_positive_reception"
+      ]
+    },
+    {
+      "review_id": "14808709508",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-11-19T05:42:27-07:00",
+      "text": "No puedo desvincular a un miembro de mi plan familia a pesar que soy el administrador",
+      "subcategory_tags": [
+        "plan_trial_structure",
+        "billing_disputes"
       ]
     },
     {
@@ -319,29 +342,6 @@
       "text": "The app continually asks me to refer people in the app, blocking use until I decline. Please stop it.",
       "subcategory_tags": [
         "upsell_pressure"
-      ]
-    },
-    {
-      "review_id": "14673442014",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-10-16T06:27:01-07:00",
-      "text": "Too expensive, I will be getting an Apple Watch   Why pay more than 200 dls for this service.  AI is not accurate.  Very expensive service and not happy with it.",
-      "subcategory_tags": [
-        "price_value_perception",
-        "metric_accuracy"
-      ]
-    },
-    {
-      "review_id": "0f171849-4799-4579-8fd6-23ea031298e3",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2026-10-15T15:15:50+00:00",
-      "text": "Very Disappointing For the past week, my WHOOP has been constantly disconnecting. I've contacted support several times, but their only solution is to restart and reconnect, which doesn't fix the issue. For such an expensive subscription, this is unacceptable. There are plenty of free alternatives, but I paid for WHOOP expecting at least a stable, reliable service. Extremely disappointing!",
-      "subcategory_tags": [
-        "ongoing_disconnects",
-        "support_resolution_quality",
-        "price_value_perception"
       ]
     }
   ],
@@ -714,6 +714,17 @@
       ]
     },
     {
+      "review_id": "14808709508",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-11-19T05:42:27-07:00",
+      "text": "No puedo desvincular a un miembro de mi plan familia a pesar que soy el administrador",
+      "subcategory_tags": [
+        "plan_trial_structure",
+        "billing_disputes"
+      ]
+    },
+    {
       "review_id": "14778386306",
       "source": "app_store",
       "rating": 1,
@@ -1039,20 +1050,20 @@
         "price_value_perception",
         "billing_disputes"
       ]
-    },
-    {
-      "review_id": "14452213935",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-08-20T13:36:37-07:00",
-      "text": "This app is trash. Purchased the Life membership. Signed into the app. It didn’t recognize my membership. Wouldn’t connect to Bluetooth. Literal trash. If I could give it no stars, I would. You know what was easy though? Giving them my CC info. They have that squared away. Zero stars. Refund requested.",
-      "subcategory_tags": [
-        "onboarding_pairing",
-        "billing_disputes"
-      ]
     }
   ],
   "plan_trial_structure": [
+    {
+      "review_id": "14808709508",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-11-19T05:42:27-07:00",
+      "text": "No puedo desvincular a un miembro de mi plan familia a pesar que soy el administrador",
+      "subcategory_tags": [
+        "plan_trial_structure",
+        "billing_disputes"
+      ]
+    },
     {
       "review_id": "14637805027",
       "source": "app_store",
@@ -1381,20 +1392,21 @@
         "sleep_satisfaction",
         "plan_trial_structure"
       ]
-    },
-    {
-      "review_id": "65587d3e-ddbf-4a57-8309-1078ced31378",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2025-11-12T00:46:56",
-      "text": "Whoop is a one star product with zero star service. An extremely overpriced subscription for a very basic tracker. Don't waste your time or money with Whoop. Much better products on the market will deliver more value for less money. Please note, the free trial is NOT free. Thanks",
-      "subcategory_tags": [
-        "price_value_perception",
-        "plan_trial_structure"
-      ]
     }
   ],
   "upsell_pressure": [
+    {
+      "review_id": "14809340998",
+      "source": "app_store",
+      "rating": 3,
+      "date": "2026-11-19T08:53:30-07:00",
+      "text": "I don’t like the constant upselling all throughout the app. Many navigation items are pushed on you with no real way to configure them. For example, I don’t have any real need for Whoop Humans and yet there it is. AI button is front and center and yet it’s not really a center-worthy element. Finally, lacking many basic UX considerations like drag and dropping workout order in Strength Trainer. It doesn’t really behave like a premium tracker brand despite pretending to be one.",
+      "subcategory_tags": [
+        "upsell_pressure",
+        "ai_autonomy",
+        "feature_ui_friction"
+      ]
+    },
     {
       "review_id": "14703363192",
       "source": "app_store",
@@ -1724,21 +1736,20 @@
         "upsell_pressure",
         "redesign_regression"
       ]
-    },
-    {
-      "review_id": "f0d031a1-d0dd-4ab5-a84a-3ae4b0f1a244",
-      "source": "google_play",
-      "rating": 2,
-      "date": "2026-04-03T13:02:37",
-      "text": "nagivating through the app is confusing, and it tries to upsell you constantly to the higher-priced whoop subscription. the community chat feature doesn't work reliably, oftentimes incoming messages will appear in the phone notifications but the messages aren't visible at all when inside the app.",
-      "subcategory_tags": [
-        "redesign_regression",
-        "upsell_pressure",
-        "notification_community_issues"
-      ]
     }
   ],
   "sleep_tracking": [
+    {
+      "review_id": "14810338404",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-11-19T14:47:47-07:00",
+      "text": "Tells me to make sure I’m wearing my whoop or to have it on when it’s been on my wrist the entire time. Few nights it doesn’t read my sleep when the whoop is on my wrist. 3+ months wearing it should have no issues",
+      "subcategory_tags": [
+        "data_sync_delays",
+        "sleep_accuracy"
+      ]
+    },
     {
       "review_id": "58d2947d-8e9b-49c3-a160-5fa63bae50ea",
       "source": "google_play",
@@ -2062,19 +2073,20 @@
         "comfort_fit",
         "activity_detection"
       ]
-    },
-    {
-      "review_id": "623f4a2f-0da2-4981-8d39-8752d9eaf298",
-      "source": "google_play",
-      "rating": 5,
-      "date": "2026-10-08T13:36:27+00:00",
-      "text": "It has helped me get a better sleep and keeps me motivated for my workouts.",
-      "subcategory_tags": [
-        "sleep_satisfaction"
-      ]
     }
   ],
   "sleep_accuracy": [
+    {
+      "review_id": "14810338404",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-11-19T14:47:47-07:00",
+      "text": "Tells me to make sure I’m wearing my whoop or to have it on when it’s been on my wrist the entire time. Few nights it doesn’t read my sleep when the whoop is on my wrist. 3+ months wearing it should have no issues",
+      "subcategory_tags": [
+        "data_sync_delays",
+        "sleep_accuracy"
+      ]
+    },
     {
       "review_id": "58d2947d-8e9b-49c3-a160-5fa63bae50ea",
       "source": "google_play",
@@ -2409,19 +2421,6 @@
         "sleep_accuracy",
         "price_value_perception",
         "billing_disputes"
-      ]
-    },
-    {
-      "review_id": "3b2df189-fe72-4d0c-bfd7-9e7dd77b91e7",
-      "source": "google_play",
-      "rating": 3,
-      "date": "2026-08-21T22:50:47+00:00",
-      "text": "I've used WHOOP for nearly 3 months and have been frustrated with it more than a few times. Like other users, I’ve had to manually add sleep records because WHOOP fails to auto detect it. The AI uses inconsistent and sometimes contradictory language and observations. I'm paying a subscription fee for this product and expect higher data accuracy and analysis than I'm getting. I'm undecided if I'll renew my subscription.",
-      "subcategory_tags": [
-        "sleep_accuracy",
-        "ai_reliability_bugs",
-        "metric_accuracy",
-        "price_value_perception"
       ]
     }
   ],
@@ -4862,6 +4861,17 @@
   ],
   "sync_connectivity": [
     {
+      "review_id": "14810338404",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-11-19T14:47:47-07:00",
+      "text": "Tells me to make sure I’m wearing my whoop or to have it on when it’s been on my wrist the entire time. Few nights it doesn’t read my sleep when the whoop is on my wrist. 3+ months wearing it should have no issues",
+      "subcategory_tags": [
+        "data_sync_delays",
+        "sleep_accuracy"
+      ]
+    },
+    {
       "review_id": "f6109929-88c7-4a57-ad88-f0b63fbbaf35",
       "source": "google_play",
       "rating": 3,
@@ -5195,16 +5205,6 @@
       "subcategory_tags": [
         "data_sync_delays",
         "update_failures"
-      ]
-    },
-    {
-      "review_id": "237147af-8589-4748-a039-a8dd45dee351",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2026-08-11T17:14:18+00:00",
-      "text": "Nu se conectează, nu recunoaște parola",
-      "subcategory_tags": [
-        "onboarding_pairing"
       ]
     }
   ],
@@ -5881,6 +5881,17 @@
   ],
   "data_sync_delays": [
     {
+      "review_id": "14810338404",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-11-19T14:47:47-07:00",
+      "text": "Tells me to make sure I’m wearing my whoop or to have it on when it’s been on my wrist the entire time. Few nights it doesn’t read my sleep when the whoop is on my wrist. 3+ months wearing it should have no issues",
+      "subcategory_tags": [
+        "data_sync_delays",
+        "sleep_accuracy"
+      ]
+    },
+    {
       "review_id": "f6109929-88c7-4a57-ad88-f0b63fbbaf35",
       "source": "google_play",
       "rating": 3,
@@ -6213,17 +6224,6 @@
         "onboarding_pairing",
         "support_resolution_quality",
         "data_sync_delays"
-      ]
-    },
-    {
-      "review_id": "14309865765",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-07-16T04:44:11-07:00",
-      "text": "Data is constantly delayed when syncing. Not reliable. Battery life ok. But the syncing is the issue. I need something that is reliable. This isn’t it!",
-      "subcategory_tags": [
-        "data_sync_delays",
-        "battery_life"
       ]
     }
   ],
@@ -8037,6 +8037,28 @@
   ],
   "ai_coach": [
     {
+      "review_id": "af751d9c-0b1d-4ded-8b39-512d175dac17",
+      "source": "google_play",
+      "rating": 3,
+      "date": "2026-11-19T23:43:48+00:00",
+      "text": "AI seems to ignore the plentiful data. It makes ridiculous recommendations. I would prefer it not have ai if Whoop won't make it worthwhile.",
+      "subcategory_tags": [
+        "ai_reliability_bugs"
+      ]
+    },
+    {
+      "review_id": "14809340998",
+      "source": "app_store",
+      "rating": 3,
+      "date": "2026-11-19T08:53:30-07:00",
+      "text": "I don’t like the constant upselling all throughout the app. Many navigation items are pushed on you with no real way to configure them. For example, I don’t have any real need for Whoop Humans and yet there it is. AI button is front and center and yet it’s not really a center-worthy element. Finally, lacking many basic UX considerations like drag and dropping workout order in Strength Trainer. It doesn’t really behave like a premium tracker brand despite pretending to be one.",
+      "subcategory_tags": [
+        "upsell_pressure",
+        "ai_autonomy",
+        "feature_ui_friction"
+      ]
+    },
+    {
       "review_id": "58d2947d-8e9b-49c3-a160-5fa63bae50ea",
       "source": "google_play",
       "rating": 3,
@@ -8348,32 +8370,19 @@
       "subcategory_tags": [
         "ai_reliability_bugs"
       ]
-    },
-    {
-      "review_id": "14515985475",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-09-05T20:08:06-07:00",
-      "text": "The AI in whoop absolutely sucks. It will repeatedly ask questions for which you already provided detailed answers. It’s sleep tracker will miss large blocks of sleep time which throws of all recovery stats and which the app/AI use for guidance/coaching. It’s to the point where if I have a basic question google can answer it way better than the whoop AI can. Useless product. Going in the trash.",
-      "subcategory_tags": [
-        "ai_reliability_bugs",
-        "sleep_accuracy"
-      ]
-    },
-    {
-      "review_id": "92e7e263-3ef5-4d26-91d8-9c5f7283a212",
-      "source": "google_play",
-      "rating": 3,
-      "date": "2026-09-04T20:03:32+00:00",
-      "text": "The software is very unrefined and often lags heavily. It either runs slowly or doesn't work at all. The AI leaves much to be desired: first, it makes mistakes, and second, it processes information very slowly. I am 60 years old with a specific medical history and health issues. Nevertheless, the app stubbornly requires me to reach a strain level of 18.6, even though I started using WHOOP only two weeks ago.",
-      "subcategory_tags": [
-        "crashes_freezes",
-        "ai_reliability_bugs",
-        "personalization_use_case_fit"
-      ]
     }
   ],
   "ai_reliability_bugs": [
+    {
+      "review_id": "af751d9c-0b1d-4ded-8b39-512d175dac17",
+      "source": "google_play",
+      "rating": 3,
+      "date": "2026-11-19T23:43:48+00:00",
+      "text": "AI seems to ignore the plentiful data. It makes ridiculous recommendations. I would prefer it not have ai if Whoop won't make it worthwhile.",
+      "subcategory_tags": [
+        "ai_reliability_bugs"
+      ]
+    },
     {
       "review_id": "14783141027",
       "source": "app_store",
@@ -8705,21 +8714,21 @@
         "ai_reliability_bugs",
         "notification_community_issues"
       ]
-    },
-    {
-      "review_id": "5bdb40c4-0c75-4c7a-b5f9-22177bb898c4",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2026-08-11T04:17:03+00:00",
-      "text": "poor accuracy measuring sleep. Really bad GenAi experiencie. The worse I have seen. it does not worth the money.",
-      "subcategory_tags": [
-        "sleep_accuracy",
-        "ai_reliability_bugs",
-        "price_value_perception"
-      ]
     }
   ],
   "ai_autonomy": [
+    {
+      "review_id": "14809340998",
+      "source": "app_store",
+      "rating": 3,
+      "date": "2026-11-19T08:53:30-07:00",
+      "text": "I don’t like the constant upselling all throughout the app. Many navigation items are pushed on you with no real way to configure them. For example, I don’t have any real need for Whoop Humans and yet there it is. AI button is front and center and yet it’s not really a center-worthy element. Finally, lacking many basic UX considerations like drag and dropping workout order in Strength Trainer. It doesn’t really behave like a premium tracker brand despite pretending to be one.",
+      "subcategory_tags": [
+        "upsell_pressure",
+        "ai_autonomy",
+        "feature_ui_friction"
+      ]
+    },
     {
       "review_id": "71943075-2418-41f7-beaa-7d45e72959c0",
       "source": "google_play",
@@ -9041,16 +9050,6 @@
       "text": "A great app, but some improvements I would suggest: Everytime I missclick on a diary item name (eg: \"Consumed dairy?\") , it opens the entry page, but when I return to the main page, it goes back to the top of the page. Kinda annoying that. Would also love to edit the names and delete (or hide) the conversations with the AI coach.",
       "subcategory_tags": [
         "feature_ui_friction",
-        "ai_autonomy"
-      ]
-    },
-    {
-      "review_id": "f837f695-b42f-4bf0-8ec6-f281ae5d395d",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2025-11-13T00:05:12",
-      "text": "I used the app every day, nearly 5 years, and stopped opening it bc they forced AI into everything. Can't ignore it bc it gets in the way of the data. I'm one month away from renewal and I will not be continuing with the service unless I can disable the AI chat. I was able to look at, and interpret, all the data just fine for 1750+ days with no problem, and now it's a hassle. They ruined their app. Please let me disable the AI Remove the buttons that take me to the chat bot They're everywhere",
-      "subcategory_tags": [
         "ai_autonomy"
       ]
     }
@@ -12197,6 +12196,18 @@
   ],
   "ui_ux": [
     {
+      "review_id": "14809340998",
+      "source": "app_store",
+      "rating": 3,
+      "date": "2026-11-19T08:53:30-07:00",
+      "text": "I don’t like the constant upselling all throughout the app. Many navigation items are pushed on you with no real way to configure them. For example, I don’t have any real need for Whoop Humans and yet there it is. AI button is front and center and yet it’s not really a center-worthy element. Finally, lacking many basic UX considerations like drag and dropping workout order in Strength Trainer. It doesn’t really behave like a premium tracker brand despite pretending to be one.",
+      "subcategory_tags": [
+        "upsell_pressure",
+        "ai_autonomy",
+        "feature_ui_friction"
+      ]
+    },
+    {
       "review_id": "5092024e-1ea5-4586-84ad-fbf039858271",
       "source": "google_play",
       "rating": 3,
@@ -12517,17 +12528,6 @@
         "notification_community_issues",
         "price_value_perception",
         "billing_disputes"
-      ]
-    },
-    {
-      "review_id": "606eb9e6-15e1-4b59-993e-4731cd3278d0",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2026-09-10T10:59:50+00:00",
-      "text": "freezing on Z fold 8",
-      "subcategory_tags": [
-        "crashes_freezes",
-        "device_rendering_bugs"
       ]
     }
   ],
@@ -13196,6 +13196,18 @@
   ],
   "feature_ui_friction": [
     {
+      "review_id": "14809340998",
+      "source": "app_store",
+      "rating": 3,
+      "date": "2026-11-19T08:53:30-07:00",
+      "text": "I don’t like the constant upselling all throughout the app. Many navigation items are pushed on you with no real way to configure them. For example, I don’t have any real need for Whoop Humans and yet there it is. AI button is front and center and yet it’s not really a center-worthy element. Finally, lacking many basic UX considerations like drag and dropping workout order in Strength Trainer. It doesn’t really behave like a premium tracker brand despite pretending to be one.",
+      "subcategory_tags": [
+        "upsell_pressure",
+        "ai_autonomy",
+        "feature_ui_friction"
+      ]
+    },
+    {
       "review_id": "14783141027",
       "source": "app_store",
       "rating": 3,
@@ -13528,19 +13540,6 @@
         "redesign_regression",
         "personalization_use_case_fit",
         "feature_ui_friction"
-      ]
-    },
-    {
-      "review_id": "14242807436",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-06-29T16:20:27-07:00",
-      "text": "I love the in-depth data and logging, but whoops seriously fumbled with this app. \n\nI am a professional UI & UX consultant who has worked with over 700 companies.\n\nWhoop’s app is not intuitive or user friendly, and its implementation of its AI features are occasionally useful but the W ai logo covers the spot where the “+” SHOUKD be to add workouts. \n\nAlso the color scheme is difficult to read and feels like a melted pool of dark similar colors. \n\nAccessing data is difficult and not intuitive or user friendly, and the lack of a “swipe back” from the left edge of the screen shows that whatever software intern was in charge of this app really forgot some basics unfortunately. \n\nThe app also lacks a clear social interaction. It’s downright difficult to find and add friends. \n\nWeekly strain champions doesn’t even show the date when they win, just a generic timestamp with a 12-hr time and no date. \n\nThe sleep tracker on average misses 2-3 days of sleep by at least 2 hours. \n\nI will gladly update my one star rating when the app is fixed but given the fact that 3-4 screenless fitness trackers are about to debut this year with significantly better UI/UX, I could easily see Whoop going under due to such a poorly laid out app interface.",
-      "subcategory_tags": [
-        "redesign_regression",
-        "feature_ui_friction",
-        "sleep_accuracy",
-        "notification_community_issues"
       ]
     }
   ],
