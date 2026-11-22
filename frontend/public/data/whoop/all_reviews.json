@@ -1,5 +1,57 @@
 [
   {
+    "review_id": "3500178e-27e7-4ac9-a4a5-e2c9d08ea947",
+    "source": "google_play",
+    "rating": 3,
+    "date": "2026-11-21T12:26:02+00:00",
+    "text": "we need Arabic language on this app !!",
+    "parent_category_tags": [
+      "localization"
+    ],
+    "subcategory_tags": [
+      "missing_language_support"
+    ]
+  },
+  {
+    "review_id": "9a766cec-53f0-492d-851a-57ba6c5bd345",
+    "source": "google_play",
+    "rating": 5,
+    "date": "2026-11-21T11:38:53+00:00",
+    "text": "Broadcasting HR with Bluetooth is great",
+    "parent_category_tags": [
+      "nan"
+    ],
+    "subcategory_tags": [
+      "nan"
+    ]
+  },
+  {
+    "review_id": "14813527663",
+    "source": "app_store",
+    "rating": 5,
+    "date": "2026-11-20T10:35:30-07:00",
+    "text": "The whoop app and the whoop are both amazing. The whoop tracks literally everything and I love looking at it every night. It even has alarms you can set on it to wake you up in the morning. I would defiantly recommend this to anyone who loves actuary and loves to track their health!",
+    "parent_category_tags": [
+      "nan"
+    ],
+    "subcategory_tags": [
+      "nan"
+    ]
+  },
+  {
+    "review_id": "14812412252",
+    "source": "app_store",
+    "rating": 5,
+    "date": "2026-11-20T04:56:24-07:00",
+    "text": "This is very helpful, and I’m glad I’m able to collect this data so I can start working on my my healthy lifestyle",
+    "parent_category_tags": [
+      "nan"
+    ],
+    "subcategory_tags": [
+      "nan"
+    ]
+  },
+  {
     "review_id": "af751d9c-0b1d-4ded-8b39-512d175dac17",
     "source": "google_play",
     "rating": 3,
