@@ -1,5 +1,18 @@
 [
   {
+    "review_id": "5b34a78c-92ae-4ce8-a826-9154e31b7432",
+    "source": "google_play",
+    "rating": 2,
+    "date": "2026-11-23T18:03:41+00:00",
+    "text": "Whoop AI is dumber than rocks",
+    "parent_category_tags": [
+      "ai_coach"
+    ],
+    "subcategory_tags": [
+      "ai_reliability_bugs"
+    ]
+  },
+  {
     "review_id": "a1e63cc0-f402-41e8-a2aa-9283e0d34444",
     "source": "google_play",
     "rating": 3,
