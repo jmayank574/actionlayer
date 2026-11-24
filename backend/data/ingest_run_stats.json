@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-11-24T00:38:39.684914",
+  "generated_at": "2026-11-24T22:57:02.682285",
   "product": "WHOOP",
   "sources": {
     "google_play": {
-      "total": 3020,
+      "total": 3021,
       "date_range": [
         "2017-08-25T20:34:31",
-        "2026-11-22T17:12:50"
+        "2026-11-23T18:03:41"
       ],
       "rating_distribution": {
         "1": 1132,
-        "2": 376,
+        "2": 377,
         "3": 341,
         "4": 284,
         "5": 887
@@ -34,14 +34,14 @@
     }
   },
   "combined": {
-    "total": 3846,
+    "total": 3847,
     "date_range": [
       "2017-08-25T20:34:31",
-      "2026-11-22T17:12:50"
+      "2026-11-23T18:03:41"
     ],
     "rating_distribution": {
       "1": 1372,
-      "2": 450,
+      "2": 451,
       "3": 416,
       "4": 365,
       "5": 1243
@@ -56,9 +56,9 @@
     "App Store: hit Apple's 10-page RSS cap (~500 reviews) \u2014 this is a limit of Apple's public feed, not a failure of the pull. Apple does not expose full review history through any public endpoint."
   ],
   "merge_counts": {
-    "new": 6,
+    "new": 1,
     "updated": 0,
-    "unchanged": 3451,
-    "carried_over": 389
+    "unchanged": 3456,
+    "carried_over": 390
   }
 }
