@@ -1,5 +1,89 @@
 [
   {
+    "review_id": "a1e63cc0-f402-41e8-a2aa-9283e0d34444",
+    "source": "google_play",
+    "rating": 3,
+    "date": "2026-11-22T17:12:50+00:00",
+    "text": "In shop, I cannot enlarge pics of products and see products like puffer jacket properly and please open a center in Canada, I don't want to pay huge shipping amount and tarrif each time",
+    "parent_category_tags": [
+      "nan"
+    ],
+    "subcategory_tags": [
+      "nan"
+    ]
+  },
+  {
+    "review_id": "14820911139",
+    "source": "app_store",
+    "rating": 1,
+    "date": "2026-11-22T07:00:04-07:00",
+    "text": "Whoop is all HRV…if it’s high you’re in the green…low, yellow or red. I’ve had Whoop for over 4 years. Switching to Hume band!",
+    "parent_category_tags": [
+      "pricing_billing"
+    ],
+    "subcategory_tags": [
+      "price_value_perception"
+    ]
+  },
+  {
+    "review_id": "14820753452",
+    "source": "app_store",
+    "rating": 2,
+    "date": "2026-11-22T06:15:09-07:00",
+    "text": "The sleep tracker sometimes loses my sleep. On occasion pressing process on sleep doesn’t do anything… it just sits there spinning. Sometimes it counts the time I was reading in bed as time slept. The recommendation system isn’t in sync with the ai, so they recommend two different times for sleep.\n\nAlso the superknit hardware ages within a couple of months. I’ve had multiple and both within 2 months were discolored and misshapen (just from sweat and sleep, idk what caused it, support couldn’t tell me).",
+    "parent_category_tags": [
+      "sleep_tracking",
+      "hardware_wearability",
+      "customer_support"
+    ],
+    "subcategory_tags": [
+      "sleep_accuracy",
+      "build_quality_perception",
+      "support_resolution_quality"
+    ]
+  },
+  {
+    "review_id": "14820468704",
+    "source": "app_store",
+    "rating": 4,
+    "date": "2026-11-22T04:50:08-07:00",
+    "text": "Love my whoop. It has helped me better understand my body. \n\nWhat I am struggling to understand is why it costs me $200 every year….seems expensive",
+    "parent_category_tags": [
+      "pricing_billing"
+    ],
+    "subcategory_tags": [
+      "price_value_perception"
+    ]
+  },
+  {
+    "review_id": "930b0b92-287b-4d49-8ed0-01922b7e8b02",
+    "source": "google_play",
+    "rating": 5,
+    "date": "2026-11-22T04:45:48+00:00",
+    "text": "this is very useful but only worth it for real athletes who are consistent and dedicated, if your not consistent, then you'll be wasting your money. but it works",
+    "parent_category_tags": [
+      "feature_requests",
+      "pricing_billing"
+    ],
+    "subcategory_tags": [
+      "personalization_use_case_fit",
+      "price_value_perception"
+    ]
+  },
+  {
+    "review_id": "14816872729",
+    "source": "app_store",
+    "rating": 5,
+    "date": "2026-11-21T07:07:56-07:00",
+    "text": "I have used Whoop for a full year +. It has been an extremely useful tool. The most favorite part for me is my recovery and how much strain I should shoot for the day. If my recovery is down, don’t push as hard. If my recovery is green, I go get it! I am a very consistent person so I love that it’s daily.",
+    "parent_category_tags": [
+      "sleep_tracking"
+    ],
+    "subcategory_tags": [
+      "sleep_satisfaction"
+    ]
+  },
+  {
     "review_id": "3500178e-27e7-4ac9-a4a5-e2c9d08ea947",
     "source": "google_play",
     "rating": 3,
