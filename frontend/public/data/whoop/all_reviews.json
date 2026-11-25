@@ -1,5 +1,56 @@
 [
   {
+    "review_id": "14829349421",
+    "source": "app_store",
+    "rating": 1,
+    "date": "2026-11-24T09:04:12-07:00",
+    "text": "Why be integrated with other apps if you’re not going to use the data to help your members. Integrated with Cronometer and Apple Health but doesn’t use the nutritional data to help its members to see possible correlations between their nutrition and sleep, recovery, or anything else it tracks. Very disappointed in Whoop.",
+    "parent_category_tags": [
+      "feature_requests",
+      "feature_requests"
+    ],
+    "subcategory_tags": [
+      "third_party_integration",
+      "missing_metrics"
+    ]
+  },
+  {
+    "review_id": "14828539978",
+    "source": "app_store",
+    "rating": 3,
+    "date": "2026-11-24T05:16:18-07:00",
+    "text": "I do everything what Woop says but I am aging faster - I want opposite result and I am ready for it!",
+    "parent_category_tags": [
+      "feature_requests"
+    ],
+    "subcategory_tags": [
+      "personalization_use_case_fit"
+    ]
+  },
+  {
+    "review_id": "14828376724",
+    "source": "app_store",
+    "rating": 1,
+    "date": "2026-11-24T04:28:15-07:00",
+    "text": "I actually think WHOOP can be a very useful product when it works properly. The concept is good, the data can be helpful, and I understand why people like it.\n\nUnfortunately, my experience has been ruined by unreliable tracking and some of the worst customer service I have dealt with.\n\nMy WHOOP has repeatedly failed to properly detect sleep and activities. I explained multiple times that the band was worn tightly and exactly as instructed, yet support kept falling back on the same excuses about placement instead of seriously considering that the device itself might be the problem.\n\nAt one point, their solution was to tell me to manually start a sleep activity for several nights.\n\nThat is ridiculous.\n\nI am paying for a wearable because it is supposed to automatically track my sleep and activity. If I have to manually tell it when I go to sleep just to make it work properly, then the product is failing at one of its most basic functions.\n\nThe bigger problem, though, is the customer service.\n\nInstead of taking ownership of the issue, I have been passed from representative to representative, asked to repeat troubleshooting, given workarounds, and repeatedly pushed back toward strap placement even after clearly explaining that the device is being worn correctly.\n\nProducts malfunction. That happens. What separates a good company from a bad one is how they handle it.\n\nWHOOP has handled it terribly.\n\nI asked for a replacement or to be allowed to cancel because the product is not functioning reliably for me. Instead, they continue pointing to the 12-month commitment and expect me to keep paying for a device I am actively telling them is not working properly.\n\nAnd yes, the membership may be billed monthly, but it is still a 12-month commitment. That is something people should understand very clearly before signing up.\n\nThe most frustrating part is that I do not even think WHOOP is a bad idea. I think it could be a great product.\n\nBut if something goes wrong, good luck.\n\nMy experience has been endless emails, repetitive troubleshooting, excuses, and a complete unwillingness to take responsibility for the possibility that the device itself may be defective.\n\nWHOOP desperately needs to improve its customer service and stand behind its product.\n\nAt this point, the support experience has been so bad that I would not recommend WHOOP to anyone unless they are comfortable gambling on the device working perfectly — because if it doesn’t, you may be stuck arguing with customer service while they keep charging you anyway.",
+    "parent_category_tags": [
+      "sleep_tracking",
+      "data_accuracy",
+      "customer_support",
+      "customer_support",
+      "pricing_billing",
+      "pricing_billing"
+    ],
+    "subcategory_tags": [
+      "sleep_accuracy",
+      "activity_detection",
+      "support_resolution_quality",
+      "support_responsiveness",
+      "billing_disputes",
+      "plan_trial_structure"
+    ]
+  },
+  {
     "review_id": "5b34a78c-92ae-4ce8-a826-9154e31b7432",
     "source": "google_play",
     "rating": 2,

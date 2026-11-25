@@ -1,6 +1,21 @@
 {
   "pricing_billing": [
     {
+      "review_id": "14828376724",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-11-24T04:28:15-07:00",
+      "text": "I actually think WHOOP can be a very useful product when it works properly. The concept is good, the data can be helpful, and I understand why people like it.\n\nUnfortunately, my experience has been ruined by unreliable tracking and some of the worst customer service I have dealt with.\n\nMy WHOOP has repeatedly failed to properly detect sleep and activities. I explained multiple times that the band was worn tightly and exactly as instructed, yet support kept falling back on the same excuses about placement instead of seriously considering that the device itself might be the problem.\n\nAt one point, their solution was to tell me to manually start a sleep activity for several nights.\n\nThat is ridiculous.\n\nI am paying for a wearable because it is supposed to automatically track my sleep and activity. If I have to manually tell it when I go to sleep just to make it work properly, then the product is failing at one of its most basic functions.\n\nThe bigger problem, though, is the customer service.\n\nInstead of taking ownership of the issue, I have been passed from representative to representative, asked to repeat troubleshooting, given workarounds, and repeatedly pushed back toward strap placement even after clearly explaining that the device is being worn correctly.\n\nProducts malfunction. That happens. What separates a good company from a bad one is how they handle it.\n\nWHOOP has handled it terribly.\n\nI asked for a replacement or to be allowed to cancel because the product is not functioning reliably for me. Instead, they continue pointing to the 12-month commitment and expect me to keep paying for a device I am actively telling them is not working properly.\n\nAnd yes, the membership may be billed monthly, but it is still a 12-month commitment. That is something people should understand very clearly before signing up.\n\nThe most frustrating part is that I do not even think WHOOP is a bad idea. I think it could be a great product.\n\nBut if something goes wrong, good luck.\n\nMy experience has been endless emails, repetitive troubleshooting, excuses, and a complete unwillingness to take responsibility for the possibility that the device itself may be defective.\n\nWHOOP desperately needs to improve its customer service and stand behind its product.\n\nAt this point, the support experience has been so bad that I would not recommend WHOOP to anyone unless they are comfortable gambling on the device working perfectly — because if it doesn’t, you may be stuck arguing with customer service while they keep charging you anyway.",
+      "subcategory_tags": [
+        "sleep_accuracy",
+        "activity_detection",
+        "support_resolution_quality",
+        "support_responsiveness",
+        "billing_disputes",
+        "plan_trial_structure"
+      ]
+    },
+    {
       "review_id": "14820911139",
       "source": "app_store",
       "rating": 1,
@@ -328,17 +343,6 @@
       "date": "2026-10-23T10:46:02-07:00",
       "text": "I think I can get same or better from another brand.",
       "subcategory_tags": [
-        "price_value_perception"
-      ]
-    },
-    {
-      "review_id": "77c135fb-29c7-487f-b235-bf0cb5b59ab9",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2026-10-22T03:17:34+00:00",
-      "text": "poor step count for such a premium product and app. I have tested manually and with other devices, mobile phone and smart watch and the difference at times reaches up to 50%. This is serious issue for Whoop which must be fixed soon.",
-      "subcategory_tags": [
-        "metric_accuracy",
         "price_value_perception"
       ]
     }
@@ -698,6 +702,21 @@
   ],
   "billing_disputes": [
     {
+      "review_id": "14828376724",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-11-24T04:28:15-07:00",
+      "text": "I actually think WHOOP can be a very useful product when it works properly. The concept is good, the data can be helpful, and I understand why people like it.\n\nUnfortunately, my experience has been ruined by unreliable tracking and some of the worst customer service I have dealt with.\n\nMy WHOOP has repeatedly failed to properly detect sleep and activities. I explained multiple times that the band was worn tightly and exactly as instructed, yet support kept falling back on the same excuses about placement instead of seriously considering that the device itself might be the problem.\n\nAt one point, their solution was to tell me to manually start a sleep activity for several nights.\n\nThat is ridiculous.\n\nI am paying for a wearable because it is supposed to automatically track my sleep and activity. If I have to manually tell it when I go to sleep just to make it work properly, then the product is failing at one of its most basic functions.\n\nThe bigger problem, though, is the customer service.\n\nInstead of taking ownership of the issue, I have been passed from representative to representative, asked to repeat troubleshooting, given workarounds, and repeatedly pushed back toward strap placement even after clearly explaining that the device is being worn correctly.\n\nProducts malfunction. That happens. What separates a good company from a bad one is how they handle it.\n\nWHOOP has handled it terribly.\n\nI asked for a replacement or to be allowed to cancel because the product is not functioning reliably for me. Instead, they continue pointing to the 12-month commitment and expect me to keep paying for a device I am actively telling them is not working properly.\n\nAnd yes, the membership may be billed monthly, but it is still a 12-month commitment. That is something people should understand very clearly before signing up.\n\nThe most frustrating part is that I do not even think WHOOP is a bad idea. I think it could be a great product.\n\nBut if something goes wrong, good luck.\n\nMy experience has been endless emails, repetitive troubleshooting, excuses, and a complete unwillingness to take responsibility for the possibility that the device itself may be defective.\n\nWHOOP desperately needs to improve its customer service and stand behind its product.\n\nAt this point, the support experience has been so bad that I would not recommend WHOOP to anyone unless they are comfortable gambling on the device working perfectly — because if it doesn’t, you may be stuck arguing with customer service while they keep charging you anyway.",
+      "subcategory_tags": [
+        "sleep_accuracy",
+        "activity_detection",
+        "support_resolution_quality",
+        "support_responsiveness",
+        "billing_disputes",
+        "plan_trial_structure"
+      ]
+    },
+    {
       "review_id": "8b42f78d-f4b8-47f0-82b8-7d3590175c5f",
       "source": "google_play",
       "rating": 5,
@@ -1032,21 +1051,24 @@
       "subcategory_tags": [
         "billing_disputes"
       ]
-    },
-    {
-      "review_id": "14466799494",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-08-24T08:14:11-07:00",
-      "text": "Bought this hoping to gain some insights on my sleep habits. Nothing useful has come from it. It’s basically like my iPhone bedtime reminder and alarm, but for $400 a year. Not renewing my membership, especially after they wouldn’t honor the 30 day return policy.",
-      "subcategory_tags": [
-        "sleep_accuracy",
-        "price_value_perception",
-        "billing_disputes"
-      ]
     }
   ],
   "plan_trial_structure": [
+    {
+      "review_id": "14828376724",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-11-24T04:28:15-07:00",
+      "text": "I actually think WHOOP can be a very useful product when it works properly. The concept is good, the data can be helpful, and I understand why people like it.\n\nUnfortunately, my experience has been ruined by unreliable tracking and some of the worst customer service I have dealt with.\n\nMy WHOOP has repeatedly failed to properly detect sleep and activities. I explained multiple times that the band was worn tightly and exactly as instructed, yet support kept falling back on the same excuses about placement instead of seriously considering that the device itself might be the problem.\n\nAt one point, their solution was to tell me to manually start a sleep activity for several nights.\n\nThat is ridiculous.\n\nI am paying for a wearable because it is supposed to automatically track my sleep and activity. If I have to manually tell it when I go to sleep just to make it work properly, then the product is failing at one of its most basic functions.\n\nThe bigger problem, though, is the customer service.\n\nInstead of taking ownership of the issue, I have been passed from representative to representative, asked to repeat troubleshooting, given workarounds, and repeatedly pushed back toward strap placement even after clearly explaining that the device is being worn correctly.\n\nProducts malfunction. That happens. What separates a good company from a bad one is how they handle it.\n\nWHOOP has handled it terribly.\n\nI asked for a replacement or to be allowed to cancel because the product is not functioning reliably for me. Instead, they continue pointing to the 12-month commitment and expect me to keep paying for a device I am actively telling them is not working properly.\n\nAnd yes, the membership may be billed monthly, but it is still a 12-month commitment. That is something people should understand very clearly before signing up.\n\nThe most frustrating part is that I do not even think WHOOP is a bad idea. I think it could be a great product.\n\nBut if something goes wrong, good luck.\n\nMy experience has been endless emails, repetitive troubleshooting, excuses, and a complete unwillingness to take responsibility for the possibility that the device itself may be defective.\n\nWHOOP desperately needs to improve its customer service and stand behind its product.\n\nAt this point, the support experience has been so bad that I would not recommend WHOOP to anyone unless they are comfortable gambling on the device working perfectly — because if it doesn’t, you may be stuck arguing with customer service while they keep charging you anyway.",
+      "subcategory_tags": [
+        "sleep_accuracy",
+        "activity_detection",
+        "support_resolution_quality",
+        "support_responsiveness",
+        "billing_disputes",
+        "plan_trial_structure"
+      ]
+    },
     {
       "review_id": "14808709508",
       "source": "app_store",
@@ -1373,18 +1395,6 @@
       "subcategory_tags": [
         "plan_trial_structure",
         "price_value_perception"
-      ]
-    },
-    {
-      "review_id": "9f9aa16e-87ec-4ec1-aee6-484fb4bef08c",
-      "source": "google_play",
-      "rating": 5,
-      "date": "2025-11-24T18:55:04",
-      "text": "I was skeptical about using the Whoop one I thought it's pricey and I couldn't afford it had to pay for it little by little and now I feel I can't be without it I just upgraded for another year. we have heart issues in our family and I like the fact that I'm able to track how my heart's doing and how my sleep is doing and I can give that information to the doctor. again having to pay for this little by little putting it on a card. wish this would have Affirm or Afterpay",
-      "subcategory_tags": [
-        "price_value_perception",
-        "sleep_satisfaction",
-        "plan_trial_structure"
       ]
     }
   ],
@@ -1734,6 +1744,21 @@
   ],
   "sleep_tracking": [
     {
+      "review_id": "14828376724",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-11-24T04:28:15-07:00",
+      "text": "I actually think WHOOP can be a very useful product when it works properly. The concept is good, the data can be helpful, and I understand why people like it.\n\nUnfortunately, my experience has been ruined by unreliable tracking and some of the worst customer service I have dealt with.\n\nMy WHOOP has repeatedly failed to properly detect sleep and activities. I explained multiple times that the band was worn tightly and exactly as instructed, yet support kept falling back on the same excuses about placement instead of seriously considering that the device itself might be the problem.\n\nAt one point, their solution was to tell me to manually start a sleep activity for several nights.\n\nThat is ridiculous.\n\nI am paying for a wearable because it is supposed to automatically track my sleep and activity. If I have to manually tell it when I go to sleep just to make it work properly, then the product is failing at one of its most basic functions.\n\nThe bigger problem, though, is the customer service.\n\nInstead of taking ownership of the issue, I have been passed from representative to representative, asked to repeat troubleshooting, given workarounds, and repeatedly pushed back toward strap placement even after clearly explaining that the device is being worn correctly.\n\nProducts malfunction. That happens. What separates a good company from a bad one is how they handle it.\n\nWHOOP has handled it terribly.\n\nI asked for a replacement or to be allowed to cancel because the product is not functioning reliably for me. Instead, they continue pointing to the 12-month commitment and expect me to keep paying for a device I am actively telling them is not working properly.\n\nAnd yes, the membership may be billed monthly, but it is still a 12-month commitment. That is something people should understand very clearly before signing up.\n\nThe most frustrating part is that I do not even think WHOOP is a bad idea. I think it could be a great product.\n\nBut if something goes wrong, good luck.\n\nMy experience has been endless emails, repetitive troubleshooting, excuses, and a complete unwillingness to take responsibility for the possibility that the device itself may be defective.\n\nWHOOP desperately needs to improve its customer service and stand behind its product.\n\nAt this point, the support experience has been so bad that I would not recommend WHOOP to anyone unless they are comfortable gambling on the device working perfectly — because if it doesn’t, you may be stuck arguing with customer service while they keep charging you anyway.",
+      "subcategory_tags": [
+        "sleep_accuracy",
+        "activity_detection",
+        "support_resolution_quality",
+        "support_responsiveness",
+        "billing_disputes",
+        "plan_trial_structure"
+      ]
+    },
+    {
       "review_id": "14820753452",
       "source": "app_store",
       "rating": 2,
@@ -2055,19 +2080,24 @@
         "ai_reliability_bugs",
         "sleep_satisfaction"
       ]
-    },
-    {
-      "review_id": "14661621739",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-10-13T06:03:11-07:00",
-      "text": "Alarm is set to go off at the same time every day. There have been multiple times recently where it hasn’t.",
-      "subcategory_tags": [
-        "sleep_alarm_ui"
-      ]
     }
   ],
   "sleep_accuracy": [
+    {
+      "review_id": "14828376724",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-11-24T04:28:15-07:00",
+      "text": "I actually think WHOOP can be a very useful product when it works properly. The concept is good, the data can be helpful, and I understand why people like it.\n\nUnfortunately, my experience has been ruined by unreliable tracking and some of the worst customer service I have dealt with.\n\nMy WHOOP has repeatedly failed to properly detect sleep and activities. I explained multiple times that the band was worn tightly and exactly as instructed, yet support kept falling back on the same excuses about placement instead of seriously considering that the device itself might be the problem.\n\nAt one point, their solution was to tell me to manually start a sleep activity for several nights.\n\nThat is ridiculous.\n\nI am paying for a wearable because it is supposed to automatically track my sleep and activity. If I have to manually tell it when I go to sleep just to make it work properly, then the product is failing at one of its most basic functions.\n\nThe bigger problem, though, is the customer service.\n\nInstead of taking ownership of the issue, I have been passed from representative to representative, asked to repeat troubleshooting, given workarounds, and repeatedly pushed back toward strap placement even after clearly explaining that the device is being worn correctly.\n\nProducts malfunction. That happens. What separates a good company from a bad one is how they handle it.\n\nWHOOP has handled it terribly.\n\nI asked for a replacement or to be allowed to cancel because the product is not functioning reliably for me. Instead, they continue pointing to the 12-month commitment and expect me to keep paying for a device I am actively telling them is not working properly.\n\nAnd yes, the membership may be billed monthly, but it is still a 12-month commitment. That is something people should understand very clearly before signing up.\n\nThe most frustrating part is that I do not even think WHOOP is a bad idea. I think it could be a great product.\n\nBut if something goes wrong, good luck.\n\nMy experience has been endless emails, repetitive troubleshooting, excuses, and a complete unwillingness to take responsibility for the possibility that the device itself may be defective.\n\nWHOOP desperately needs to improve its customer service and stand behind its product.\n\nAt this point, the support experience has been so bad that I would not recommend WHOOP to anyone unless they are comfortable gambling on the device working perfectly — because if it doesn’t, you may be stuck arguing with customer service while they keep charging you anyway.",
+      "subcategory_tags": [
+        "sleep_accuracy",
+        "activity_detection",
+        "support_resolution_quality",
+        "support_responsiveness",
+        "billing_disputes",
+        "plan_trial_structure"
+      ]
+    },
     {
       "review_id": "14820753452",
       "source": "app_store",
@@ -2402,17 +2432,6 @@
       "subcategory_tags": [
         "sleep_accuracy",
         "data_sync_delays"
-      ]
-    },
-    {
-      "review_id": "14499681422",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-09-01T16:30:44-07:00",
-      "text": "I bought a WHOOP because I wanted good sleep detection, but they’ve updated the algorithm a couple of times and completely messed up the sleep detection at this point. The rest of the functions are no different than what you get on a much cheaper Fitbit or any other tracker. I would strongly recommend against buying WHOOP. Likewise, the support has been terrible.",
-      "subcategory_tags": [
-        "sleep_accuracy",
-        "price_value_perception"
       ]
     }
   ],
@@ -6224,6 +6243,21 @@
   ],
   "data_accuracy": [
     {
+      "review_id": "14828376724",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-11-24T04:28:15-07:00",
+      "text": "I actually think WHOOP can be a very useful product when it works properly. The concept is good, the data can be helpful, and I understand why people like it.\n\nUnfortunately, my experience has been ruined by unreliable tracking and some of the worst customer service I have dealt with.\n\nMy WHOOP has repeatedly failed to properly detect sleep and activities. I explained multiple times that the band was worn tightly and exactly as instructed, yet support kept falling back on the same excuses about placement instead of seriously considering that the device itself might be the problem.\n\nAt one point, their solution was to tell me to manually start a sleep activity for several nights.\n\nThat is ridiculous.\n\nI am paying for a wearable because it is supposed to automatically track my sleep and activity. If I have to manually tell it when I go to sleep just to make it work properly, then the product is failing at one of its most basic functions.\n\nThe bigger problem, though, is the customer service.\n\nInstead of taking ownership of the issue, I have been passed from representative to representative, asked to repeat troubleshooting, given workarounds, and repeatedly pushed back toward strap placement even after clearly explaining that the device is being worn correctly.\n\nProducts malfunction. That happens. What separates a good company from a bad one is how they handle it.\n\nWHOOP has handled it terribly.\n\nI asked for a replacement or to be allowed to cancel because the product is not functioning reliably for me. Instead, they continue pointing to the 12-month commitment and expect me to keep paying for a device I am actively telling them is not working properly.\n\nAnd yes, the membership may be billed monthly, but it is still a 12-month commitment. That is something people should understand very clearly before signing up.\n\nThe most frustrating part is that I do not even think WHOOP is a bad idea. I think it could be a great product.\n\nBut if something goes wrong, good luck.\n\nMy experience has been endless emails, repetitive troubleshooting, excuses, and a complete unwillingness to take responsibility for the possibility that the device itself may be defective.\n\nWHOOP desperately needs to improve its customer service and stand behind its product.\n\nAt this point, the support experience has been so bad that I would not recommend WHOOP to anyone unless they are comfortable gambling on the device working perfectly — because if it doesn’t, you may be stuck arguing with customer service while they keep charging you anyway.",
+      "subcategory_tags": [
+        "sleep_accuracy",
+        "activity_detection",
+        "support_resolution_quality",
+        "support_responsiveness",
+        "billing_disputes",
+        "plan_trial_structure"
+      ]
+    },
+    {
       "review_id": "cabaac20-967b-4ae1-a4ab-48b28bd19b9e",
       "source": "google_play",
       "rating": 3,
@@ -6554,16 +6588,6 @@
       "rating": 3,
       "date": "2026-10-15T17:25:41-07:00",
       "text": "The HR accuracy seems to vary greatly, depending on what sort of activity I’m engaged in.  Cycling is fine.  Running is inconsistent.  Rowing, weight training, and anything else with moving arms is off by 10-40 bpm.",
-      "subcategory_tags": [
-        "metric_accuracy"
-      ]
-    },
-    {
-      "review_id": "2a8f2281-0d83-4b6b-a004-af0f2019a236",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2026-10-14T15:35:31+00:00",
-      "text": "the tracking device that cant track",
       "subcategory_tags": [
         "metric_accuracy"
       ]
@@ -6923,6 +6947,21 @@
   ],
   "activity_detection": [
     {
+      "review_id": "14828376724",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-11-24T04:28:15-07:00",
+      "text": "I actually think WHOOP can be a very useful product when it works properly. The concept is good, the data can be helpful, and I understand why people like it.\n\nUnfortunately, my experience has been ruined by unreliable tracking and some of the worst customer service I have dealt with.\n\nMy WHOOP has repeatedly failed to properly detect sleep and activities. I explained multiple times that the band was worn tightly and exactly as instructed, yet support kept falling back on the same excuses about placement instead of seriously considering that the device itself might be the problem.\n\nAt one point, their solution was to tell me to manually start a sleep activity for several nights.\n\nThat is ridiculous.\n\nI am paying for a wearable because it is supposed to automatically track my sleep and activity. If I have to manually tell it when I go to sleep just to make it work properly, then the product is failing at one of its most basic functions.\n\nThe bigger problem, though, is the customer service.\n\nInstead of taking ownership of the issue, I have been passed from representative to representative, asked to repeat troubleshooting, given workarounds, and repeatedly pushed back toward strap placement even after clearly explaining that the device is being worn correctly.\n\nProducts malfunction. That happens. What separates a good company from a bad one is how they handle it.\n\nWHOOP has handled it terribly.\n\nI asked for a replacement or to be allowed to cancel because the product is not functioning reliably for me. Instead, they continue pointing to the 12-month commitment and expect me to keep paying for a device I am actively telling them is not working properly.\n\nAnd yes, the membership may be billed monthly, but it is still a 12-month commitment. That is something people should understand very clearly before signing up.\n\nThe most frustrating part is that I do not even think WHOOP is a bad idea. I think it could be a great product.\n\nBut if something goes wrong, good luck.\n\nMy experience has been endless emails, repetitive troubleshooting, excuses, and a complete unwillingness to take responsibility for the possibility that the device itself may be defective.\n\nWHOOP desperately needs to improve its customer service and stand behind its product.\n\nAt this point, the support experience has been so bad that I would not recommend WHOOP to anyone unless they are comfortable gambling on the device working perfectly — because if it doesn’t, you may be stuck arguing with customer service while they keep charging you anyway.",
+      "subcategory_tags": [
+        "sleep_accuracy",
+        "activity_detection",
+        "support_resolution_quality",
+        "support_responsiveness",
+        "billing_disputes",
+        "plan_trial_structure"
+      ]
+    },
+    {
       "review_id": "e5b7783b-4b0e-482c-93ea-85ade5640497",
       "source": "google_play",
       "rating": 1,
@@ -7269,18 +7308,6 @@
         "activity_detection",
         "personalization_use_case_fit",
         "price_value_perception"
-      ]
-    },
-    {
-      "review_id": "14330101752",
-      "source": "app_store",
-      "rating": 2,
-      "date": "2026-07-21T05:16:06-07:00",
-      "text": "Misses workouts, messes up sleep! The AI brain is the size of an acorn that’s been flattened by a 18 wheeler truck!",
-      "subcategory_tags": [
-        "activity_detection",
-        "sleep_accuracy",
-        "ai_reliability_bugs"
       ]
     }
   ],
@@ -9379,6 +9406,21 @@
   ],
   "customer_support": [
     {
+      "review_id": "14828376724",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-11-24T04:28:15-07:00",
+      "text": "I actually think WHOOP can be a very useful product when it works properly. The concept is good, the data can be helpful, and I understand why people like it.\n\nUnfortunately, my experience has been ruined by unreliable tracking and some of the worst customer service I have dealt with.\n\nMy WHOOP has repeatedly failed to properly detect sleep and activities. I explained multiple times that the band was worn tightly and exactly as instructed, yet support kept falling back on the same excuses about placement instead of seriously considering that the device itself might be the problem.\n\nAt one point, their solution was to tell me to manually start a sleep activity for several nights.\n\nThat is ridiculous.\n\nI am paying for a wearable because it is supposed to automatically track my sleep and activity. If I have to manually tell it when I go to sleep just to make it work properly, then the product is failing at one of its most basic functions.\n\nThe bigger problem, though, is the customer service.\n\nInstead of taking ownership of the issue, I have been passed from representative to representative, asked to repeat troubleshooting, given workarounds, and repeatedly pushed back toward strap placement even after clearly explaining that the device is being worn correctly.\n\nProducts malfunction. That happens. What separates a good company from a bad one is how they handle it.\n\nWHOOP has handled it terribly.\n\nI asked for a replacement or to be allowed to cancel because the product is not functioning reliably for me. Instead, they continue pointing to the 12-month commitment and expect me to keep paying for a device I am actively telling them is not working properly.\n\nAnd yes, the membership may be billed monthly, but it is still a 12-month commitment. That is something people should understand very clearly before signing up.\n\nThe most frustrating part is that I do not even think WHOOP is a bad idea. I think it could be a great product.\n\nBut if something goes wrong, good luck.\n\nMy experience has been endless emails, repetitive troubleshooting, excuses, and a complete unwillingness to take responsibility for the possibility that the device itself may be defective.\n\nWHOOP desperately needs to improve its customer service and stand behind its product.\n\nAt this point, the support experience has been so bad that I would not recommend WHOOP to anyone unless they are comfortable gambling on the device working perfectly — because if it doesn’t, you may be stuck arguing with customer service while they keep charging you anyway.",
+      "subcategory_tags": [
+        "sleep_accuracy",
+        "activity_detection",
+        "support_resolution_quality",
+        "support_responsiveness",
+        "billing_disputes",
+        "plan_trial_structure"
+      ]
+    },
+    {
       "review_id": "14820753452",
       "source": "app_store",
       "rating": 2,
@@ -9725,21 +9767,24 @@
         "price_value_perception",
         "support_responsiveness"
       ]
-    },
-    {
-      "review_id": "a756b23f-b210-485a-9783-41ba3d433379",
-      "source": "google_play",
-      "rating": 3,
-      "date": "2026-09-09T11:57:52+00:00",
-      "text": "I really like whoop but the app keeps crashing. I messaged support and got no real solution to the crashes. I lose the gps data on runs which affects the vo2 data.",
-      "subcategory_tags": [
-        "crashes_freezes",
-        "support_resolution_quality",
-        "metric_accuracy"
-      ]
     }
   ],
   "support_responsiveness": [
+    {
+      "review_id": "14828376724",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-11-24T04:28:15-07:00",
+      "text": "I actually think WHOOP can be a very useful product when it works properly. The concept is good, the data can be helpful, and I understand why people like it.\n\nUnfortunately, my experience has been ruined by unreliable tracking and some of the worst customer service I have dealt with.\n\nMy WHOOP has repeatedly failed to properly detect sleep and activities. I explained multiple times that the band was worn tightly and exactly as instructed, yet support kept falling back on the same excuses about placement instead of seriously considering that the device itself might be the problem.\n\nAt one point, their solution was to tell me to manually start a sleep activity for several nights.\n\nThat is ridiculous.\n\nI am paying for a wearable because it is supposed to automatically track my sleep and activity. If I have to manually tell it when I go to sleep just to make it work properly, then the product is failing at one of its most basic functions.\n\nThe bigger problem, though, is the customer service.\n\nInstead of taking ownership of the issue, I have been passed from representative to representative, asked to repeat troubleshooting, given workarounds, and repeatedly pushed back toward strap placement even after clearly explaining that the device is being worn correctly.\n\nProducts malfunction. That happens. What separates a good company from a bad one is how they handle it.\n\nWHOOP has handled it terribly.\n\nI asked for a replacement or to be allowed to cancel because the product is not functioning reliably for me. Instead, they continue pointing to the 12-month commitment and expect me to keep paying for a device I am actively telling them is not working properly.\n\nAnd yes, the membership may be billed monthly, but it is still a 12-month commitment. That is something people should understand very clearly before signing up.\n\nThe most frustrating part is that I do not even think WHOOP is a bad idea. I think it could be a great product.\n\nBut if something goes wrong, good luck.\n\nMy experience has been endless emails, repetitive troubleshooting, excuses, and a complete unwillingness to take responsibility for the possibility that the device itself may be defective.\n\nWHOOP desperately needs to improve its customer service and stand behind its product.\n\nAt this point, the support experience has been so bad that I would not recommend WHOOP to anyone unless they are comfortable gambling on the device working perfectly — because if it doesn’t, you may be stuck arguing with customer service while they keep charging you anyway.",
+      "subcategory_tags": [
+        "sleep_accuracy",
+        "activity_detection",
+        "support_resolution_quality",
+        "support_responsiveness",
+        "billing_disputes",
+        "plan_trial_structure"
+      ]
+    },
     {
       "review_id": "14778386306",
       "source": "app_store",
@@ -10082,23 +10127,24 @@
         "support_responsiveness",
         "support_resolution_quality"
       ]
-    },
-    {
-      "review_id": "14123621673",
-      "source": "app_store",
-      "rating": 5,
-      "date": "2026-05-30T07:41:20-07:00",
-      "text": "I purchased WHOOP expecting a premium product and premium service, but my experience has been frustrating from the very beginning.\n\nAfter only a few days of use, the app stopped working properly. One morning, my recovery never processed, the app remained stuck on the previous day, and my data would not update correctly. For a product that is supposed to provide real-time health and recovery insights, this is unacceptable.\n\nThe customer service experience has been equally frustrating. Finding support is difficult, getting help takes too long, and there is no simple way to resolve issues quickly.\n\nThe return process is another major problem. Customers are expected to pay for return shipping, and accessories cannot be returned through a simple online process. Instead, you have to contact customer support first, which is unnecessarily complicated and time-consuming.\n\nFor a company charging premium prices and a membership fee, I expected a polished product, reliable software, and responsive customer support. Instead, I experienced app issues within the first week, poor customer service, and a frustrating return process.\n\nThis has been one of the worst experiences I’ve had with a wearable technology company, and I would not recommend WHOOP to others.",
-      "subcategory_tags": [
-        "data_sync_delays",
-        "crashes_freezes",
-        "support_responsiveness",
-        "billing_disputes",
-        "price_value_perception"
-      ]
     }
   ],
   "support_resolution_quality": [
+    {
+      "review_id": "14828376724",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-11-24T04:28:15-07:00",
+      "text": "I actually think WHOOP can be a very useful product when it works properly. The concept is good, the data can be helpful, and I understand why people like it.\n\nUnfortunately, my experience has been ruined by unreliable tracking and some of the worst customer service I have dealt with.\n\nMy WHOOP has repeatedly failed to properly detect sleep and activities. I explained multiple times that the band was worn tightly and exactly as instructed, yet support kept falling back on the same excuses about placement instead of seriously considering that the device itself might be the problem.\n\nAt one point, their solution was to tell me to manually start a sleep activity for several nights.\n\nThat is ridiculous.\n\nI am paying for a wearable because it is supposed to automatically track my sleep and activity. If I have to manually tell it when I go to sleep just to make it work properly, then the product is failing at one of its most basic functions.\n\nThe bigger problem, though, is the customer service.\n\nInstead of taking ownership of the issue, I have been passed from representative to representative, asked to repeat troubleshooting, given workarounds, and repeatedly pushed back toward strap placement even after clearly explaining that the device is being worn correctly.\n\nProducts malfunction. That happens. What separates a good company from a bad one is how they handle it.\n\nWHOOP has handled it terribly.\n\nI asked for a replacement or to be allowed to cancel because the product is not functioning reliably for me. Instead, they continue pointing to the 12-month commitment and expect me to keep paying for a device I am actively telling them is not working properly.\n\nAnd yes, the membership may be billed monthly, but it is still a 12-month commitment. That is something people should understand very clearly before signing up.\n\nThe most frustrating part is that I do not even think WHOOP is a bad idea. I think it could be a great product.\n\nBut if something goes wrong, good luck.\n\nMy experience has been endless emails, repetitive troubleshooting, excuses, and a complete unwillingness to take responsibility for the possibility that the device itself may be defective.\n\nWHOOP desperately needs to improve its customer service and stand behind its product.\n\nAt this point, the support experience has been so bad that I would not recommend WHOOP to anyone unless they are comfortable gambling on the device working perfectly — because if it doesn’t, you may be stuck arguing with customer service while they keep charging you anyway.",
+      "subcategory_tags": [
+        "sleep_accuracy",
+        "activity_detection",
+        "support_resolution_quality",
+        "support_responsiveness",
+        "billing_disputes",
+        "plan_trial_structure"
+      ]
+    },
     {
       "review_id": "14820753452",
       "source": "app_store",
@@ -10448,18 +10494,6 @@
         "metric_accuracy",
         "personalization_use_case_fit",
         "support_resolution_quality"
-      ]
-    },
-    {
-      "review_id": "14400555831",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-08-07T15:13:15-07:00",
-      "text": "They take a long time to reply to messages. They say they’ve resolved the issue, but they actually haven’t! It’s impossible to log into the account.",
-      "subcategory_tags": [
-        "support_responsiveness",
-        "support_resolution_quality",
-        "crashes_freezes"
       ]
     }
   ],
@@ -15607,6 +15641,27 @@
   ],
   "feature_requests": [
     {
+      "review_id": "14829349421",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-11-24T09:04:12-07:00",
+      "text": "Why be integrated with other apps if you’re not going to use the data to help your members. Integrated with Cronometer and Apple Health but doesn’t use the nutritional data to help its members to see possible correlations between their nutrition and sleep, recovery, or anything else it tracks. Very disappointed in Whoop.",
+      "subcategory_tags": [
+        "third_party_integration",
+        "missing_metrics"
+      ]
+    },
+    {
+      "review_id": "14828539978",
+      "source": "app_store",
+      "rating": 3,
+      "date": "2026-11-24T05:16:18-07:00",
+      "text": "I do everything what Woop says but I am aging faster - I want opposite result and I am ready for it!",
+      "subcategory_tags": [
+        "personalization_use_case_fit"
+      ]
+    },
+    {
       "review_id": "930b0b92-287b-4d49-8ed0-01922b7e8b02",
       "source": "google_play",
       "rating": 5,
@@ -15919,27 +15974,6 @@
       "subcategory_tags": [
         "missing_activity_types",
         "missing_metrics"
-      ]
-    },
-    {
-      "review_id": "14637805027",
-      "source": "app_store",
-      "rating": 5,
-      "date": "2026-10-07T04:24:15-07:00",
-      "text": "Excelente app, deberían incluir el monitor estrés en el plan one",
-      "subcategory_tags": [
-        "plan_trial_structure",
-        "missing_metrics"
-      ]
-    },
-    {
-      "review_id": "14632842048",
-      "source": "app_store",
-      "rating": 5,
-      "date": "2026-10-05T19:43:20-07:00",
-      "text": "I’ve had my whoop for a little over a year and I won’t ever go without it now. I first got it for my workouts and recovery. But now I use it to really tune into my body and achieve my goals. I also love that it’s now integrated with Natural Cycles. As a women, it’s amazing!!!",
-      "subcategory_tags": [
-        "third_party_integration"
       ]
     }
   ],
@@ -16280,6 +16314,17 @@
   ],
   "missing_metrics": [
     {
+      "review_id": "14829349421",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-11-24T09:04:12-07:00",
+      "text": "Why be integrated with other apps if you’re not going to use the data to help your members. Integrated with Cronometer and Apple Health but doesn’t use the nutritional data to help its members to see possible correlations between their nutrition and sleep, recovery, or anything else it tracks. Very disappointed in Whoop.",
+      "subcategory_tags": [
+        "third_party_integration",
+        "missing_metrics"
+      ]
+    },
+    {
       "review_id": "14802901851",
       "source": "app_store",
       "rating": 3,
@@ -16599,21 +16644,19 @@
         "ai_positive_reception",
         "missing_metrics"
       ]
-    },
-    {
-      "review_id": "14368511721",
-      "source": "app_store",
-      "rating": 5,
-      "date": "2026-07-30T17:26:11-07:00",
-      "text": "awesome app so far I am very appreciated of the things that I can see only thing is I wish it showed me some better ways to get healthier and improve my goals like some sort of article section or community chat would be great and for the AI to tell me some better ways too.  I wish it had a better calorie and macro tracker and I also wish that AI speak to it was quite a bit better it often cuts out randomly without like telling me and gets a lot of my words wrong, awesome app so far tho, just need a little bit of smoothing out.",
-      "subcategory_tags": [
-        "missing_metrics",
-        "ai_reliability_bugs",
-        "notification_community_issues"
-      ]
     }
   ],
   "personalization_use_case_fit": [
+    {
+      "review_id": "14828539978",
+      "source": "app_store",
+      "rating": 3,
+      "date": "2026-11-24T05:16:18-07:00",
+      "text": "I do everything what Woop says but I am aging faster - I want opposite result and I am ready for it!",
+      "subcategory_tags": [
+        "personalization_use_case_fit"
+      ]
+    },
     {
       "review_id": "930b0b92-287b-4d49-8ed0-01922b7e8b02",
       "source": "google_play",
@@ -16948,21 +16991,20 @@
         "personalization_use_case_fit",
         "battery_life"
       ]
-    },
-    {
-      "review_id": "14419311797",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-08-12T09:33:40-07:00",
-      "text": "I’m a very active middle aged person who adopted Whoop to track my multitude of activities. I’ve encountered a major problem: Whoop doesn’t accurately measure where most of us live our lives: in HR zones 0-2. For a 5 mile walk in 85*F heat, whoop recorded 150 calories. Why? ‘I wasn’t working hard enough.’ The AI agent was condescending, passive aggressive and deflective. So, if you aren’t regularly pushing yourself often at HR zones 4-5, Whoop is basically useless for you.",
-      "subcategory_tags": [
-        "metric_accuracy",
-        "personalization_use_case_fit",
-        "support_resolution_quality"
-      ]
     }
   ],
   "third_party_integration": [
+    {
+      "review_id": "14829349421",
+      "source": "app_store",
+      "rating": 1,
+      "date": "2026-11-24T09:04:12-07:00",
+      "text": "Why be integrated with other apps if you’re not going to use the data to help your members. Integrated with Cronometer and Apple Health but doesn’t use the nutritional data to help its members to see possible correlations between their nutrition and sleep, recovery, or anything else it tracks. Very disappointed in Whoop.",
+      "subcategory_tags": [
+        "third_party_integration",
+        "missing_metrics"
+      ]
+    },
     {
       "review_id": "14768325643",
       "source": "app_store",
@@ -17284,19 +17326,6 @@
       "date": "2026-03-30T14:25:54",
       "text": "not a 5 start because experience amd integration with Samsung health is severely lacking",
       "subcategory_tags": [
-        "third_party_integration"
-      ]
-    },
-    {
-      "review_id": "13850510339",
-      "source": "app_store",
-      "rating": 4,
-      "date": "2026-03-15T05:00:21-07:00",
-      "text": "The WHOOP 5.0 with the Life subscription has been an impressive experience so far. The app is beautifully designed, intuitive, and the new AI features are outstanding. It analyzes your metrics in context, connects the dots across sleep, strain, recovery, and Labs results, and gives you meaningful, actionable insights that actually help you improve. It feels like having a personal performance coach in your pocket.\n\nThat said, there are two areas that need attention. First, the price is high — the value is there, but it’s still a significant investment. Second, the lack of an Apple Watch app is a real miss. When running, there’s no way to monitor recommended strain levels or stay within your limits unless you carry your phone, which isn’t practical for many of us. Adding Apple Watch support would take the experience to another level.\n\nOverall, an excellent platform with huge potential, but I hope future updates address these gaps.",
-      "subcategory_tags": [
-        "price_value_perception",
-        "ai_positive_reception",
-        "missing_metrics",
         "third_party_integration"
       ]
     }
