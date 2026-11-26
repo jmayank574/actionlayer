@@ -1,5 +1,37 @@
 [
   {
+    "review_id": "14832344398",
+    "source": "app_store",
+    "rating": 5,
+    "date": "2026-11-25T03:44:32-07:00",
+    "text": "I love whoop! Te best!",
+    "parent_category_tags": [
+      "nan"
+    ],
+    "subcategory_tags": [
+      "nan"
+    ]
+  },
+  {
+    "review_id": "f3164b47-7817-4058-904c-63e91e1b9879",
+    "source": "google_play",
+    "rating": 1,
+    "date": "2026-11-25T06:44:31+00:00",
+    "text": "Very disappointed with WHOOP! The strap becomes extremely smelly whenever it gets wet, even while washing hands. I paid over AED 32 for the return shipment through EMX, but received only one missed call and no pickup or tracking information. No proper support from WHOOP. They are quick to charge membership fees but provide poor customer service. I would not recommend WHOOP to anyone! ill change the star if someone contact me as soon as possible i m tired of finding out the solution please assist",
+    "parent_category_tags": [
+      "hardware_wearability",
+      "pricing_billing",
+      "customer_support",
+      "pricing_billing"
+    ],
+    "subcategory_tags": [
+      "comfort_fit",
+      "billing_disputes",
+      "support_responsiveness",
+      "price_value_perception"
+    ]
+  },
+  {
     "review_id": "14829349421",
     "source": "app_store",
     "rating": 1,
