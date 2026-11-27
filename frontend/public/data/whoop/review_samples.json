@@ -1,6 +1,30 @@
 {
   "pricing_billing": [
     {
+      "review_id": "38b21424-9b67-474e-803b-39c8c5433e70",
+      "source": "google_play",
+      "rating": 2,
+      "date": "2026-11-26T09:07:48+00:00",
+      "text": "Not worth it. The sensor is unreliable, the band is stuck on a sensor and will never come off it again. Easily verifiable data, s.a. sleep tracking, was unreliable, so it made it impossible to trust more sophisticated data and analysis. They sent me a replacement tracker, and I also ordered an additional band from them too. The band got stuck on a new sensor and will never come off again. It's hard to get more disappointed with the quality of hardware and accessories. Unjustifiably expensive.",
+      "subcategory_tags": [
+        "sleep_accuracy",
+        "strap_clasp_durability",
+        "build_quality_perception",
+        "price_value_perception"
+      ]
+    },
+    {
+      "review_id": "90370378-7b0c-4e7c-b2f0-119ba4b79c64",
+      "source": "google_play",
+      "rating": 3,
+      "date": "2026-11-26T01:39:42+00:00",
+      "text": "great app but missing robust widgets. not as good as the widgets on the idevices. this is disappointing given the expensive annual subscription required to take advantage of the all the insights on my workouts at a glance. I hope the devs level this up for android phones.",
+      "subcategory_tags": [
+        "android_feature_gaps",
+        "price_value_perception"
+      ]
+    },
+    {
       "review_id": "f3164b47-7817-4058-904c-63e91e1b9879",
       "source": "google_play",
       "rating": 1,
@@ -323,34 +347,33 @@
       "subcategory_tags": [
         "billing_disputes"
       ]
-    },
+    }
+  ],
+  "price_value_perception": [
     {
-      "review_id": "b977b702-19c0-4648-ac69-9800c548d47c",
+      "review_id": "38b21424-9b67-474e-803b-39c8c5433e70",
       "source": "google_play",
       "rating": 2,
-      "date": "2026-10-24T19:11:44+00:00",
-      "text": "★★☆☆☆ After nearly a year with WHOOP, I'm disappointed. Before CPAP, it frequently recorded only 1–2 hours of sleep or missed entire nights. Step counts were inaccurate compared with a pedometer and treadmill. Heart rate was 12 bpm above manual checks, and resting HR was often 10–15 bpm above my Sleep Number bed. Its recovery algorithm doesn't adequately account for sleep disorders or individual circumstances. For the subscription price, I expect more reliable measurements.",
+      "date": "2026-11-26T09:07:48+00:00",
+      "text": "Not worth it. The sensor is unreliable, the band is stuck on a sensor and will never come off it again. Easily verifiable data, s.a. sleep tracking, was unreliable, so it made it impossible to trust more sophisticated data and analysis. They sent me a replacement tracker, and I also ordered an additional band from them too. The band got stuck on a new sensor and will never come off again. It's hard to get more disappointed with the quality of hardware and accessories. Unjustifiably expensive.",
       "subcategory_tags": [
         "sleep_accuracy",
-        "metric_accuracy",
-        "personalization_use_case_fit",
+        "strap_clasp_durability",
+        "build_quality_perception",
         "price_value_perception"
       ]
     },
     {
-      "review_id": "14703363192",
-      "source": "app_store",
-      "rating": 2,
-      "date": "2026-10-23T17:42:41-07:00",
-      "text": "Love the features, loves the tracking and historical data mapping. \n\nNow the bad stuff…. When accessing the iOS app a lot of the text is cut off and you can’t scroll over to see it or flip to landscape mode. Then there’s the constant marketing notifications. Needs work on the dynamic text as I need my iPhone set to enlarge text and it affects my Whoop app display. At this point either fix the issue or issue a full refund.",
+      "review_id": "90370378-7b0c-4e7c-b2f0-119ba4b79c64",
+      "source": "google_play",
+      "rating": 3,
+      "date": "2026-11-26T01:39:42+00:00",
+      "text": "great app but missing robust widgets. not as good as the widgets on the idevices. this is disappointing given the expensive annual subscription required to take advantage of the all the insights on my workouts at a glance. I hope the devs level this up for android phones.",
       "subcategory_tags": [
-        "device_rendering_bugs",
-        "upsell_pressure",
-        "billing_disputes"
+        "android_feature_gaps",
+        "price_value_perception"
       ]
-    }
-  ],
-  "price_value_perception": [
+    },
     {
       "review_id": "f3164b47-7817-4058-904c-63e91e1b9879",
       "source": "google_play",
@@ -678,29 +701,6 @@
         "personalization_use_case_fit",
         "battery_life",
         "billing_disputes"
-      ]
-    },
-    {
-      "review_id": "14659583316",
-      "source": "app_store",
-      "rating": 4,
-      "date": "2026-10-12T16:07:55-07:00",
-      "text": "Very good app, highly recommend but expensive\n:(",
-      "subcategory_tags": [
-        "price_value_perception"
-      ]
-    },
-    {
-      "review_id": "14653944098",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-10-11T07:03:47-07:00",
-      "text": "Do not get a whoop. It will try to control your life. Tell you when to go to bed. It’s a dumb computer that is rarely ever accurate. Whoop is on the same trajectory as oura ring in the fact that they should be sued for not being accurate. They take your money even when you try to quit the subscription. Whatever you do, do not waste your money on this product",
-      "subcategory_tags": [
-        "price_value_perception",
-        "billing_disputes",
-        "metric_accuracy",
-        "personalization_use_case_fit"
       ]
     }
   ],
@@ -1751,6 +1751,19 @@
   ],
   "sleep_tracking": [
     {
+      "review_id": "38b21424-9b67-474e-803b-39c8c5433e70",
+      "source": "google_play",
+      "rating": 2,
+      "date": "2026-11-26T09:07:48+00:00",
+      "text": "Not worth it. The sensor is unreliable, the band is stuck on a sensor and will never come off it again. Easily verifiable data, s.a. sleep tracking, was unreliable, so it made it impossible to trust more sophisticated data and analysis. They sent me a replacement tracker, and I also ordered an additional band from them too. The band got stuck on a new sensor and will never come off again. It's hard to get more disappointed with the quality of hardware and accessories. Unjustifiably expensive.",
+      "subcategory_tags": [
+        "sleep_accuracy",
+        "strap_clasp_durability",
+        "build_quality_perception",
+        "price_value_perception"
+      ]
+    },
+    {
       "review_id": "14828376724",
       "source": "app_store",
       "rating": 1,
@@ -2076,20 +2089,22 @@
         "sleep_satisfaction",
         "sleep_accuracy"
       ]
-    },
-    {
-      "review_id": "52bab830-5370-4096-bb7b-60c3f2402984",
-      "source": "google_play",
-      "rating": 5,
-      "date": "2026-10-13T13:21:29+00:00",
-      "text": "I love that it helps me hold myself accountable. It's pretty intuitive but sometimes loses track of what it should already know. If I ask, it finds it. I don't like that it just keeps asking questions until I just stop answering. It's like that convo you can't end without it being awkward. Just say, We have a plan. Have a great day. But I love being more aware of my health and choices every day. Especially sleep.",
-      "subcategory_tags": [
-        "ai_reliability_bugs",
-        "sleep_satisfaction"
-      ]
     }
   ],
   "sleep_accuracy": [
+    {
+      "review_id": "38b21424-9b67-474e-803b-39c8c5433e70",
+      "source": "google_play",
+      "rating": 2,
+      "date": "2026-11-26T09:07:48+00:00",
+      "text": "Not worth it. The sensor is unreliable, the band is stuck on a sensor and will never come off it again. Easily verifiable data, s.a. sleep tracking, was unreliable, so it made it impossible to trust more sophisticated data and analysis. They sent me a replacement tracker, and I also ordered an additional band from them too. The band got stuck on a new sensor and will never come off again. It's hard to get more disappointed with the quality of hardware and accessories. Unjustifiably expensive.",
+      "subcategory_tags": [
+        "sleep_accuracy",
+        "strap_clasp_durability",
+        "build_quality_perception",
+        "price_value_perception"
+      ]
+    },
     {
       "review_id": "14828376724",
       "source": "app_store",
@@ -2428,17 +2443,6 @@
         "sleep_accuracy",
         "ai_only_support_channel",
         "support_resolution_quality"
-      ]
-    },
-    {
-      "review_id": "14500034304",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-09-01T18:46:41-07:00",
-      "text": "The WHOOP band occasionally stops working automatically while sleeping at night.",
-      "subcategory_tags": [
-        "sleep_accuracy",
-        "data_sync_delays"
       ]
     }
   ],
@@ -3113,6 +3117,19 @@
   ],
   "hardware_wearability": [
     {
+      "review_id": "38b21424-9b67-474e-803b-39c8c5433e70",
+      "source": "google_play",
+      "rating": 2,
+      "date": "2026-11-26T09:07:48+00:00",
+      "text": "Not worth it. The sensor is unreliable, the band is stuck on a sensor and will never come off it again. Easily verifiable data, s.a. sleep tracking, was unreliable, so it made it impossible to trust more sophisticated data and analysis. They sent me a replacement tracker, and I also ordered an additional band from them too. The band got stuck on a new sensor and will never come off again. It's hard to get more disappointed with the quality of hardware and accessories. Unjustifiably expensive.",
+      "subcategory_tags": [
+        "sleep_accuracy",
+        "strap_clasp_durability",
+        "build_quality_perception",
+        "price_value_perception"
+      ]
+    },
+    {
       "review_id": "f3164b47-7817-4058-904c-63e91e1b9879",
       "source": "google_play",
       "rating": 1,
@@ -3457,21 +3474,22 @@
         "sleep_accuracy",
         "comfort_fit"
       ]
-    },
-    {
-      "review_id": "14426595707",
-      "source": "app_store",
-      "rating": 5,
-      "date": "2026-08-14T05:41:49-07:00",
-      "text": "I have tried all the big name wearables over the years, but this is by far the best! The battery lasts a week or more. I put it on and forget I’m wearing it. It’s the most accurate and detailed recovery and sleep analysis I’ve ever had.  I also love that it helps me trend my blood pressure too.",
-      "subcategory_tags": [
-        "battery_life",
-        "sleep_satisfaction",
-        "comfort_fit"
-      ]
     }
   ],
   "strap_clasp_durability": [
+    {
+      "review_id": "38b21424-9b67-474e-803b-39c8c5433e70",
+      "source": "google_play",
+      "rating": 2,
+      "date": "2026-11-26T09:07:48+00:00",
+      "text": "Not worth it. The sensor is unreliable, the band is stuck on a sensor and will never come off it again. Easily verifiable data, s.a. sleep tracking, was unreliable, so it made it impossible to trust more sophisticated data and analysis. They sent me a replacement tracker, and I also ordered an additional band from them too. The band got stuck on a new sensor and will never come off again. It's hard to get more disappointed with the quality of hardware and accessories. Unjustifiably expensive.",
+      "subcategory_tags": [
+        "sleep_accuracy",
+        "strap_clasp_durability",
+        "build_quality_perception",
+        "price_value_perception"
+      ]
+    },
     {
       "review_id": "14724090626",
       "source": "app_store",
@@ -3814,17 +3832,6 @@
         "strap_clasp_durability",
         "build_quality_perception",
         "support_resolution_quality"
-      ]
-    },
-    {
-      "review_id": "3480f093-18e3-4b83-adfc-22d4f45f2885",
-      "source": "google_play",
-      "rating": 2,
-      "date": "2021-12-17T07:11:32",
-      "text": "They have ruined a good product... the 3.0 was easy reliable and just worked.... the 4.0 is pure trash on my 3rd in little under 2 months will most likely be moving to a different product after much subscription is up",
-      "subcategory_tags": [
-        "build_quality_perception",
-        "strap_clasp_durability"
       ]
     }
   ],
@@ -4527,6 +4534,19 @@
   ],
   "build_quality_perception": [
     {
+      "review_id": "38b21424-9b67-474e-803b-39c8c5433e70",
+      "source": "google_play",
+      "rating": 2,
+      "date": "2026-11-26T09:07:48+00:00",
+      "text": "Not worth it. The sensor is unreliable, the band is stuck on a sensor and will never come off it again. Easily verifiable data, s.a. sleep tracking, was unreliable, so it made it impossible to trust more sophisticated data and analysis. They sent me a replacement tracker, and I also ordered an additional band from them too. The band got stuck on a new sensor and will never come off again. It's hard to get more disappointed with the quality of hardware and accessories. Unjustifiably expensive.",
+      "subcategory_tags": [
+        "sleep_accuracy",
+        "strap_clasp_durability",
+        "build_quality_perception",
+        "price_value_perception"
+      ]
+    },
+    {
       "review_id": "14820753452",
       "source": "app_store",
       "rating": 2,
@@ -4870,16 +4890,6 @@
       "subcategory_tags": [
         "sleep_accuracy",
         "metric_accuracy",
-        "build_quality_perception"
-      ]
-    },
-    {
-      "review_id": "b3c3e53f-ebea-4464-8cc5-7d32fa7a99e9",
-      "source": "google_play",
-      "rating": 4,
-      "date": "2025-09-05T13:23:40",
-      "text": "the app is mostly awesome. the data points are broadly accurate and give plenty enough information to help you monitor your fitness or reach fitness goals. the data goes quite deep which is ideal for data driven people. just a shame the new device isn't backwards compatible with the old accessories",
-      "subcategory_tags": [
         "build_quality_perception"
       ]
     }
@@ -7324,6 +7334,17 @@
   ],
   "health_signal_reliability": [
     {
+      "review_id": "8c5fa4be-0222-4d11-8e6a-c9b2ea4d990c",
+      "source": "google_play",
+      "rating": 1,
+      "date": "2026-11-26T11:18:13+00:00",
+      "text": "Misleading and false advertising. Have Class action law against them. 213 complaints on BBB 1 star rating. They promise blood pressure and oxygen meter all false. No blood pressure no ability to check blood oxygen by yourself, claim medical grade to give you illusion, completely misleading. When you complain they admit you cannot test blood oxygen, telling you to buy another oxygen meter & admit they have no blood pressure. ignorant customer support. shamelessly making billions on innocent",
+      "subcategory_tags": [
+        "ecg_bp_feature_reliability",
+        "support_resolution_quality"
+      ]
+    },
+    {
       "review_id": "da4579d4-0663-4d50-8ab3-818922b348e0",
       "source": "google_play",
       "rating": 1,
@@ -7658,16 +7679,6 @@
         "price_value_perception",
         "support_responsiveness"
       ]
-    },
-    {
-      "review_id": "3d98be25-d815-434f-a1bc-b93f404f43b3",
-      "source": "google_play",
-      "rating": 5,
-      "date": "2025-12-11T00:44:26",
-      "text": "amazing app. i use 5.0 Life. MG. check my ECG every morning. input manual BP monthly. to calibrate.",
-      "subcategory_tags": [
-        "ecg_bp_feature_reliability"
-      ]
     }
   ],
   "cardiac_detection_trust": [
@@ -7717,6 +7728,17 @@
     }
   ],
   "ecg_bp_feature_reliability": [
+    {
+      "review_id": "8c5fa4be-0222-4d11-8e6a-c9b2ea4d990c",
+      "source": "google_play",
+      "rating": 1,
+      "date": "2026-11-26T11:18:13+00:00",
+      "text": "Misleading and false advertising. Have Class action law against them. 213 complaints on BBB 1 star rating. They promise blood pressure and oxygen meter all false. No blood pressure no ability to check blood oxygen by yourself, claim medical grade to give you illusion, completely misleading. When you complain they admit you cannot test blood oxygen, telling you to buy another oxygen meter & admit they have no blood pressure. ignorant customer support. shamelessly making billions on innocent",
+      "subcategory_tags": [
+        "ecg_bp_feature_reliability",
+        "support_resolution_quality"
+      ]
+    },
     {
       "review_id": "da4579d4-0663-4d50-8ab3-818922b348e0",
       "source": "google_play",
@@ -8050,19 +8072,6 @@
       "date": "2025-11-23T19:54:52-07:00",
       "text": "I think the Whoop concept is awesome. I have the Life membership and have also purchased blood tests and opted to participate in studies. My one request: continue the partnership/integration with Withings. I have a wireless BP monitor that would be amazing the data could be automatically brought into the Whoop app for tracking.",
       "subcategory_tags": [
-        "third_party_integration",
-        "ecg_bp_feature_reliability"
-      ]
-    },
-    {
-      "review_id": "89593022-f6f2-49cd-b679-7155c27b24fd",
-      "source": "google_play",
-      "rating": 3,
-      "date": "2025-11-20T21:03:03",
-      "text": "overall app is an interesting way to keep track of various biomarkers. heart rate monitor during activities is unacceptable inaccurate (says i am at 140 when I am actually at 100, for example). can't log weightlifting exercises during the activity, so need to remember and log after the fact. does not import android health connect data reliably from Samsung health data and oxilife scale. actual ekg measures are correct and discern heart rhythms accurately. decent beginning, ready for improvement",
-      "subcategory_tags": [
-        "metric_accuracy",
-        "missing_activity_types",
         "third_party_integration",
         "ecg_bp_feature_reliability"
       ]
@@ -9417,6 +9426,17 @@
   ],
   "customer_support": [
     {
+      "review_id": "8c5fa4be-0222-4d11-8e6a-c9b2ea4d990c",
+      "source": "google_play",
+      "rating": 1,
+      "date": "2026-11-26T11:18:13+00:00",
+      "text": "Misleading and false advertising. Have Class action law against them. 213 complaints on BBB 1 star rating. They promise blood pressure and oxygen meter all false. No blood pressure no ability to check blood oxygen by yourself, claim medical grade to give you illusion, completely misleading. When you complain they admit you cannot test blood oxygen, telling you to buy another oxygen meter & admit they have no blood pressure. ignorant customer support. shamelessly making billions on innocent",
+      "subcategory_tags": [
+        "ecg_bp_feature_reliability",
+        "support_resolution_quality"
+      ]
+    },
+    {
       "review_id": "f3164b47-7817-4058-904c-63e91e1b9879",
       "source": "google_play",
       "rating": 1,
@@ -9764,20 +9784,6 @@
       "subcategory_tags": [
         "missing_metrics",
         "ai_only_support_channel"
-      ]
-    },
-    {
-      "review_id": "14535272719",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-09-10T18:35:33-07:00",
-      "text": "This is my 2nd Whoop device and I’ve had nothing but issues from the start. I have the 4.0 and it constantly shows as off-body, no matter where I wear it. The firmware never updates successfully, no matter how hard I try. It never holds a charge. And all I’m ever offered when I talk to customer service is a free extra month or two. It’s gotten so bad that I’ve given up contacting them and now I just use the darn thing as an alarm clock. Useless and expensive for no good reason.",
-      "subcategory_tags": [
-        "data_sync_delays",
-        "update_failures",
-        "battery_life",
-        "support_resolution_quality",
-        "price_value_perception"
       ]
     }
   ],
@@ -10144,6 +10150,17 @@
   ],
   "support_resolution_quality": [
     {
+      "review_id": "8c5fa4be-0222-4d11-8e6a-c9b2ea4d990c",
+      "source": "google_play",
+      "rating": 1,
+      "date": "2026-11-26T11:18:13+00:00",
+      "text": "Misleading and false advertising. Have Class action law against them. 213 complaints on BBB 1 star rating. They promise blood pressure and oxygen meter all false. No blood pressure no ability to check blood oxygen by yourself, claim medical grade to give you illusion, completely misleading. When you complain they admit you cannot test blood oxygen, telling you to buy another oxygen meter & admit they have no blood pressure. ignorant customer support. shamelessly making billions on innocent",
+      "subcategory_tags": [
+        "ecg_bp_feature_reliability",
+        "support_resolution_quality"
+      ]
+    },
+    {
       "review_id": "14828376724",
       "source": "app_store",
       "rating": 1,
@@ -10494,18 +10511,6 @@
       "subcategory_tags": [
         "billing_disputes",
         "ai_only_support_channel",
-        "support_resolution_quality"
-      ]
-    },
-    {
-      "review_id": "14419311797",
-      "source": "app_store",
-      "rating": 1,
-      "date": "2026-08-12T09:33:40-07:00",
-      "text": "I’m a very active middle aged person who adopted Whoop to track my multitude of activities. I’ve encountered a major problem: Whoop doesn’t accurately measure where most of us live our lives: in HR zones 0-2. For a 5 mile walk in 85*F heat, whoop recorded 150 calories. Why? ‘I wasn’t working hard enough.’ The AI agent was condescending, passive aggressive and deflective. So, if you aren’t regularly pushing yourself often at HR zones 4-5, Whoop is basically useless for you.",
-      "subcategory_tags": [
-        "metric_accuracy",
-        "personalization_use_case_fit",
         "support_resolution_quality"
       ]
     }
@@ -12238,6 +12243,16 @@
   ],
   "ui_ux": [
     {
+      "review_id": "ef354246-3199-42d7-8cc3-f0530b2e5e47",
+      "source": "google_play",
+      "rating": 3,
+      "date": "2026-11-25T22:24:47+00:00",
+      "text": "Data is better than on other fitness trackers, but the user interface is messy.",
+      "subcategory_tags": [
+        "redesign_regression"
+      ]
+    },
+    {
       "review_id": "14809340998",
       "source": "app_store",
       "rating": 3,
@@ -12558,22 +12573,19 @@
         "plan_trial_structure",
         "notification_community_issues"
       ]
-    },
-    {
-      "review_id": "b8a345fa-adab-4442-b03e-0f88fe0f844f",
-      "source": "google_play",
-      "rating": 1,
-      "date": "2026-09-13T12:17:36+00:00",
-      "text": "ridiculously bad app. the ai will constantly hallucinate, it cannot actually build upon itself and it often reads the metrics you have in incorrectly giving false advice. it also constantly sends notifications with almost no ability to tweak them without fully shutting them off. pretty much a waste, should definitely go with garmin. wish i could get my $250 refunded, cause this program is pretty bad.",
-      "subcategory_tags": [
-        "ai_reliability_bugs",
-        "notification_community_issues",
-        "price_value_perception",
-        "billing_disputes"
-      ]
     }
   ],
   "redesign_regression": [
+    {
+      "review_id": "ef354246-3199-42d7-8cc3-f0530b2e5e47",
+      "source": "google_play",
+      "rating": 3,
+      "date": "2026-11-25T22:24:47+00:00",
+      "text": "Data is better than on other fitness trackers, but the user interface is messy.",
+      "subcategory_tags": [
+        "redesign_regression"
+      ]
+    },
     {
       "review_id": "5092024e-1ea5-4586-84ad-fbf039858271",
       "source": "google_play",
@@ -12903,16 +12915,6 @@
       "subcategory_tags": [
         "redesign_regression",
         "ai_reliability_bugs"
-      ]
-    },
-    {
-      "review_id": "127cc223-afc3-437d-8175-bcc008c714d6",
-      "source": "google_play",
-      "rating": 4,
-      "date": "2026-06-17T21:20:31",
-      "text": "Good, but room to improve. A cleaner more fresh look could help.",
-      "subcategory_tags": [
-        "redesign_regression"
       ]
     }
   ],
@@ -13928,6 +13930,17 @@
   ],
   "platform_parity": [
     {
+      "review_id": "90370378-7b0c-4e7c-b2f0-119ba4b79c64",
+      "source": "google_play",
+      "rating": 3,
+      "date": "2026-11-26T01:39:42+00:00",
+      "text": "great app but missing robust widgets. not as good as the widgets on the idevices. this is disappointing given the expensive annual subscription required to take advantage of the all the insights on my workouts at a glance. I hope the devs level this up for android phones.",
+      "subcategory_tags": [
+        "android_feature_gaps",
+        "price_value_perception"
+      ]
+    },
+    {
       "review_id": "14799169932",
       "source": "app_store",
       "rating": 1,
@@ -14252,21 +14265,20 @@
         "android_specific_bugs",
         "notification_community_issues"
       ]
-    },
-    {
-      "review_id": "46f26060-98e5-43a7-b0a1-b6b74ff92db2",
-      "source": "google_play",
-      "rating": 3,
-      "date": "2025-10-09T15:46:45",
-      "text": "When the app works it's great. but it's soooo buggy when trying to save workouts. Especially strength trainer ones. It either crashes everytime I try to save a workout or takes forever to save that I have to restart my phone every time for it to work correctly. Android app support most definitely needs to improve.",
-      "subcategory_tags": [
-        "crashes_freezes",
-        "feature_ui_friction",
-        "android_specific_bugs"
-      ]
     }
   ],
   "android_feature_gaps": [
+    {
+      "review_id": "90370378-7b0c-4e7c-b2f0-119ba4b79c64",
+      "source": "google_play",
+      "rating": 3,
+      "date": "2026-11-26T01:39:42+00:00",
+      "text": "great app but missing robust widgets. not as good as the widgets on the idevices. this is disappointing given the expensive annual subscription required to take advantage of the all the insights on my workouts at a glance. I hope the devs level this up for android phones.",
+      "subcategory_tags": [
+        "android_feature_gaps",
+        "price_value_perception"
+      ]
+    },
     {
       "review_id": "14799169932",
       "source": "app_store",
@@ -14579,16 +14591,6 @@
       "rating": 3,
       "date": "2022-11-13T08:46:05",
       "text": "Doesn't appear as Feature packed as the iPhone app Would be nice to have a widget to accompany the device and the app like The iPhone app I do find the data to be reliable and accurate view reflecting how I am feeling day to day.",
-      "subcategory_tags": [
-        "android_feature_gaps"
-      ]
-    },
-    {
-      "review_id": "451ab94e-0c77-4c70-ad30-284331496c1e",
-      "source": "google_play",
-      "rating": 5,
-      "date": "2022-10-31T13:30:51",
-      "text": "Please make a widget for android!!!! Great product and service. Would be awesome if you guys can make a widget showing strain for the day and all the other data such as showing heart rate and so forth.",
       "subcategory_tags": [
         "android_feature_gaps"
       ]
